@@ -1,0 +1,84 @@
+## Basic Configuration
+baseurl = "http://178.157.50.181/"
+languageCode = "en"
+
+title = "SEEDRS"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "UA-133187648-1"
+# enableRobotsTXT = true
+
+summarylength = 10
+
+#paginate = 5
+
+## Site Settings
+[params]
+UtterancesRepo= "arloor/blog"
+UtterancesIssueTerm = "pathname"
+UtterancesTheme="github-light"
+
+    #hasCJKLanguage = true
+    layoutReverse = false
+    author = "Author"
+    title = "Title"
+    # description = "..."
+    authorimage = "/img/head.jpeg"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "arloor"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+    toc="hugo"
+
+## Social Accounts
+[params.social]
+    github = "arloor"
+    #instagram = "<username>"
+    #xing = "<username>"
+    #linkedin = "<username>"
+    #twitter = "<username>"
+    #facebook = "<username>"
+    #stackoverflow = "<username>"
+    telegram = "arloor"
+    email = "admin@arloor.com"
+    # gravatar = "your-email@example.com"
+
+## Main Menu
+[[menu.main]]
+    name = "文章"
+    weight = 10
+    identifier = "文章"
+    url = "/posts/"
+[[menu.main]]
+    name = "分类"
+    weight = 100
+    identifier = "分类"
+    url = "/categories/"
+[[menu.main]]
+    name = "标签"
+    weight = 1000
+    identifier = "标签"
+    url = "/tags/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 1001
+    url = "/about/"
