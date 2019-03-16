@@ -75,7 +75,7 @@ We aim to help more people to start investing and to make more informed decision
 
 Our unique SmarterCare automated monitoring leverages our sophisticated investment analytics to keep an eye on each customer's individual portfolio, alerting if necessary and providing regular touch points with our customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15727/1bbntxvq7tf3492j26401grhzg20on4/4.png?rect=0%2C0%2C1142%2C786&w=600&fit=clip&s=f1f16fd69c83f731d66fc7872e182bf9)
+![](/img/seedrs/uploads/startup/section_image/image/15727/1bbntxvq7tf3492j26401grhzg20on4/4.png?rect=0%2C0%2C1142%2C786&w=600&fit=clip&s=f1f16fd69c83f731d66fc7872e182bf9)
 
 ### Characteristics of target market
 
@@ -85,7 +85,7 @@ An increasing number of employers have a financial wellbeing programme as they r
 
 Increasingly, we're seeing that employers are letting employees re-direct some of their pension contributions into ISAs to help save for more immediate requirements. We consider that this is especially attractive for millennials who will make up 50% of the UK workforce by 2020, as well as for higher earners who have reached their annual or lifetime pension allowance.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15726/itj0gnbig9gkx0av1b23teijfyw062g/5.png?rect=0%2C-4%2C938%2C724&w=600&fit=clip&s=627c6b9be351e50e943f2c6c8e024c3d)
+![](/img/seedrs/uploads/startup/section_image/image/15726/itj0gnbig9gkx0av1b23teijfyw062g/5.png?rect=0%2C-4%2C938%2C724&w=600&fit=clip&s=627c6b9be351e50e943f2c6c8e024c3d)
 
 ### Marketing strategy
 
@@ -97,7 +97,7 @@ Employers promote our platform to their employees as an employee benefit, with t
 
 As a team we have extensive experience in employee benefits. The co-founder, Phil Hollingdale and Head of Sales, Ben Hollingdale, executed a similar strategy at their previous business, Staffcare, a platform which manages workplace pensions and employee benefits. As a result they are well connected with the HR community and benefit consultants.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15728/jhtofnziuzdw28o9yk65dkwpsvi0pm4/2.png?rect=13%2C16%2C1434%2C967&w=600&fit=clip&s=b8376c464f9a736f9564fd6615065230)
+![](/img/seedrs/uploads/startup/section_image/image/15728/jhtofnziuzdw28o9yk65dkwpsvi0pm4/2.png?rect=13%2C16%2C1434%2C967&w=600&fit=clip&s=b8376c464f9a736f9564fd6615065230)
 
 ### Competition strategy
 

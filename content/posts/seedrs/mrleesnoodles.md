@@ -99,7 +99,7 @@ Please note that Damien, the founder and Co-CEO of Mr Lee's Noodles, was declare
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11893/nsjvg2rur8rqifjsg8bkindlr8fj4zs/twitter-974x512px-seedrs12.jpg?rect=0%2C0%2C1623%2C853&w=600&fit=clip&s=bc4dbb7a1df533673be2242ba8269b03)
+![](/img/seedrs/uploads/startup/section_image/image/11893/nsjvg2rur8rqifjsg8bkindlr8fj4zs/twitter-974x512px-seedrs12.jpg?rect=0%2C0%2C1623%2C853&w=600&fit=clip&s=bc4dbb7a1df533673be2242ba8269b03)
 
 Doesn't everyone like a good noodle?
 
@@ -125,7 +125,7 @@ In 2014, it was estimated that there were over 500,000+ vending machines in the 
 
 Leading catering groups have appreciated our approach to this and Mr Lee's has been taken on by Compass UK to pilot our kiosk in their higher education sector with the initial pilot proving successful and initial conversations for a wider rollout being discussed. Large catering, retail and vending groups provide a very efficient B2B market for our kiosks where just a few relationships have the potential to lead to placements of Mr Lee's kiosks in thousands of outlets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11892/oowg8katyvruxz27lhufxguwurjanu0/974x512_seedrs8.jpg?rect=0%2C0%2C4058%2C2133&w=600&fit=clip&s=8a91a557eaf6675cea54506fc0c0ba24)
+![](/img/seedrs/uploads/startup/section_image/image/11892/oowg8katyvruxz27lhufxguwurjanu0/974x512_seedrs8.jpg?rect=0%2C0%2C4058%2C2133&w=600&fit=clip&s=8a91a557eaf6675cea54506fc0c0ba24)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ We aim for our noodle kiosks to be sited through B2B partner arrangements in are
 
 Mr Lee's is a premium gourmet product in the noodle sector and is a stand alone convenient ready meal. Its quality is reflected in a 'reassuringly' higher but still high consumer value recommended retail price of £2.99, which is backed by a sample consumer survey. We believe that this is in the sweet spot for corporate purchasing by giving good value based margin results for distributors and retailers internationally.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11895/qctfyxbnthpy3xkcjhez20cyh8es10q/twitter_974x512px_seedrs7.jpg?rect=0%2C7%2C1623%2C853&w=600&fit=clip&s=3a61bf68d5f9333d8b5693a029bae63b)
+![](/img/seedrs/uploads/startup/section_image/image/11895/qctfyxbnthpy3xkcjhez20cyh8es10q/twitter_974x512px_seedrs7.jpg?rect=0%2C7%2C1623%2C853&w=600&fit=clip&s=3a61bf68d5f9333d8b5693a029bae63b)
 
 ### Competition strategy
 
@@ -149,5 +149,5 @@ The health aspect in Mr Lee’s Noodles is very prominent. The Sugarwise certifi
 
 It is expected that Mr Lees, while targeting traditional trade distribution where other premium instant noodle brands are also present, by nature of its USPs, will also prove attractive to the B2B sectors which we consider to be largely untapped. Further, our 24/7 noodle kiosks meet, what we consider to be, a currently unmet need for healthy hot vended meals in varying locations (particularly after hours and versus junk food vending choices). Judges from Compass group's The Idea Works pitch saw Mr Lee's products as right on trend and an enhancement to their own customer offer. Our intention is that the kiosks will later vend a range of superfood boosts and condiments to further personalise our noodle experience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11894/3tg11qeys12xt3y0eopfjx5xodh7ssy/974x512_seedrs2.jpg?rect=0%2C0%2C4058%2C2133&w=600&fit=clip&s=490d754ab66211482e1202fbd010cd4d)
+![](/img/seedrs/uploads/startup/section_image/image/11894/3tg11qeys12xt3y0eopfjx5xodh7ssy/974x512_seedrs2.jpg?rect=0%2C0%2C4058%2C2133&w=600&fit=clip&s=490d754ab66211482e1202fbd010cd4d)
 

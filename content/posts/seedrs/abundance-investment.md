@@ -69,7 +69,7 @@ The company has £51,000 outstanding loans to directors. The loans do not carry 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15915/shs12lsnlda0czzwvmvu9aymzzg2lh3/2017-ads.jpg?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=cacbc9d5c06073b49a1bec740bb4f015)
+![](/img/seedrs/uploads/startup/section_image/image/15915/shs12lsnlda0czzwvmvu9aymzzg2lh3/2017-ads.jpg?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=cacbc9d5c06073b49a1bec740bb4f015)
 
 ### Target market
 
@@ -79,7 +79,7 @@ TGI data, an industry standard, identifies 7 million altruistic or socially moti
 
 Amongst issuers, we work with a diverse range of organisations, from SMEs to AIM listed companies through to local councils. All of them go through our detailed due diligence process to ensure they meet the technical, financial and legal standards required so our investors can build diverse portfolios across a range of sectors, investment terms and risk levels.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15917/ewjm9ywottqus033jqnh3dzxotlw6gs/distgen-wind.jpg?rect=0%2C0%2C1276%2C708&w=600&fit=clip&s=523f3cb17586bea3e190bef11ced7c82)
+![](/img/seedrs/uploads/startup/section_image/image/15917/ewjm9ywottqus033jqnh3dzxotlw6gs/distgen-wind.jpg?rect=0%2C0%2C1276%2C708&w=600&fit=clip&s=523f3cb17586bea3e190bef11ced7c82)
 
 ### Characteristics of target market
 
@@ -89,7 +89,7 @@ Our regular Great British Money Survey consistently shows that around 70% of the
 
 Socially motivated investors typically have existing investment portfolios or ISA accounts and they are more likely to be financially confident and they are active in making decisions about their money. We believe this makes them a good target audience to drive our business growth.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15916/d883uyez4tr4ubwe0vhcgbeu9cl9bjg/consequences__1_.JPG?rect=0%2C0%2C5616%2C3744&w=600&fit=clip&s=b8a3a030764726feff9c11f50d7a0fe4)
+![](/img/seedrs/uploads/startup/section_image/image/15916/d883uyez4tr4ubwe0vhcgbeu9cl9bjg/consequences__1_.JPG?rect=0%2C0%2C5616%2C3744&w=600&fit=clip&s=b8a3a030764726feff9c11f50d7a0fe4)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ We use a range of online and offline marketing channels; balancing awareness and
 
 With each successful raise, potential issuers see the benefits of funding through the crowd, which helps pipeline, and when combined with an active presence in industry and government groups and at conferences, raises our profile in our target sectors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15923/49a6senqy97wsz9obvp0tx4xsgd6tsh/celtic-drone.jpg?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=9e80666dcc4c634f04a448713ca3ab42)
+![](/img/seedrs/uploads/startup/section_image/image/15923/49a6senqy97wsz9obvp0tx4xsgd6tsh/celtic-drone.jpg?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=9e80666dcc4c634f04a448713ca3ab42)
 
 ### Competition strategy
 
@@ -107,5 +107,5 @@ Abundance customers are typically active with their money, and use our platform 
 
 There are many mainstream providers of project finance – including banks, large infrastructure funds and other institutional investors – generally looking for projects in the tens and hundreds of millions. In due course, we may compete with them but the proposition of funding with the users of the infrastructure is something we believe none of them can provide.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15924/7peqeo1s0dx7qcfrcuy9x4ny8jez3vu/solar-school.jpg?rect=0%2C8%2C3263%2C2415&w=600&fit=clip&s=6213cf4ec63b230853cbf93aa6807b85)
+![](/img/seedrs/uploads/startup/section_image/image/15924/7peqeo1s0dx7qcfrcuy9x4ny8jez3vu/solar-school.jpg?rect=0%2C8%2C3263%2C2415&w=600&fit=clip&s=6213cf4ec63b230853cbf93aa6807b85)
 

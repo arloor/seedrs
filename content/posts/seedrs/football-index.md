@@ -79,7 +79,7 @@ Use of funds:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7566/dvfuz2om5yxtzeudqpu04wpjikvo51n/shot_2.png?rect=0%2C0%2C2170%2C1319&w=600&fit=clip&s=75fbaccc170fda11d9834ee50090b6dd)
+![](/img/seedrs/uploads/startup/section_image/image/7566/dvfuz2om5yxtzeudqpu04wpjikvo51n/shot_2.png?rect=0%2C0%2C2170%2C1319&w=600&fit=clip&s=75fbaccc170fda11d9834ee50090b6dd)
 
 ### Target market
 
@@ -91,7 +91,7 @@ Football betting is the largest sports book activity with a turnover of £17.7bi
 
 Global fan following of the Premier League is 1.46 billion – or 70 per cent of the world’s estimated 2.08 billion football fans.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7567/f1gqck5jldtuyqk7f7xxu5xl0ccjf3v/shot_3.jpg?rect=0%2C0%2C1240%2C747&w=600&fit=clip&s=77a7aabd255a420477380c14249a2242)
+![](/img/seedrs/uploads/startup/section_image/image/7567/f1gqck5jldtuyqk7f7xxu5xl0ccjf3v/shot_3.jpg?rect=0%2C0%2C1240%2C747&w=600&fit=clip&s=77a7aabd255a420477380c14249a2242)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ However the game is a tired format with an unglamorous image, that requires an u
 
 We have identified a gap that lies between these two well established and mature markets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7573/hj6fxyanzles6dv395x08uip71ajgu9/shot_4.PNG?rect=0%2C-4%2C495%2C450&w=600&fit=clip&s=88fda5558c3eb53c4a2e3481003b6719)
+![](/img/seedrs/uploads/startup/section_image/image/7573/hj6fxyanzles6dv395x08uip71ajgu9/shot_4.PNG?rect=0%2C-4%2C495%2C450&w=600&fit=clip&s=88fda5558c3eb53c4a2e3481003b6719)
 
 ### Marketing strategy
 

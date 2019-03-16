@@ -65,7 +65,7 @@ Proceeds will be applied to the acquisition costs of the weddingplanner.co.uk si
 
 The market is the wedding market which can be further subdivided into the "user" (couple) and the “supplier” (provider of wedding service). For the platform to be a success, it requires both markets to be equally involved with the website.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5498/9l2g7hz9t3deyeynv7aluwgc8bq87iq/Screenshot_2015-01-08_10.49.21.png?rect=0%2C0%2C990%2C353&w=600&fit=clip&s=ae932848a65fc936214b948c3eabe075)
+![](/img/seedrs/uploads/startup/section_image/image/5498/9l2g7hz9t3deyeynv7aluwgc8bq87iq/Screenshot_2015-01-08_10.49.21.png?rect=0%2C0%2C990%2C353&w=600&fit=clip&s=ae932848a65fc936214b948c3eabe075)
 
 ### Characteristics of target market
 

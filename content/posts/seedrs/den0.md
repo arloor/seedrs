@@ -115,7 +115,7 @@ January to June 2018 <br>- Aim to close £20m in Series A funding <br>- Complete
 
 2) Existing demand for connected/automated systems. <br>- This is already a proven market, which is growing rapidly - The global market is predicted to generate around $61b in revenue this year, which is expected to grow to around $460b by 2019, meaning there's a huge opportunity. 30% of people plan to buy a connect device.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11410/nziyg9f0jhn3q9prb4z1nsc22m1pzj7/market-graph.png?rect=0%2C0%2C800%2C311&w=600&fit=clip&s=39d4606d247e15d330c61c88dd2e49a0)
+![](/img/seedrs/uploads/startup/section_image/image/11410/nziyg9f0jhn3q9prb4z1nsc22m1pzj7/market-graph.png?rect=0%2C0%2C800%2C311&w=600&fit=clip&s=39d4606d247e15d330c61c88dd2e49a0)
 
 ### Marketing strategy
 
@@ -141,5 +141,5 @@ At Den, we're building products that we believe are far more intelligent that th
 
 Apart from retaining the rocker switch, our products offer a wide range of features that many of our competitors do not.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11411/g1q1ro7y8ata9rgnrd5ig9euc21pvlk/transforming-industry.png?rect=0%2C0%2C800%2C330&w=600&fit=clip&s=2b72784d2c5cc3bc75edaf20de15749c)
+![](/img/seedrs/uploads/startup/section_image/image/11411/g1q1ro7y8ata9rgnrd5ig9euc21pvlk/transforming-industry.png?rect=0%2C0%2C800%2C330&w=600&fit=clip&s=2b72784d2c5cc3bc75edaf20de15749c)
 

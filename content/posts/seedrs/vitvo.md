@@ -75,7 +75,7 @@ Vitvo's target market is property investors and people looking to borrow money s
 
 Bridge loan completions are estimated to be c.£5 billion annually. The market is split between regulated and unregulated loans with the latter estimated to constitute c.80% of the total market according to the FCA. Currently, Vitvo offers only unregulated loans, so covering the vast majority of the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12407/gftelpcsjqeq54qp00yg2hf10eoq41l/marketing_.jpg?rect=0%2C0%2C1000%2C561&w=600&fit=clip&s=f7f936af312cc6743f8ef7b36d5ce72d)
+![](/img/seedrs/uploads/startup/section_image/image/12407/gftelpcsjqeq54qp00yg2hf10eoq41l/marketing_.jpg?rect=0%2C0%2C1000%2C561&w=600&fit=clip&s=f7f936af312cc6743f8ef7b36d5ce72d)
 
 Loans on residential properties represent a significant percentage of the bridge loan market (the balance largely being loans on commercial and semi commercial properties). Further, we see two principal subsets of the market as loans for light refurbishment and loans for heavy refurbishment. To date, Vitvo’s offering has been unregulated, light refurbishment loans only.
 
@@ -95,7 +95,7 @@ Our experience suggests that borrowers look for a lender with a number of charac
 
 The interest rate charged is usually a function of the urgency of the borrower’s need for funds. Vitvo can complete a bridge loan in 4 days.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12406/971sw6dwkk1fwq5mx55018n6qogkdtk/characteristics_of_target_market.jpg?rect=0%2C-1%2C3871%2C2592&w=600&fit=clip&s=d2bf53f5a8e6d478082912fd22181f29)
+![](/img/seedrs/uploads/startup/section_image/image/12406/971sw6dwkk1fwq5mx55018n6qogkdtk/characteristics_of_target_market.jpg?rect=0%2C-1%2C3871%2C2592&w=600&fit=clip&s=d2bf53f5a8e6d478082912fd22181f29)
 
 We see our competitors as:
 
@@ -131,7 +131,7 @@ We see several lender types in the bridge loan sector. The main ones are:
 
 Vitvo's success will be determined by consistent growth in revenue along with early adoption of technology to lower lending risk and enhance productivity and speed of execution:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12405/mycfkwhol5k3q58vicnpozkas9ymdo0/competition.jpg?rect=0%2C-1%2C2300%2C1750&w=600&fit=clip&s=252e7443b49b72376a3cddf22dad5431)
+![](/img/seedrs/uploads/startup/section_image/image/12405/mycfkwhol5k3q58vicnpozkas9ymdo0/competition.jpg?rect=0%2C-1%2C2300%2C1750&w=600&fit=clip&s=252e7443b49b72376a3cddf22dad5431)
 
 1. Increasing Revenue
 

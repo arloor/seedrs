@@ -149,7 +149,7 @@ Industrial: <br>A) We target construction companies that do the work for Oil and
 
 Military: <br>As our partners supply the US military specifically, we will be focusing on this initially.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15631/gzutlx98yw4jj5zw33fiep0vpesrue5/Core_Photo.jpg?rect=0%2C0%2C799%2C509&w=600&fit=clip&s=3f08f20645884a99bfa72e69e359289b)
+![](/img/seedrs/uploads/startup/section_image/image/15631/gzutlx98yw4jj5zw33fiep0vpesrue5/Core_Photo.jpg?rect=0%2C0%2C799%2C509&w=600&fit=clip&s=3f08f20645884a99bfa72e69e359289b)
 
 ### Marketing strategy
 

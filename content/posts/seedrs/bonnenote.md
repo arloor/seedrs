@@ -59,7 +59,7 @@ As the website is now fully operational and the bulk of inception costs to build
 
 Bonnenote positions itself in the sphere of educational assistance and tutoring. The private education market is broken down into several sub-segments but is now mostly dominated by private tuition. In 2016 the private tuition market in France stood at an estimated 2.5 billion euros. However, this number does not account for independent tutors that operate without declaring their revenues. French is also an official language in 29 countries around the world. According to our estimations, there is a total of 5.5 million potential customers in the countries we target.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11015/k0lndar8mva4bp1u7nclqonsl2t6g4v/BN2.png?rect=0%2C0%2C606%2C428&w=600&fit=clip&s=2a0fc38bd67d154f8ac629a3fd65bc4e)
+![](/img/seedrs/uploads/startup/section_image/image/11015/k0lndar8mva4bp1u7nclqonsl2t6g4v/BN2.png?rect=0%2C0%2C606%2C428&w=600&fit=clip&s=2a0fc38bd67d154f8ac629a3fd65bc4e)
 
 ### Characteristics of target market
 
@@ -71,7 +71,7 @@ Parents who are not be able to help their children with their assignments (becau
 
 In order for our marketing strategy to have the maximum impact on our clients, we have identified two distinctive deployment channels. We will first allocate most of our marketing resources to Digital Marketing, while the remaining part will go to Direct marketing which will allow us to get face-to-face interactions with our potential clients. The long-term breakdown of our expected marketing expenses is shown below:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11016/b7kfo2f0906m10rgguqe3n0q4ftcmjg/BN3.png?rect=0%2C-2%2C605%2C317&w=600&fit=clip&s=95ec9a52dca3cd89c41c7da67e16e464)
+![](/img/seedrs/uploads/startup/section_image/image/11016/b7kfo2f0906m10rgguqe3n0q4ftcmjg/BN3.png?rect=0%2C-2%2C605%2C317&w=600&fit=clip&s=95ec9a52dca3cd89c41c7da67e16e464)
 
 ### Competition strategy
 

@@ -87,13 +87,13 @@ Our ideal Wrisk customer is in the 'connected generation' (Gen-C): someone who c
 
 They will buy into the company’s brand and values, and as the company grows they will take up new services offered, encouraging their friends and partners to do the same. Insurance will go from being a grudge purchase or luxury spend to being just a natural and obvious part of their personal finances.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13045/b3oq0mosot9kpwnbxbig3hwan3jds6y/Screen_Shot_2017-10-09_at_12.03.03.png?rect=0%2C0%2C859%2C478&w=600&fit=clip&s=2f9a47fa9789e5cb0d631d0405dc10cb)
+![](/img/seedrs/uploads/startup/section_image/image/13045/b3oq0mosot9kpwnbxbig3hwan3jds6y/Screen_Shot_2017-10-09_at_12.03.03.png?rect=0%2C0%2C859%2C478&w=600&fit=clip&s=2f9a47fa9789e5cb0d631d0405dc10cb)
 
 ### Characteristics of target market
 
 Wrisk underwent a market sizing exercise with KPMG in 2016, looking only at the UK premium for contents, our first product:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13046/7j8sv38b90ebnapzsqnk92yoj4cu84e/Market2.png?rect=0%2C0%2C601%2C601&w=600&fit=clip&s=c7d1efd61c9a03b1c1f3ec9a75c2731a)
+![](/img/seedrs/uploads/startup/section_image/image/13046/7j8sv38b90ebnapzsqnk92yoj4cu84e/Market2.png?rect=0%2C0%2C601%2C601&w=600&fit=clip&s=c7d1efd61c9a03b1c1f3ec9a75c2731a)
 
 If you overlay onto these figures the fact that 61% of private tenants in the UK currently don't buy contents insurance, then the figures above understate the potential market size for our contents product considerably.
 
@@ -103,7 +103,7 @@ We intend to create a new mass market of those currently uninsured in the privat
 
 Wrisk is a B2C company, built with a focus on customer experience to make it a compelling mass market challenger brand. However, our route to market is on a B2C and B2B2C basis. <br> <br>B2B2C: <br>We’re working with commercial partners who either already have a strong digital relationship with their customers, or who have strong brand loyalty which they want to develop into a strong digital relationship. A number of companies have shown their willingness to build working relationships with us and have signed LOIs - or even contracts. <br> <br>B2C: <br>We will track the effectiveness of campaigns beyond acquisition, through the funnel to underwriting, performance and claims. This means our acquisition channels can be used to pre-select ‘better’ risks.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13047/5fzp3e6hfxcc2wvsjdxkyz6enzpj0xz/Screen_Shot_2017-10-09_at_12.05.54.png?rect=0%2C0%2C858%2C680&w=600&fit=clip&s=c26b4cd1608522cf1dcf35ea51c4dd73)
+![](/img/seedrs/uploads/startup/section_image/image/13047/5fzp3e6hfxcc2wvsjdxkyz6enzpj0xz/Screen_Shot_2017-10-09_at_12.05.54.png?rect=0%2C0%2C858%2C680&w=600&fit=clip&s=c26b4cd1608522cf1dcf35ea51c4dd73)
 
 Wrisk’s holistic 'one plan' approach makes cross-sell and up-sell frictionless, enabling us to maximise LTV for acquired customers. Our balance and top-up feature allows us to offer incentives for loyalty and referral by way of vouchers and credits, encouraging viral growth.
 

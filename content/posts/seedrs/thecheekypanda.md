@@ -79,7 +79,7 @@ In a world where bio consumption outstrips bio mass capacity by 1.5, more people
 
 As the market trends towards luxury, sustainable low carbon products, we believe The Cheeky Panda can become the go to brand. As one of the first to market we are pioneering Bamboo Tissue and we intend to add new products to the range over the coming years, showing that we can continue to be innovative and engage with a loyal and growing marketplace.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12345/s1k5yvn3zjlwaxp2muv3asupcxa5jnb/Screen_Shot_2017-07-18_at_17.28.01.png?rect=0%2C0%2C950%2C424&w=600&fit=clip&s=cb3a005f1884a55d726f9080f557f379)
+![](/img/seedrs/uploads/startup/section_image/image/12345/s1k5yvn3zjlwaxp2muv3asupcxa5jnb/Screen_Shot_2017-07-18_at_17.28.01.png?rect=0%2C0%2C950%2C424&w=600&fit=clip&s=cb3a005f1884a55d726f9080f557f379)
 
 ### Marketing strategy
 
@@ -97,7 +97,7 @@ Most of what we have achieved has been through hard work, creative marketing, st
 
 We have attracted a lot of attention throughout Europe in particular Northern Europe and Scandinavia. We believe a natural extension of our marketing plan would be to take the UK success and then replicate it in Europe and North America.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12346/emckliguys4xt8b177i0y8dmk8dmpdm/Picture16.png?rect=1%2C0%2C939%2C1088&w=600&fit=clip&s=917b3375025107f4a6c1159262938cea)
+![](/img/seedrs/uploads/startup/section_image/image/12346/emckliguys4xt8b177i0y8dmk8dmpdm/Picture16.png?rect=1%2C0%2C939%2C1088&w=600&fit=clip&s=917b3375025107f4a6c1159262938cea)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ While we would welcome competition in the market as it would create better bambo
 
 The main players in the tissue market are Kimberley-Clarke ($18.5bn net sales in 2015) and Svenska Cellulosa Aktiebolaget (SEK117bn net sales in 2016). We can't compete with them nor are we looking to. We aim to grow a strong brand with loyal customers in a growing market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12347/dwfevorqqttpukfpt1dwn548zq5f0mv/Picture17.png?rect=0%2C0%2C940%2C767&w=600&fit=clip&s=3ec6a33ed1ca810b0be19ac576e6cac8)
+![](/img/seedrs/uploads/startup/section_image/image/12347/dwfevorqqttpukfpt1dwn548zq5f0mv/Picture17.png?rect=0%2C0%2C940%2C767&w=600&fit=clip&s=3ec6a33ed1ca810b0be19ac576e6cac8)
 

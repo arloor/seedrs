@@ -81,13 +81,13 @@ Our target market is small accountancy firms - smart people who use technology a
 
 There are more than 40,000 accountancy firms in the UK, mostly small practices of one to ten people.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14408/88eds0xezygs0dzlp7ngjx7w91ge3a2/Market_data_block.png?rect=0%2C0%2C497%2C280&w=600&fit=clip&s=6e2a748a425417f073dad5b06a6fdde5)
+![](/img/seedrs/uploads/startup/section_image/image/14408/88eds0xezygs0dzlp7ngjx7w91ge3a2/Market_data_block.png?rect=0%2C0%2C497%2C280&w=600&fit=clip&s=6e2a748a425417f073dad5b06a6fdde5)
 
 But we don't have to stop there. We’ve internationalised the platform and intend to expand into markets around the world.
 
 In Europe, for example, there are more than 600,000 accountancy firms - a huge market close to home. We would also seek to enter other English-speaking markets, such as the US, Canada, Australia and New Zealand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14409/prx5kvemlrvpt11zfdd6v1qvn14hanu/Market_sizes.png?rect=0%2C0%2C497%2C167&w=600&fit=clip&s=a6383f705e36ada27d44eaa018cd80b2)
+![](/img/seedrs/uploads/startup/section_image/image/14409/prx5kvemlrvpt11zfdd6v1qvn14hanu/Market_sizes.png?rect=0%2C0%2C497%2C167&w=600&fit=clip&s=a6383f705e36ada27d44eaa018cd80b2)
 
 Senta is ready for other verticals too. We can take out the accounting configuration and drop in new workflows, services, tasks and so on for different types of professional practice. We've already had interest from legal practitioners who've seen the product.
 
@@ -97,7 +97,7 @@ For the moment though, we're concentrating on our core market: small accountancy
 
 We believe that small practices want help with three aspects of their business: practice efficiency, marketing and improved technology.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14410/dxvq5ad3r2da89w20doziic9za04sn3/Efficiency__marketing__technology.png?rect=0%2C-1%2C497%2C161&w=600&fit=clip&s=3cbcaac3018c8ac42ca15a3264768eaa)
+![](/img/seedrs/uploads/startup/section_image/image/14410/dxvq5ad3r2da89w20doziic9za04sn3/Efficiency__marketing__technology.png?rect=0%2C-1%2C497%2C161&w=600&fit=clip&s=3cbcaac3018c8ac42ca15a3264768eaa)
 
 With firms moving to a fixed-price model, we have found practice efficiency is a hot topic in the profession. Our platform could make a significant difference to practices' efficiencies and costs, yet still improve their customer service.
 
@@ -107,7 +107,7 @@ One of the major topics in the accounting market is cloud computing. We have fou
 
 We believe a cloud-based practice management platform, like Senta, should be at the heart of the modern practice.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14411/21280j5bw6ouy9q7uqwagvja37s0cd2/Modern_practice.png?rect=0%2C0%2C497%2C331&w=600&fit=clip&s=e3d3c1c81004cb04c7c896a8593c26ba)
+![](/img/seedrs/uploads/startup/section_image/image/14411/21280j5bw6ouy9q7uqwagvja37s0cd2/Modern_practice.png?rect=0%2C0%2C497%2C331&w=600&fit=clip&s=e3d3c1c81004cb04c7c896a8593c26ba)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ Referral programmes and partnerships <br>• Advisers and consultants who may pr
 
 Direct marketing online and offline.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14412/74zloe3ou1siazbkm47p4c3ttr0u0vg/Marketing.png?rect=0%2C0%2C497%2C257&w=600&fit=clip&s=014e312755186a9570d432d055581d7b)
+![](/img/seedrs/uploads/startup/section_image/image/14412/74zloe3ou1siazbkm47p4c3ttr0u0vg/Marketing.png?rect=0%2C0%2C497%2C257&w=600&fit=clip&s=014e312755186a9570d432d055581d7b)
 
 ### Competition strategy
 

@@ -101,7 +101,7 @@ In a recent survey by Homelet 87% of landlords surveyed were using traditional a
 
 In addition, property tax changes came into effect in April 2017, hitting the profits of landlords. These changes phase out mortgage interest as a tax deductible expense when calculating rental profits, increasing tax bills &amp; even resulting in losses in their property businesses. <br>As they look for ways to cut costs while retaining quality, we believe No Agent is an attractive proposition for the savvy landlord, giving us a further catalyst for growth.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13869/rdfezzeswu234c870pcv9dfj6in60qt/slide.jpg?rect=0%2C0%2C1920%2C896&w=600&fit=clip&s=eddebacd602b021b87ed8ecad1b6db11)
+![](/img/seedrs/uploads/startup/section_image/image/13869/rdfezzeswu234c870pcv9dfj6in60qt/slide.jpg?rect=0%2C0%2C1920%2C896&w=600&fit=clip&s=eddebacd602b021b87ed8ecad1b6db11)
 
 ### Characteristics of target market
 
@@ -117,7 +117,7 @@ Our marketing strategy aims to increase our reach as an England-wide service, wi
 
 - Online: with a strong focus on PPC campaigns, tailored to the various landlord types. <br>- Events &amp; Exhibitions: Property Investment Networks up and down the country. <br>-Regional property shows, exhibitions, sponsorships and speaking engagements. <br>- Partnerships &amp; affiliate marketing. <br>- SEO, social marketing &amp; brand penetration. <br>- PR &amp; the national media. We have been featured in Forbes, The Guardian &amp; The Mirror. <br>- Education marketing: using webinars &amp; social media to create a marketplace of savvy landlords who want to save time, money &amp; reduce risk. <br>-Recent webinars featured the top 5 accounting firm, Grant Thornton LLP, advising on recent landlord tax changes &amp; also the Founder of Landlord Action, Paul Shampolina - who is also the presenter of Channel 5’s Slum Landlords, Nightmare Tenants - on how to deal with problem tenants.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13867/bgs1iehq7f7xg6ho8ben8dwplq8js2m/Artboard1.jpg?rect=0%2C0%2C1200%2C600&w=600&fit=clip&s=4f89c8691d6e97bd164d74c447088280)
+![](/img/seedrs/uploads/startup/section_image/image/13867/bgs1iehq7f7xg6ho8ben8dwplq8js2m/Artboard1.jpg?rect=0%2C0%2C1200%2C600&w=600&fit=clip&s=4f89c8691d6e97bd164d74c447088280)
 
 ### Competition strategy
 
@@ -125,5 +125,5 @@ Purple Bricks have done a great job of disrupting the residential sales market w
 
 Much like how Uber and AirBnB have transformed the taxi and holiday let industry, it is time the lettings industry experienced some real disruption. Our technological superior platform, great service &amp; lower cost model places us in what we believe to be in a winning market position.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13868/cdqzj7dorixjyd1gfgfyy3hbum718qu/dashboard2__1_.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=3ebd0f7766cb541429c77155bfd93a98)
+![](/img/seedrs/uploads/startup/section_image/image/13868/cdqzj7dorixjyd1gfgfyy3hbum718qu/dashboard2__1_.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=3ebd0f7766cb541429c77155bfd93a98)
 

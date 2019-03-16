@@ -83,7 +83,7 @@ A full business plan is available on request.
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4571/1tih0ok36y41k8db2dvz9aif1zp45m4/investor_perks_revised.png?rect=0%2C0%2C1500%2C381&w=600&fit=clip&s=c1e8c6d37a49b8e79da4d3dd12b51982)
+![](/img/seedrs/uploads/startup/section_image/image/4571/1tih0ok36y41k8db2dvz9aif1zp45m4/investor_perks_revised.png?rect=0%2C0%2C1500%2C381&w=600&fit=clip&s=c1e8c6d37a49b8e79da4d3dd12b51982)
 
 At Tossed, we are proud to serve our food and beverage offer at a consistently high level across our expanding store portfolio. We see that different locations result in varied demographics enjoying our healthy food offering, which is exciting.
 
@@ -93,13 +93,13 @@ We are popular with families looking for a healthier alternative when travelling
 
 We are opening in Dubai, where we believe that the combination of warmer weather, air-conditioned shopping malls and an increasingly health conscious population of locals and ex-pats make for a growing healthy eating market. We have secured the trademark for several other territories across the EU and Hong Kong.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4486/d0k4jid4xh38sfpdly1ynwtnofkfedf/Target_Market.jpg?rect=0%2C0%2C1500%2C813&w=600&fit=clip&s=71a33b0e640e585442eae1198e143b8e)
+![](/img/seedrs/uploads/startup/section_image/image/4486/d0k4jid4xh38sfpdly1ynwtnofkfedf/Target_Market.jpg?rect=0%2C0%2C1500%2C813&w=600&fit=clip&s=71a33b0e640e585442eae1198e143b8e)
 
 ### Characteristics of target market
 
 92% of adults eat out for lunch, and the eating out spend in the UK is on the rise, particularly the takeaway sector. Consumer demand is trending towards healthy, fresh and convenience. We believe there is a place for a healthy food operator among the big players in the food industry, and that Tossed should be that challenger brand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4409/kq2is4emswe4on1qipnurzca6jcryuo/Characteristics_of_Target_Market.png?rect=0%2C0%2C1500%2C813&w=600&fit=clip&s=4c1b6dc70448233ba12267dbce315edb)
+![](/img/seedrs/uploads/startup/section_image/image/4409/kq2is4emswe4on1qipnurzca6jcryuo/Characteristics_of_Target_Market.png?rect=0%2C0%2C1500%2C813&w=600&fit=clip&s=4c1b6dc70448233ba12267dbce315edb)
 
 ### Marketing strategy
 
@@ -107,7 +107,7 @@ The average London worker does not expect to travel very far to get their lunch.
 
 Furthermore, our franchise partners give us excellent access to a wider target market and brand-promotion opportunities. Being open in four motorway service stations (plus two more coming very soon) where we stand up against the likes of KFC, Subway and Burger King shows we can already compete alongside brands with far more firepower than ourselves. We feel this will stand us in good stead as we plan to move into train stations and airports, which will in turn generate further brand awareness and goodwill as we seek to stand out from the competition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4401/ae6tdafn527fvp0ibvgl0zflcvt6dj7/Marketing_strategy.jpg?rect=0%2C0%2C1500%2C813&w=600&fit=clip&s=58d063467122bdfbcf2f8b4b5deeb2bb)
+![](/img/seedrs/uploads/startup/section_image/image/4401/ae6tdafn527fvp0ibvgl0zflcvt6dj7/Marketing_strategy.jpg?rect=0%2C0%2C1500%2C813&w=600&fit=clip&s=58d063467122bdfbcf2f8b4b5deeb2bb)
 
 ### Competition strategy
 
@@ -121,5 +121,5 @@ A full business plan is available on request.
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4410/7331bpw3ph0maxbt2q659atx8kvc1sn/Competition_strategy.jpg?rect=0%2C0%2C1500%2C809&w=600&fit=clip&s=9285e0c3d6a2c6b103d2a0f12a7e2e4f)
+![](/img/seedrs/uploads/startup/section_image/image/4410/7331bpw3ph0maxbt2q659atx8kvc1sn/Competition_strategy.jpg?rect=0%2C0%2C1500%2C809&w=600&fit=clip&s=9285e0c3d6a2c6b103d2a0f12a7e2e4f)
 

@@ -89,7 +89,7 @@ As of Jan-2018, the company has a balance of £8,162 outstanding on a bank loan 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13652/hi5a22n21yw1i1qn9ciosdr11nj8sn4/grain.jpg?rect=0%2C0%2C600%2C332&w=600&fit=clip&s=66aee76b308a569d233bfc13bf6bf698)
+![](/img/seedrs/uploads/startup/section_image/image/13652/hi5a22n21yw1i1qn9ciosdr11nj8sn4/grain.jpg?rect=0%2C0%2C600%2C332&w=600&fit=clip&s=66aee76b308a569d233bfc13bf6bf698)
 
 ### Target market
 
@@ -105,7 +105,7 @@ Agricultural commodities such as grains and meat are amongst the most traded mar
 
 There is a common perception that farmers are slow to embrace change. While this may have some historical truth, the reality today is that farming is becoming increasingly competitive and cost-conscious as end-purchasers (predominantly supermarkets) drive down prices to consumers. We believe proposed changes to UK agricultural support from Government post Brexit, are likely to further this trend.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13653/fwf5jckq8eob9jrnhkgvkwg4gttll62/cow.jpg?rect=0%2C0%2C600%2C332&w=600&fit=clip&s=06c21c009f21f8bd59b2723b721992ba)
+![](/img/seedrs/uploads/startup/section_image/image/13653/fwf5jckq8eob9jrnhkgvkwg4gttll62/cow.jpg?rect=0%2C0%2C600%2C332&w=600&fit=clip&s=06c21c009f21f8bd59b2723b721992ba)
 
 ### Marketing strategy
 

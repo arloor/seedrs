@@ -95,7 +95,7 @@ Dissatisfaction levels are rising with this traditional model with over 8,474 co
 
 Add to this the upcoming change in tax on mortgage interest and we believe landlords are looking for lower cost management options in order to maximise their profits.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10603/connpm4hqjc7wsrl37z9ek5ho4lbxhp/landscape.png?rect=0%2C0%2C600%2C336&w=600&fit=clip&s=b07c9ebd5e0cba194515678e056e1ffc)
+![](/img/seedrs/uploads/startup/section_image/image/10603/connpm4hqjc7wsrl37z9ek5ho4lbxhp/landscape.png?rect=0%2C0%2C600%2C336&w=600&fit=clip&s=b07c9ebd5e0cba194515678e056e1ffc)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ The private rental market in the UK is a significant growth market. A recent PwC
 
 There are currently 8.3million rental properties in the UK, of which our serviceable addressable market is the private rental market which accounts for just over 50% of this at 4.2million properties.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10605/557q9mb7uzbzwd0olzdto2navqocjee/shoreditch.png?rect=0%2C0%2C600%2C336&w=600&fit=clip&s=300794d4c5b681eeab773a727a66ea4a)
+![](/img/seedrs/uploads/startup/section_image/image/10605/557q9mb7uzbzwd0olzdto2navqocjee/shoreditch.png?rect=0%2C0%2C600%2C336&w=600&fit=clip&s=300794d4c5b681eeab773a727a66ea4a)
 
 ### Marketing strategy
 
@@ -115,7 +115,7 @@ Education marketing: use social media, PR and traditional media to create a mark
 
 Growth hacking: we have teamed up with a very smart group of marketers to explore how we can drive down the cost per acquisition of users. This so far has resulted in great numbers and we will be scaling into these channels.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10604/1yjyk1ardlkofh5rvurzictmte8wat9/services.png?rect=0%2C0%2C600%2C200&w=600&fit=clip&s=83577f2e17a486fcec5f0467d64390ce)
+![](/img/seedrs/uploads/startup/section_image/image/10604/1yjyk1ardlkofh5rvurzictmte8wat9/services.png?rect=0%2C0%2C600%2C200&w=600&fit=clip&s=83577f2e17a486fcec5f0467d64390ce)
 
 ### Competition strategy
 
@@ -123,5 +123,5 @@ Recent entrants to the market such as Purple Bricks and Rentify are offering a p
 
 We believe that our superior technology end to end self serve platform, combined with the high level of service provided by our property managers and lower cost model places us in a winning position in the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10606/k78ocontctr87ihs49bsei1bjs80tq4/team.png?rect=0%2C0%2C600%2C346&w=600&fit=clip&s=fdee60ae6381475d8489081c3637ac01)
+![](/img/seedrs/uploads/startup/section_image/image/10606/k78ocontctr87ihs49bsei1bjs80tq4/team.png?rect=0%2C0%2C600%2C346&w=600&fit=clip&s=fdee60ae6381475d8489081c3637ac01)
 

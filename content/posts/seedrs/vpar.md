@@ -81,7 +81,7 @@ Please note that the company currently has £774k in director debt with £500k o
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11087/1mtjke8dc9u3c9jetopvi5cms7ivh34/vpar_seedrs_cover_740x416px__1_.jpg?rect=0%2C0%2C740%2C415&w=600&fit=clip&s=a63e3500062e41951d9ffa8ee25f1354)
+![](/img/seedrs/uploads/startup/section_image/image/11087/1mtjke8dc9u3c9jetopvi5cms7ivh34/vpar_seedrs_cover_740x416px__1_.jpg?rect=0%2C0%2C740%2C415&w=600&fit=clip&s=a63e3500062e41951d9ffa8ee25f1354)
 
 ### Target market
 
@@ -95,7 +95,7 @@ These new golf fans play video games, are used to technology being central in ev
 
 "Youth playing the game has increased by 20% from 2.5 million in 2010 to 3 million in 2015. An estimated 6.3 million millennials play and they are playing often, an average of nearly 15 rounds per year." - Tim Finchem, PGA Tour Commissioner, quoted in Forbes 2016 about the US.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11078/9zzujqk0yiswunmoiab2oonezgfxz12/vpar_seedrs_body_images_6.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=792ab599ba0a9a4bb6f02ca871465db1)
+![](/img/seedrs/uploads/startup/section_image/image/11078/9zzujqk0yiswunmoiab2oonezgfxz12/vpar_seedrs_body_images_6.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=792ab599ba0a9a4bb6f02ca871465db1)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ When you look at each product and the potential market scale, there are hundreds
 
 Golf attracts a highly affluent demographic. VPAR’s technology directly falls into a major consumer spend bucket in the industry with around $5.6 billion a year (just in the US) being spent on golf equipment, clothing and accessories - which the app sits in.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11077/pqi9hnfmbhj6niu5k9998rji177zzwc/vpar_seedrs_body_images_4.jpg?rect=32%2C16%2C518%2C368&w=600&fit=clip&s=936eace5fa5a2ff7ba42c2ae11eda867)
+![](/img/seedrs/uploads/startup/section_image/image/11077/pqi9hnfmbhj6niu5k9998rji177zzwc/vpar_seedrs_body_images_4.jpg?rect=32%2C16%2C518%2C368&w=600&fit=clip&s=936eace5fa5a2ff7ba42c2ae11eda867)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ The App. <br>We will continue the growth of our app community via a mixture of o
 
 The Clubs and Events <br>The expansion of our club and event business is a simple equation which has been successful thus far - ‘events breed events’. With more sales staff in more territories we will continue to tap into the hundreds of thousands of golf events which occur yearly and those 30,000+ golf courses. <br>Supported by offline marketing efforts, we will invest in industry partnerships to give us an audience with multiple PGA pros and golf course operators. This will be backed up by roadshows, showcase events and tradeshows such as the PGA Show in Orlando. The key is to educate and get our products into the decision maker's hands so they can see VPAR used in a live environment.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11079/iz40woztbchdbf4d0u2mehhck7c9tbb/vpar_seedrs_body_images_11.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=aa71ea98b7296c4cf0a5a5da2a69546b)
+![](/img/seedrs/uploads/startup/section_image/image/11079/iz40woztbchdbf4d0u2mehhck7c9tbb/vpar_seedrs_body_images_11.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=aa71ea98b7296c4cf0a5a5da2a69546b)
 
 ### Competition strategy
 

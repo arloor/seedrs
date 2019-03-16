@@ -57,7 +57,7 @@ Teneno has a lean cost structure. We have developed our own development center i
 
 Teneno is ideal for Small and Medium Businesses (SMBs) between 10 and 250 employees. <br> <br>The changing economy is driving SMBs to implement flexible working practices and enables ad hoc working spaces and global collaboration. This will require a flexible working infrastructure that must be delivered in a secure way in order to safeguard commercially sensitive data. However, they simply cannot afford the high costs associated with deploying and managing a traditional secure global network; and, faced with myriad of options and no trained IT staff to evaluate them, they struggle to know what to do and how to do it. <br> <br>By providing a secure network and the core functionality of an advanced Device Management solution in an all-in-one, affordable, easy-to-use package, Teneno will enable SMBs to provide their employees with the infrastructure previously only enjoyed by large enterprises.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9850/6tpsphxtw7ydt5asg6xpalzgzhunkvc/Target_market.png?rect=0%2C0%2C1500%2C847&w=600&fit=clip&s=75ee16c43656ed5e8e284c5c8f599170)
+![](/img/seedrs/uploads/startup/section_image/image/9850/6tpsphxtw7ydt5asg6xpalzgzhunkvc/Target_market.png?rect=0%2C0%2C1500%2C847&w=600&fit=clip&s=75ee16c43656ed5e8e284c5c8f599170)
 
 ### Characteristics of target market
 
@@ -73,7 +73,7 @@ Targeted customers characteristics:
 
 Teneno was designed to address these issues and the data above demonstrates that the characteristics of our solution are tightly aligned with the IT priorities of SMBs.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9849/ade0u6abqazmny5dlm0cmkmhpa6p8g5/Characteristics_of_target_market.png?rect=0%2C0%2C1500%2C846&w=600&fit=clip&s=72271b17623f697a09c8fed713c9da1e)
+![](/img/seedrs/uploads/startup/section_image/image/9849/ade0u6abqazmny5dlm0cmkmhpa6p8g5/Characteristics_of_target_market.png?rect=0%2C0%2C1500%2C846&w=600&fit=clip&s=72271b17623f697a09c8fed713c9da1e)
 
 ### Marketing strategy
 

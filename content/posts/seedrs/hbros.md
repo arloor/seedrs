@@ -87,7 +87,7 @@ For our restaurants, we have observed that our target market is urban profession
 
 For our corporate popups and corporate deliveries our target market is large companies based in central London predominantly in technology and financial services.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11273/cj8ozwn14vwys3nur7j5scxjixuy0i7/HB3.jpg?rect=0%2C616%2C2085%2C2266&w=600&fit=clip&s=38df5ab4bd2bf04109cc4c64c25a0bb8)
+![](/img/seedrs/uploads/startup/section_image/image/11273/cj8ozwn14vwys3nur7j5scxjixuy0i7/HB3.jpg?rect=0%2C616%2C2085%2C2266&w=600&fit=clip&s=38df5ab4bd2bf04109cc4c64c25a0bb8)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ The eating out market in the UK has been valued in excess of £82.5bn and growin
 
 Finally another trend has been emerging: flexegetarianism which refers to people looking to reduce the amount of meat they consume.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11274/qlnuvgafgydf12hr5ahhco9kveh1j1v/HB5.jpg?rect=0%2C501%2C2085%2C2078&w=600&fit=clip&s=b4ec61c5bb46a14439754511b1f6262d)
+![](/img/seedrs/uploads/startup/section_image/image/11274/qlnuvgafgydf12hr5ahhco9kveh1j1v/HB5.jpg?rect=0%2C501%2C2085%2C2078&w=600&fit=clip&s=b4ec61c5bb46a14439754511b1f6262d)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ We currently have three channels to bring our products to market: <br>1. High st
 
 We are looking to develop all three as well as explore other channels such as supermarket retail products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11275/jvwxwurao3r993dlc9e78kp4bnu5mxa/HB9_copy_2.jpg?rect=0%2C0%2C5100%2C3456&w=600&fit=clip&s=3ab4093dc89226a2d35a7762c29d07b7)
+![](/img/seedrs/uploads/startup/section_image/image/11275/jvwxwurao3r993dlc9e78kp4bnu5mxa/HB9_copy_2.jpg?rect=0%2C0%2C5100%2C3456&w=600&fit=clip&s=3ab4093dc89226a2d35a7762c29d07b7)
 
 ### Competition strategy
 

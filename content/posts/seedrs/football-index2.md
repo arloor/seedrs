@@ -103,7 +103,7 @@ The Product also fills a vacant space between two massive markets with huge foll
 
 For many 'Trading' is seen as a smart and aspirational alternative to 'just betting'.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12042/agrudpq8i1d67gg1bpkryk0a3jc8aw9/shot_2__1_.png?rect=0%2C0%2C2170%2C1312&w=600&fit=clip&s=bccebf6f7c39e7c91737a6010948281d)
+![](/img/seedrs/uploads/startup/section_image/image/12042/agrudpq8i1d67gg1bpkryk0a3jc8aw9/shot_2__1_.png?rect=0%2C0%2C2170%2C1312&w=600&fit=clip&s=bccebf6f7c39e7c91737a6010948281d)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ To many the idea of trading financial markets is attractive and aspirational, bu
 
 We are providing this group the opportunity to 'invest' their knowledge and passion in a market that they do understand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12043/7k4xj70u9i9laqabqaijk4q92n51p0p/shot_3.jpg?rect=0%2C0%2C1240%2C747&w=600&fit=clip&s=875820dbb48b9754e25e336119579b1b)
+![](/img/seedrs/uploads/startup/section_image/image/12043/7k4xj70u9i9laqabqaijk4q92n51p0p/shot_3.jpg?rect=0%2C0%2C1240%2C747&w=600&fit=clip&s=875820dbb48b9754e25e336119579b1b)
 
 ### Marketing strategy
 

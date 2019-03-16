@@ -113,7 +113,7 @@ Active go-getters who are looking for a slow release energy boost and a tasty so
 
 Home cooks, bakers and restaurants who want to experiment with tasty, textural ingredients - Perhaps the unexplored segment of our target market we will target this sector through relationships with ingredient box companies, chefs and restaurants.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11603/1nvmnmc531axkcmi661w7i6v730s6tb/pic_3a.JPG?rect=0%2C0%2C2448%2C2448&w=600&fit=clip&s=d62a9ccceb909b6b593a4952fb801bf1)
+![](/img/seedrs/uploads/startup/section_image/image/11603/1nvmnmc531axkcmi661w7i6v730s6tb/pic_3a.JPG?rect=0%2C0%2C2448%2C2448&w=600&fit=clip&s=d62a9ccceb909b6b593a4952fb801bf1)
 
 ### Characteristics of target market
 
@@ -127,7 +127,7 @@ Key drivers: <br>- Rebranding of peanut butter as a health food. <br>- War on su
 
 The superior quality of our product means that, on tasting, we are creating peanut butter lovers from those who had previously hated the stuff. Our plan is to continue to grow the peanut butter category and expand its use.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11604/oxtt0g8m7xcs8wd6s84zxe1xhumctks/pic_4.jpg?rect=0%2C0%2C1471%2C1080&w=600&fit=clip&s=49a41fee2988405a46093c767a3cf65d)
+![](/img/seedrs/uploads/startup/section_image/image/11604/oxtt0g8m7xcs8wd6s84zxe1xhumctks/pic_4.jpg?rect=0%2C0%2C1471%2C1080&w=600&fit=clip&s=49a41fee2988405a46093c767a3cf65d)
 
 ### Marketing strategy
 

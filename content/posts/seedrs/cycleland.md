@@ -61,7 +61,7 @@ EXPANSION: Using support from Oxford University Innovation, Cycle.land launched 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9876/b4nheig87sjjj0uxpr5cyygcjv51yts/ASM_Cycle.land_2.jpg?rect=0%2C0%2C7142%2C4767&w=600&fit=clip&s=53c29895678255d2ac6282e296ffa595)
+![](/img/seedrs/uploads/startup/section_image/image/9876/b4nheig87sjjj0uxpr5cyygcjv51yts/ASM_Cycle.land_2.jpg?rect=0%2C0%2C7142%2C4767&w=600&fit=clip&s=53c29895678255d2ac6282e296ffa595)
 
 ### Target market
 
@@ -71,7 +71,7 @@ Our research shows that students and young professionals are frustrated with cur
 
 Tourists and visitors are another group of users who benefit from Cycle.land. Tourists using public bike sharing bikes in London, Paris and New York show that there is a huge demand for easily available and affordable bikes. Members of Cycle.land can have access to affordable bikes wherever they need and for as long as they need: a day, a week, a month or 3 months without having to bring their bikes or buy new bikes. Cycle.land makes it easy for them to keep cycling. Anyone who has friends and family visiting and wants to keep going on bikes can easily expand their bike fleet for the visit with bikes on Cycle.land. The reasons why people need bikes are countless - Cycle.land is the easy solution that connects people with the bikes they need!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9873/tspptywfq6uhtn1sm4gtj2e2ruacqtr/Cycle_Land_Main.00_03_45_20.Still006.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=5469ae5f6603efd61ad3e1370746ea3c)
+![](/img/seedrs/uploads/startup/section_image/image/9873/tspptywfq6uhtn1sm4gtj2e2ruacqtr/Cycle_Land_Main.00_03_45_20.Still006.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=5469ae5f6603efd61ad3e1370746ea3c)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ PwC has calculated that on a global basis the Sharing Economy is currently worth
 
 We believe that the market timing is perfect for Cycle.land as cities invest in cycling infrastructure, people are looking to have more active lifestyles and cut down their carbon emissions as well as save money.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9875/n8ru55h9ae7zza8sandic9d8ynpnsfe/Noke_lock_picture.jpg?rect=0%2C-1%2C3227%2C1293&w=600&fit=clip&s=ca8adab59d2cd0d386ac2e37ef5510a6)
+![](/img/seedrs/uploads/startup/section_image/image/9875/n8ru55h9ae7zza8sandic9d8ynpnsfe/Noke_lock_picture.jpg?rect=0%2C-1%2C3227%2C1293&w=600&fit=clip&s=ca8adab59d2cd0d386ac2e37ef5510a6)
 
 ### Marketing strategy
 
@@ -91,7 +91,7 @@ Cycle.land has established the first successful market in Oxford. By focusing on
 
 Already, we have developed a strategy to expand to the next 5 markets: Cambridge, Bristol, Brighton, Edinburgh and East London. These places, similar to Oxford, have a high percentage of cyclists, tourists, students, and cycling infrastructure. Additionally, we believe that, having done initial market research, by leveraging our current partnerships and by contacting local partners each of these places the Cycle.land community will be successfully launched. <br>Besides institutional partnerships, we recruit and retain our community members using traditional and online media. In Oxford, we successfully recruited residents using local media, students using university media, and activists using social media, events, and word-of-mouth recommendations. We aim to optimize our marketing strategy to include influencers and live events.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9874/6rewpn03a1pjvmu7qohmf10k2bngqmw/Cycle_Land_Main.00_03_46_16.Still004.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=5134a14e2a4cf491235049288e2d01a3)
+![](/img/seedrs/uploads/startup/section_image/image/9874/6rewpn03a1pjvmu7qohmf10k2bngqmw/Cycle_Land_Main.00_03_46_16.Still004.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=5134a14e2a4cf491235049288e2d01a3)
 
 ### Competition strategy
 

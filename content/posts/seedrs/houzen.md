@@ -71,7 +71,7 @@ Our model is easily scalable at low marginal costs across major cities in the UK
 
 To put the growth opportunity that Houzen has ahead of it in context: Homelight, a US startup whose value proposition is to use transaction data to pair agents with consumers, has recently completed a 40 million USD Series B funding round.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13085/1k0l49y2wuv0zf33jh06s1zckrmsru2/Image_7__1__copy.jpg?rect=29%2C239%2C1659%2C845&w=600&fit=clip&s=ec0aeaefe566a968f2cb0278008dc40b)
+![](/img/seedrs/uploads/startup/section_image/image/13085/1k0l49y2wuv0zf33jh06s1zckrmsru2/Image_7__1__copy.jpg?rect=29%2C239%2C1659%2C845&w=600&fit=clip&s=ec0aeaefe566a968f2cb0278008dc40b)
 
 ### Marketing strategy
 

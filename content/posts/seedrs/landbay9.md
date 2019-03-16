@@ -111,7 +111,7 @@ c) We intend to grant warrants to our Fund Manager (with whom we are finalising 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11332/ck3dgovivqjap8e144m3v21puwystfw/intermediaries_large.png?rect=0%2C76%2C1166%2C823&w=600&fit=clip&s=348ecbebffb520cf888f23e736516484)
+![](/img/seedrs/uploads/startup/section_image/image/11332/ck3dgovivqjap8e144m3v21puwystfw/intermediaries_large.png?rect=0%2C76%2C1166%2C823&w=600&fit=clip&s=348ecbebffb520cf888f23e736516484)
 
 ### Target market
 
@@ -163,7 +163,7 @@ A large number of platforms exist in the UK – Zopa, Funding Circle, and Ratese
 
 Landbay operates at the vanilla end of of the mortgage market (ie prime residential mortgages over full terms). We believe this gives us a lower risk proposition compared to our peers. Importantly, BTL mortgages are a homogeneous asset which will help us scale on the back of institutional funding, whilst building a trusted retail brand organically at low cost.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11333/jrcnz6nw9c2ftqnd1wwsost3rbe6il6/rentcheck_600.png?rect=0%2C0%2C600%2C412&w=600&fit=clip&s=3d08441c8358a492749250927337d868)
+![](/img/seedrs/uploads/startup/section_image/image/11333/jrcnz6nw9c2ftqnd1wwsost3rbe6il6/rentcheck_600.png?rect=0%2C0%2C600%2C412&w=600&fit=clip&s=3d08441c8358a492749250927337d868)
 
 ### Marketing strategy
 

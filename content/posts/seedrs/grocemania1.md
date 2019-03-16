@@ -69,7 +69,7 @@ Following the successful launch in Kingston and Barnes in 2017, supported by Sta
 
 The UK Grocery Market is forecast to grow by 15% between now and 2022, giving it a value of £213 billion, according to the latest forecasts by grocery research organisation IGD. (IGD UK Channel opportunities: UK market and channel forecasts 2017-2021).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15716/97i9k7mwu2k40qxwnuv056v0oy119gi/5__1___1_.png?rect=0%2C0%2C600%2C423&w=600&fit=clip&s=10182230931cea6764cbab65ad400f71)
+![](/img/seedrs/uploads/startup/section_image/image/15716/97i9k7mwu2k40qxwnuv056v0oy119gi/5__1___1_.png?rect=0%2C0%2C600%2C423&w=600&fit=clip&s=10182230931cea6764cbab65ad400f71)
 
 However, at this stage, our primary targeted sub-markets are ‘Other Retailers’ and ‘Convenience Stores’, which sums up to a 28% (51.8bn) of the total grocery market. Those are the shops who we believe cannot afford to have their own delivery infrastructure and working with us can benefit both sides. We are also developing a strategy to engage with "Supermarkets" and "Hypermarkets" where we plan to place our personal shoppers in each location to fulfil orders and we intend to raise the delivery fee to £3.99 for these chain stores! Our customers currently include mothers, local students and professionals.
 
@@ -99,7 +99,7 @@ We also have direct competition from other grocery delivery companies such as Be
 
 We have designed our technology to add and create more shops as the business grows. Our delivery agreement with QuiqUp and signing on a number of Londis stores is a positive move towards scaling the business across the whole of the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15717/caa9sqdivzh0pk0mwdkewjvu1dd613d/4__1_.png?rect=0%2C0%2C600%2C434&w=600&fit=clip&s=31155c4630296c4a4526e8275242cd0c)
+![](/img/seedrs/uploads/startup/section_image/image/15717/caa9sqdivzh0pk0mwdkewjvu1dd613d/4__1_.png?rect=0%2C0%2C600%2C434&w=600&fit=clip&s=31155c4630296c4a4526e8275242cd0c)
 
 We aim to provide customers with the best independent grocery delivery service there is in the market with cheap fares!
 

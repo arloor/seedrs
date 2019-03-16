@@ -113,7 +113,7 @@ SERVICES <br>We intend to offer the following: <br>• A basic service (notifica
 
 Our services may also be a justifiable expense for people who let out their property using sites such as AIRBNB. The connectivity to their guests ensures that they can be given comprehensive verbal instructions without the need to exchange phone numbers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11864/plpzalstusexapgig87tynyoj49x6il/12_ding.png?rect=0%2C0%2C1200%2C644&w=600&fit=clip&s=3d910a7e40d6a3e29a716bc56e7d6ff0)
+![](/img/seedrs/uploads/startup/section_image/image/11864/plpzalstusexapgig87tynyoj49x6il/12_ding.png?rect=0%2C0%2C1200%2C644&w=600&fit=clip&s=3d910a7e40d6a3e29a716bc56e7d6ff0)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ Quick FIXES are typically cheap purchases made in hardware shops. We’ve positi
 
 KEY METRICS <br>• The Global Market for Smart Home devices is estimated to be worth $120bn by 2022 (MarketsandMarkets), while the number of connected homes in the US is growing at a compound rate of 31% yearly (McKinsey, 2015-2017) <br>• There are 27.8m residential properties in the UK (ONS Digital, 2015), and the number of households in England has been forecasted to grow by 221k per year between 2011-2021. <br>• There are +3m listings worldwide on Airbnb that could benefit from remote property management. <br>• There are approx. 5.5m SMEs in the UK. We believe they could benefit from increased efficiency. <br>• There is purpose built accommodation for 568k students in the UK, who we think could benefit from being independently contactable.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11879/1hhmyohj3omhzhgrrm1cys1qbru7qwx/10_ding.png?rect=0%2C0%2C5000%2C2375&w=600&fit=clip&s=eb0d31ef9bc097aaa56cac6e9be0a0cf)
+![](/img/seedrs/uploads/startup/section_image/image/11879/1hhmyohj3omhzhgrrm1cys1qbru7qwx/10_ding.png?rect=0%2C0%2C5000%2C2375&w=600&fit=clip&s=eb0d31ef9bc097aaa56cac6e9be0a0cf)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ We also intend to generate interest through MARKETING EVENTS with selected retai
 
 Our long term plan is to work with service providers that have an existing relationship with homeowners, domestically and internationally, such as British Gas and BT.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11865/g1ael0coc3r1q2v2yros1semdjrph7j/11_ding.png?rect=0%2C-2%2C5000%2C1167&w=600&fit=clip&s=89addb379c111aab6c059682107ca501)
+![](/img/seedrs/uploads/startup/section_image/image/11865/g1ael0coc3r1q2v2yros1semdjrph7j/11_ding.png?rect=0%2C-2%2C5000%2C1167&w=600&fit=clip&s=89addb379c111aab6c059682107ca501)
 
 ### Competition strategy
 

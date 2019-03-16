@@ -109,7 +109,7 @@ Ibiza is a fairly small place and whilst we expect clientele to purposefully hea
 
 ...Offering true value for money in Ibiza's 'must-visit-club' scene.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8371/erbq2o99fazj4ssnd7ffqdpwkibyr6q/AlterIbiza-Imageset3.png?rect=0%2C0%2C600%2C396&w=600&fit=clip&s=26b4112f9df6c77e7ade65ef82b7f3cc)
+![](/img/seedrs/uploads/startup/section_image/image/8371/erbq2o99fazj4ssnd7ffqdpwkibyr6q/AlterIbiza-Imageset3.png?rect=0%2C0%2C600%2C396&w=600&fit=clip&s=26b4112f9df6c77e7ade65ef82b7f3cc)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ As of 26 February 2016, San Antonio Town Council passed an ordinance prohibiting
 
 "Prices in Cala de Bou are clearly stabilised, it is assumed that the next experience will be a rise in quality and is it well positioned for investment." <br>Mila Gonzalez – Respected Ibiza realtor.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8372/e5bb5g2on0wsp5kpetzuz1lf7b5y1yc/AlterIbiza-Imageset4.png?rect=-7%2C0%2C600%2C808&w=600&fit=clip&s=39641df88f2f125a62bcd43f9cbfc53e)
+![](/img/seedrs/uploads/startup/section_image/image/8372/e5bb5g2on0wsp5kpetzuz1lf7b5y1yc/AlterIbiza-Imageset4.png?rect=-7%2C0%2C600%2C808&w=600&fit=clip&s=39641df88f2f125a62bcd43f9cbfc53e)
 
 ### Marketing strategy
 

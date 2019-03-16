@@ -81,7 +81,7 @@ The proceeds will be used to hire talent for the development and marketing of th
 
 Glued will be primarily targeted at families with a child or children that own their own smartphone or tablet. Last year, Ofcom’s Media Use and Attitudes report revealed that more than a third of children aged 5-15 in the UK own their own tablet. Based on current growth rates we expect this figure to rise to over half of all 5-15 year olds by 2016.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6040/89z5macxp0esb66dyz8144bphl3fddz/glued6-seedrs.jpg?rect=0%2C0%2C592%2C392&w=600&fit=clip&s=8ef510a24b710d25a1a47179ac1eb1a3)
+![](/img/seedrs/uploads/startup/section_image/image/6040/89z5macxp0esb66dyz8144bphl3fddz/glued6-seedrs.jpg?rect=0%2C0%2C592%2C392&w=600&fit=clip&s=8ef510a24b710d25a1a47179ac1eb1a3)
 
 Although our primary target market is families, Glued could equally be used by friends or colleagues who want to compete or work together to combat device dependency. Being glued to our devices is not an uncommon issue for most smartphone and tablet owners.
 
@@ -111,7 +111,7 @@ We will run a marketing campaign aimed at parents who we will contact via school
 
 We will also be reaching out directly to government educational departments seeking to raise awareness and find solutions to device dependency in families. If we are successful in forming partnerships with government, we believe Glued will gain a wider market and the government will benefit from providing a technology built for good. A technology that incentivises kids to spend less time glued to their devices and more time doing healthier activities such as sport that in turn helps reduce obesity levels.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6041/tcpqayikaijtro2lwhi31je5gsvbqer/glued9-seedrs.png?rect=0%2C0%2C1312%2C1080&w=600&fit=clip&s=08e283de0127a7af48fdac3e268a67b2)
+![](/img/seedrs/uploads/startup/section_image/image/6041/tcpqayikaijtro2lwhi31je5gsvbqer/glued9-seedrs.png?rect=0%2C0%2C1312%2C1080&w=600&fit=clip&s=08e283de0127a7af48fdac3e268a67b2)
 
 We’re working on a future feature for Glued called “Things to Do to Unglue” whereby the Glued app and website will proactively encourage alternative activities to device time. This initiative will involve forming commercial relationships with organisations such as gyms, sports clubs and campsites. This strategy has the potential to create an additional revenue stream from commission-based referrals.
 
@@ -125,7 +125,7 @@ As parents of a headstrong, tech savvy 12 year old boy, my wife and I have tried
 
 There are a few competitor apps like Moment, ParentKit and OurPact but they all use the stick approach to attempt to enforce downtime and time limits. Most kids find ways to break these apps in no time (Finn did!). Apple’s iOS sandboxing means that 3rd-party apps have very limited enforcement powers anyway.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6042/b91oowl5hjeahxoilbqgwqx3rzfwjqn/glued7-seedrs.png?rect=0%2C0%2C740%2C550&w=600&fit=clip&s=ca65248b480da22b6c75ca54e5d57ff8)
+![](/img/seedrs/uploads/startup/section_image/image/6042/b91oowl5hjeahxoilbqgwqx3rzfwjqn/glued7-seedrs.png?rect=0%2C0%2C740%2C550&w=600&fit=clip&s=ca65248b480da22b6c75ca54e5d57ff8)
 
 We think Glued's unique points reward system will succeed in winning over kids (and their parents) where our competitors have failed.
 

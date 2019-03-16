@@ -87,7 +87,7 @@ Our wider customer base includes:
 
 - Young busy City workers <br>- Retirees (with a new found care for health) <br>- Women who want their family to enjoy healthy evening meals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8891/u29wv7wx1rybvlipvc7y492nzkuv0t/Mindful_Chef_6.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=b3b1cff428b6c73baf36de743adef8f5)
+![](/img/seedrs/uploads/startup/section_image/image/8891/u29wv7wx1rybvlipvc7y492nzkuv0t/Mindful_Chef_6.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=b3b1cff428b6c73baf36de743adef8f5)
 
 ### Characteristics of target market
 

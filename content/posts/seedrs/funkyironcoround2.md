@@ -77,7 +77,7 @@ Marketing, PR and Advertising budget to launch and promote the business.
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12668/g7djo9bux061vox24dlwqu7zlbsr2f0/Funky_Iron_Upright_Chrome_2.png?rect=267%2C0%2C1802%2C2322&w=600&fit=clip&s=04b9369d27b7098ce3c0564f261fd02a)
+![](/img/seedrs/uploads/startup/section_image/image/12668/g7djo9bux061vox24dlwqu7zlbsr2f0/Funky_Iron_Upright_Chrome_2.png?rect=267%2C0%2C1802%2C2322&w=600&fit=clip&s=04b9369d27b7098ce3c0564f261fd02a)
 
 We are appealing to a broad spread of consumers in demographic terms – age, gender, UK geographic location, but our core target attitudinally will be people who appreciate and are interested in well-designed products for their home or themselves (i.e. fashion, bags, jewellery etc).
 
@@ -95,7 +95,7 @@ This gives an average price of just under £40. At this price level, customers c
 
 We believe our core target would naturally seem to be the group spending between £50 and £99, but we believe there will also be ‘trading up’ from the sector below (those spending up to £49), and possibly ‘trading down’ from the sector above (those spending £100 or more), in which we have observed irons are typically with a separate steam station. The UK market itself is highly fragmented – which we see as an ideal ‘predatory’ opportunity – taking a small piece off a number of leading brands by offering a distinctive and different product.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12669/ktyzj2bjrf9lx1nvlm91pygdcc5o1o/Funky_Iron_Upright_Black_2.png?rect=212%2C102%2C1936%2C2149&w=600&fit=clip&s=b3f96cac6109f21b36564bbc5c63c634)
+![](/img/seedrs/uploads/startup/section_image/image/12669/ktyzj2bjrf9lx1nvlm91pygdcc5o1o/Funky_Iron_Upright_Black_2.png?rect=212%2C102%2C1936%2C2149&w=600&fit=clip&s=b3f96cac6109f21b36564bbc5c63c634)
 
 Distribution is spread across traditional bricks and mortar retailers and pure play online retailers.
 
@@ -117,7 +117,7 @@ If we are successful in developing a partnership with a large high street retail
 
 If our relationship was with a pure online retailer we would supply a number of digital assets (banners, images) for use on their site.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12670/4yrlwyecbx5a6nldt2ces3z58onu3tb/Cream_Funky_Iron.png?rect=0%2C70%2C900%2C729&w=600&fit=clip&s=f8bec1db834d0b710c7c1fd60a005a39)
+![](/img/seedrs/uploads/startup/section_image/image/12670/4yrlwyecbx5a6nldt2ces3z58onu3tb/Cream_Funky_Iron.png?rect=0%2C70%2C900%2C729&w=600&fit=clip&s=f8bec1db834d0b710c7c1fd60a005a39)
 
 ### Competition strategy
 

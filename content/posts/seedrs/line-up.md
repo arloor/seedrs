@@ -109,7 +109,7 @@ Event discovery
 
 - Early adopters of Line-Up have proven that it appeals to promoters across the spectrum; from large scale venues, like the Science Museum, to small scale organisers, like the Drunken Butcher Supper Club.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2048/sb8ezc0v4qmyss1lacyvhqblak2hksh/Organisers_Signed_up.jpg?rect=0%2C0%2C996%2C626&w=600&fit=clip&s=06e1bd1c8b9a0397ab9d252eea6da771)
+![](/img/seedrs/uploads/startup/section_image/image/2048/sb8ezc0v4qmyss1lacyvhqblak2hksh/Organisers_Signed_up.jpg?rect=0%2C0%2C996%2C626&w=600&fit=clip&s=06e1bd1c8b9a0397ab9d252eea6da771)
 
 ### Characteristics of target market
 
@@ -119,7 +119,7 @@ We believe that there is no definitive platform to find events; this makes it ex
 
 By creating a single platform that powers event discovery services globally; Line-Up has the potential to access a share of the billions of dollars being spent around the world promoting film releases, music tours, theatre shows and a whole host of other events, large and small.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2049/2ufj0vo3xvt97wgad01yjysle5fiuaf/Tools_for_organisers.jpg?rect=0%2C0%2C996%2C453&w=600&fit=clip&s=cc27d0e493801297ba9d9bf04c6eece2)
+![](/img/seedrs/uploads/startup/section_image/image/2049/2ufj0vo3xvt97wgad01yjysle5fiuaf/Tools_for_organisers.jpg?rect=0%2C0%2C996%2C453&w=600&fit=clip&s=cc27d0e493801297ba9d9bf04c6eece2)
 
 ### Marketing strategy
 
@@ -141,7 +141,7 @@ Our network of more than 60 titles gives us great exposure to event promoters an
 
 - Every venue added to Line-Up is encouraged to claim their profile.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2050/kog83sno5941aqyzf8k1wb62jf1itzj/Influencers.jpg?rect=23%2C0%2C946%2C650&w=600&fit=clip&s=d09884cfbd6ea174f8a29c1bb0506d23)
+![](/img/seedrs/uploads/startup/section_image/image/2050/kog83sno5941aqyzf8k1wb62jf1itzj/Influencers.jpg?rect=23%2C0%2C946%2C650&w=600&fit=clip&s=d09884cfbd6ea174f8a29c1bb0506d23)
 
 ### Competition strategy
 
@@ -159,5 +159,5 @@ Line-Up’s competitive advantages can be broken down as follows:
 
 - As more and more artists, promoters and venue owners rely on Line-Up as a key distribution channel; the scope and breadth of the information we gather improves and the stronger our competitive advantage becomes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2051/4b0t4k5ctk0yemb1bqt9xmqt7qz5qen/Event_views.jpg?rect=0%2C0%2C992%2C744&w=600&fit=clip&s=b3656c5bf1aa43686e330bbe4477fa93)
+![](/img/seedrs/uploads/startup/section_image/image/2051/4b0t4k5ctk0yemb1bqt9xmqt7qz5qen/Event_views.jpg?rect=0%2C0%2C992%2C744&w=600&fit=clip&s=b3656c5bf1aa43686e330bbe4477fa93)
 

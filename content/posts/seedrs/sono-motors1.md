@@ -85,7 +85,7 @@ As production of the vehicle starts and backlogs in deliveries are eliminated, S
 
 As relative product maturity is reached, the expectation is that younger customers aged 25 to 35 will enter the customer base.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15871/i4no6n2fbudrvbngry9cnzgeeou339z/Pictur6.png?rect=0%2C0%2C939%2C656&w=600&fit=clip&s=caed04bd7eb3fbfc8b4a6fd202a40ef7)
+![](/img/seedrs/uploads/startup/section_image/image/15871/i4no6n2fbudrvbngry9cnzgeeou339z/Pictur6.png?rect=0%2C0%2C939%2C656&w=600&fit=clip&s=caed04bd7eb3fbfc8b4a6fd202a40ef7)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ In the first 6 months of 2018, Sono Motors collected 2,586 reservations from Ger
 
 At the beginning of 2018, it was reported that more than 2 million people in Germany used carSharing. About 10% of the carSharing fleets operate electric vehicles. As a result, we believe that the Sion would have a massive impact on carSharing: 78 percent of customers in inner-city residential areas say they no longer have their own car. It is estimated that a station-based carSharing vehicle can replace up to 20 private cars.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15872/8zz69of3th0gu11qizbwlagyt1cc9da/Picture7.png?rect=0%2C-4%2C939%2C625&w=600&fit=clip&s=d98f388ec339e61b90933f47b28280bc)
+![](/img/seedrs/uploads/startup/section_image/image/15872/8zz69of3th0gu11qizbwlagyt1cc9da/Picture7.png?rect=0%2C-4%2C939%2C625&w=600&fit=clip&s=d98f388ec339e61b90933f47b28280bc)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Website. <br>- Importance of high-quality content, videos and pictures on the we
 
 Test-drive Tours and Events. <br>- Completed three test-drive tours in 7 countries. <br>- Fourth tour ongoing in Germany and the Netherlands. <br>- Execution of several events throughout Europe.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15874/b8k232x0l4hezoc14j0wk8n4l99amy0/SonoMotors_Sion_Exterior_trunk_open.jpg?rect=0%2C0%2C5778%2C3688&w=600&fit=clip&s=e8dac044173e6f12f4c2f44775ccb62d)
+![](/img/seedrs/uploads/startup/section_image/image/15874/b8k232x0l4hezoc14j0wk8n4l99amy0/SonoMotors_Sion_Exterior_trunk_open.jpg?rect=0%2C0%2C5778%2C3688&w=600&fit=clip&s=e8dac044173e6f12f4c2f44775ccb62d)
 
 ### Competition strategy
 
@@ -121,5 +121,5 @@ Mobility Service Provider. <br>- Car- and ride-sharing only offered by few incum
 
 Energy Service Provider. <br>- Equipped with a large onboard energy storage management system, as well as discharging technology, on a smart-grid level, the Sion currently sees no competition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15873/dgljqpssmq3quo8dkxwftbfvi8z276b/8.png?rect=0%2C0%2C939%2C526&w=600&fit=clip&s=d673796300da2a33d26aa872b8bddbeb)
+![](/img/seedrs/uploads/startup/section_image/image/15873/dgljqpssmq3quo8dkxwftbfvi8z276b/8.png?rect=0%2C0%2C939%2C526&w=600&fit=clip&s=d673796300da2a33d26aa872b8bddbeb)
 

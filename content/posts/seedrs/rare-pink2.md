@@ -93,7 +93,7 @@ There are four significant factors that define what our target customers want.
 
 While men are our current core demographic for engagement rings, we are building a brand with core values that make it desirable to women too. Following this round of investment with our new product launches of wedding bands and fine jewellery we will market our products to couples and women too.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4802/ii19gzrcdimrgguuixvq12mjcfg95jc/Target_Market.png?rect=37%2C51%2C776%2C445&w=600&fit=clip&s=6f24b72e22da680f3b0d1566fba0ba83)
+![](/img/seedrs/uploads/startup/section_image/image/4802/ii19gzrcdimrgguuixvq12mjcfg95jc/Target_Market.png?rect=37%2C51%2C776%2C445&w=600&fit=clip&s=6f24b72e22da680f3b0d1566fba0ba83)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ The US is the largest diamond jewellery market with an estimated 25% market shar
 
 The online market is growing fast. It was indicated by the McKinsey report to be growing by 1% globally in 2003, 5% in 2010 and is expected to reach 10% by 2020. In the US, online sales are estimated to be 13% of the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4803/hpaxwlkmqvdis308ke2ps7pt2vbbbai/Characteristics_of_target_market.jpg?w=600&fit=clip&s=711b300936e70de5a99e55c1129c3a55)
+![](/img/seedrs/uploads/startup/section_image/image/4803/hpaxwlkmqvdis308ke2ps7pt2vbbbai/Characteristics_of_target_market.jpg?w=600&fit=clip&s=711b300936e70de5a99e55c1129c3a55)
 
 ### Marketing strategy
 
@@ -123,7 +123,7 @@ Despite working with a small budget and manpower, SEO has been our principal sou
 
 Rare Pink’s consultation approach will be recreated to scale in many cities worldwide. This will include a brand guidelines document to recreate the intimate environment and to ensure advisors use a consistent, tried and tested approach.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4804/cfqm2ciq3fa46ujhsudakvglibzdrsb/Marketing_Strategy.png?w=600&fit=clip&s=83b67a5d6fd8a75f84e24701c097edc2)
+![](/img/seedrs/uploads/startup/section_image/image/4804/cfqm2ciq3fa46ujhsudakvglibzdrsb/Marketing_Strategy.png?w=600&fit=clip&s=83b67a5d6fd8a75f84e24701c097edc2)
 
 ### Competition strategy
 
@@ -137,5 +137,5 @@ Our average order value of £3,000 is higher than many touch-less competitors an
 
 Companies like 77 Diamonds have also invested in a hybrid model but have taken a different approach, choosing to open a high street store requiring higher prices to cover the cost of rent, insurance and stock. We believe a leaner version using concessions or showrooms will allow us to scale faster while still giving customers an optimum experience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4805/968aqx5y155b9m7c2jp3vc3j5ecdnnh/Competition_startegy.jpg?w=600&fit=clip&s=cf6f02bff653d423f7acb0fa65c05192)
+![](/img/seedrs/uploads/startup/section_image/image/4805/968aqx5y155b9m7c2jp3vc3j5ecdnnh/Competition_startegy.jpg?w=600&fit=clip&s=cf6f02bff653d423f7acb0fa65c05192)
 

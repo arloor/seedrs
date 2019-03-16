@@ -93,13 +93,13 @@ Often on lower budget and independent films, filmmakers are wholly focused on th
 
 For us it is integral to our business - filmmaking is after all a business and recouping investor monies is at the forefront of our minds at all times. This is one of the reasons we have attached a co-producer whose expertise is buying and selling films at such an early stage.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/977/hyfefq2pmss7x6gsp9ibg1r9mxmznhj/Ben_at_camera_monitor.jpg?w=600&fit=clip&s=2fb9eb3d563ffbe52dab07d258cd3a6c)
+![](/img/seedrs/uploads/startup/section_image/image/977/hyfefq2pmss7x6gsp9ibg1r9mxmznhj/Ben_at_camera_monitor.jpg?w=600&fit=clip&s=2fb9eb3d563ffbe52dab07d258cd3a6c)
 
 ### Characteristics of target market
 
 In 2012, UK cinema admissions exceeded 172.5 million, the third highest figure since 2001. Cinema-going proved its resilience with cinema overtaking DVD in its share of the UK's filmed entertainment market for the first time, with box office receipts nudging a record £1.1 billion in 2012. <br> <br>According to the BFI, the UK is the third largest film market in the world, generating revenues in excess of £4 billion in 2012 alone. <br>Internationally the filmed entertainment industry was worth a staggering $88.6 billion in 2012. <br> <br>While DVD/Blu-ray sales have naturally declined as saturation is reached on older films, the newly-revitalised HMV chain in the UK plays a crucial role in acting as an outlet for lower-budget fare. Also the genuine rise in Video-on-Demand services such as Sky Box Office and more impressively Netflix will act to diversify income streams for films such as ‘Curiosity Kills’ as well as reduce the attraction of pirated copies of films.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/978/njamn95qn9205isljoyq8lkwkfg0z28/Ben_directing.jpg?w=600&fit=clip&s=10ee446f107f1eba15818b7ab08c27f6)
+![](/img/seedrs/uploads/startup/section_image/image/978/njamn95qn9205isljoyq8lkwkfg0z28/Ben_directing.jpg?w=600&fit=clip&s=10ee446f107f1eba15818b7ab08c27f6)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ In anticipation of marketing for any release of the film, we would also specific
 
 On 'Two Days in the Smoke' we were able to exploit the profile of several of our more active cast members. A good example was Lindsay Armaou (formerly of the Irish pop group B*Witched) who played a supporting character in the film. She went on to feature on ITV's 'Big Reunion' series (which ran clips of her scenes in the film) along with chat show appearances and press articles where she promoted the film, increasing its social media profile significantly. We would expect to emulate and improve upon this with 'Curiosity Kills'.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/979/jhpemb4jdwpmdtee6xprroa3kqea05k/Matt_Ben_and_Bruce_review_a_take.jpg?w=600&fit=clip&s=1067e1d3b184e6eca50f4d4112789133)
+![](/img/seedrs/uploads/startup/section_image/image/979/jhpemb4jdwpmdtee6xprroa3kqea05k/Matt_Ben_and_Bruce_review_a_take.jpg?w=600&fit=clip&s=1067e1d3b184e6eca50f4d4112789133)
 
 ### Competition strategy
 
@@ -121,5 +121,5 @@ We don't believe that we have competitors as such, in that every film has its ow
 
 However we do believe that our offering is almost unique in that we aim to deliver high quality entertainment that looks and feels like it cost a lot more to make than it did. Too often some filmmakers can appear to be knocking out second-best films destined to go straight-to-video. We strongly feel that this is filmmaking for the sake of it, lacking in ambition and creativity and that there is a market niche for innovative, commercial filmmakers like ourselves with truly entertaining stories to tell and the ability to deliver those stories.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/980/3hr5fn2bf2iqwaczackgovf1xvqx9oh/Ben_film_set.jpg?w=600&fit=clip&s=d1922416bc529d7f5dc0c8fda718a2f2)
+![](/img/seedrs/uploads/startup/section_image/image/980/3hr5fn2bf2iqwaczackgovf1xvqx9oh/Ben_film_set.jpg?w=600&fit=clip&s=d1922416bc529d7f5dc0c8fda718a2f2)
 

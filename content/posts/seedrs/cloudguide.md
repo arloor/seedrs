@@ -71,7 +71,7 @@ B2B: <br>CloudGuide targets tourist sites and cultural institutions willing to i
 
 B2G: <br>CloudGuide gives the city councils and governments an opportunity to promote national culture, boost tourism, distribute budgets and examine relative statistics of the cultural sector (Big Data).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13645/msjwc15fpgoykb2lxzzs1a1r43uox37/7__market_b2c___1_.jpg?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=0bbf6861ea59457231d7c3e5b44a2b29)
+![](/img/seedrs/uploads/startup/section_image/image/13645/msjwc15fpgoykb2lxzzs1a1r43uox37/7__market_b2c___1_.jpg?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=0bbf6861ea59457231d7c3e5b44a2b29)
 
 ### Characteristics of target market
 
@@ -79,7 +79,7 @@ There are more than 55,000 museums around the world and our own research indicat
 
 CloudGuide is already working with 326 institutions in 12 countries, with 3,800 in the pipeline. The main hubs are Spain, Belgium, Germany, and we recently launched in the US. The company is already present in the three biggest EU markets (UK, Germany, Spain) and the US accounting for 1/3 of the TAM. Just 30 institutions in the pipeline have 56M annual visitors (based on our research), all of which are potential CloudGuide users.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13646/637rrr2behwv5kxlv353cms6n0sr4rt/8__market_b2b___1_.jpg?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=ac6c825d48ce6fdf9f5825f2bb5e1c75)
+![](/img/seedrs/uploads/startup/section_image/image/13646/637rrr2behwv5kxlv353cms6n0sr4rt/8__market_b2b___1_.jpg?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=ac6c825d48ce6fdf9f5825f2bb5e1c75)
 
 ### Marketing strategy
 
@@ -89,11 +89,11 @@ B2C: <br>Our key acquisition channel of users are the institutions themselves. T
 
 NETWORK EFFECT: the more institutions we get, the more institutions and users jump in.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13648/pkyhd2fccn1y4wd20vwviqaktj5av7d/10__final_image___1_.jpg?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=8421a99a6fd18d62f713ea7ada21cc57)
+![](/img/seedrs/uploads/startup/section_image/image/13648/pkyhd2fccn1y4wd20vwviqaktj5av7d/10__final_image___1_.jpg?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=8421a99a6fd18d62f713ea7ada21cc57)
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13647/2wzl7wk1xcw6gwjb5wl39hcbxbd33t4/9__competitors___1_.png?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=ed6856fdca37bef86318468f615d72c3)
+![](/img/seedrs/uploads/startup/section_image/image/13647/2wzl7wk1xcw6gwjb5wl39hcbxbd33t4/9__competitors___1_.png?rect=0%2C0%2C600%2C333&w=600&fit=clip&s=ed6856fdca37bef86318468f615d72c3)
 
 Most of our competitors create one app per site (Oncell, Cuseum, GuideKick or general app producers) or work through scraping non-official content (izi.TRAVEL).
 

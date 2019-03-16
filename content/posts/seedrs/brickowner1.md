@@ -77,7 +77,7 @@ Having built the product we are now ready to take it to market and scale the bus
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11126/1r52heftu6sqrphn28to67hx9930m48/Brickowner_LinkedIn_header_2.jpg?rect=0%2C0%2C646%2C220&w=600&fit=clip&s=de2f5c7717dda4ef60803ecc685ee164)
+![](/img/seedrs/uploads/startup/section_image/image/11126/1r52heftu6sqrphn28to67hx9930m48/Brickowner_LinkedIn_header_2.jpg?rect=0%2C0%2C646%2C220&w=600&fit=clip&s=de2f5c7717dda4ef60803ecc685ee164)
 
 ### Target market
 
@@ -89,7 +89,7 @@ The target for property asset managers is: -
 
 • Managers who already work with third party investors, but in larger tranches, typically £50-£250k. <br>• Managers whose deals have a lock-in of 3-7 years, and who cannot offer a secondary market to their investors. <br>• Managers who have a strong existing brand and track record, and have investors wanting to invest smaller sums than their minimum investment. <br>• Managers who want to increase their funds under management from a new source of investors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11124/1w73rn4dqggt9emy20k5ri5gzk47f0x/Screenshot_01_copy.jpg?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=d82ccbc7243a977358e7efba5501e54d)
+![](/img/seedrs/uploads/startup/section_image/image/11124/1w73rn4dqggt9emy20k5ri5gzk47f0x/Screenshot_01_copy.jpg?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=d82ccbc7243a977358e7efba5501e54d)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Since 2001 1.8m 25-34 year olds have been locked out of home ownership. We belie
 
 Since 2007 we believe investors want more control and transparency when it comes to investing, and we believe an online platform like Brickowner offers that.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11125/kyi1dsh8jc0ng2d90dlrl7k5185sw5s/Screenshot_02_copy.jpg?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=002e2d1ca510df1467b843720501059f)
+![](/img/seedrs/uploads/startup/section_image/image/11125/kyi1dsh8jc0ng2d90dlrl7k5185sw5s/Screenshot_02_copy.jpg?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=002e2d1ca510df1467b843720501059f)
 
 ### Marketing strategy
 
@@ -123,7 +123,7 @@ Our aim is for Brickowner to create business for companies selling property, and
 
 We are looking at building strategic partnerships with companies that could lead to us having access to their clients or users.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11127/2cpkz8yyiu4dtfr4348zno84e8gvtvk/001__1_.jpg?rect=0%2C0%2C1920%2C810&w=600&fit=clip&s=32bf79944a822229e404303ff0e2c71d)
+![](/img/seedrs/uploads/startup/section_image/image/11127/2cpkz8yyiu4dtfr4348zno84e8gvtvk/001__1_.jpg?rect=0%2C0%2C1920%2C810&w=600&fit=clip&s=32bf79944a822229e404303ff0e2c71d)
 
 ### Competition strategy
 

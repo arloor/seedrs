@@ -89,7 +89,7 @@ Partner us in building the future of shopping.
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4129/e2ftmmi59t0y0r15va59515y91fub5j/Target-Market.png?rect=0%2C0%2C1000%2C571&w=600&fit=clip&s=fd7faba417288a03bc50280abadcbd68)
+![](/img/seedrs/uploads/startup/section_image/image/4129/e2ftmmi59t0y0r15va59515y91fub5j/Target-Market.png?rect=0%2C0%2C1000%2C571&w=600&fit=clip&s=fd7faba417288a03bc50280abadcbd68)
 
 
 
@@ -121,7 +121,7 @@ We have found that online, the major retailers are isolated and depend on back-t
 
 The major retailers understand the benefits of a virtual marketplace and a multi channel, content-led approach to customer acquisition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4130/n70nzo0uy56kygzmm4a8fuenb5gf0o1/Retailers.png?rect=0%2C46%2C1000%2C592&w=600&fit=clip&s=e302d0bbfec5ccfedb1bb81eb62722aa)
+![](/img/seedrs/uploads/startup/section_image/image/4130/n70nzo0uy56kygzmm4a8fuenb5gf0o1/Retailers.png?rect=0%2C46%2C1000%2C592&w=600&fit=clip&s=e302d0bbfec5ccfedb1bb81eb62722aa)
 
 
 
@@ -135,7 +135,7 @@ Market conditions are ideal: Smartphones are highly developed with high resoluti
 
 Most importantly, consumer behaviour is changing due to these factors. People are buying more and more on their smartphones.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4131/8og5a766nk988pymbprfmdmhfhn51pw/Characteristics__1_.png?rect=0%2C46%2C1000%2C496&w=600&fit=clip&s=ae4bf8f66c36ea6a371b0a417b592a96)
+![](/img/seedrs/uploads/startup/section_image/image/4131/8og5a766nk988pymbprfmdmhfhn51pw/Characteristics__1_.png?rect=0%2C46%2C1000%2C496&w=600&fit=clip&s=ae4bf8f66c36ea6a371b0a417b592a96)
 
 
 
@@ -145,7 +145,7 @@ We aim to reach this market in several ways:
 
 1. Online advertising - our download marketing strategy on Facebook has been extremely successful and we have achieved install costs well below the industry standard of circa £1 on an ongoing basis. <br> <br>2. Inbound marketing - our social media presence is growing steadily and have had great success promoting retailers, with engagement on posts for SportsDirect and ASOS eclipsing even the best achieved by the brands themselves. We have found that significant user growth can be obtained directly from content-led activity on external social channels including our own multi-category blog. <br> <br>3. Referral - we are in discussions with partners to introduce a groundbreaking referral reward programme. <br> <br>4. Device distribution - in the longer term we will seek partnership with mobile telecoms companies in order to distribute the app pre-loaded on new devices.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4132/ntfpgwd1pv4c8nmof15r9olmluv0u9x/Strategy.png?rect=0%2C50%2C963%2C553&w=600&fit=clip&s=8c27f0b45ac7ccc4fb990a694e0a89ce)
+![](/img/seedrs/uploads/startup/section_image/image/4132/ntfpgwd1pv4c8nmof15r9olmluv0u9x/Strategy.png?rect=0%2C50%2C963%2C553&w=600&fit=clip&s=8c27f0b45ac7ccc4fb990a694e0a89ce)
 
 ### Competition strategy
 
@@ -163,5 +163,5 @@ Visit Octer.com to download the app on Android or iPhone.
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4133/eagu6rsos5l82k4thea01waw6il7o1q/Competition-Strategy.png?rect=0%2C73%2C1000%2C573&w=600&fit=clip&s=2a59accb8470ccf6be5ac38822e117d3)
+![](/img/seedrs/uploads/startup/section_image/image/4133/eagu6rsos5l82k4thea01waw6il7o1q/Competition-Strategy.png?rect=0%2C73%2C1000%2C573&w=600&fit=clip&s=2a59accb8470ccf6be5ac38822e117d3)
 

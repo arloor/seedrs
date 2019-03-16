@@ -89,7 +89,7 @@ All these groups face the challenge of a shortage of delivery drivers in the UK 
 
 Customer satisfaction is a high priority to these businesses because they heavily rely on repeat ordering. They are also reliant on the delivery drivers to be well-trained, reliable and polite because they are the face of their businesses.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3090/c3m8pkclp1l6om1qdm7niij6bhzvzao/06._Dominos_Quote.png?w=600&fit=clip&s=000c6862c69d04d9767e095f6db41448)
+![](/img/seedrs/uploads/startup/section_image/image/3090/c3m8pkclp1l6om1qdm7niij6bhzvzao/06._Dominos_Quote.png?w=600&fit=clip&s=000c6862c69d04d9767e095f6db41448)
 
 ### Characteristics of target market
 
@@ -111,7 +111,7 @@ In addition, a membership referral scheme would be adopted to support the sales 
 
 Other ways that the target market would be reached include: social media marketing, on-line advertising, PR and through the Delivery Club website.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3089/gfsp8j5wry2sr6a1mpwk2u61foqver4/05._Marketing_Strategy.png?w=600&fit=clip&s=5a985f522f433f04eed4ab98d107e5ff)
+![](/img/seedrs/uploads/startup/section_image/image/3089/gfsp8j5wry2sr6a1mpwk2u61foqver4/05._Marketing_Strategy.png?w=600&fit=clip&s=5a985f522f433f04eed4ab98d107e5ff)
 
 ### Competition strategy
 
@@ -123,5 +123,5 @@ To succeed against future competitors the most important aspect will be to lever
 
 A question that the management is frequently asked is "Do you foresee Uber entering this market?" <br>"Uber has and continues to build their business facing consumers. I don't expect that in the short term that they will shift from this strategy and move into the business to business arena", ~Krupa Patel, CEO.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3091/nkacfcphp0gx7klacrxu1qlz51hl7mj/04._Competitive_strategy.png?w=600&fit=clip&s=a81437ffcc306275cf50512078ddfeaf)
+![](/img/seedrs/uploads/startup/section_image/image/3091/nkacfcphp0gx7klacrxu1qlz51hl7mj/04._Competitive_strategy.png?w=600&fit=clip&s=a81437ffcc306275cf50512078ddfeaf)
 

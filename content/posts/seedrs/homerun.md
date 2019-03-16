@@ -87,7 +87,7 @@ The preferred shares have a right to receive 1x their initial investment ahead o
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14849/8ne9iuh718v4faguemkzh21t8xkvyg3/Idea_8.png?rect=0%2C0%2C600%2C434&w=600&fit=clip&s=7190dad11715c02f4711995abea1dc7c)
+![](/img/seedrs/uploads/startup/section_image/image/14849/8ne9iuh718v4faguemkzh21t8xkvyg3/Idea_8.png?rect=0%2C0%2C600%2C434&w=600&fit=clip&s=7190dad11715c02f4711995abea1dc7c)
 
 Put simply, our target market is anyone who buys groceries – and that is everyone. <br> <br>Our basket size ranges from under £20 to several hundred pounds; our average size varies between £50 and £60. Whether it is a weekly food shop or bits and pieces for a barbecue, Home Run has made it possible for everyone to have their groceries brought to their door on the day that they need them.
 
@@ -101,11 +101,11 @@ There have been many exhaustive studies carried out as to why offline customers 
 
 67% of current online consumers have indicated that they would spend more money if they could get same day delivery. We believe we will, therefore, convert current online grocery consumers by being faster and providing a higher level of service than other online grocery business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14850/j160vjn56pydvqcu89yhwlgny4sa0g7/Idea_3__2_.png?rect=0%2C0%2C600%2C392&w=600&fit=clip&s=1d4be0d73ef7a6804618a912cb992c94)
+![](/img/seedrs/uploads/startup/section_image/image/14850/j160vjn56pydvqcu89yhwlgny4sa0g7/Idea_3__2_.png?rect=0%2C0%2C600%2C392&w=600&fit=clip&s=1d4be0d73ef7a6804618a912cb992c94)
 
 Crucially, we will also convert exclusively offline grocery customers by being one of the first online services that fits the modern consumer. Fast, intuitive, affordable and simple.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14851/dw6ykn303rqsiot58m8pn92g9f8qtc/Idea_5.png?rect=0%2C0%2C600%2C434&w=600&fit=clip&s=f51f47b98cbed526b9d9d760a6b2c8ea)
+![](/img/seedrs/uploads/startup/section_image/image/14851/dw6ykn303rqsiot58m8pn92g9f8qtc/Idea_5.png?rect=0%2C0%2C600%2C434&w=600&fit=clip&s=f51f47b98cbed526b9d9d760a6b2c8ea)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ Now, we want to get our name out there by other means like targeted promotions a
 
 It could be argued that every grocery retailer, online or offline, large or small, is a competitor of ours. In reality, however, this is not the case. It would be very difficult to do a complete grocery shop from a convenience store, and we believe that no one can offer the speed of delivery that we can. Same day grocery delivery will soon be the norm and at the moment, the quickest that others in the market can deliver is within 24 - 48 hours. We deliver in 1 hour.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14852/5ysglk155mwmxclgti9ychh64ajxrdn/Idea_4__1_.png?rect=0%2C0%2C600%2C535&w=600&fit=clip&s=9f2f40df10f80cf1c0a77d7c51f4daee)
+![](/img/seedrs/uploads/startup/section_image/image/14852/5ysglk155mwmxclgti9ychh64ajxrdn/Idea_4__1_.png?rect=0%2C0%2C600%2C535&w=600&fit=clip&s=9f2f40df10f80cf1c0a77d7c51f4daee)
 
 The “Ocado model” uses warehouses to fulfil orders, which are expensive and simply not viable for scale as they limit the radius of delivery as well as the speed. We fulfil from in store and therefore are not subject to these limitations. The only other business that delivers with comparable speed is Amazon with their Prime Now service. Unlike Amazon, however, our model means we have access to hundreds of ready-made fulfilment centres: the stores belonging to the supermarkets who we host on our platform.
 

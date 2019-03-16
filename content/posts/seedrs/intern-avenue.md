@@ -75,7 +75,7 @@ Has HR function <br>Actively target less than 15 universities <br>Wants to targe
 
 Our value for SMEs is that cyclical and ad hoc intern support can be in their office in a matter of days even for unknown employer brands. Our value for larger organisations is that they can target their hiring process towards desirable qualified candidates who they might not otherwise capture.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2663/givpsv5igx3qfcmurio598muwt600ac/image014__1_.jpg?w=600&fit=clip&s=7f359b2dfbf8df5130ab5c8633182872)
+![](/img/seedrs/uploads/startup/section_image/image/2663/givpsv5igx3qfcmurio598muwt600ac/image014__1_.jpg?w=600&fit=clip&s=7f359b2dfbf8df5130ab5c8633182872)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ UK employers are amongst the largest consumers of flexible labour in Europe. Gra
 
 We see our proposition resonating with SMEs seeking year round talent hires and enterprise customers who wish to target demographics not usually captured by their traditional hiring cycles.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2665/keyuj495ltoawgch48hcvioeypukym1/image004.png?rect=0%2C33%2C498%2C246&w=600&fit=clip&s=31ba8c9a467cf90802be4bfb788484da)
+![](/img/seedrs/uploads/startup/section_image/image/2665/keyuj495ltoawgch48hcvioeypukym1/image004.png?rect=0%2C33%2C498%2C246&w=600&fit=clip&s=31ba8c9a467cf90802be4bfb788484da)
 
 ### Marketing strategy
 
@@ -105,5 +105,5 @@ Intern Avenue’s proprietary technology is designed to differentiate itself in 
 
 3. Predictive Selection – By automating the matching and filtering process to provide higher applicant quality. We continually profile each candidate across a number of variables to assess evidence of basic competencies for different sectors. We will refine this process over time but some of our initial customers have found that they are able to hire within a matter of days.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2654/hbbodcwae1rcriqakj7xwcey3d14pw2/image006.png?rect=0%2C0%2C498%2C375&w=600&fit=clip&s=f36ce3762a4ce76b47f6b341a1a2361e)
+![](/img/seedrs/uploads/startup/section_image/image/2654/hbbodcwae1rcriqakj7xwcey3d14pw2/image006.png?rect=0%2C0%2C498%2C375&w=600&fit=clip&s=f36ce3762a4ce76b47f6b341a1a2361e)
 

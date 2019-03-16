@@ -109,7 +109,7 @@ The products on the market have almost universally failed to respond to the shif
 
 Change is now long overdue, and there is a desire to benefit from the reduced costs of cloud hosting and to produce a compelling offering to mobile users.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/105/9uqutbmwdqqftcljuaxmq8w44aj8c0o/Infog3_02.png?rect=0%2C0%2C498%2C300&w=600&fit=clip&s=663549de94f40961a6e1647de29d278b)
+![](/img/seedrs/uploads/startup/section_image/image/105/9uqutbmwdqqftcljuaxmq8w44aj8c0o/Infog3_02.png?rect=0%2C0%2C498%2C300&w=600&fit=clip&s=663549de94f40961a6e1647de29d278b)
 
 ### Marketing strategy
 

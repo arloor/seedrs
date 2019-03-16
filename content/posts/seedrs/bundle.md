@@ -81,7 +81,7 @@ We believe that evidence on a local level supports the existence of these news c
 
 These people are conditioned to the slick mobile app experiences of Facebook and Twitter, and whilst these are proxies for news, neither are location-driven news feeds operating solely for local news discovery.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3634/iqhf6txneaxrjinleya46oons458hsn/target-market.png?rect=0%2C0%2C800%2C204&w=600&fit=clip&s=ded9f83c720c5577dcd80150c39b9c30)
+![](/img/seedrs/uploads/startup/section_image/image/3634/iqhf6txneaxrjinleya46oons458hsn/target-market.png?rect=0%2C0%2C800%2C204&w=600&fit=clip&s=ded9f83c720c5577dcd80150c39b9c30)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ Today we find mobile’s share of ad spend significantly lagging behind time spe
 
 This growth is not only fueled by the increasing amount of time people now spend on mobiles but also the downfall of the banner ad. Banner ad performance has declined rapidly with digital advertisers losing performance causing digital publishers to lose revenue. Native advertising has emerged to address this problem with a more relevant experience for the user.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3639/h46yott44pkovph5v0tfrw68q4vixbc/jimmy-maymann.png?rect=0%2C0%2C800%2C204&w=600&fit=clip&s=c4ddff9198b136a57091348f05bf67d8)
+![](/img/seedrs/uploads/startup/section_image/image/3639/h46yott44pkovph5v0tfrw68q4vixbc/jimmy-maymann.png?rect=0%2C0%2C800%2C204&w=600&fit=clip&s=c4ddff9198b136a57091348f05bf67d8)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ When Bundle is available in the app store we plan to get in front of as many pro
 
 This strategy could help us achieve the following: <br>* Create a memorable experience for our first users so that they have a greater investment in Bundle <br>* Earn app installs through word-of-mouth <br>* Establish credibility in our launch cities <br>* Form relationships with local organisations and media commentators for wider and longer lasting PR coverage
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3675/3b1xqeb19tsrjn3mqll974qlxjee2oh/Marketing_section.png?rect=0%2C0%2C800%2C521&w=600&fit=clip&s=cbe0c63da543b06572d809e17ac50174)
+![](/img/seedrs/uploads/startup/section_image/image/3675/3b1xqeb19tsrjn3mqll974qlxjee2oh/Marketing_section.png?rect=0%2C0%2C800%2C521&w=600&fit=clip&s=cbe0c63da543b06572d809e17ac50174)
 
 ### Competition strategy
 
@@ -119,5 +119,5 @@ We found that local news isn’t being addressed by either category. This is bec
 
 A focus entirely on mobile is needed to solve the problem from discovery through to consumption and this is why Bundle could become a major platform for local news.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3635/joeksi4aw8cqb953qc6uvhjg1udcrx1/competition-strategy.png?rect=0%2C0%2C800%2C412&w=600&fit=clip&s=fa8448ad2e07961898ef457a8451a3a7)
+![](/img/seedrs/uploads/startup/section_image/image/3635/joeksi4aw8cqb953qc6uvhjg1udcrx1/competition-strategy.png?rect=0%2C0%2C800%2C412&w=600&fit=clip&s=fa8448ad2e07961898ef457a8451a3a7)
 

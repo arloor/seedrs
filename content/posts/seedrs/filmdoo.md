@@ -113,7 +113,7 @@ Yet over 80% of global film revenue comes from just 6% of films. This is driven 
 
 Within Europe the content struggles especially hard to get a wider audience online outside its home territory. Only approximately 47% of European films exhibited in cinemas between 2005 and 2014 were made available on VOD by the end of 2015, compared with 87% in the case of American films. This leaves an opportunity for targeted platforms, such as FilmDoo, to work closely with the principal rights holders to give a wider exposure to such content and to be the first truly global platform to reach international audiences.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9462/j3uo7rqtflm5zdwn2wx2xlm741q9cpw/Image_9_-_Global_Film_Industry_Map.png?rect=0%2C0%2C2148%2C1210&w=600&fit=clip&s=01182883e5e329a2a7df0f39d199295f)
+![](/img/seedrs/uploads/startup/section_image/image/9462/j3uo7rqtflm5zdwn2wx2xlm741q9cpw/Image_9_-_Global_Film_Industry_Map.png?rect=0%2C0%2C2148%2C1210&w=600&fit=clip&s=01182883e5e329a2a7df0f39d199295f)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ According to figures provided by the BFI, in the UK alone total spending on docu
 
 FilmDoo's target market is clearly defined, individuals who watch international films, are aged 20-45, university educated, English speaking, have higher than average disposable incomes and love to travel. Additional segments targeted by FilmDoo include ethnic groups and specialist segmented communities, such as the LGBT community and film school students, which are significant on a global scale.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9463/m9sfx2kcfsrwtrhjypmg9q61kf00l5n/Image_10_-_Cambridge_FilmDoo_Report_Cover.png?rect=0%2C0%2C2360%2C1766&w=600&fit=clip&s=48240e63932f60de63b9290314ce4371)
+![](/img/seedrs/uploads/startup/section_image/image/9463/m9sfx2kcfsrwtrhjypmg9q61kf00l5n/Image_10_-_Cambridge_FilmDoo_Report_Cover.png?rect=0%2C0%2C2360%2C1766&w=600&fit=clip&s=48240e63932f60de63b9290314ce4371)
 
 ### Marketing strategy
 
@@ -133,7 +133,7 @@ FilmDoo has a diverse strategy for reaching its market that can be divided into 
 
 3. Partnerships - FilmDoo aims to partner with organisations who share our target demographics to connect to their networks.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9464/d6inlfdf1wz4rcdyjh9jlsuw537288l/Image_11_-_FilmDoo_Adobe_Competition_at_Cannes_2015.JPG?rect=0%2C0%2C2048%2C1536&w=600&fit=clip&s=77f993f97abbf0438ad43e388b91063a)
+![](/img/seedrs/uploads/startup/section_image/image/9464/d6inlfdf1wz4rcdyjh9jlsuw537288l/Image_11_-_FilmDoo_Adobe_Competition_at_Cannes_2015.JPG?rect=0%2C0%2C2048%2C1536&w=600&fit=clip&s=77f993f97abbf0438ad43e388b91063a)
 
 4. PR and content marketing - FilmDoo will leverage PR to raise our profile. This will be assisted by content marketing to be seen as being thought leaders and which should also improve our SEO rankings.
 
@@ -141,13 +141,13 @@ FilmDoo has a diverse strategy for reaching its market that can be divided into 
 
 6. Events - FilmDoo already presents at a number of films festivals and events including Cannes Film Festival, Raindance and Edinburgh Film Festival. FilmDoo intends to increase the number of events it presents at. FilmDoo also intends to speak at universities and film schools.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9466/gzlfcb3752x0e4ywumlaauvcb3m9irt/Image_12_-_FilmDoo_South_Social_Film_Festival_flyers.JPG?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=8deaa67459fe4e99e1ccc2684b560c47)
+![](/img/seedrs/uploads/startup/section_image/image/9466/gzlfcb3752x0e4ywumlaauvcb3m9irt/Image_12_-_FilmDoo_South_Social_Film_Festival_flyers.JPG?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=8deaa67459fe4e99e1ccc2684b560c47)
 
 7. Gamification - FilmDoo's new website design, to be launched over the coming months, utilises a number of principles from the games industry to promote user loyalty and referrals.
 
 8. Working with ethnic &amp; community groups - FilmDoo will aim to work with community and language groups to promote language specific content to their communities.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9465/2st3fm7xygikcq934n2bolp892jq28a/Image_13_-_Film_Kuma.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=0f122ac5813d794a16700c26a32b610a)
+![](/img/seedrs/uploads/startup/section_image/image/9465/2st3fm7xygikcq934n2bolp892jq28a/Image_13_-_Film_Kuma.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=0f122ac5813d794a16700c26a32b610a)
 
 ### Competition strategy
 
@@ -169,5 +169,5 @@ We aim to compete through some of the following:
 
 6. Truly international platform - We have launched globally and now have active users from over 125 countries, which makes the platform one of the first truly global transactional platforms offering content in a variety of languages to a global audience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9467/rlihwtsaqog7k9kmt7q9vt724k7edux/Image_14_-_FilmDoo_Differentiators.png?rect=0%2C0%2C2154%2C1210&w=600&fit=clip&s=d59498ec1c187b0ad071eecf81fabe91)
+![](/img/seedrs/uploads/startup/section_image/image/9467/rlihwtsaqog7k9kmt7q9vt724k7edux/Image_14_-_FilmDoo_Differentiators.png?rect=0%2C0%2C2154%2C1210&w=600&fit=clip&s=d59498ec1c187b0ad071eecf81fabe91)
 

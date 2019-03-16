@@ -87,7 +87,7 @@ A typical Spoon customer enjoys food and consumes consciously, allowing themselv
 
 By offering innovative breakfast products, supported by their 'Build Your Bowl' marketing campaign, Spoon believes they can help grow the breakfast category as a whole, as well as being a very attractive proposition for retailers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14486/6rmvav12zrc99iozkh703td5j6nn3j1/Target_market_shot_.jpg?rect=0%2C0%2C2391%2C3586&w=600&fit=clip&s=8b70af6cbed7061c5d5f8208c4fca29f)
+![](/img/seedrs/uploads/startup/section_image/image/14486/6rmvav12zrc99iozkh703td5j6nn3j1/Target_market_shot_.jpg?rect=0%2C0%2C2391%2C3586&w=600&fit=clip&s=8b70af6cbed7061c5d5f8208c4fca29f)
 
 ### Characteristics of target market
 
@@ -97,7 +97,7 @@ The UK breakfast cereals market is worth £1.5bn. Spoon is positioned as a conte
 
 A survey of 1000 people commissioned by Spoon showed that there is both a lack of inspiration (25%) and a lack of healthy convenient options (45% believe breakfast to be unhealthy) to choose from. The brand is well-positioned to take advantage of these developments, whilst continuing to establish a large core range of cereals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14487/d5blagvs3iafr5j68b3ilv19vll44ju/Target_market_shot_2.jpg?rect=0%2C0%2C3625%2C2428&w=600&fit=clip&s=602e38c2fb0e65dd9a7b88abaf08a607)
+![](/img/seedrs/uploads/startup/section_image/image/14487/d5blagvs3iafr5j68b3ilv19vll44ju/Target_market_shot_2.jpg?rect=0%2C0%2C3625%2C2428&w=600&fit=clip&s=602e38c2fb0e65dd9a7b88abaf08a607)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ Supporting trade marketing through Spoon monthly events and pop-ups, consumer PR
 
 Press features to date include The Grocer, Daily Telegraph, Sainsbury's magazine, Waitrose Food, Jamie Oliver magazine, Olive, Elle Decoration, and The Stylist.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14488/6qug7j3d8zasrchwdeuxb1y747wxl1n/Marketing_stratgey_shot_.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=ce3b9b163c231e5cd3a3d446bba7f790)
+![](/img/seedrs/uploads/startup/section_image/image/14488/6qug7j3d8zasrchwdeuxb1y747wxl1n/Marketing_stratgey_shot_.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=ce3b9b163c231e5cd3a3d446bba7f790)
 
 ### Competition strategy
 

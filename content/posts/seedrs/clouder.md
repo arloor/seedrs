@@ -109,7 +109,7 @@ We intend to spend the funds raised as follows:
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12960/n8pmlacddkbztbhk51laflkice5o5az/9__In_the_Target_Market_above_all_text__9.jpg?rect=0%2C0%2C600%2C458&w=600&fit=clip&s=86396fe189040e28551a56df99258ebc)
+![](/img/seedrs/uploads/startup/section_image/image/12960/n8pmlacddkbztbhk51laflkice5o5az/9__In_the_Target_Market_above_all_text__9.jpg?rect=0%2C0%2C600%2C458&w=600&fit=clip&s=86396fe189040e28551a56df99258ebc)
 
 Vaping is among the fastest growing markets of this decade, currently worth an estimated £12bn p.a. globally. The UK vape market is currently worth an estimated £1.5bn p.a., with 2.9mln vapers in the UK alone.
 
@@ -123,11 +123,11 @@ Our demographics vary based on the service type:
 
 3) Same day delivery is currently only available in Milton Keynes, so all users are MK based. We aim to expand this to other cities in the coming quarter.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12961/q96imd5k8xklazvsfoqqi2yoiemuh1f/10__In_the_Target_Market_below_all_text__10.jpg?rect=0%2C0%2C600%2C449&w=600&fit=clip&s=b1c01609d895cd92d415ad17196d9354)
+![](/img/seedrs/uploads/startup/section_image/image/12961/q96imd5k8xklazvsfoqqi2yoiemuh1f/10__In_the_Target_Market_below_all_text__10.jpg?rect=0%2C0%2C600%2C449&w=600&fit=clip&s=b1c01609d895cd92d415ad17196d9354)
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12962/ayvv0zw5m6xt3a5j1a6io5l8bo6tggj/11__in_the_Characteristics_of_target_market_above_all_text__11.jpg?rect=0%2C0%2C600%2C458&w=600&fit=clip&s=a877f998167d3a648771c44d6723850c)
+![](/img/seedrs/uploads/startup/section_image/image/12962/ayvv0zw5m6xt3a5j1a6io5l8bo6tggj/11__in_the_Characteristics_of_target_market_above_all_text__11.jpg?rect=0%2C0%2C600%2C458&w=600&fit=clip&s=a877f998167d3a648771c44d6723850c)
 
 “By 2021 the worldwide vape market is estimated to reach £25bn p.a., up from £12bn p.a. in ‘17. As consumers recognise the health and cost benefits of vaping, more and more smokers are switching to vaping, further eating into the sales of one of the world's largest £600bn p.a. tobacco market.” <br>- Sebastian Mineev (CAO)
 
@@ -137,7 +137,7 @@ That is where we come in, we allow vape shops and sellers to regain those custom
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12963/8j6ldxqrgc97tpjuujit78v9cnb4yee/12__In_Marketing_Strategy_above_all_text__12.jpg?rect=0%2C0%2C600%2C462&w=600&fit=clip&s=6c90391a147f7f6ecf439c545f2ecdb8)
+![](/img/seedrs/uploads/startup/section_image/image/12963/8j6ldxqrgc97tpjuujit78v9cnb4yee/12__In_Marketing_Strategy_above_all_text__12.jpg?rect=0%2C0%2C600%2C462&w=600&fit=clip&s=6c90391a147f7f6ecf439c545f2ecdb8)
 
 Clouder has a comprehensive marketing strategy, which allowed for rapid growth to 13,000+ UK vaper emails, 6,000+ social media followers and 1,365+ registered users.
 
@@ -155,7 +155,7 @@ Clouder employs various marketing channels:
 
 6) Social media promo. Instagram, Facebook, etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12964/1podzfm2o3093gf7kq5bsjw79itcfjs/13__In_Marketing_Strategy_below_all_text__13.jpg?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=415661199a8a6618982686f535978e05)
+![](/img/seedrs/uploads/startup/section_image/image/12964/1podzfm2o3093gf7kq5bsjw79itcfjs/13__In_Marketing_Strategy_below_all_text__13.jpg?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=415661199a8a6618982686f535978e05)
 
 ### Competition strategy
 

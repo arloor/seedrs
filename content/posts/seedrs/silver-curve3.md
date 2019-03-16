@@ -81,7 +81,7 @@ For many larger users, the initial setup, content creation, and distribution cos
 
 High staff churn in large businesses places a value on ease of use and low training costs, which PixelPipe Signage delivers in spades. <br>Our target market is therefore this large base of businesses, small to large, who are looking for a simple solution that grows sales revenue or streamlines internal communication.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12023/ohsncec9zzolc7ym7y59tikf7g4q94r/Characteristics_of_target_market.png?rect=0%2C0%2C600%2C313&w=600&fit=clip&s=7c464259495f1c77d94b3f6ffc044bea)
+![](/img/seedrs/uploads/startup/section_image/image/12023/ohsncec9zzolc7ym7y59tikf7g4q94r/Characteristics_of_target_market.png?rect=0%2C0%2C600%2C313&w=600&fit=clip&s=7c464259495f1c77d94b3f6ffc044bea)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ The smaller, volume end of the market is represented by two main groups:
 
 PixelPipe Signage meets all these needs with: <br>● low cost of installation. <br>● ease of use. <br>● minimal training requirement. <br>● low cost of sales. <br>● quality output. <br>● high quality content creation. <br>● minimal IT requirements.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12024/l0ubpvwjfg2fwhjviwl6o5gun71jifp/Marketing_Strategy.jpg?rect=0%2C0%2C600%2C364&w=600&fit=clip&s=82c98c2299660918c9c51448e445ba52)
+![](/img/seedrs/uploads/startup/section_image/image/12024/l0ubpvwjfg2fwhjviwl6o5gun71jifp/Marketing_Strategy.jpg?rect=0%2C0%2C600%2C364&w=600&fit=clip&s=82c98c2299660918c9c51448e445ba52)
 
 ### Marketing strategy
 

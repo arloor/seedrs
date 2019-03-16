@@ -55,7 +55,7 @@ The raised funds will be spent on; <br>1. Team: 65% - adding new operational tea
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11246/on2cdmxwd3eczen50ff7abyr0bb88xm/Welendus_image_7.png?rect=0%2C0%2C1196%2C675&w=600&fit=clip&s=b57813cb5ba7e46cfa17c0936321c15c)
+![](/img/seedrs/uploads/startup/section_image/image/11246/on2cdmxwd3eczen50ff7abyr0bb88xm/Welendus_image_7.png?rect=0%2C0%2C1196%2C675&w=600&fit=clip&s=b57813cb5ba7e46cfa17c0936321c15c)
 
 Welendus will have two target markets: <br>1. Savers &amp; Lenders seeking higher returns on their investments.
 
@@ -67,7 +67,7 @@ Thanks to our all new and innovative approach, Welendus will bring affordable sh
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11247/5xxfrkn4v10b39rkby8swolro0mpbp6/Welendus_-_Seedrs_Disruption_Image.png?rect=0%2C0%2C1348%2C576&w=600&fit=clip&s=a52acdeed774682557b5fbd0a4233943)
+![](/img/seedrs/uploads/startup/section_image/image/11247/5xxfrkn4v10b39rkby8swolro0mpbp6/Welendus_-_Seedrs_Disruption_Image.png?rect=0%2C0%2C1348%2C576&w=600&fit=clip&s=a52acdeed774682557b5fbd0a4233943)
 
 Since Welendus will be reaching out to two markets:
 
@@ -87,7 +87,7 @@ Our routes to market are as follow:
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11248/9pug5wyk120v1h681d4ro23gn3ucei8/Welendus_-_Seedrs_New_Product_Image__1_.png?rect=0%2C0%2C931%2C433&w=600&fit=clip&s=d21999944b59ab4917e8efb5df580a5d)
+![](/img/seedrs/uploads/startup/section_image/image/11248/9pug5wyk120v1h681d4ro23gn3ucei8/Welendus_-_Seedrs_New_Product_Image__1_.png?rect=0%2C0%2C931%2C433&w=600&fit=clip&s=d21999944b59ab4917e8efb5df580a5d)
 
 At Welendus we are all about technology, creativity and innovation. We are using some state of the art technologies in the background which will allow us to calculate the risks as well as offer a fully automated fast service to the borrowers. With technology in our DNA we believe we are a highly scalable business model and are looking to rapidly reach a market leading position in the UK which will follow with international expansion.
 

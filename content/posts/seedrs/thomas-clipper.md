@@ -137,7 +137,7 @@ But most popular brands for men were created for the FHM Lad. They ‘do the job
 
 THE FUTURE <br>The FHM Lad is dead. Long live the Instagram Man.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9526/kk4unyn1hgmxil2q90aj6rld8eokm8q/TC_lifestyle.jpeg?rect=0%2C0%2C680%2C510&w=600&fit=clip&s=3a48fb538047200c35f5995ef8da5abb)
+![](/img/seedrs/uploads/startup/section_image/image/9526/kk4unyn1hgmxil2q90aj6rld8eokm8q/TC_lifestyle.jpeg?rect=0%2C0%2C680%2C510&w=600&fit=clip&s=3a48fb538047200c35f5995ef8da5abb)
 
 His research is thorough and online, although he might ‘showroom’ a product in-store before buying it on the website. He cares about the products he buys, and he is invested in the story of how they’re made. He wants to be part of a movement that values quality, innovation and design. He shares every element of his life online, from his holiday photos to his #ShaveOfTheDay. He’s not afraid to invest in his appearance, whether in the form of membership to a gym or a new suit.
 

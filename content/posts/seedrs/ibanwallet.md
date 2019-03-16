@@ -73,7 +73,7 @@ iBAN Wallet is for anyone who wants quick access to loans of any size. The tradi
 
 Applying for loans is a process long requiring modernisation; it is manual and time consuming, due to its lack of automation. The iBAN Wallet brings speed and usability to a previously notoriously clumsy process. Using iBAN Wallet requires only a mobile phone - in 2014, 80% of adults in developing nations had mobile subscriptions. By 2020, it is projected that 90% of these adults will own a mobile phone. We believe this market is present in every country, and we want to gain their business by providing a quick, easy and reliable system that they can access from anywhere.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10477/a95nm4xnn8eipqnmqvah5xg0jkrv7pq/raw7_image.jpg?rect=0%2C0%2C600%2C700&w=600&fit=clip&s=d3e053de3c870d480d20f6c21bde7d6a)
+![](/img/seedrs/uploads/startup/section_image/image/10477/a95nm4xnn8eipqnmqvah5xg0jkrv7pq/raw7_image.jpg?rect=0%2C0%2C600%2C700&w=600&fit=clip&s=d3e053de3c870d480d20f6c21bde7d6a)
 
 ### Characteristics of target market
 
@@ -81,7 +81,7 @@ Our target market has become known as the Crowdlending marketplace or "Sharing E
 
 But we want to go further, accessing the massive global market of mobile phone users. A study by the McKinsey Global Institute found that digital finance can provide access to financial services for 1.6 billion people in emerging economies for the first time, a market that is not currently being tapped.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10587/2wf5rcdtzcy27myxe4s65h4i3s82bq3/Reward1__.jpg?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=29b63e676355e375f97a8a55a4baf200)
+![](/img/seedrs/uploads/startup/section_image/image/10587/2wf5rcdtzcy27myxe4s65h4i3s82bq3/Reward1__.jpg?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=29b63e676355e375f97a8a55a4baf200)
 
 ### Marketing strategy
 
@@ -95,7 +95,7 @@ We have gathered a committed team of talented individuals, with a wealth of expe
 
 1) Web Developer - landing page, pop ups and website in English for UK investors. <br>2) Video Designer - to prepare informational videos on iBAN Wallet. <br>3) API Integrator - to integrate mailing, HootSuite, Zendesk and automations for the first communication with investors. <br>4) Investor Relationship Manager UK. <br>5) Investor Relationship Manager in Spain, France &amp; Germany. <br>6) Four Community Managers - creating social media communities to attract the attention of investors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10478/sr75d7egzkkg2c7r0hfbjfoa6urlogb/raw10_image.jpg?rect=0%2C0%2C600%2C700&w=600&fit=clip&s=b9e491718875f23673fdb2ca9927ea9a)
+![](/img/seedrs/uploads/startup/section_image/image/10478/sr75d7egzkkg2c7r0hfbjfoa6urlogb/raw10_image.jpg?rect=0%2C0%2C600%2C700&w=600&fit=clip&s=b9e491718875f23673fdb2ca9927ea9a)
 
 ### Competition strategy
 

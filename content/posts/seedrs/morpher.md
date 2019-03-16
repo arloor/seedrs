@@ -89,7 +89,7 @@ Please note that there are outstanding loans totalling £121,200 from existing s
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11576/42oo40xfrgrwufwdekmoixful4v96ia/Red_for_web_with_white_logo.jpg?rect=0%2C0%2C1024%2C768&w=600&fit=clip&s=71d5ae0c498865280a166e0c80ef819c)
+![](/img/seedrs/uploads/startup/section_image/image/11576/42oo40xfrgrwufwdekmoixful4v96ia/Red_for_web_with_white_logo.jpg?rect=0%2C0%2C1024%2C768&w=600&fit=clip&s=71d5ae0c498865280a166e0c80ef819c)
 
 ### Target market
 
@@ -103,7 +103,7 @@ More than 100 million people ride bikes in the US each year and worldwide there 
 
 More than 200 million e-bikes have been sold, a figure which is expected to rise to 2 billion by 2050. Due to the higher average speeds of e-bikes it seems probable that helmets may become compulsory for them before they become compulsory for bicycles.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11574/sjc8e1z0bn7fjtrd1ctq6di3apceu0h/Delivery_02.00_01_33_22.Still042.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=525a5b789735938d4f75ea46bcbf4a0f)
+![](/img/seedrs/uploads/startup/section_image/image/11574/sjc8e1z0bn7fjtrd1ctq6di3apceu0h/Delivery_02.00_01_33_22.Still042.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=525a5b789735938d4f75ea46bcbf4a0f)
 
 It has been very hard to ascertain the total size of the cycle safety helmet marketplace as figures have not been compiled by any major Market research organisation. Whatever the accurate figure is, there is little doubt that it is climbing as both sales of bicycles and associated safety awareness increase.
 
@@ -115,7 +115,7 @@ Morpher is the world's first fold-flat EPS helmet to our knowledge and the fact 
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11573/268aos78tdrz8asvykuljf40mg0ai39/Morpher_white_box.png?rect=0%2C0%2C766%2C800&w=600&fit=clip&s=6b306e9aaece0e42da0ac89e838ca6b6)
+![](/img/seedrs/uploads/startup/section_image/image/11573/268aos78tdrz8asvykuljf40mg0ai39/Morpher_white_box.png?rect=0%2C0%2C766%2C800&w=600&fit=clip&s=6b306e9aaece0e42da0ac89e838ca6b6)
 
 Morpher helmets will of course retail at a premium over existing medium to high-quality helmets. Morpher will receive a 10% royalty for all license sales made by the manufacturer.
 
@@ -129,7 +129,7 @@ During our research, we found that 85% of cyclists claim that they don't wear he
 
 Snow sports helmet use is increasing dramatically with many resorts, especially in the US, insisting that skiers wear helmets. These are a pain to travel with and Morpher flat profile will solve many of the portability issues.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11581/bx64povatz5iubxvuac9lv3y4swv4t8/shoot_me_studios-1399.jpg?rect=0%2C0%2C1280%2C853&w=600&fit=clip&s=83e0ee20be3a30386d57e72d4c29d997)
+![](/img/seedrs/uploads/startup/section_image/image/11581/bx64povatz5iubxvuac9lv3y4swv4t8/shoot_me_studios-1399.jpg?rect=0%2C0%2C1280%2C853&w=600&fit=clip&s=83e0ee20be3a30386d57e72d4c29d997)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ We are also in discussions with Motivate, who operate 10 bike share schemes in m
 
 Our Indegogo crowdfunding campaign had a target of $35,000 but so far we have sold almost $400,000 to Indiegogo contributors. The response to the thousands we have delivered has been astonishingly good. This traction will help us to launch other crowdfunding campaigns. It has also helped to bring us many distribution inquiries from all around the world. We have already done deals with Israel, the USA, Japan, Korea, and are currently negotiating with others, including Brazil.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11572/ndyw4rpingq2y4e3ftk79k3m0kw5994/MORPHER_PRESS04.JPG?rect=0%2C0%2C2848%2C4272&w=600&fit=clip&s=7b37d5939886ebaaf05c069cb1bc4400)
+![](/img/seedrs/uploads/startup/section_image/image/11572/ndyw4rpingq2y4e3ftk79k3m0kw5994/MORPHER_PRESS04.JPG?rect=0%2C0%2C2848%2C4272&w=600&fit=clip&s=7b37d5939886ebaaf05c069cb1bc4400)
 
 Jeff Woolf has been selling products on QVC in the UK and US since the mid-1990’s. Morpher is a tremendous product for QVC as it is demonstrable, simple, potentially lifesaving and innovative and QVC have already launched Morpher. We believe this will help to encourage pull from consumers and will demonstrate the considerable benefits of the Morpher helmet over standard non-folding helmets. QVC in the UK reaches around 24 million homes. If the product is successful here then we plan to show the product on QVC in Italy, Germany, Japan, China and the USA.
 
@@ -151,7 +151,7 @@ Our helmets are available for sale through our own website and we plan to sell o
 
 Finally, we believe that there is a large corporate market whereby firms can offer branded Morphers to staff.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11575/7psqq7m3607ymb3cx3s8l2s5tc042yv/shoot_me_studios-1473.jpg?rect=0%2C0%2C1280%2C853&w=600&fit=clip&s=71455acb80ffcc1eb501eb30e654a687)
+![](/img/seedrs/uploads/startup/section_image/image/11575/7psqq7m3607ymb3cx3s8l2s5tc042yv/shoot_me_studios-1473.jpg?rect=0%2C0%2C1280%2C853&w=600&fit=clip&s=71455acb80ffcc1eb501eb30e654a687)
 
 ### Competition strategy
 
@@ -161,7 +161,7 @@ The flat-folding ability of Morpher is what really sets us out from the competit
 
 Morpher is especially complex to make as it currently consists of more than 120 parts and has taken one of the world's finest helmet manufacturers almost 4 years to perfect. This complexity in itself is a tremendous barrier to entry for competitors. Our comprehensive suite of IP is obviously another! <br> <br>The other "folding" helmets retain a bulky and cumbersome shape and also are complex to open and close. Morpher, on the other hand, is extremely simple and quick to operate.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11571/742wgabs6lijf6hhyad2ce99bdc1icr/Delivery_02.00_00_18_17.Still031.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=1810d638726a30702f786efda446f291)
+![](/img/seedrs/uploads/startup/section_image/image/11571/742wgabs6lijf6hhyad2ce99bdc1icr/Delivery_02.00_00_18_17.Still031.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=1810d638726a30702f786efda446f291)
 
 Unlike traditional helmets, Morpher can be easily vended from major bicycle hire points and this is another area that we are looking at in detail. <br> <br>As a result of our awards and the resulting publicity, Morpher already has tremendous traction and as such, has excellent global awareness.
 

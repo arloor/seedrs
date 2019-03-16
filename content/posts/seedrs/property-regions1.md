@@ -115,7 +115,7 @@ Further regulation of the buy-to-let mortgage market is likely, which would make
 
 We are exploring whether we can expand in the future to target investors abroad wanting exposure to the UK property market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5450/4ppsk6ik09k5970dmofb60j9ol4pmxe/OK_forecast_from_Savills_June_2015.png?rect=0%2C0%2C482%2C522&w=600&fit=clip&s=28499b75fb49e5235321afada0cccd6e)
+![](/img/seedrs/uploads/startup/section_image/image/5450/4ppsk6ik09k5970dmofb60j9ol4pmxe/OK_forecast_from_Savills_June_2015.png?rect=0%2C0%2C482%2C522&w=600&fit=clip&s=28499b75fb49e5235321afada0cccd6e)
 
 ### Characteristics of target market
 
@@ -131,7 +131,7 @@ The UK government in 2015 announced it is looking to implement measures that wil
 
 Savills forecast that over the next 5 years property values in the East of England would grow by 25.2%, the East Midlands by 19.3%, whilst London is only 10.4%.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5453/jsyz3y5gn3lkf5lk84awhqusymhb7cx/shutterstock_48898018-b.jpg?rect=0%2C0%2C2000%2C1320&w=600&fit=clip&s=993b5a3a34e2f505fe649ac5900cb82d)
+![](/img/seedrs/uploads/startup/section_image/image/5453/jsyz3y5gn3lkf5lk84awhqusymhb7cx/shutterstock_48898018-b.jpg?rect=0%2C0%2C2000%2C1320&w=600&fit=clip&s=993b5a3a34e2f505fe649ac5900cb82d)
 
 ### Marketing strategy
 
@@ -161,5 +161,5 @@ The regions we choose have growing economies and what we consider to be underval
 
 Due to the design of our technology platform we are able to take investments as small as £250. This low investment entry point should significantly help increase our investor base, and speed of growth. We believe the majority of those that choose to initially invest the minimum, will make repeat investments. We feel that these investors are then likely to make referrals to new customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5452/ki2kwayjzoyoebh11vnsgamn4mpiebs/crowdfunding_market_growth_from_Nesta.png?rect=0%2C0%2C683%2C368&w=600&fit=clip&s=361880f6e11275682bad7bedfc265b8f)
+![](/img/seedrs/uploads/startup/section_image/image/5452/ki2kwayjzoyoebh11vnsgamn4mpiebs/crowdfunding_market_growth_from_Nesta.png?rect=0%2C0%2C683%2C368&w=600&fit=clip&s=361880f6e11275682bad7bedfc265b8f)
 

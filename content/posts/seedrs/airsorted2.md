@@ -79,7 +79,7 @@ As this campaign is aimed at getting our community and network to take part in t
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14277/mtp54vjjbh7ijgncbqiej8p14c4wpkv/Homesharing_issues_.png?rect=0%2C0%2C950%2C541&w=600&fit=clip&s=9c13a6e04c2535f9266d13a75881b1e9)
+![](/img/seedrs/uploads/startup/section_image/image/14277/mtp54vjjbh7ijgncbqiej8p14c4wpkv/Homesharing_issues_.png?rect=0%2C0%2C950%2C541&w=600&fit=clip&s=9c13a6e04c2535f9266d13a75881b1e9)
 
 Most of our hosts have never listed their property on Airbnb or other platforms before. They were put off by all of the requirements they needed to meet, the idea of responding to guests 24/7 as well as the cleaning and laundry they'd need to manage between each stay. At Airsorted we open up the possibility for our hosts to consider platforms like Airbnb, by taking care of everything for them.
 
@@ -87,7 +87,7 @@ We have a wide range of hosts who list their property with us, from Landlords (o
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14276/8woz9zadk2f01b121h0rzu4s32phnr8/Market_characteristics_.png?rect=0%2C0%2C1029%2C580&w=600&fit=clip&s=f6ded557770c55a869c7b52b479c9a0d)
+![](/img/seedrs/uploads/startup/section_image/image/14276/8woz9zadk2f01b121h0rzu4s32phnr8/Market_characteristics_.png?rect=0%2C0%2C1029%2C580&w=600&fit=clip&s=f6ded557770c55a869c7b52b479c9a0d)
 
 Homesharing is now mainstream, even large travel players such as Expedia and Booking.com have followed Airbnb's lead and are listing homes alongside hotels.
 

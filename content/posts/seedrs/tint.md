@@ -109,7 +109,7 @@ We focus on dedicated yoga students that care for content and quality. They are 
 
 The existing population of all loyal followers of our yoga pioneers provide a major benefit to our business. These pioneers have been teaching endless numbers of students and have built large communities in real life and on social media. The buzz that our teachers create in their communities attracts new customers to the platform on a regular basis.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15224/2uu1c5gxlb72o2shdy31qawhjrbbc1q/08_TARGET-MARKET_events-workshops.jpg?rect=0%2C0%2C596%2C356&w=600&fit=clip&s=52cd53036ccc2b095ae04f5272937d0e)
+![](/img/seedrs/uploads/startup/section_image/image/15224/2uu1c5gxlb72o2shdy31qawhjrbbc1q/08_TARGET-MARKET_events-workshops.jpg?rect=0%2C0%2C596%2C356&w=600&fit=clip&s=52cd53036ccc2b095ae04f5272937d0e)
 
 The majority of our current yogis are women (69%) of which 60-70% are between 30 and 50 years old. They show a high loyalty to our brand and happen to be returning customers. 60% of our customers still use our website 6 months after their first purchase.
 
@@ -137,13 +137,13 @@ We have been very successful in using our network and its awareness online and o
 
 4. Yoga Events &amp; Studio Partnerships. <br>Customized vouchers distributed by our teachers at local and global yoga events and trainings. <br>Special offers for members in partner yoga studios.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15225/nnj5pg8gnl6y43vidzwo6q7v6oxi0am/09_MARKETING-STRATEGY_combined-social.jpg?rect=0%2C0%2C540%2C257&w=600&fit=clip&s=664acff5a97bdddf99111ff70a8eda31)
+![](/img/seedrs/uploads/startup/section_image/image/15225/nnj5pg8gnl6y43vidzwo6q7v6oxi0am/09_MARKETING-STRATEGY_combined-social.jpg?rect=0%2C0%2C540%2C257&w=600&fit=clip&s=664acff5a97bdddf99111ff70a8eda31)
 
 ### Competition strategy
 
 The global online yoga market is highly fragmented. Being a new industry, we believe that none of the leading players has a significant market share. The competitive landscape is crowded in the low-price segment, focusing on mass markets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15226/a2v2uxwb35tdyax7c5v2hgk0zkase1e/10_COMPETITION-STRATEGY_Competitor-Matrix.png?rect=0%2C0%2C598%2C400&w=600&fit=clip&s=b6fc7ff9c0b454637c0dcfc084168582)
+![](/img/seedrs/uploads/startup/section_image/image/15226/a2v2uxwb35tdyax7c5v2hgk0zkase1e/10_COMPETITION-STRATEGY_Competitor-Matrix.png?rect=0%2C0%2C598%2C400&w=600&fit=clip&s=b6fc7ff9c0b454637c0dcfc084168582)
 
 We believe that the quality differentiation allows us to provide superior value to customers at a fair price, creating a win-win scenario that we believe will boost the overall profitability and viability of our business.
 
@@ -157,7 +157,7 @@ Direct source of knowledge - We offer first-hand knowledge from the leading teac
 
 Young Ho Kim - Our CEO has achieved tremendous successes over the last two decades and we built on top of them. His exclusive and valuable network, his public presence and his in-depth knowledge allow for a headstart in our industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15227/t646b2qn7k2789umdt4jf3wqwuk50r3/11_COMPETITION-STRATEGY_younghokim.jpg?rect=0%2C0%2C600%2C343&w=600&fit=clip&s=7dcf775584c0aacf9ed920ef56c6b569)
+![](/img/seedrs/uploads/startup/section_image/image/15227/t646b2qn7k2789umdt4jf3wqwuk50r3/11_COMPETITION-STRATEGY_younghokim.jpg?rect=0%2C0%2C600%2C343&w=600&fit=clip&s=7dcf775584c0aacf9ed920ef56c6b569)
 
 We don’t target the entire market. It’s evident that not everybody has the desire to train with the best. However, for all yoga enthusiasts out there who strive for quality and first-hand knowledge we believe we are the platform of choice.
 

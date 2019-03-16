@@ -101,7 +101,7 @@ Separately, we are currently in early stage discussion with a range of major par
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7795/o8kek3ctnjs9ti5ko950h43er6gxuhr/Slide_6.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=7c5e54797afed388263d752552591067)
+![](/img/seedrs/uploads/startup/section_image/image/7795/o8kek3ctnjs9ti5ko950h43er6gxuhr/Slide_6.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=7c5e54797afed388263d752552591067)
 
 ### Target market
 
@@ -117,7 +117,7 @@ c) “Stylish mother or homeworker”: living in affluent areas outside of the c
 
 In addition to private clients, there is a significant Business to Business opportunity through photographic shoots, (pop up) events, corporate clients and weddings. Recent business clients include: The hospital club, Google, Battersea Power station, boohoo, All Bar One, Claire’s Accessories and Maje.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7796/t5cg2o95jwre166tmyzp6bcuro4nq9j/Slide_7.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=f480e5732a57cd72c19ade9c2383b843)
+![](/img/seedrs/uploads/startup/section_image/image/7796/t5cg2o95jwre166tmyzp6bcuro4nq9j/Slide_7.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=f480e5732a57cd72c19ade9c2383b843)
 
 ### Characteristics of target market
 
@@ -127,7 +127,7 @@ British women spend more annually on beauty services (circa £1000+ per year) th
 
 We believe the beauty services market will be reshaped and digitized behind macro trends: time poverty; the ‘uberfication’ of services, the need for “essential maintenance” to look (and feel) good, and an increasingly tech savvy workforce who seek flexibility.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7797/r0pmrkm431cauulwb2rwnkk0edt2w8u/Slide_8.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=37828298d1a7067caf67f19e76fef49e)
+![](/img/seedrs/uploads/startup/section_image/image/7797/r0pmrkm431cauulwb2rwnkk0edt2w8u/Slide_8.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=37828298d1a7067caf67f19e76fef49e)
 
 ### Marketing strategy
 
@@ -143,7 +143,7 @@ c) Local marketing: door drops and flyering at high density targeted location &a
 
 d) PR and influencer marketing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7798/ph6v02d6686cqksa954iuu97lustu5e/Slide_9.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=00b6259065d527799dba767020487c13)
+![](/img/seedrs/uploads/startup/section_image/image/7798/ph6v02d6686cqksa954iuu97lustu5e/Slide_9.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=00b6259065d527799dba767020487c13)
 
 ### Competition strategy
 

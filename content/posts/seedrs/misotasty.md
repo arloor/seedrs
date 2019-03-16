@@ -79,19 +79,19 @@ Please note that the company has issued a different class of shares, B shares, t
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11239/nuqfywmsjwjtl0pkpc1uar55j4js42k/Family.jpg?rect=0%2C0%2C600%2C401&w=600&fit=clip&s=db874f03dd2513cd20f9a20e7c581aa5)
+![](/img/seedrs/uploads/startup/section_image/image/11239/nuqfywmsjwjtl0pkpc1uar55j4js42k/Family.jpg?rect=0%2C0%2C600%2C401&w=600&fit=clip&s=db874f03dd2513cd20f9a20e7c581aa5)
 
 ### Target market
 
 Our target market are busy millennials looking for meal and snack solutions that are convenient without compromising on taste or nutrition. They are excited to try new flavours and have experienced Japanese-inspired dishes before, perhaps in a restaurant like Wagamama or Yo Sushi. “Japanese food is exciting consumers as there is much to discover and the market is still unsaturated.” With 44% of British people enjoying Japanese noodles or sushi regularly (Wing Yip, 2016), we believe that those driving this trend are core to our target market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11278/f8q4kid3xmdbpr8u4ob2pvps8vjtg7z/MISO_TASTY_FUTURE_RANGE.png?rect=0%2C0%2C1119%2C507&w=600&fit=clip&s=cd2de2a6145fd80b33e7d2b47d51ec25)
+![](/img/seedrs/uploads/startup/section_image/image/11278/f8q4kid3xmdbpr8u4ob2pvps8vjtg7z/MISO_TASTY_FUTURE_RANGE.png?rect=0%2C0%2C1119%2C507&w=600&fit=clip&s=cd2de2a6145fd80b33e7d2b47d51ec25)
 
 As international travel to East Asia continues to rise (it rose by 53% in the decade to 2013) our target market are seeking out new flavours that are authentic. Trends in Indian and Mexican meal kits - such as the ‘Spice Tailor’ and Old el Paso brands - have demonstrated what we see to be a growing demand for authentic but accessible food products that help consumers enjoy and re-create dishes they have tried at quality restaurants. “Shoppers are paying more for shortcuts to authenticity...smaller premium brands have gained share.” (The Grocer, 2016).
 
 Internationally, we see great longer term potential for our products to appeal to regions with this busy, millennial demographic. We have begun conversations with distributors in key areas where we believe our target consumers reside, such as Australia. Our Miso Tasty cookbook is already being distributed in Australia, New Zealand, South Africa, and Europe, and will be launching soon in the US. We believe that this serves as a great indicator for the potential demand internationally for our Miso Tasty brand and range of Japanese-inspired products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11241/z00c9wqgdb7fky1m3tn8z97b9oxa6f/Yoga.jpg?rect=0%2C0%2C600%2C401&w=600&fit=clip&s=92c4af21009772f0ec56b752b3344908)
+![](/img/seedrs/uploads/startup/section_image/image/11241/z00c9wqgdb7fky1m3tn8z97b9oxa6f/Yoga.jpg?rect=0%2C0%2C600%2C401&w=600&fit=clip&s=92c4af21009772f0ec56b752b3344908)
 
 ### Characteristics of target market
 
@@ -117,7 +117,7 @@ SAMPLING: This is key to appreciating the unique flavours and quality of our pro
 
 CONCEPT STORE: We are looking to secure a location in 2017 in King's Cross. This site could provide a tremendous advertising and experiential opportunity for consumers to interact with Miso Tasty in a bespoke environment.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11240/6dhbl6y8yhw3srxr8flosw7d1rd7whh/Social-Media.jpg?rect=0%2C0%2C600%2C534&w=600&fit=clip&s=72a721a00cfe0f89dc7d60b502b425d6)
+![](/img/seedrs/uploads/startup/section_image/image/11240/6dhbl6y8yhw3srxr8flosw7d1rd7whh/Social-Media.jpg?rect=0%2C0%2C600%2C534&w=600&fit=clip&s=72a721a00cfe0f89dc7d60b502b425d6)
 
 ### Competition strategy
 
@@ -125,11 +125,11 @@ We believe that Miso Tasty’s positioning is unique in the UK; making Japanese 
 
 Our specialism allows us to focus on creating truly different, better products on the market: our miso soups are still the only ones to our knowledge in the market that come with a separate pack of garnishes; it ensures that our proprietary miso soup paste delivers maximum fresh flavour and a more complete and authentic experience. Lulu Grimes, of Olive Magazine, declared that they “knocked the socks off other packs of miso soup”.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11237/2tzn9fozzhx23untba0ipcap94y3nef/Miso_tasty_hands_miso_soups_and_pastes__1_.jpg?rect=0%2C0%2C1024%2C1062&w=600&fit=clip&s=61879eccc032d769a814a546b6fd4e0f)
+![](/img/seedrs/uploads/startup/section_image/image/11237/2tzn9fozzhx23untba0ipcap94y3nef/Miso_tasty_hands_miso_soups_and_pastes__1_.jpg?rect=0%2C0%2C1024%2C1062&w=600&fit=clip&s=61879eccc032d769a814a546b6fd4e0f)
 
 As we launch our new range of Ramen Noodle Kits, our competitive strategy becomes sharper. This range aims to tap into a large existing market for noodles, and upgrade the noodle meal at home from the greasy, unimaginative stir-fry noodles dominated by Blue Dragon, Sharwoods, and supermarket brand noodles to the on-trend, healthier, and more versatile Ramen Noodle soups, typical of the noodles enjoyed at Ramen bars and Wagamama’s across the country. While other noodles in the market have been developed for the stir-fry meal, the texture of Miso Tasty’s non-fried noodles have been selected to pair perfectly with our signature miso soup.
 
 We believe that the millennial market will be excited by our new range of 6-minute ramen noodle bases that can be customised with toppings they already have. We hope that our noodle base, with nourishing miso soup, will be the future of healthier, tastier noodle meals at home.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11279/cr38597wqu7s47h1af7kqr5pd0jmkcm/RAMEN_SOUP_COOKED_UP.jpg?rect=0%2C0%2C598%2C513&w=600&fit=clip&s=5c323b7ab320f969213f4f0a0c614d09)
+![](/img/seedrs/uploads/startup/section_image/image/11279/cr38597wqu7s47h1af7kqr5pd0jmkcm/RAMEN_SOUP_COOKED_UP.jpg?rect=0%2C0%2C598%2C513&w=600&fit=clip&s=5c323b7ab320f969213f4f0a0c614d09)
 

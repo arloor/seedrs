@@ -121,7 +121,7 @@ ENTERPRISE IRELAND CONVERTIBLE PREFERENCE SHARES <br>Enterprise Ireland have inv
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13688/f6abhse7jn7ey7ks1kypw8vmg7zzg1p/ss3.jpg?rect=0%2C0%2C1913%2C864&w=600&fit=clip&s=6b7caa1b2068c8f053dc2ca5123340bd)
+![](/img/seedrs/uploads/startup/section_image/image/13688/f6abhse7jn7ey7ks1kypw8vmg7zzg1p/ss3.jpg?rect=0%2C0%2C1913%2C864&w=600&fit=clip&s=6b7caa1b2068c8f053dc2ca5123340bd)
 
 ### Target market
 
@@ -133,7 +133,7 @@ In 2018 we are focusing on three specific markets:
 
 3. Military - We have collaborated with Aspetto Inc., a current supplier to the US Military, and developed a blast resistant and ballistic proof tent for military applications, to be launched at the annual SHOT Show in January. Note that the founders of Aspetto Inc. have just been listed on Forbes 30 under 30 so this is a very strategic partnership for us. US military spent US $126 Billion on procurement in 2016 and this is on the rise.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13689/3rgfsqgdh8fh1b8zc4bti926xwrt9zv/DSC_0534.jpg?rect=0%2C-1%2C3871%2C2592&w=600&fit=clip&s=4c122b70438c6d049e8e3614b265dd34)
+![](/img/seedrs/uploads/startup/section_image/image/13689/3rgfsqgdh8fh1b8zc4bti926xwrt9zv/DSC_0534.jpg?rect=0%2C-1%2C3871%2C2592&w=600&fit=clip&s=4c122b70438c6d049e8e3614b265dd34)
 
 ### Characteristics of target market
 
@@ -149,7 +149,7 @@ B) We target rental companies that rent shelters, plant and machinery to these c
 
 Military: <br>As our partners supply the US military specifically, we will be focusing on this initially.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13687/ktklxwt5vxh04kbr3u6mmzjc7bvter0/Screen_Shot_2018-01-15_at_09.44.46.png?rect=0%2C0%2C1330%2C887&w=600&fit=clip&s=ad22bb1942eec427d5996b0c620da95f)
+![](/img/seedrs/uploads/startup/section_image/image/13687/ktklxwt5vxh04kbr3u6mmzjc7bvter0/Screen_Shot_2018-01-15_at_09.44.46.png?rect=0%2C0%2C1330%2C887&w=600&fit=clip&s=ad22bb1942eec427d5996b0c620da95f)
 
 ### Marketing strategy
 
@@ -163,7 +163,7 @@ We have 4 core marketing strategies.
 
 4. Direct engagement, particularly with Industrial and Military partners, is essential. This is done through building contacts within those industries, which we have acquired ourselves and through the 32 localised Enterprise Ireland offices around the world. We strive to always meet face to face as this is much more effective, especially in the B2B relationships.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13690/kgasu22hcbnabpgai3hgzjckj77zehj/Crua_Tri_Inspiration-16.jpg?rect=0%2C0%2C6896%2C3284&w=600&fit=clip&s=6ea629deaded4274b2c40d4d7b8bfff5)
+![](/img/seedrs/uploads/startup/section_image/image/13690/kgasu22hcbnabpgai3hgzjckj77zehj/Crua_Tri_Inspiration-16.jpg?rect=0%2C0%2C6896%2C3284&w=600&fit=clip&s=6ea629deaded4274b2c40d4d7b8bfff5)
 
 ### Competition strategy
 

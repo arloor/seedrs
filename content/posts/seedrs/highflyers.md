@@ -67,7 +67,7 @@ Segments and geographies to tackle: <br>• July to December 2015: London <br>�
 
 The following is a breakdown of our estimated market size and is based to some extent on the assumption that the percentage of workers in accounting jobs in London is approximately the same as the rest of the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5353/rvlcqf2tl1ctpm2yamdmxcgdi8fof51/Seedrs_-_Market_size__fixed2__FINAL.png?rect=0%2C0%2C948%2C423&w=600&fit=clip&s=de673b99b279e6879b623f71f2cc0944)
+![](/img/seedrs/uploads/startup/section_image/image/5353/rvlcqf2tl1ctpm2yamdmxcgdi8fof51/Seedrs_-_Market_size__fixed2__FINAL.png?rect=0%2C0%2C948%2C423&w=600&fit=clip&s=de673b99b279e6879b623f71f2cc0944)
 
 ### Marketing strategy
 
@@ -75,15 +75,15 @@ Go-to-market strategy <br>Highflyers is a digital marketplace and as such it nee
 
 Online marketing <br>So far, Highflyers has attracted all its candidates through digital marketing activities. This is ideal, as digital marketing allows measurability and scalability. In 4 months (May, June, July) Highflyers digital marketing attracted over 650 candidates, for a total direct cost of approximately £4,000. This means that one applicant costs around £6.00, and a Highflyer cost (from now on CAC, a very important KPI, cost of acquisition) of less than £40.00 (this can vary according to the quality of candidates currently in pipeline and not qualified yet). <br>Quality of candidates and CAC has constantly improved, as the Highflyers team learnt how to target their audience and communicate to it.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5356/t1ll19pthbi7jhlgtglj8pqpdsjv0tg/Table4_-_marketing_strategy1.png?rect=0%2C0%2C1280%2C718&w=600&fit=clip&s=f63a5679ba9640726f4f0feeedb2034e)
+![](/img/seedrs/uploads/startup/section_image/image/5356/t1ll19pthbi7jhlgtglj8pqpdsjv0tg/Table4_-_marketing_strategy1.png?rect=0%2C0%2C1280%2C718&w=600&fit=clip&s=f63a5679ba9640726f4f0feeedb2034e)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5357/5neomnfg82ln8ojg6hjtghkojsqm10o/Table5_-_marketing_strategy2.png?rect=0%2C0%2C1278%2C719&w=600&fit=clip&s=dfe6d1ee7ab77ba35037e04cd10cfcc7)
+![](/img/seedrs/uploads/startup/section_image/image/5357/5neomnfg82ln8ojg6hjtghkojsqm10o/Table5_-_marketing_strategy2.png?rect=0%2C0%2C1278%2C719&w=600&fit=clip&s=dfe6d1ee7ab77ba35037e04cd10cfcc7)
 
 
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5354/5trgz4o8d63pqofxtl3kwpoi9voydfw/Table1_-_competition1.png?rect=13%2C0%2C670%2C657&w=600&fit=clip&s=2b7dc0af2662f8cf76f2537e611d7010)
+![](/img/seedrs/uploads/startup/section_image/image/5354/5trgz4o8d63pqofxtl3kwpoi9voydfw/Table1_-_competition1.png?rect=13%2C0%2C670%2C657&w=600&fit=clip&s=2b7dc0af2662f8cf76f2537e611d7010)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5355/f8jbakkkfl9ecxn95c24gfin5iuuuhh/Table2_-_competition2.png?rect=0%2C0%2C679%2C549&w=600&fit=clip&s=c688f2865e99b8ee256cba2c0682c5da)
+![](/img/seedrs/uploads/startup/section_image/image/5355/f8jbakkkfl9ecxn95c24gfin5iuuuhh/Table2_-_competition2.png?rect=0%2C0%2C679%2C549&w=600&fit=clip&s=c688f2865e99b8ee256cba2c0682c5da)
 

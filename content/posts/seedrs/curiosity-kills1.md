@@ -99,13 +99,13 @@ Often on lower budget and independent films, filmmakers are wholly focused on th
 
 For us it is integral to our business - filmmaking is after all a business and recouping investor monies is at the forefront of our minds at all times. This is one of the reasons we have attached a co-producer whose expertise is buying and selling early stage films.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4116/cnn73qp13yk01y4chzurt5fr4tkdcvq/CK006.jpeg?rect=0%2C0%2C1920%2C810&w=600&fit=clip&s=cd61b50fc3ec25312cb33757c519a59e)
+![](/img/seedrs/uploads/startup/section_image/image/4116/cnn73qp13yk01y4chzurt5fr4tkdcvq/CK006.jpeg?rect=0%2C0%2C1920%2C810&w=600&fit=clip&s=cd61b50fc3ec25312cb33757c519a59e)
 
 ### Characteristics of target market
 
 In 2012, UK cinema admissions exceeded 172.5 million, the third highest figure since 2001. Cinema-going proved its resilience with cinema overtaking DVD in its share of the UK's filmed entertainment market for the first time, with box office receipts nudging a record £1.1 billion in 2012. <br> <br>According to the BFI, the UK is the third largest film market in the world, generating revenues in excess of £4 billion in 2012 alone. <br>Internationally the filmed entertainment industry was worth a staggering $88.6 billion in 2012. <br> <br>While DVD/Blu-ray sales have naturally declined as saturation is reached on older films, the newly-revitalised HMV chain in the UK plays a crucial role in acting as an outlet for lower-budget fare. Also the genuine rise in Video-on-Demand services such as Sky Box Office and more impressively Netflix will act to diversify income streams for films such as ‘Welcome to Curiosity’ as well as reduce the attraction of pirated copies of films.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4117/ps0e71nlygx6sbdko6ovm0dklnz6vyh/CK018.jpeg?rect=0%2C0%2C1920%2C803&w=600&fit=clip&s=ad293dff38b60afd0a01f7d893e38a3e)
+![](/img/seedrs/uploads/startup/section_image/image/4117/ps0e71nlygx6sbdko6ovm0dklnz6vyh/CK018.jpeg?rect=0%2C0%2C1920%2C803&w=600&fit=clip&s=ad293dff38b60afd0a01f7d893e38a3e)
 
 ### Marketing strategy
 
@@ -115,7 +115,7 @@ In anticipation of marketing for any release of the film, we have also specifica
 
 On 'Two Days in the Smoke' we have been able to exploit the profile of several of our more active cast members, including EastEnders' Matt di'Angelo, Hollyoaks' Anna Passey and Irish girlband B*Witched's Lindsay Armaou. Lindsay played a supporting character in the film but went on to feature on ITV's 'Big Reunion' series (which ran clips of her scenes in the film) along with chat show appearances and press articles where she promoted the film, increasing its social media profile significantly. We would expect to emulate and improve upon this with 'Welcome to Curiosity'.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4118/mog37owro8tfzz5zj3owu73xuo8ttoh/CK028.jpeg?rect=0%2C0%2C1920%2C810&w=600&fit=clip&s=15558f3f8fb1e264c045b559496d150c)
+![](/img/seedrs/uploads/startup/section_image/image/4118/mog37owro8tfzz5zj3owu73xuo8ttoh/CK028.jpeg?rect=0%2C0%2C1920%2C810&w=600&fit=clip&s=15558f3f8fb1e264c045b559496d150c)
 
 ### Competition strategy
 

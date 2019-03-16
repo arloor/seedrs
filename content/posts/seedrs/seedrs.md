@@ -133,7 +133,7 @@ Both sides of our market are vast in scale:
 
 Because we are in such a new space, we have no firm basis on which to predict how much of these markets can actually be captured. However, there are estimates that equity crowdfunding can become a $300 billion market in the U.S. in time (see <a target="_blank" rel="nofollow" class="outside" href="http://bit.ly/W0EN5A">http://bit.ly/W0EN5A</a>). We think the potential scale is similar in the UK and Europe.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/410/ggvz13gr3led4ewya57nbmswnq2ityy/market_chart.jpg?rect=0%2C0%2C1079%2C846&w=600&fit=clip&s=06ef2a74f85f9696438a843c36edcc2f)
+![](/img/seedrs/uploads/startup/section_image/image/410/ggvz13gr3led4ewya57nbmswnq2ityy/market_chart.jpg?rect=0%2C0%2C1079%2C846&w=600&fit=clip&s=06ef2a74f85f9696438a843c36edcc2f)
 
 ### Marketing strategy
 
@@ -157,7 +157,7 @@ Independent investors come to Seedrs to look for investments. They are seeking t
 
 Network investors come to Seedrs to invest in a specific startup. <br>For them, the entrepreneur is a personal connection or part of a community of shared interest, and we are a platform for them to make investments they have already found. Our core marketing strategy for these investors is entrepreneur referrals: these investors will only come to us once driven by the entrepreneur, and our role is to provide tools and guidance to help entrepreneurs communicate with their audiences.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/411/pdqzh5eq6549yoxd0lxfuci2zfas55v/Investor_typeswhite111.jpg?rect=0%2C0%2C945%2C767&w=600&fit=clip&s=a3dbcc2f4fdcedcfed8cf493a89162a0)
+![](/img/seedrs/uploads/startup/section_image/image/411/pdqzh5eq6549yoxd0lxfuci2zfas55v/Investor_typeswhite111.jpg?rect=0%2C0%2C945%2C767&w=600&fit=clip&s=a3dbcc2f4fdcedcfed8cf493a89162a0)
 
 ### Competition strategy
 
@@ -167,5 +167,5 @@ We will beat our main current competitor because we provide a significantly more
 
 Going forward, we recognise that new competitors will emerge that provide a service to investors and entrepreneurs that is similarly professional to ours. However, we will beat them through our commitment to constant innovation, our hunger for aggressive growth and the power of the network effects we are creating.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/412/4g6y9cp3lktw6nh8jnzy3529f7ocidf/Nominee_Diagram.jpg?rect=0%2C0%2C1217%2C2410&w=600&fit=clip&s=19976aa168e9c63ae7802643df033f51)
+![](/img/seedrs/uploads/startup/section_image/image/412/4g6y9cp3lktw6nh8jnzy3529f7ocidf/Nominee_Diagram.jpg?rect=0%2C0%2C1217%2C2410&w=600&fit=clip&s=19976aa168e9c63ae7802643df033f51)
 

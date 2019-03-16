@@ -71,7 +71,7 @@ With faster cellular networks and more affordable data rates, coupled with incre
 
 Firef.ly aims to solve this problem and create the travel tool for the future.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3158/bg85jeh46f2ki4dkcyxkgz9tn6o2ud8/Firef.ly.png?w=600&fit=clip&s=304e5fa94b0f06d073ccd3ebee1a09c3)
+![](/img/seedrs/uploads/startup/section_image/image/3158/bg85jeh46f2ki4dkcyxkgz9tn6o2ud8/Firef.ly.png?w=600&fit=clip&s=304e5fa94b0f06d073ccd3ebee1a09c3)
 
 ### Characteristics of target market
 
@@ -81,7 +81,7 @@ Smartphone &amp; App Usage Data: <br>• Smartphone users expected to number 1.7
 
 Further relevant target market statistics (from Lonely Planet): <br>• Male/Female: 50% / 50% <br>• Average age: 25 - 35 <br>• Well-travelled: 1 in 10 lonely planet users takes 6+ international trips in 2 years <br>• Educated: UK: 72% have a degree or professional qualification <br>• Household income: UK: 41% have a household income of &gt;£50,000
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3165/jm7bih9i8xlao3ys2atq297scedjoj0/Seedrs_Version_-_Firefly_Strip_Individual_Screen_Page_06_3.jpg?rect=0%2C0%2C2178%2C1162&w=600&fit=clip&s=59656cbd327696f35ebc37865768dd5f)
+![](/img/seedrs/uploads/startup/section_image/image/3165/jm7bih9i8xlao3ys2atq297scedjoj0/Seedrs_Version_-_Firefly_Strip_Individual_Screen_Page_06_3.jpg?rect=0%2C0%2C2178%2C1162&w=600&fit=clip&s=59656cbd327696f35ebc37865768dd5f)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ After this first year we will have worked very hard on our product market fit an
 
 We have set aside 10% of our budget for marketing costs throughout this process to play our hand in some of the more traditional marketing areas.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3157/mmnu4fepjlcnq7nwo8xr08qpe8l7h9i/Seedrs_Version_-_Firefly_Strip_Individual_Screen_Page_09.png?rect=0%2C0%2C2457%2C1311&w=600&fit=clip&s=c9cdf5046330ec03ce2e78a35f5cca77)
+![](/img/seedrs/uploads/startup/section_image/image/3157/mmnu4fepjlcnq7nwo8xr08qpe8l7h9i/Seedrs_Version_-_Firefly_Strip_Individual_Screen_Page_09.png?rect=0%2C0%2C2457%2C1311&w=600&fit=clip&s=c9cdf5046330ec03ce2e78a35f5cca77)
 
 ### Competition strategy
 
@@ -109,5 +109,5 @@ Enjoyable User Experience + Beautiful design: <br>With a strong, award-winning b
 
 Unique product: <br>We don't believe that any of our competitors look at the entire life cycle of travel in the way Firef.ly looks at the problem. Firef.ly's playful deep-tech approach to travel integrates trip planning, guides, maps, journals, and social sharing with an e-commerce component offering personalized, one-of-a-kind mementos.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3153/k3wiw2s8owvbe0ck4nzdqhyu6juh7b2/Seedrs_Version_-_Firefly_Strip_Individual_Screen_Page_10.png?rect=0%2C0%2C1418%2C756&w=600&fit=clip&s=1fbc39f2ed96436a74d87f5a77aec7d4)
+![](/img/seedrs/uploads/startup/section_image/image/3153/k3wiw2s8owvbe0ck4nzdqhyu6juh7b2/Seedrs_Version_-_Firefly_Strip_Individual_Screen_Page_10.png?rect=0%2C0%2C1418%2C756&w=600&fit=clip&s=1fbc39f2ed96436a74d87f5a77aec7d4)
 

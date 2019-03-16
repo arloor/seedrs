@@ -71,7 +71,7 @@ Pronto plans to continue the expansion of our delivery area to cover the whole o
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8401/qxpmg9nolsywjcn6obouzjejbh6q8td/Market_1.jpg?rect=0%2C-2%2C511%2C288&w=600&fit=clip&s=59f5f8454f73399f8098a71cae8bc86c)
+![](/img/seedrs/uploads/startup/section_image/image/8401/qxpmg9nolsywjcn6obouzjejbh6q8td/Market_1.jpg?rect=0%2C-2%2C511%2C288&w=600&fit=clip&s=59f5f8454f73399f8098a71cae8bc86c)
 
 ### Target market
 
@@ -79,7 +79,7 @@ Pronto's target market is everyone who wants access to delicious, healthy, quali
 
 Young professionals currently make up a large proportion of the customer base, as they are time poor and value the convenience of a high quality, healthy meal aiming to be delivered in less than 25 minutes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8402/saptasddhywr04yupi50y8d4n61azw2/Market_2.jpg?rect=0%2C-2%2C511%2C288&w=600&fit=clip&s=d0f594fb6a504213047a93bf0941853e)
+![](/img/seedrs/uploads/startup/section_image/image/8402/saptasddhywr04yupi50y8d4n61azw2/Market_2.jpg?rect=0%2C-2%2C511%2C288&w=600&fit=clip&s=d0f594fb6a504213047a93bf0941853e)
 
 ### Characteristics of target market
 
@@ -87,7 +87,7 @@ The UK is the largest food delivery takeaway market in Europe and the second lar
 
 Our customers' consistent feedback is that they order from us because the meals are healthy and delicious and we hope to capitalise on this healthy-conscious food trend by rolling out a rotating menu of nutritious and well balanced meals to our fans.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8403/8c0ctnf2i7hzm9vlfv7rqchfomurj86/Market_3.jpg?rect=0%2C0%2C511%2C287&w=600&fit=clip&s=d99cf99cda4ff4b92cbaf758c43d4a13)
+![](/img/seedrs/uploads/startup/section_image/image/8403/8c0ctnf2i7hzm9vlfv7rqchfomurj86/Market_3.jpg?rect=0%2C0%2C511%2C287&w=600&fit=clip&s=d99cf99cda4ff4b92cbaf758c43d4a13)
 
 ### Marketing strategy
 
@@ -97,11 +97,11 @@ We have just rolled out our first marketing campaign on 23rd May. It is a hyper 
 
 Customer success is key to what we do at Pronto, we have processes in place that allow us to monitor customer feedback constantly and mean that we can change menus depending on customer feedback.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8404/ys2a09fbx0r6f9rbd9elfy15rguy98/Market_4.jpg?rect=0%2C0%2C511%2C287&w=600&fit=clip&s=bcf03076275b8ef399112c7ae5aca5e6)
+![](/img/seedrs/uploads/startup/section_image/image/8404/ys2a09fbx0r6f9rbd9elfy15rguy98/Market_4.jpg?rect=0%2C0%2C511%2C287&w=600&fit=clip&s=bcf03076275b8ef399112c7ae5aca5e6)
 
 ### Competition strategy
 
 Pronto's technology is at the heart of the business and is the key differentiator that we believe provides its competitive advantage. As Pronto scales, the data we have gathered on historic orders will enable us to enhance our algorithms to optimise routes and pick-up/drop-offs patterns, customise meal choices and offer more personlisation which we believe will give Pronto an undisputed technological advantage against our competitors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8405/77o8v4fczpfoa64mqqdw2gb7d2h7aqc/Market_5.jpg?rect=0%2C0%2C511%2C287&w=600&fit=clip&s=681d64178ca7b54b5ab6ad62f9774ba8)
+![](/img/seedrs/uploads/startup/section_image/image/8405/77o8v4fczpfoa64mqqdw2gb7d2h7aqc/Market_5.jpg?rect=0%2C0%2C511%2C287&w=600&fit=clip&s=681d64178ca7b54b5ab6ad62f9774ba8)
 

@@ -83,7 +83,7 @@ Ice Tea
 
 At the end of 2012, it was decided that Charbrew should move into the Ice Tea market. The Britvic soft drinks report, based on Neilson and CGA data, found that the ‘’cold hot drink’’ category as a whole grew 43%. It is clear to us that ice tea is significantly outperforming the market average.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1772/qp44gvi4yu0k7q2qal0fsr6j0p8dn9v/Breww__15_of_32_.jpg?rect=0%2C1086%2C2848%2C2215&w=600&fit=clip&s=1f4c710d7b57bcf6e5b3015428be6a35)
+![](/img/seedrs/uploads/startup/section_image/image/1772/qp44gvi4yu0k7q2qal0fsr6j0p8dn9v/Breww__15_of_32_.jpg?rect=0%2C1086%2C2848%2C2215&w=600&fit=clip&s=1f4c710d7b57bcf6e5b3015428be6a35)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ Utilising sales data we have been able to clearly define who Charbrew customers 
 
 Age range - 25-45 year old <br>Gender - Female <br>ACORN classification - Highly Affluent, Wealth Achievers and Urban prosperity <br>Behavioural Profile - Confident cooks and Health conscious.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1774/8xzebtcde2wob1lb245ns280mzphrts/IMG_5314.JPG?w=600&fit=clip&s=d854b4ae6a72c7e49c42f92f1307024f)
+![](/img/seedrs/uploads/startup/section_image/image/1774/8xzebtcde2wob1lb245ns280mzphrts/IMG_5314.JPG?w=600&fit=clip&s=d854b4ae6a72c7e49c42f92f1307024f)
 
 ### Marketing strategy
 
@@ -107,7 +107,7 @@ The mid-term view is to develop Charbrew on an international retail basis target
 
 The Long term view is to fully evolve the brand into complementary products to the brand, examples of this being our Ice tea which successfully launched into 250 Holland and Barrett Stores in June 2014. The Charbrew brand is at an early yet unique position with limited new entrants into the supermarket tea aisles we have broken the mould and built traction with reputable retailers. <br> <br>The company requires funding to catalyse the already growing awareness and distribution of Charbrew products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1775/tgshea9dcl0l179x7ifjob2ijojaeju/IMG_5294.JPG?rect=0%2C0%2C2133%2C1720&w=600&fit=clip&s=32fa46179b954c3dd52ac27f19cb0a1e)
+![](/img/seedrs/uploads/startup/section_image/image/1775/tgshea9dcl0l179x7ifjob2ijojaeju/IMG_5294.JPG?rect=0%2C0%2C2133%2C1720&w=600&fit=clip&s=32fa46179b954c3dd52ac27f19cb0a1e)
 
 ### Competition strategy
 
@@ -117,5 +117,5 @@ Twinings is the market leader in herbal teas and fruit infusions whilst also hav
 
 Also proving the buoyancy of the mesh tea pyramid and its success in the food service market channel, The London Tea Company (“LTC”) was set up in 2003 by two brothers, Dinuk and Mahin Dissanayake. LTC have positioned their brand focusing on high end premium teas &amp; infusions marketed under the LTC brand and as a supplier of private label products. LTC’s main route to market is through the food service channel including work places, restaurants, hotels, visitor attractions, travel, universities. Their company strategy is ’to provide, for the discerning Foodservice supplier and caterer, a range of fine quality, ethically sourced teas and infusions, for front and back of house use, which leaves a lasting impression of highest quality and superior taste with the consumer.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1776/b47284mimbt1yvvuyyhjaf0a57iepuc/IMG_4638.JPG?w=600&fit=clip&s=6af7a5623b8e84c331d28096778fdd38)
+![](/img/seedrs/uploads/startup/section_image/image/1776/b47284mimbt1yvvuyyhjaf0a57iepuc/IMG_4638.JPG?w=600&fit=clip&s=6af7a5623b8e84c331d28096778fdd38)
 

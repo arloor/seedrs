@@ -101,7 +101,7 @@ Oppo appeals to people who don’t want to compromise on taste and quality, and 
 
 Our core consumer is a 25-50 year old professional urban / family female. She goes to the gym or does yoga, tennis or running every week. Together with her partner and children she loves ice cream, but worries about the sugar and calories. Oppo looks amazing because it offers the indulgence of luxury ice cream, with less than half the sugar of one of her child’s smoothies.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7013/nquq8d0b7em0w3d2oprw74lnwspsxec/Oppo_Positioning_vs_ice_cream_and_frozen_yoghurt_transparent.png?rect=0%2C0%2C916%2C505&w=600&fit=clip&s=8cc2c708167483c31ce663bd3b4e424f)
+![](/img/seedrs/uploads/startup/section_image/image/7013/nquq8d0b7em0w3d2oprw74lnwspsxec/Oppo_Positioning_vs_ice_cream_and_frozen_yoghurt_transparent.png?rect=0%2C0%2C916%2C505&w=600&fit=clip&s=8cc2c708167483c31ce663bd3b4e424f)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ We also target more health conscious ‘ice cream avoiders’ – which is why s
 
 Oppo is the best of both worlds. Proper dairy ice cream just without the calories and sugar. Oppo gives retailers a way to reach this growing number of consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6991/n4avnvxovmj57c09089fa9778vxepuw/Oppo_marketing.png?rect=0%2C0%2C995%2C630&w=600&fit=clip&s=a16c9fe6c2140e22c7e3f328936f7d89)
+![](/img/seedrs/uploads/startup/section_image/image/6991/n4avnvxovmj57c09089fa9778vxepuw/Oppo_marketing.png?rect=0%2C0%2C995%2C630&w=600&fit=clip&s=a16c9fe6c2140e22c7e3f328936f7d89)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ Oppo can now be found in 130 Waitrose stores, 400 Co-Op stores, 220 Holland &amp
 
 • PR: we have reached an estimated 10 million people in the last 12 months via national news features, food and lifestyle consumer print and digital press including coverage in the Daily Mail, The Guardian, the Mirror, Vogue, Harpers Bazaar, The Huffington Post, Country Life and more. Generating free press remains a key focus as we continue to set the trend for low sugar super-food indulgence.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6992/d5xm2d94ny1nu5g9htbi3777ceucjr2/Press_Quotes_marketing_strategy_with_border.jpeg?rect=0%2C0%2C1280%2C398&w=600&fit=clip&s=c63c365bb2c7073303b2bb7b7ba03534)
+![](/img/seedrs/uploads/startup/section_image/image/6992/d5xm2d94ny1nu5g9htbi3777ceucjr2/Press_Quotes_marketing_strategy_with_border.jpeg?rect=0%2C0%2C1280%2C398&w=600&fit=clip&s=c63c365bb2c7073303b2bb7b7ba03534)
 
 • Social media: our following has doubled in two months: there are 9,000+ fans, health and food bloggers following Oppo on instagram, facebook and twitter. We are now using targeted facebook adverts to reach more shoppers.
 
@@ -143,7 +143,7 @@ Oppo can now be found in 130 Waitrose stores, 400 Co-Op stores, 220 Holland &amp
 
 • We run promotions across retailers to attract new shoppers, and see an increase in baseline sales after each promotion has ended.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6993/teh4kdz135535ynhtgych0fqyekdt2m/ambassador-photo.jpg?rect=0%2C0%2C2448%2C1605&w=600&fit=clip&s=5fff232cf2a8cee626cf49a0cf33069e)
+![](/img/seedrs/uploads/startup/section_image/image/6993/teh4kdz135535ynhtgych0fqyekdt2m/ambassador-photo.jpg?rect=0%2C0%2C2448%2C1605&w=600&fit=clip&s=5fff232cf2a8cee626cf49a0cf33069e)
 
 ### Competition strategy
 
@@ -153,5 +153,5 @@ We have won a number of awards and achieved good distribution. So far we feel th
 
 Our competitors are traditional ice cream companies like Haagan Dazs, frozen yoghurt companies like Yoo Moo, and non-ice cream desserts. We consider ourselves to be a better option all-round, the ultimate un-compromise. Now we have established foundations, with this investment we can target growth.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6994/qyl5c6ajl74ue7n3w48v00nrxjt6u13/oppo_vanilla_jan_16_small.jpg?rect=0%2C-4%2C1000%2C751&w=600&fit=clip&s=7ef86d44031b11160c06cd3591e252f9)
+![](/img/seedrs/uploads/startup/section_image/image/6994/qyl5c6ajl74ue7n3w48v00nrxjt6u13/oppo_vanilla_jan_16_small.jpg?rect=0%2C-4%2C1000%2C751&w=600&fit=clip&s=7ef86d44031b11160c06cd3591e252f9)
 

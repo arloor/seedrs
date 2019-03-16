@@ -91,7 +91,7 @@ PARTNERSHIPS WITH BANKS <br>With the Open Banking API becoming available this ye
 
 SATISFIED CUSTOMERS <br>Investly has a very high Net Promoter Score 72% (e.g a typical UK bank like Santander has 27%). We believe our customers value speed, ease of use and clarity in pricing and business terms. Such a high promoter score is bringing us a number of organic referrals from our existing customer base.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13724/okvzaon47ji2uxhltoeq9gmmc1jl4kn/matt.jpg?rect=0%2C0%2C1024%2C682&w=600&fit=clip&s=4a91e0bc3d0040d0ff50456df5859128)
+![](/img/seedrs/uploads/startup/section_image/image/13724/okvzaon47ji2uxhltoeq9gmmc1jl4kn/matt.jpg?rect=0%2C0%2C1024%2C682&w=600&fit=clip&s=4a91e0bc3d0040d0ff50456df5859128)
 
 ### Competition strategy
 

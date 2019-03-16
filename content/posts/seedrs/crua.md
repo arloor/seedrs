@@ -113,7 +113,7 @@ These three markets utilise the same technology and design so they compliment ea
 
 We have a presence in Europe through our Irish office and in North America through our office in upstate New York.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11648/b26q2jl4lm7stgcd4o3whd58opbwsha/Crua_Tri_1.jpg?w=600&fit=clip&s=da7790e50c16fd1e50f84bb38af9195b)
+![](/img/seedrs/uploads/startup/section_image/image/11648/b26q2jl4lm7stgcd4o3whd58opbwsha/Crua_Tri_1.jpg?w=600&fit=clip&s=da7790e50c16fd1e50f84bb38af9195b)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ Industrial: <br>This is two pronged. <br>1. We target construction companies tha
 
 The Oil and Gas industry is a $1.7 Trillion dollar business and one of the companies we are developing a shelter for has annual revenues of $32.3 Billion per annum, making it the largest construction company in the USA by revenue.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11647/bam34rdk8xoygghs4ic68kn04du6f64/White.jpg?rect=0%2C45%2C800%2C472&w=600&fit=clip&s=f698ac0637494e544fdcd68ce43bc469)
+![](/img/seedrs/uploads/startup/section_image/image/11647/bam34rdk8xoygghs4ic68kn04du6f64/White.jpg?rect=0%2C45%2C800%2C472&w=600&fit=clip&s=f698ac0637494e544fdcd68ce43bc469)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ We will have 4 primary routes to market which we must consider:
 
 4. Direct engagement with Industrial partners and customers is essential. This is done through contacts within the Oil and Gas industry, which we have acquired ourselves and through the 32 localised Enterprise Ireland offices around the world.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11649/ae3aqdxa1krwlfr8zzfh8fmr9o1eyxi/Crua_Loj_4.jpg?w=600&fit=clip&s=8c783abd0aea578c665f1b762978cdd6)
+![](/img/seedrs/uploads/startup/section_image/image/11649/ae3aqdxa1krwlfr8zzfh8fmr9o1eyxi/Crua_Loj_4.jpg?w=600&fit=clip&s=8c783abd0aea578c665f1b762978cdd6)
 
 ### Competition strategy
 

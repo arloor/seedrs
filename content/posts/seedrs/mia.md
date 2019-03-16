@@ -107,7 +107,7 @@ Others consumer groups important for brand development are:
 
 &gt; Milennials generally characterised as civically oriented, conscious capitalists who consider themselves global citizens. <br>&gt; Chocoholics passionate about unique, high-quality chocolate. <br>&gt; Ethical consumers who seek to make a positive change with their purchase.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14667/3ocezul4epgywsd0b3csip1fvbn1pg/2._IMG_4542_copy.jpg?rect=0%2C-2%2C4868%2C3245&w=600&fit=clip&s=69638cff5419758cd6aeab62b648eb59)
+![](/img/seedrs/uploads/startup/section_image/image/14667/3ocezul4epgywsd0b3csip1fvbn1pg/2._IMG_4542_copy.jpg?rect=0%2C-2%2C4868%2C3245&w=600&fit=clip&s=69638cff5419758cd6aeab62b648eb59)
 
 ### Characteristics of target market
 
@@ -115,7 +115,7 @@ The UK is our primary market, followed by Continental Europe and the USA. Our ta
 
 The US and Europe are among the world’s highest chocolate consumers. According to Euromoniter, these areas account for nine of the top ten chocolate consumers globally and Mintel projects the UK confectionery chocolate market alone to grow to £4.7BN in 2021.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14666/i1qyzvunx335ujxuu4k8vlzrijwzpqd/Screen_Shot_2018-05-11_at_12.19.37.png?rect=0%2C-5%2C1177%2C852&w=600&fit=clip&s=8eaf39968722dcbdea32792a0b18585a)
+![](/img/seedrs/uploads/startup/section_image/image/14666/i1qyzvunx335ujxuu4k8vlzrijwzpqd/Screen_Shot_2018-05-11_at_12.19.37.png?rect=0%2C-5%2C1177%2C852&w=600&fit=clip&s=8eaf39968722dcbdea32792a0b18585a)
 
 MIA reaches consumers via retailers. We divide retailers into three groups for the purposes of brand development:
 
@@ -133,7 +133,7 @@ We implement a marketing support programme that is aimed to create product aware
 
 We believe that our strategy balances the sales push into distribution with the pull we create through marketing support. We feel this balance should create strong and steady growth that minimises attrition and develops long-term relationships with retailers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14668/c84ex4ajt5rdifcemm5hrvttrkahtik/6._MIA-02_4_Bars.jpg?rect=0%2C0%2C1600%2C1065&w=600&fit=clip&s=480e83dcfae50acee4b4f5cdc8efa98a)
+![](/img/seedrs/uploads/startup/section_image/image/14668/c84ex4ajt5rdifcemm5hrvttrkahtik/6._MIA-02_4_Bars.jpg?rect=0%2C0%2C1600%2C1065&w=600&fit=clip&s=480e83dcfae50acee4b4f5cdc8efa98a)
 
 ### Competition strategy
 

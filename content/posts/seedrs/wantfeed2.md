@@ -73,7 +73,7 @@ This audience remains the key age demographic for online commerce, spending more
 
 Traditional approaches to marketing are giving way to shared conversation with brands relying more on social media and other online and mobile communication platforms. This is particularly true when looking at the social dynamics of 18-24/18-30 year olds. <br>40% of social media users say they would share a purchase on a platform and 33% of users did so to get a financial reward (Jim Herbert 2015). Will Seymour, brand officer at Future Foundation, a London-based company that studies consumer trends and insights, said, "Wish listing has become a key pre-purchase behavior for many consumers. It's a new type of retail behavior – it's not shopping, it's leisure." (Advertising Age Nov 2015).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7585/kfyzdkva2i0u7rg39pw8ig0t518igm7/profile.jpg?w=600&fit=clip&s=680eb1eaf81dca201f0341990bef665f)
+![](/img/seedrs/uploads/startup/section_image/image/7585/kfyzdkva2i0u7rg39pw8ig0t518igm7/profile.jpg?w=600&fit=clip&s=680eb1eaf81dca201f0341990bef665f)
 
 ### Marketing strategy
 
@@ -85,7 +85,7 @@ Together we have a social reach of approximately 486,000 including over 200,000 
 
 We expect retail sales directly via social media to grow as more retailers target consumers with personalized offers and deals on social networks. Billions will be up for grabs for retailers who can influence consumers’ shopping decisions through social media. (Cyber Alert).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7584/i416o9rpeuw8jtna0bvv9kbfrcavs7k/trending.jpg?w=600&fit=clip&s=0998a508e3272354d60eb64603017adf)
+![](/img/seedrs/uploads/startup/section_image/image/7584/i416o9rpeuw8jtna0bvv9kbfrcavs7k/trending.jpg?w=600&fit=clip&s=0998a508e3272354d60eb64603017adf)
 
 ### Competition strategy
 

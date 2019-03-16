@@ -93,13 +93,13 @@ We’ve already built a significant, sustainable business in the UK and plan to 
 
 There are a staggering number of freelancers and micro-businesses in the UK. Over 95% of all UK businesses have fewer than 10 employees, so that’s 5 million entrepreneurs who could be using FreeAgent to take control of their business finances and win back some precious time to spend on growing their businesses!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4097/rje4ig1bcndt2bmj6juqesqhh1prjbf/customer-image-jk.jpg?rect=0%2C0%2C1196%2C500&w=600&fit=clip&s=175885b69ceb83c08d10910c5a69315a)
+![](/img/seedrs/uploads/startup/section_image/image/4097/rje4ig1bcndt2bmj6juqesqhh1prjbf/customer-image-jk.jpg?rect=0%2C0%2C1196%2C500&w=600&fit=clip&s=175885b69ceb83c08d10910c5a69315a)
 
 In our experience, our competitors tend to cater for larger, more complex businesses or take a ‘one size fits all’ approach and as a result, their software can leave freelancers and micro-businesses dazed and confused. Bloated with functionality that smaller customers simply don’t need and written in accounting jargon, these software packages often cause more headaches than they cure.
 
 By contrast, FreeAgent is specifically designed for this huge, under-served section of the market: the 5 million freelancers and micro-businesses who represent the fastest growing type of business in the UK and contribute a massive £300bn to the country’s GDP.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4098/ewr8ko3gczfw526l59pl67lxb4bcqa2/tweet-evanlovely.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=adb3ab924b0201a63922e986cc83e863)
+![](/img/seedrs/uploads/startup/section_image/image/4098/ewr8ko3gczfw526l59pl67lxb4bcqa2/tweet-evanlovely.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=adb3ab924b0201a63922e986cc83e863)
 
 For the 28,000 accountancy practices in the UK, FreeAgent can make it easier to work with their micro-business clients. Customers can stay on top of their books and work with their accountants in real time, looking at the same set of up-to-date data. This frees up accountants from much of the time-consuming financial admin that has traditionally been part of supporting these smaller clients, and as a result they are able to focus on providing valuable advice and helping their clients grow.
 
@@ -119,11 +119,11 @@ Reaching direct customers
 
 FreeAgent has an enthusiastic and rapidly growing community of direct customers. We use helpful content, SEO, social media presence and a proactive outreach strategy to build brand and product awareness among potential customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4099/d5xumzrtz77w36rfr369pkebywg2yk7/customer-image-dk.jpg?rect=0%2C0%2C1196%2C500&w=600&fit=clip&s=2115c67544ff7488f670f36aa7f0a8e6)
+![](/img/seedrs/uploads/startup/section_image/image/4099/d5xumzrtz77w36rfr369pkebywg2yk7/customer-image-dk.jpg?rect=0%2C0%2C1196%2C500&w=600&fit=clip&s=2115c67544ff7488f670f36aa7f0a8e6)
 
 We also use data extensively to understand customer journeys through to subscription. This influences ongoing work on both our website and the product itself to improve the number of customers who try FreeAgent and subsequently subscribe.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4100/ctiy91xmku1nt01zmtxq937vc90ncjq/tweet-techincolor.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=d3d137a656e3be8eab1c20185e5edda8)
+![](/img/seedrs/uploads/startup/section_image/image/4100/ctiy91xmku1nt01zmtxq937vc90ncjq/tweet-techincolor.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=d3d137a656e3be8eab1c20185e5edda8)
 
 Driven by our customers’ very high levels of engagement and satisfaction, we also have an established and popular customer referral programme in place. Most of our subscribers first heard about FreeAgent via word of mouth, and 9 out of 10 customers have said that they would be happy to recommend us to a friend.
 
@@ -139,17 +139,17 @@ Building on our existing relationships with organisations like Barclays’ Bank 
 
 We have found that most accounting software products are aimed at the more generic ‘small business’ market – businesses with up to 50 employees – and ignore the big differences between these companies and the micro-businesses that we focus on.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4101/jxachzrvvorcixs0cotfa8yz1fyi63v/tweet-beccaerose.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=7b5ed3bb98f4c902db867efc9f7cb043)
+![](/img/seedrs/uploads/startup/section_image/image/4101/jxachzrvvorcixs0cotfa8yz1fyi63v/tweet-beccaerose.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=7b5ed3bb98f4c902db867efc9f7cb043)
 
 Because our customers don’t need the complexity of accounting functions like ‘cost centres’ and ‘revenue recognition’ we can instead make a product that’s easier to understand and that does truly useful things, like filling in customers’ tax returns and filing them directly to HMRC.
 
 Our customer satisfaction ratings are the best in our industry. In the latest AccountingWeb Software Satisfaction awards, FreeAgent scored nearly full marks from voters on its ease of use, functionality, support and value for money. A PC Mag survey also puts FreeAgent at the top.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4102/tbx5owplueq45ueerzr8k7i6fgc0ijt/chart-satisfaction.png?rect=0%2C0%2C665%2C211&w=600&fit=clip&s=cd617de2daa7ffba036a3ab7b4dc099a)
+![](/img/seedrs/uploads/startup/section_image/image/4102/tbx5owplueq45ueerzr8k7i6fgc0ijt/chart-satisfaction.png?rect=0%2C0%2C665%2C211&w=600&fit=clip&s=cd617de2daa7ffba036a3ab7b4dc099a)
 
 We believe that competitor products who claim to be aimed at the micro-business market fall far short in their capability to perform important time-saving tasks such as forecasting tax liabilities and supporting the business workflow with features like projects and time tracking.
 
 FreeAgent’s tax forecasting and filing capabilities are not features that our competitors could easily emulate. They are an integral part of our real-time, tax-aware, double-entry accounting engine that has evolved continuously. We believe that we are 3-4 years ahead of many of our competitors in this regard. We also have a growing number of customers outside the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4103/bvm19nxs9zmusrl9f34j6dqisfy6nlq/tweet-musicisourforte.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=9b4c33113ad1d671df15aae1fdd7be18)
+![](/img/seedrs/uploads/startup/section_image/image/4103/bvm19nxs9zmusrl9f34j6dqisfy6nlq/tweet-musicisourforte.png?rect=0%2C0%2C1200%2C166&w=600&fit=clip&s=9b4c33113ad1d671df15aae1fdd7be18)
 

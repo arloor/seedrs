@@ -71,7 +71,7 @@ In November 2013, the UK eCommerce industry was made up of 200,000+ retailers. W
 
 These problems are universal and this is clear in the scope of our existing client database, which encompasses those who are part of the consumer electronics, gifts, gadget, toy, accessories and fashion sectors- many of whom are based in non-UK geographical locations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1360/98mlu44aqa7tmecz2o0ln6hhy1805m8/Market.png?w=600&fit=clip&s=3a61cc34fe7e7b315effdecdfdde7fe3)
+![](/img/seedrs/uploads/startup/section_image/image/1360/98mlu44aqa7tmecz2o0ln6hhy1805m8/Market.png?w=600&fit=clip&s=3a61cc34fe7e7b315effdecdfdde7fe3)
 
 ### Characteristics of target market
 

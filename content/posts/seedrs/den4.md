@@ -119,7 +119,7 @@ June to December 18 <br>- Grow in the UK <br>- Complete development of our US pr
 
 2) Existing demand for connected/automated systems. <br>- This is already a proven market, which is growing rapidly - The global market is generated £61b in 2016, which is expected to grow to around $460b by 2019, meaning there's a huge opportunity. 30% of people plan to buy a connect device.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14229/cbib8cx36nu0ihnu214t9ppnk6sm97w/market-graph__1_.png?rect=0%2C0%2C600%2C233&w=600&fit=clip&s=1a30f0345b214c0feee9bd4781c7b7bf)
+![](/img/seedrs/uploads/startup/section_image/image/14229/cbib8cx36nu0ihnu214t9ppnk6sm97w/market-graph__1_.png?rect=0%2C0%2C600%2C233&w=600&fit=clip&s=1a30f0345b214c0feee9bd4781c7b7bf)
 
 ### Marketing strategy
 
@@ -147,5 +147,5 @@ We have a Granted European Patent that protects our unique conventional/remotely
 
 Apart from retaining the rocker switch, our products offer a wide range of features that many of our competitors do not.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14228/a4wvzr5fbch9uflodeqzna24x87rw5w/transforming-industry.png?rect=0%2C0%2C600%2C248&w=600&fit=clip&s=46a41ffd1ad62c446015342f2c41a6f3)
+![](/img/seedrs/uploads/startup/section_image/image/14228/a4wvzr5fbch9uflodeqzna24x87rw5w/transforming-industry.png?rect=0%2C0%2C600%2C248&w=600&fit=clip&s=46a41ffd1ad62c446015342f2c41a6f3)
 

@@ -77,7 +77,7 @@ The company has £15,000 outstanding loans to the directors. None of the proceed
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9034/7lyid13cuxpsnqdsugjqvbhsf848gu4/slide4.jpg?rect=0%2C0%2C1251%2C700&w=600&fit=clip&s=b74dde6cf6959321cf7cad1b9ca34f17)
+![](/img/seedrs/uploads/startup/section_image/image/9034/7lyid13cuxpsnqdsugjqvbhsf848gu4/slide4.jpg?rect=0%2C0%2C1251%2C700&w=600&fit=clip&s=b74dde6cf6959321cf7cad1b9ca34f17)
 
 ### Target market
 
@@ -93,7 +93,7 @@ We believe that DatePlay will give this demographic a better online dating produ
 
 And there's one more thing: 18-24 year olds typically spend 11% of their screen time on gaming apps. Therefore, we believe that a dating product that offers games as part of the user experience will have a significant advantage in this demographic. DatePlay fits this profile perfectly.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9035/nooc80otqgfbtaylwg5hpqsxh3222n/Screen_Shot_2016-07-14_at_08.58.31.png?rect=67%2C80%2C739%2C320&w=600&fit=clip&s=ba0ff535cddf1fc0cc3bfa1123d5e386)
+![](/img/seedrs/uploads/startup/section_image/image/9035/nooc80otqgfbtaylwg5hpqsxh3222n/Screen_Shot_2016-07-14_at_08.58.31.png?rect=67%2C80%2C739%2C320&w=600&fit=clip&s=ba0ff535cddf1fc0cc3bfa1123d5e386)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ The need to connect with people and form relationships is a universal human need
 
 We estimate that the market for online dating among 18-24 year olds today comprises over 100 million potential users. If we were to be able to win 5% of our core demographic, that would equate to 5 million potential registered users for DatePlay.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9033/168gm8q7k9by5u83ee7h6nsapn79iqh/vana_for_steve.jpg?rect=0%2C0%2C800%2C404&w=600&fit=clip&s=5ed8e280ed43a92702bfabe68fcd92f4)
+![](/img/seedrs/uploads/startup/section_image/image/9033/168gm8q7k9by5u83ee7h6nsapn79iqh/vana_for_steve.jpg?rect=0%2C0%2C800%2C404&w=600&fit=clip&s=5ed8e280ed43a92702bfabe68fcd92f4)
 
 ### Marketing strategy
 
@@ -115,7 +115,7 @@ Working with Facebook's UK team, we have exciting plans to optimise our marketin
 
 We have committed funding to enable us to build the app. Funding from this Seedrs campaign will go straight into our launch, marketing and social media budget, helping us to get our message out to as many users as possible.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9036/gswefh7nl0kbxlhqbcgcn71h7w8tuxl/Screen_Shot_2016-07-14_at_09.10.53.png?rect=0%2C44%2C938%2C638&w=600&fit=clip&s=f93bf9d9016766b62d2f552335699b1c)
+![](/img/seedrs/uploads/startup/section_image/image/9036/gswefh7nl0kbxlhqbcgcn71h7w8tuxl/Screen_Shot_2016-07-14_at_09.10.53.png?rect=0%2C44%2C938%2C638&w=600&fit=clip&s=f93bf9d9016766b62d2f552335699b1c)
 
 ### Competition strategy
 

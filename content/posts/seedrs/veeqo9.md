@@ -119,7 +119,7 @@ Over the past 12 months, our focus has been on moving upmarket and attracting la
 
 There are many benefits to us focussing on a more up-market retailer. We expect that they are less likely to cancel their subscription as Veeqo is more embedded within their business. In addition, we believe that they are more likely to use Veeqo to its full potential, and it's easier for our sales team to sign them up - as these bigger retailers have larger budgets allocated for software.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15640/m2z3i9n2hp6tkiuv23cc9hd2yksjaku/11.png?rect=0%2C0%2C600%2C282&w=600&fit=clip&s=111f1a32fc5e5407fe54c7075b2e9e30)
+![](/img/seedrs/uploads/startup/section_image/image/15640/m2z3i9n2hp6tkiuv23cc9hd2yksjaku/11.png?rect=0%2C0%2C600%2C282&w=600&fit=clip&s=111f1a32fc5e5407fe54c7075b2e9e30)
 
 ### Characteristics of target market
 

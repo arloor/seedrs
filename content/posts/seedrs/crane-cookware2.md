@@ -105,13 +105,13 @@ Our main customers are professional men and women, who are focussed on good qual
 
 We believe the Asian consumer can be a promising future market for Crane Cookware, as we have just sold our first container load of cast iron pans into China. We anticipate that one in four luxury goods customers are Chinese. China has bypassed Japan as the second largest market for luxury goods after the USA. We believe Asian consumers are looking for unique and convenient housewares and high quality imports with distinguished design and heritage credentials.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9255/qpleh94cdj820pqm02kqomir28ku6zj/FelixdePass_Crane_SRange_Visual_11.jpg?rect=0%2C-1%2C2500%2C1667&w=600&fit=clip&s=cf37721541c4306fa963144ca919497b)
+![](/img/seedrs/uploads/startup/section_image/image/9255/qpleh94cdj820pqm02kqomir28ku6zj/FelixdePass_Crane_SRange_Visual_11.jpg?rect=0%2C-1%2C2500%2C1667&w=600&fit=clip&s=cf37721541c4306fa963144ca919497b)
 
 ### Characteristics of target market
 
 The Global Houseware and Specialty market has a total revenue of $53.6bn billion dollars of which cookware was its most lucrative reflecting 36.6% of total market value. In 2018 the global housewares and specialty market is forecast to have a value of $74.5 billion dollars.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9257/jktm12yupy1687cv779iotp5dfsjz1g/Board_3_-_Radius_-_Front.jpg?rect=0%2C0%2C1920%2C1360&w=600&fit=clip&s=6a43cb0d06582c1c31db05268847e49d)
+![](/img/seedrs/uploads/startup/section_image/image/9257/jktm12yupy1687cv779iotp5dfsjz1g/Board_3_-_Radius_-_Front.jpg?rect=0%2C0%2C1920%2C1360&w=600&fit=clip&s=6a43cb0d06582c1c31db05268847e49d)
 
 ### Marketing strategy
 
@@ -133,7 +133,7 @@ Future Plans
 
 1) Developing our direct sales through direct marketing methods including advertising and DM.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9254/2eknie9rn0b6me181cdkxduphmq27xy/FelixdePass_Crane_SRange_Visual_02.jpg?rect=0%2C-1%2C2500%2C1667&w=600&fit=clip&s=b6fc293890d568adb9a5c3156afc2ec6)
+![](/img/seedrs/uploads/startup/section_image/image/9254/2eknie9rn0b6me181cdkxduphmq27xy/FelixdePass_Crane_SRange_Visual_02.jpg?rect=0%2C-1%2C2500%2C1667&w=600&fit=clip&s=b6fc293890d568adb9a5c3156afc2ec6)
 
 ### Competition strategy
 

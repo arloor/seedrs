@@ -95,7 +95,7 @@ CommuterClub also actively targets companies, helping them manage their season t
 
 CommuterClub sees a large opportunity to shift the entire administration of season tickets to an outsource provider, following in the trend of many other employee benefits. For smaller companies who cannot afford the balance sheet cost or administration, CommuterClub can provide a fully managed solution, while for large companies the platform caters to the particular needs of companies, such as payroll integration, invoicing etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7149/dcn39b1nxipkx2g0yt2o562pt1ryxhw/Slide4.PNG?rect=136%2C0%2C9830%2C5760&w=600&fit=clip&s=838f9f9d6c269eacd95cda1c3b99da32)
+![](/img/seedrs/uploads/startup/section_image/image/7149/dcn39b1nxipkx2g0yt2o562pt1ryxhw/Slide4.PNG?rect=136%2C0%2C9830%2C5760&w=600&fit=clip&s=838f9f9d6c269eacd95cda1c3b99da32)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Ticket pricing is regulated by the Department for Transport (DfT) and follows lo
 
 Beyond the UK, commuting hubs such as Ney York, Paris, Madrid or Hong Kong offer expansion opportunities. A high level assessments identified international opportunities of over £20bn.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7150/bx2mbp50krmqlypw640acdk53iy2rxq/Slide3.PNG?rect=341%2C93%2C9352%2C5666&w=600&fit=clip&s=f2b0632e9d125bca889cbf843a6f1922)
+![](/img/seedrs/uploads/startup/section_image/image/7150/bx2mbp50krmqlypw640acdk53iy2rxq/Slide3.PNG?rect=341%2C93%2C9352%2C5666&w=600&fit=clip&s=f2b0632e9d125bca889cbf843a6f1922)
 
 ### Marketing strategy
 
@@ -121,7 +121,7 @@ CommuterClub employs a rigorous analytical approach to assess ad spend and is su
 
 CommuterClub also has a growing number of B2B clients offering the scheme as part of an Employee Benefits package. CommuterClub operates an inbound marketing strategy for B2B by creating relevant SEO content and providing market awareness via its consumer advertising. To date, most CommuterClub corporate clients have been inbound leads.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7151/iya4hampu19o5q9gneq9yqhtkhmqi6a/Slide7.PNG?rect=0%2C0%2C10240%2C5760&w=600&fit=clip&s=f66e7888057f8acc9bfbd191ff4ebf98)
+![](/img/seedrs/uploads/startup/section_image/image/7151/iya4hampu19o5q9gneq9yqhtkhmqi6a/Slide7.PNG?rect=0%2C0%2C10240%2C5760&w=600&fit=clip&s=f66e7888057f8acc9bfbd191ff4ebf98)
 
 ### Competition strategy
 

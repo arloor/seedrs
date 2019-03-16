@@ -123,7 +123,7 @@ Please note that the Company has issued an option over 5% of the share capital o
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7985/9sgeptwm6kptz4crgh81b1p9lxlz62q/Chorizo_Tart.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=c4cbe13fd07bb24b57a671eff343b9b1)
+![](/img/seedrs/uploads/startup/section_image/image/7985/9sgeptwm6kptz4crgh81b1p9lxlz62q/Chorizo_Tart.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=c4cbe13fd07bb24b57a671eff343b9b1)
 
 ### Target market
 
@@ -135,7 +135,7 @@ Our secondary customer is the 'Coffee Fan' and they make up approximately 30% of
 
 Our tertiary customer is the 'Worker'. They eat in 75% of the time, and tend to stay the longest, working their way through the menu from coffee to tarts to cakes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7984/iqk1h930az3zzpgfn5buzplhgryo4x4/coffeetart1.jpg?rect=0%2C0%2C960%2C640&w=600&fit=clip&s=fb5ab8efb74ea16f360a43db71215de6)
+![](/img/seedrs/uploads/startup/section_image/image/7984/iqk1h930az3zzpgfn5buzplhgryo4x4/coffeetart1.jpg?rect=0%2C0%2C960%2C640&w=600&fit=clip&s=fb5ab8efb74ea16f360a43db71215de6)
 
 ### Characteristics of target market
 
@@ -151,7 +151,7 @@ Additionally, the sales context for our tarts is one of an upmarket bakery &amp;
 
 ◆ The rise of singularly-focused food businesses, e.g. burger joints, burrito bars and wrap chains.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7983/tof7vspu8x3ie4rc9llzft4rrpfb3t2/Nectarine_Tart.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=bd7bf9f1a05173d42e2d776babbfc206)
+![](/img/seedrs/uploads/startup/section_image/image/7983/tof7vspu8x3ie4rc9llzft4rrpfb3t2/Nectarine_Tart.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=bd7bf9f1a05173d42e2d776babbfc206)
 
 ### Marketing strategy
 
@@ -177,7 +177,7 @@ Additionally, the sales context for our tarts is one of an upmarket bakery &amp;
 
 ◆ Coffee promotion: run with our coffee app partner, Piccup, we shall offer discounted coffees on download of our coffee loyalty app through digital channels and in store.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7982/mahig3rj1s3n6n8i793zhewqc3yjczh/BroccoliSalad.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=06a746cc7c64052a7ebfc65dcafed449)
+![](/img/seedrs/uploads/startup/section_image/image/7982/mahig3rj1s3n6n8i793zhewqc3yjczh/BroccoliSalad.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=06a746cc7c64052a7ebfc65dcafed449)
 
 ### Competition strategy
 
@@ -187,5 +187,5 @@ We have a useful early-mover advantage in what looks like an interesting and pro
 
 The trends in the market are playing in our favour - the popularity of home-baking, the desire to frequent independent retailers plus healthier eating. However, overall we believe it is our inventive menu, wonderful stores and beautiful ingredients that will create our long term success.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7988/rhn0vnjwvzc30bq2g7wo9rnb28vctun/butternutparty1.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=d67316b6538029d856be5c4ac4457cba)
+![](/img/seedrs/uploads/startup/section_image/image/7988/rhn0vnjwvzc30bq2g7wo9rnb28vctun/butternutparty1.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=d67316b6538029d856be5c4ac4457cba)
 

@@ -97,7 +97,7 @@ We've conducted some informal reader research to give us a sense of who reads Co
 
 • The average income of our readers is £42,000pa.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6032/nvmvjwt8nggxou8bzguuol7ilwhw6xc/Investor_Pack-EZRA_USE_THIS_ONE_copy.jpg?w=600&fit=clip&s=f68a213be582bfdea3f42ba2e0922559)
+![](/img/seedrs/uploads/startup/section_image/image/6032/nvmvjwt8nggxou8bzguuol7ilwhw6xc/Investor_Pack-EZRA_USE_THIS_ONE_copy.jpg?w=600&fit=clip&s=f68a213be582bfdea3f42ba2e0922559)
 
 ### Characteristics of target market
 
@@ -109,7 +109,7 @@ Over 580,000 startups were set up in the UK last year and, in a study in July 20
 
 Suffice to say it’s a phenomenon that’s not going away, and we believe it's one that’s missing a media brand at its heart.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6033/r54y7yy908ot2px3cecltob862ixfk8/Screen_Shot_2015-11-04_at_17.01.42.png?rect=0%2C0%2C2404%2C1398&w=600&fit=clip&s=66839d019f7ab3f93a0ea0ac0817640a)
+![](/img/seedrs/uploads/startup/section_image/image/6033/r54y7yy908ot2px3cecltob862ixfk8/Screen_Shot_2015-11-04_at_17.01.42.png?rect=0%2C0%2C2404%2C1398&w=600&fit=clip&s=66839d019f7ab3f93a0ea0ac0817640a)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ After promising trials selling Courier in Berlin, Stockholm, Amsterdam and LA, w
 
 *Print titles use a multiple of between two and five to infer readership from their print circulation. We don’t have specific data of our own to determine our true readership but we take an extremely conservative estimate that every issue is read by average of at least two readers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6029/3sj8isqwyhp4rscod9mcm9s2u36sk0f/Marketing_strategy.jpg?rect=0%2C0%2C3211%2C2127&w=600&fit=clip&s=9fb70bb1dcbdd822a91c3e8a9bf40303)
+![](/img/seedrs/uploads/startup/section_image/image/6029/3sj8isqwyhp4rscod9mcm9s2u36sk0f/Marketing_strategy.jpg?rect=0%2C0%2C3211%2C2127&w=600&fit=clip&s=9fb70bb1dcbdd822a91c3e8a9bf40303)
 
 ### Competition strategy
 
@@ -143,5 +143,5 @@ We’ve found a recipe that has had fantastic traction for an independent startu
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6034/1hr34pkzj9q2zxsh6ed45c9nnjqek5u/Competition_strategy.jpg?rect=0%2C0%2C3688%2C3020&w=600&fit=clip&s=41ec308ea741437db46338ca45bc738a)
+![](/img/seedrs/uploads/startup/section_image/image/6034/1hr34pkzj9q2zxsh6ed45c9nnjqek5u/Competition_strategy.jpg?rect=0%2C0%2C3688%2C3020&w=600&fit=clip&s=41ec308ea741437db46338ca45bc738a)
 

@@ -71,7 +71,7 @@ The residential private rental sector is the fastest area of growth in the UK es
 
 The residential estate agents sector grew by an estimated 4% over the past year, 2016, from £3.77 billion to £3.92 billion.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12289/btoulxyelc3supe8g0qytdopi702ti2/header_back.jpg?rect=0%2C108%2C1920%2C905&w=600&fit=clip&s=eda46558e4f7cd196aed3b722c6b4b5e)
+![](/img/seedrs/uploads/startup/section_image/image/12289/btoulxyelc3supe8g0qytdopi702ti2/header_back.jpg?rect=0%2C108%2C1920%2C905&w=600&fit=clip&s=eda46558e4f7cd196aed3b722c6b4b5e)
 
 The lettings sector of the UK estate agents market has seen demand and income rise significantly over the past decade. The sector has grown as a result of several factors, particularly the growing reluctance and caution around purchases. Ultimately, in times of lower certainty, lettings tend to rise as they represent a more secure and less risky means of attaining property.
 
@@ -85,7 +85,7 @@ Our focus is on developing our relationships on the ground in Asia and to bridge
 
 The UK private rental market is growing extensively, due to reduced transaction levels and stricter lending criteria (Savills, 2016). It is predicted that, in the near term, the number letting may surpass sales for the first time in eight decades. The annual growth rate of average private sector rents in London increased to 4.2% in 2016, while rent levels are around twice the national average.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12290/l4gmh4t1lziq9g8d67v32ndgb3hr0ti/Old_Street_Property.jpg?rect=0%2C0%2C1500%2C1000&w=600&fit=clip&s=91181ec5e74777846101a230a98af556)
+![](/img/seedrs/uploads/startup/section_image/image/12290/l4gmh4t1lziq9g8d67v32ndgb3hr0ti/Old_Street_Property.jpg?rect=0%2C0%2C1500%2C1000&w=600&fit=clip&s=91181ec5e74777846101a230a98af556)
 
 To avoid landlord profitability being decreased by emerging issues, such as the potential abolition of tenants’ fees, we believe many landlords will seek better value and service from more progressive providers. The vast majority of landlords use a letting agent - 79%, according to a 2017 landlords survey by Homelet, and we expect a change in this figure over the next few years with landlords foregoing the outdated and inefficient letting agency model in favour of more dynamic online and hybrid providers such as Vesper.
 
@@ -95,7 +95,7 @@ As Vesper services London in its entirety with the business focused mainly aroun
 
 The company intends to maintain its expertise and focus on lettings, with London property lettings, traditional and new build, supplementing the overseas landlord business. The international client acquisition focus will concentrate on China, Hong Kong and Singapore, the principal Asian investment regions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12291/aoh785o7en4guubd74p0w7qcvex4jyo/Infographics.jpg?rect=0%2C0%2C1235%2C223&w=600&fit=clip&s=8388f9c38da4a579d0a40e714485bd5d)
+![](/img/seedrs/uploads/startup/section_image/image/12291/aoh785o7en4guubd74p0w7qcvex4jyo/Infographics.jpg?rect=0%2C0%2C1235%2C223&w=600&fit=clip&s=8388f9c38da4a579d0a40e714485bd5d)
 
 Techniques we intend to implement to achieve our goals include:
 
@@ -105,7 +105,7 @@ Techniques we intend to implement to achieve our goals include:
 
 UK Competition Strategy – London: <br>We believe Vesper is ready to reap the upcoming benefits of its bespoke Proptech platform beyond it's existing hybrid position. Our aim is to capture a larger proportion of the London market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12292/nzy32fxubey8euxgtffc6p1kwmoyypa/Knightsbridge_Kitchen_Area.jpg?rect=0%2C0%2C1890%2C1260&w=600&fit=clip&s=846848b3e48eb97d4fd471b09c8531d4)
+![](/img/seedrs/uploads/startup/section_image/image/12292/nzy32fxubey8euxgtffc6p1kwmoyypa/Knightsbridge_Kitchen_Area.jpg?rect=0%2C0%2C1890%2C1260&w=600&fit=clip&s=846848b3e48eb97d4fd471b09c8531d4)
 
 Overseas Competition Strategy – Asia Pacific: <br>• Targeting overseas investors purchasing London properties off plan: an investor typically attends a property event and is introduced to the developer and their chosen estate agent. After the event, the purchaser can Google other agents in the area, and as a result may be introduced to Vesper’s services via digital marketing strategies. <br>• In our experience, foreign investors generally need agents who offer a full property management service, managing pre-completion enquires, snagging, furnishings and the final handover. They also often require agents to cover ground rent and service charge bills from rental income and assist with registering for NRL1 overseas tax status. <br>• With funds raised, Vesper plans to open an Asia-Pacific office, focusing on business development and building the ‘trust’ factor. Our experience suggests that our Mandarin speaking clients generally prefer doing business in their own territory and time zone. We believe that the new office will allow Vesper to compete with companies such as Chase Evans and JLL who already have offices in Singapore and Hong Kong. <br>• Improved branding and a new website should strengthen Vesper’s presence at the Chinese property shows. Additional research highlights the importance of strong relations in the Asia-Pacific market. Strategic development in this region should help us acquire a strong client base from this target market.
 

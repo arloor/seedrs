@@ -83,7 +83,7 @@ Seedrs proceeds will fund:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3891/2epve3o8i4gyti13skddx04e763s3rm/Filmies---Advert---Small.jpg?rect=26%2C60%2C1913%2C1866&w=600&fit=clip&s=ee424b941bff75a8d9c2ed4c7215c971)
+![](/img/seedrs/uploads/startup/section_image/image/3891/2epve3o8i4gyti13skddx04e763s3rm/Filmies---Advert---Small.jpg?rect=26%2C60%2C1913%2C1866&w=600&fit=clip&s=ee424b941bff75a8d9c2ed4c7215c971)
 
 ### Target market
 
@@ -107,7 +107,7 @@ Persona 4:
 
 Unadulterated film buff <br>Medium to high disposable income <br>Possibly a genre-specific film fan <br>Member of cinema or film club <br>Film magazine purchaser / subscriber <br>Possibly film blogger <br>Active on multiple social media <br>5-15 films per month <br>Community builder.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3910/5xblpra9ba9qben3zobrqit7ijdp6jl/Business-Card-Front_1_.jpg?rect=0%2C0%2C1748%2C750&w=600&fit=clip&s=63f25cef077e95590dd096d33d6915d1)
+![](/img/seedrs/uploads/startup/section_image/image/3910/5xblpra9ba9qben3zobrqit7ijdp6jl/Business-Card-Front_1_.jpg?rect=0%2C0%2C1748%2C750&w=600&fit=clip&s=63f25cef077e95590dd096d33d6915d1)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ Recently, online content providers such as Netflix (c. 2m UK users), Amazon Prim
 
 It is expected that the global digital film market (streaming and downloading) will grow 17% p.a to a $20bn market by 2018. (Blinkbox).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3974/sik7uyjxw4km6n9yk8xjgvun9sgmn12/mockup01.jpg?rect=0%2C0%2C1426%2C977&w=600&fit=clip&s=4a049961c798f1bf59537d50dbf91341)
+![](/img/seedrs/uploads/startup/section_image/image/3974/sik7uyjxw4km6n9yk8xjgvun9sgmn12/mockup01.jpg?rect=0%2C0%2C1426%2C977&w=600&fit=clip&s=4a049961c798f1bf59537d50dbf91341)
 
 ### Marketing strategy
 

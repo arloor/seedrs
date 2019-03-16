@@ -69,7 +69,7 @@ Our core target is affluent, well-groomed men who know what it takes to look sty
 
 There is evidence this is a growing market, both here in Europe and in the US. The global male grooming market is worth $21bn and is set to grow at CAGR of 8.4% from 2016-2024. Additionally, the global men's skincare market is set to reach $5bn by 2020, achieving a CAGR of just over 7%. Around 40% of men in the UK now use facial moisturisers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11973/9daypxr6pgfmfqlp0y3gexb9euqawmt/Image05_72x-100.jpg?rect=2%2C70%2C598%2C478&w=600&fit=clip&s=1c2b23cde59750baa57846f01b45b3e5)
+![](/img/seedrs/uploads/startup/section_image/image/11973/9daypxr6pgfmfqlp0y3gexb9euqawmt/Image05_72x-100.jpg?rect=2%2C70%2C598%2C478&w=600&fit=clip&s=1c2b23cde59750baa57846f01b45b3e5)
 
 ### Marketing strategy
 
@@ -79,7 +79,7 @@ Ordinarily, a new grooming brand would need a sizeable budget to pay influencers
 
 The only other cost for marketing is to attend major haircare events and conferences. The plan is to take some of our celebrities along to these events where fans can receive photographs when they buy SKNHEAD products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11974/9xyrielaeob4nseucr7hgnwotjwbiqz/Image01_72x-100.jpg?rect=0%2C64%2C600%2C492&w=600&fit=clip&s=b7b5069d50753ad37e44c57a8c8e385b)
+![](/img/seedrs/uploads/startup/section_image/image/11974/9xyrielaeob4nseucr7hgnwotjwbiqz/Image01_72x-100.jpg?rect=0%2C64%2C600%2C492&w=600&fit=clip&s=b7b5069d50753ad37e44c57a8c8e385b)
 
 ### Competition strategy
 

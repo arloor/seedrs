@@ -117,7 +117,7 @@ Over the past 12 months, our focus has been on moving upmarket and attracting la
 
 Since January 2017 we have increased our ASP from £196 to a high of £432* in September - and this trend is set to continue rising throughout 2018.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13405/opkuvoauzxogxbl5gk1z6id056gy38v/10.png?rect=0%2C0%2C1255%2C590&w=600&fit=clip&s=860ed255522b92d36f3055e6b3ba4433)
+![](/img/seedrs/uploads/startup/section_image/image/13405/opkuvoauzxogxbl5gk1z6id056gy38v/10.png?rect=0%2C0%2C1255%2C590&w=600&fit=clip&s=860ed255522b92d36f3055e6b3ba4433)
 
 There are many benefits to us focussing on a more up-market retailer. We expect that they are less likely to cancel their subscription as Veeqo is more embedded within their business. In addition, we believe that they are more likely to use Veeqo to its full potential, and it's easier for our sales team to sign them up - as these bigger retailers have larger budgets allocated for software.
 

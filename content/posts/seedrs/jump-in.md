@@ -91,7 +91,7 @@ Jump In also caters to a number of other segments. Our whole-family strategy all
 
 Travel time is an important driver of the target market catchment. 2/3 of our customers are within a 10min drive which means local demography is a key factor; it determines week-day trips and repeat visits. Weekends see a broader catchment reflecting greater time availability. Most of our customers arrive by car, but public transport access will play a part in determining the target market, particularly in highly urbanised sites.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8105/6yybrzdjbiylldxxoj4b19c30okvvoi/6.jpg?rect=0%2C25%2C416%2C242&w=600&fit=clip&s=66c2e4498c3ce74f0af9b63dd1fed0fb)
+![](/img/seedrs/uploads/startup/section_image/image/8105/6yybrzdjbiylldxxoj4b19c30okvvoi/6.jpg?rect=0%2C25%2C416%2C242&w=600&fit=clip&s=66c2e4498c3ce74f0af9b63dd1fed0fb)
 
 ### Characteristics of target market
 
@@ -101,7 +101,7 @@ Our view is that the UK will be able to absorb 200 parks, given benchmarks from 
 
 Once sector capacity is reached we expect high single digit like-for-like growth is achievable through price/mix and enhancing ancillary offerings. Additionally (given our business model) through licensing and provision of shared services.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8106/7v910nrr1cmgrett7gpv5bwi0zg4rys/8.jpg?rect=0%2C0%2C416%2C294&w=600&fit=clip&s=cd2f292d7810607d0ad3ef6eee3f81c0)
+![](/img/seedrs/uploads/startup/section_image/image/8106/7v910nrr1cmgrett7gpv5bwi0zg4rys/8.jpg?rect=0%2C0%2C416%2C294&w=600&fit=clip&s=cd2f292d7810607d0ad3ef6eee3f81c0)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ Post-launch we use physical outreach to schools and local corporates, campaign-d
 
 We pride ourselves on responsiveness to feedback and we actively monitor google reviews, Trip Advisor, and onsite customer comments to improve our offering. In 2016 this has led us to integrate a soft play to our site at Slough and to upgrade our coffee offering to a Barista machine.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8107/g0vuhemdcpyscuo4pdhxsafbpxore33/7.jpg?rect=0%2C28%2C416%2C242&w=600&fit=clip&s=1a77f31a1197289e5c0b9b420215935d)
+![](/img/seedrs/uploads/startup/section_image/image/8107/g0vuhemdcpyscuo4pdhxsafbpxore33/7.jpg?rect=0%2C28%2C416%2C242&w=600&fit=clip&s=1a77f31a1197289e5c0b9b420215935d)
 
 ### Competition strategy
 

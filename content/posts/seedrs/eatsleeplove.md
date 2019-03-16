@@ -77,7 +77,7 @@ As a couple, they lead busy lives and are therefore used to paying for convenien
 
 In their personal and professional lives, they will be very used to seeking advice and trusting it. They will take their time with important first baby essentials.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11655/t8tey0r4myomwyjr7csy0f5incrszef/6._Target_Market__1_.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=05c1bed59674ef35891908336d6c5969)
+![](/img/seedrs/uploads/startup/section_image/image/11655/t8tey0r4myomwyjr7csy0f5incrszef/6._Target_Market__1_.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=05c1bed59674ef35891908336d6c5969)
 
 A study completed by Debenhams in 2012 revealed that parents are spending on average £2,538 preparing for their new baby, a 13% increase since 2009. Their spokeswoman, Lizzie Singleton, said: 'Our research shows that expecting a baby turns usually savvy shoppers into spendthrifts, with 64% of customers who said that they spared no expense when it came to baby preparation. One of the reasons given for this large increase is that couples are copying celebrity mothers-to-be who go on spending sprees in the weeks before their child’s birth.’.
 
@@ -85,7 +85,7 @@ In addition, our target customer is likely to have a supportive, involved family
 
 Our customer is likely to be well-researched and interested in alternative and complementary therapies and classes connected to pregnancy, both pre-natal and post-natal. Our target customer is an active participant in classes such as pregnancy pilates, baby massage, doola, mindfulness and sleep improvement.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11656/65z1roswj3fqjps1i0f6c5y81hdymkb/6._Target_Market__2_.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=ddda9fc612e4c8c251bda6a2761db1ac)
+![](/img/seedrs/uploads/startup/section_image/image/11656/65z1roswj3fqjps1i0f6c5y81hdymkb/6._Target_Market__2_.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=ddda9fc612e4c8c251bda6a2761db1ac)
 
 ### Characteristics of target market
 
@@ -97,7 +97,7 @@ The 2011 census shows that the population of the Borough of Greenwich, where our
 
 *Source: Unaudited management accounts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11657/ly7fykrmtfo7q62udl96jwteprhkuq4/7._Characteristics_of_target_market.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=5e00540816b8ef5074994ea1135abc27)
+![](/img/seedrs/uploads/startup/section_image/image/11657/ly7fykrmtfo7q62udl96jwteprhkuq4/7._Characteristics_of_target_market.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=5e00540816b8ef5074994ea1135abc27)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ Over the coming months, we plan to build on our existing business with a number 
 
 - We plan to host and manage a number of complimentary therapy events in conjunction with local practitioners such as pregnancy pilates, doola, baby massages and mindfulness.We have already planned a marketing strategy for the next 12 months and have secured a partner agency to work with us to bring Eat Sleep Love to a bigger audience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11658/qns865cyzlbg90b1qmteun1xdfg1toq/8._Marketing_Strategy.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=34592f83cad7dfab889f1c1dc4c5ecbf)
+![](/img/seedrs/uploads/startup/section_image/image/11658/qns865cyzlbg90b1qmteun1xdfg1toq/8._Marketing_Strategy.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=34592f83cad7dfab889f1c1dc4c5ecbf)
 
 ### Competition strategy
 
@@ -135,5 +135,5 @@ Small independent competition:
 
 We consider ourselves to have a number of key differences in our offer to the above key competitors. With regards to national chains (John Lewis and Mamas and Papas), the key difference is our boutique experience and individual, consultative approach – whilst delivering goods at the same price – allowing our customer to feel relaxed and welcome, and advised by someone with first hand experience of what is needed, as opposed to a ‘salesperson’ or indeed no one at all.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11670/h1ad3j9n42b7i7p0malxcv79bnigyhq/9._Competition_Strategy__1_.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=9a95da4d462c5ec6636200ba335cca1c)
+![](/img/seedrs/uploads/startup/section_image/image/11670/h1ad3j9n42b7i7p0malxcv79bnigyhq/9._Competition_Strategy__1_.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=9a95da4d462c5ec6636200ba335cca1c)
 

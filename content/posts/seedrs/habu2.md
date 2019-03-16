@@ -83,7 +83,7 @@ Investment in Habu will allow us to expand our team to facilitates securing our 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5103/nj594v1oiwqctmobmy3t0jc7ca04pd/5._Initial_Target_Market_Amended_5._Initial_Market.jpeg?w=600&fit=clip&s=bf39bd8f19807d14fef13f0a1fab6a43)
+![](/img/seedrs/uploads/startup/section_image/image/5103/nj594v1oiwqctmobmy3t0jc7ca04pd/5._Initial_Target_Market_Amended_5._Initial_Market.jpeg?w=600&fit=clip&s=bf39bd8f19807d14fef13f0a1fab6a43)
 
 ### Target market
 
@@ -99,7 +99,7 @@ With our minimum viable product &amp; as our initial route in to the market we a
 
 • Habu would be able to appeal to this diverse customer base due to the fact that the same basic needs seem to apply: managing space hires in a simple &amp; flexible way.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5104/k97o73zy6e4x0wrxw2l8iln96qpqmgx/6.-Habu-extended-market.png?w=600&fit=clip&s=002db197861fb98ffcbeb4b4ec2fb871)
+![](/img/seedrs/uploads/startup/section_image/image/5104/k97o73zy6e4x0wrxw2l8iln96qpqmgx/6.-Habu-extended-market.png?w=600&fit=clip&s=002db197861fb98ffcbeb4b4ec2fb871)
 
 ### Characteristics of target market
 
@@ -111,11 +111,11 @@ We have worked in and closely with creative and tech hubs for the past six or so
 
 • The wider market in the UK is estimated to be hundreds of thousands. Along with standard market research, we have carried out numerous in-depth face-to-face interviews with key space management organisations. These interviews have both verified our assumptions and informed the development of features. We are also currently working very closely with our early-bird customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5105/f7p1ockn5azwtd798dhc7oscitbagz2/7.-Habu-anatomy-of-a-hub.png?w=600&fit=clip&s=3e56c8c62b6e9b580a981f77f75a1d12)
+![](/img/seedrs/uploads/startup/section_image/image/5105/f7p1ockn5azwtd798dhc7oscitbagz2/7.-Habu-anatomy-of-a-hub.png?w=600&fit=clip&s=3e56c8c62b6e9b580a981f77f75a1d12)
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5106/4aigstf59dajsdj9m35k5nfbn6m8zjo/8.-Habu-Marketing-Strategy.png?w=600&fit=clip&s=e9ea216b3a9c82ab5e9e171391553881)
+![](/img/seedrs/uploads/startup/section_image/image/5106/4aigstf59dajsdj9m35k5nfbn6m8zjo/8.-Habu-Marketing-Strategy.png?w=600&fit=clip&s=e9ea216b3a9c82ab5e9e171391553881)
 
 Habu will be marketed through a mix of channels including social media, various brand development and awareness activities, plus more traditional approaches and direct marketing.
 
@@ -133,7 +133,7 @@ In addition to this a customer referral scheme would be adopted to support the s
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5107/qqeum6luynri8d94icnhdshecm4cn8c/regular_2.png?w=600&fit=clip&s=5e4d3b77eb936284d6506a87be24d77a)
+![](/img/seedrs/uploads/startup/section_image/image/5107/qqeum6luynri8d94icnhdshecm4cn8c/regular_2.png?w=600&fit=clip&s=5e4d3b77eb936284d6506a87be24d77a)
 
 The primary competition that we face is with the ad hoc ‘no solution’ solution. Through an identified lack of suitable or affordable software solutions the majority of our target market tend to rely on using spreadsheets to manage their spaces and contacts, shared calendars and word docs for managing bookings, email / post for communications. We found that paper-based processes are also common-place. Whilst these tools are initially low-cost, they can lead to disjointed, clunky practices with the potential to carry substantial hidden costs though extra admin and labour.
 
@@ -141,5 +141,5 @@ Software competitors include: <br>● IBCS - Event and space management software
 
 Our objective is to beat our competitors through a combination of: <br>◦ creating an affordable, approachable product that actually meets the needs of our customers. <br>◦ building a top-quality platform providing excellent user experience. <br>◦ continual feature enhancements based on both our visionary road-map and on user feedback. <br>◦ focusing on specific market segments in the UK and consolidating our base before expanding to Europe and the US.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5108/q7yfzdunhx90118zz3nmy6mvrqwwgy1/regular_regular_9.-Habu-SaaS.png?w=600&fit=clip&s=2f18eb56e9c6bfced62ba0074217bb34)
+![](/img/seedrs/uploads/startup/section_image/image/5108/q7yfzdunhx90118zz3nmy6mvrqwwgy1/regular_regular_9.-Habu-SaaS.png?w=600&fit=clip&s=2f18eb56e9c6bfced62ba0074217bb34)
 

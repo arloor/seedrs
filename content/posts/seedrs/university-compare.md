@@ -91,7 +91,7 @@ As the business progresses, so will our client database of prospective students 
 
 Our Target market extends into Europe in 2016/17 increasing our brand awareness amongst European students.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4995/jsfenli0so4zvc0hsh7aemkson9rmx8/Untitled3522.png?rect=0%2C0%2C1256%2C713&w=600&fit=clip&s=6c47413d990224bad94f4e002c95cd4b)
+![](/img/seedrs/uploads/startup/section_image/image/4995/jsfenli0so4zvc0hsh7aemkson9rmx8/Untitled3522.png?rect=0%2C0%2C1256%2C713&w=600&fit=clip&s=6c47413d990224bad94f4e002c95cd4b)
 
 ### Characteristics of target market
 
@@ -101,7 +101,7 @@ The UK Higher Education market is worth a staggering £5.1bn with universities s
 
 The HE industry mildly changes on an annual basis, our excellent relationship with schools creates the opportunity to acquire these students every year. Our ever-growing 4500 subscriber list of careers advisers (influencers) allows us to stay connected with students.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5015/3ifkvojn766uvrotgf9gljz0l5hcq08/tweet2.jpg?rect=0%2C0%2C498%2C126&w=600&fit=clip&s=676704582af747889ababff52f2fef13)
+![](/img/seedrs/uploads/startup/section_image/image/5015/3ifkvojn766uvrotgf9gljz0l5hcq08/tweet2.jpg?rect=0%2C0%2C498%2C126&w=600&fit=clip&s=676704582af747889ababff52f2fef13)
 
 ### Marketing strategy
 
@@ -111,7 +111,7 @@ University Compare's organic traffic has steadily increased over recent years an
 
 University Compare has implemented a scalable social traffic strategy over the past 6 months which has catapulted all areas of external traffic. By connecting with students across Social Media we are able to influence the youth market, increase iPhone App installs along with the value of our sharable content and visits to the site.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4992/x9qeoe4dbxc1e6uqsdpy222nlvd6xb/iphone-look.jpg?rect=159%2C125%2C1570%2C1130&w=600&fit=clip&s=23bc275337a3f0bc06a4676f55b231f5)
+![](/img/seedrs/uploads/startup/section_image/image/4992/x9qeoe4dbxc1e6uqsdpy222nlvd6xb/iphone-look.jpg?rect=159%2C125%2C1570%2C1130&w=600&fit=clip&s=23bc275337a3f0bc06a4676f55b231f5)
 
 ### Competition strategy
 
@@ -123,5 +123,5 @@ In terms of accessibility of our service, we are the only course comparison webs
 
 Our branding has been carefully developed to engage teenagers and young adults, as well as a brand they can relate to. We are fun but professional and helpful. Our branding is considerably stronger than our competitors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5014/58a3s6cb0ido7v1qtgh20ai38v6hxvc/tweet1.jpg?rect=0%2C0%2C498%2C126&w=600&fit=clip&s=3c86459649ac3e0bf9a390779a763d63)
+![](/img/seedrs/uploads/startup/section_image/image/5014/58a3s6cb0ido7v1qtgh20ai38v6hxvc/tweet1.jpg?rect=0%2C0%2C498%2C126&w=600&fit=clip&s=3c86459649ac3e0bf9a390779a763d63)
 

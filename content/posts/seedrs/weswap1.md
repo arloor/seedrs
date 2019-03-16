@@ -111,7 +111,7 @@ Please note that as a term of Ascot's equity investments in WeSwap, Ascot has th
 
 Our current focus is on holiday travellers, who represent the most significant proportion of the travel money market. Within this, we have proved successful at attracting travellers from a variety of segments and we plan to continue to target this market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12279/gfvx7yy8i1b8li5j7jahpw1jq5ucsp8/Our_customers.png?rect=0%2C0%2C2021%2C1136&w=600&fit=clip&s=a114dbd7059365ecaa3b58e3f4616352)
+![](/img/seedrs/uploads/startup/section_image/image/12279/gfvx7yy8i1b8li5j7jahpw1jq5ucsp8/Our_customers.png?rect=0%2C0%2C2021%2C1136&w=600&fit=clip&s=a114dbd7059365ecaa3b58e3f4616352)
 
 The majority of our travellers (50-60%) are older millennials (28-35 year olds), but we also have a significant proportion of families taking a few big trips a year, older empty nesters and 18 year olds travelling with friends. All are fed up with unclear fees and rates and need a cheap and stress free way to spend abroad.
 
@@ -123,7 +123,7 @@ We’re also doing research into supporting students studying abroad, who often 
 
 Travellers exchange billions of dollars across the globe each year. In 2014, travel money spend globally was estimated to be more than £500bn.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12280/n3vn2yfzqbfholecwzw36gnlu6tc2s/Market_size.png?rect=0%2C0%2C600%2C390&w=600&fit=clip&s=70abca8563eee5e6093a9ff01e493379)
+![](/img/seedrs/uploads/startup/section_image/image/12280/n3vn2yfzqbfholecwzw36gnlu6tc2s/Market_size.png?rect=0%2C0%2C600%2C390&w=600&fit=clip&s=70abca8563eee5e6093a9ff01e493379)
 
 <br>More often than not travellers will use a variety of methods to pay abroad – taking cash before a trip and supplementing it with credit and debit cards abroad. In the UK, a significant proportion of total travel cash is still exchanged in airports.
 
@@ -155,7 +155,7 @@ The market is fragmented and localised, with few truly global players. Despite i
 
 We are also seeing exciting digital money businesses emerge too, such as Revolut, Monzo and Atom, who offer a range of current accounts, savings and banking services. It is critical that we stay ahead of these too.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12281/im5kz1f77nlwdbp9a7j9ar8obuz0vs6/what_do_customers_think.png?rect=0%2C0%2C1935%2C1096&w=600&fit=clip&s=44c9f6ec53bf1c2f71d0fb392b773a89)
+![](/img/seedrs/uploads/startup/section_image/image/12281/im5kz1f77nlwdbp9a7j9ar8obuz0vs6/what_do_customers_think.png?rect=0%2C0%2C1935%2C1096&w=600&fit=clip&s=44c9f6ec53bf1c2f71d0fb392b773a89)
 
 Our competitor strategy is as follows:
 
@@ -167,5 +167,5 @@ Our competitor strategy is as follows:
 
 • Technology – We build for scale. We don’t have legacy systems to maintain. We have built WeSwap from scratch with global scalability always at the front of our minds.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12282/qb4u6ajasfgt0occtgow5relqhyjlh1/Apps.png?rect=0%2C0%2C2000%2C1125&w=600&fit=clip&s=1ea81bf2c88fcf8375db9d9863defd26)
+![](/img/seedrs/uploads/startup/section_image/image/12282/qb4u6ajasfgt0occtgow5relqhyjlh1/Apps.png?rect=0%2C0%2C2000%2C1125&w=600&fit=clip&s=1ea81bf2c88fcf8375db9d9863defd26)
 

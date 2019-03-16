@@ -107,7 +107,7 @@ Brickowner continues to increase its base of property platform investors. These 
 
 - want to invest into property but are unable to find suitable opportunities, or else unable to meet the high minimum investment threshold of most institutional investments.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15937/46q4468fx6jr2d60zh3h6iu8wqirpex/final3.jpg?rect=0%2C0%2C2835%2C945&w=600&fit=clip&s=df23c1b0aba45c9b928aee3eb73fa8f2)
+![](/img/seedrs/uploads/startup/section_image/image/15937/46q4468fx6jr2d60zh3h6iu8wqirpex/final3.jpg?rect=0%2C0%2C2835%2C945&w=600&fit=clip&s=df23c1b0aba45c9b928aee3eb73fa8f2)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ Increasing regulation mean this is a large and growing market.
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15938/fnqio07d8mjh0zl07zhccms2ommd8wb/001.jpg?rect=0%2C0%2C1920%2C808&w=600&fit=clip&s=c3f1d6aff7cc2e0275ea11e2ecf2e9ad)
+![](/img/seedrs/uploads/startup/section_image/image/15938/fnqio07d8mjh0zl07zhccms2ommd8wb/001.jpg?rect=0%2C0%2C1920%2C808&w=600&fit=clip&s=c3f1d6aff7cc2e0275ea11e2ecf2e9ad)
 
 To date we have been sourcing our development partners using the contacts and network of the Brickowner team. In the future we aim to hire someone specifically for this role.
 

@@ -75,7 +75,7 @@ In 2017, after field tests and validation, we will produce Stoock and begin the 
 
 Agroop has in its international pipeline 8 target markets: Portugal, Spain, France, Germany, Ireland, Norway, Sweden and Brazil.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7514/geax89fhu2svevlzmz21prx1suzw5ua/Target_market.png?rect=0%2C0%2C1150%2C633&w=600&fit=clip&s=441dacfc46bf4d51c4ff676972a12dae)
+![](/img/seedrs/uploads/startup/section_image/image/7514/geax89fhu2svevlzmz21prx1suzw5ua/Target_market.png?rect=0%2C0%2C1150%2C633&w=600&fit=clip&s=441dacfc46bf4d51c4ff676972a12dae)
 
 Spain, due to its geographic and cultural proximity with Portugal, will be the preferential market to expand internationally, followed by Ireland, Norway and Sweden, where we currently have potential partners. Brazil, despite its huge potential, shall be the last market within our five-year roadmap due to its current economic context.
 
@@ -85,7 +85,7 @@ Agroop's target customers are 46 year old and younger farmers who dedicate thems
 
 Using EUROSTAT and IBGD data, we estimate that in these 8 countries, there are about 8 million farmers within that category and the total market volume is about 5.5 billion euros.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7515/d0cajps6x4qycsgnd6o2ap6ryj5jbfq/Characteristics_of_target_market.png?rect=0%2C-5%2C1150%2C539&w=600&fit=clip&s=ac6e9882fd42f5a077b201037b39a521)
+![](/img/seedrs/uploads/startup/section_image/image/7515/d0cajps6x4qycsgnd6o2ap6ryj5jbfq/Characteristics_of_target_market.png?rect=0%2C-5%2C1150%2C539&w=600&fit=clip&s=ac6e9882fd42f5a077b201037b39a521)
 
 Our initial focus lies on the European market where the average farm is about 14,4 ha (Agroop's target farm size) and where trade barriers are low.
 
@@ -95,7 +95,7 @@ Our sales strategy will be based on digital marketing, in order to attract leads
 
 Each account manager will contact producer associations, cooperatives and consultancy firms, in order to show our product to multiple farmers in group sessions and to negotiate sales commissions with the entities that are interested in partnering with us. We believe this is the path of least resistance to sell our products since it leverages existing relationships between our potential clients and those entities.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7516/huwez62i4zcnka0ahasiekwm7hsu77c/Reaching_the_market__1_.jpg?rect=0%2C0%2C2048%2C1365&w=600&fit=clip&s=8759c0b4fa32d3211dc9e92b5a4fc398)
+![](/img/seedrs/uploads/startup/section_image/image/7516/huwez62i4zcnka0ahasiekwm7hsu77c/Reaching_the_market__1_.jpg?rect=0%2C0%2C2048%2C1365&w=600&fit=clip&s=8759c0b4fa32d3211dc9e92b5a4fc398)
 
 We will seek out partnerships with universities and training entities to make Agroop Operational available to students and trainees.
 
@@ -109,11 +109,11 @@ Similarly to Portugal, we intend to create a commissioner team (see photo) compr
 
 Besides Wisecrop (another Portuguese startup), we did not identify any direct competitors with an integrated management and monitor solution. However, when breaking down each one of Agroop's products, “Agroop Operational” faces competiton from ISAGRI, AgroGestão, Agrivi and AgSquared. And “Stoock’s”, main competitors are CropX, Farmdog and Hidrosoph. <br> <br>“Agroop Operational” and “Stoock” have individually strong selling points, but we have found them to be uniquely strong when both solutions are integrated in a single interface and system.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7517/b03u81i1gy7hfg03d8rsmkoxqvmj3s3/Success_against_competitors__image_1_.png?rect=0%2C0%2C1150%2C632&w=600&fit=clip&s=de77cd0afc0e05fb2db86a0572c8a9a5)
+![](/img/seedrs/uploads/startup/section_image/image/7517/b03u81i1gy7hfg03d8rsmkoxqvmj3s3/Success_against_competitors__image_1_.png?rect=0%2C0%2C1150%2C632&w=600&fit=clip&s=de77cd0afc0e05fb2db86a0572c8a9a5)
 
 Currently, farmers use management platforms and monitoring systems that are developed by different companies and, because of this, in our experience they have no ability to easily process and share information generating indicators to support their decisions in a meaningful way.
 
 Wisecrop has also identified that opportunity but, unlike Agroop and its products, we have found that Wisecrop uses sensors provided by other suppliers and weather stations which, due to the structure and complexity of the devices, have limited scalability potential, narrowing the potential use of the system.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7518/og8yhr2tc8s3r5f58kkf5th859nvews/Success_against_competitors__image_2_.png?rect=0%2C0%2C1146%2C632&w=600&fit=clip&s=003059236ddf2e719bd6d5c1dfb17644)
+![](/img/seedrs/uploads/startup/section_image/image/7518/og8yhr2tc8s3r5f58kkf5th859nvews/Success_against_competitors__image_2_.png?rect=0%2C0%2C1146%2C632&w=600&fit=clip&s=003059236ddf2e719bd6d5c1dfb17644)
 

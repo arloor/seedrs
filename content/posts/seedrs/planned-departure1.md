@@ -93,7 +93,7 @@ According to the latest ONS report there are about 22 million people in this age
 
 Also, with the increasing penetration of the Internet and continued digitisation, the global market for this will surely only grow.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4256/1kkg1jjal4rz1avgd3ch30a70vbrjqa/PD.002.png?rect=0%2C0%2C1024%2C771&w=600&fit=clip&s=f20b42d029359ce75fa8a5409c394ee3)
+![](/img/seedrs/uploads/startup/section_image/image/4256/1kkg1jjal4rz1avgd3ch30a70vbrjqa/PD.002.png?rect=0%2C0%2C1024%2C771&w=600&fit=clip&s=f20b42d029359ce75fa8a5409c394ee3)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ The trends for an increasingly online population and increased digitisation make
 
 The market for digital legacy products is evolving. PasswordBox recently acquired Legacy Locker and Entrustet was acquired by Secure Safe. Organisations such as Facebook and Google have acknowledged this as an important problem. We believe that there is a unique opportunity for us with the market still in its early stages of development and no clear leader present.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4270/a8dx9gu4555t7lxo3ggjijzw3ggb14r/CharacteristicsOfTargetMarket.jpg?rect=0%2C0%2C1024%2C771&w=600&fit=clip&s=bef2897bc6e3f085566fd3306123a3c9)
+![](/img/seedrs/uploads/startup/section_image/image/4270/a8dx9gu4555t7lxo3ggjijzw3ggb14r/CharacteristicsOfTargetMarket.jpg?rect=0%2C0%2C1024%2C771&w=600&fit=clip&s=bef2897bc6e3f085566fd3306123a3c9)
 
 ### Marketing strategy
 
@@ -129,7 +129,7 @@ Our second route will be the B2C route.
 
 For B2C, we plan to invest in social media, create communities and work on organic link building by partnering with bloggers. We are also building virality and will incentivise users who invite more people to use Planned Departure.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4258/qrirwys0gpk9xpdudeqrq76l576z7mz/Seedrs.004__1_.png?rect=0%2C0%2C1010%2C764&w=600&fit=clip&s=24d12dbad61293f070c18a27e8d8f1c0)
+![](/img/seedrs/uploads/startup/section_image/image/4258/qrirwys0gpk9xpdudeqrq76l576z7mz/Seedrs.004__1_.png?rect=0%2C0%2C1010%2C764&w=600&fit=clip&s=24d12dbad61293f070c18a27e8d8f1c0)
 
 ### Competition strategy
 

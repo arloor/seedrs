@@ -81,13 +81,13 @@ Our target market is the 33% of UK consumers who are willing to pay more for cra
 
 They overlap with the following demographics known to be growing: <br>• Free from customers <br>• Veggie/Vegan community <br>• Health and Fitness community
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15625/ce0ciptxsjgh3t4klpjq5evkqmokrkw/Lifestyle3_ML3__2_.jpg?rect=-2%2C0%2C3655%2C5481&w=600&fit=clip&s=2d2988039a13ea46ac60b6a101091a9d)
+![](/img/seedrs/uploads/startup/section_image/image/15625/ce0ciptxsjgh3t4klpjq5evkqmokrkw/Lifestyle3_ML3__2_.jpg?rect=-2%2C0%2C3655%2C5481&w=600&fit=clip&s=2d2988039a13ea46ac60b6a101091a9d)
 
 ### Characteristics of target market
 
 • Appreciation of value over price <br>• Foodies - generally cook for themselves <br>• ABC1 peanut butter consumer who will trade up <br>• Health conscious but taste focused <br>• Range of ages - we speak to 21-35 year olds but are purchased by people as old as 80
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15626/o2qdwrf1j5o8xzrb6or0vad7h5vo32m/Copy_of_3__2_.jpg?rect=0%2C0%2C2448%2C2206&w=600&fit=clip&s=a0843ed0ae4210af85eedcfa09a04ca2)
+![](/img/seedrs/uploads/startup/section_image/image/15626/o2qdwrf1j5o8xzrb6or0vad7h5vo32m/Copy_of_3__2_.jpg?rect=0%2C0%2C2448%2C2206&w=600&fit=clip&s=a0843ed0ae4210af85eedcfa09a04ca2)
 
 ### Marketing strategy
 
@@ -97,7 +97,7 @@ Our marketing strategy therefore revolves around: <br>• Driving mouths per hou
 
 We will do this via: <br>• Proliferation of ManíLife minis - recipe boxes, cafes, hotels, retail locations outside of the spreads aisle etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15623/ex2g39wqdct0q4dq68ckhhlp7jtxpdy/IMG_5941__1_.jpg?rect=0%2C0%2C1508%2C1482&w=600&fit=clip&s=808f5a9b48e55e0e7b352e5431c3b050)
+![](/img/seedrs/uploads/startup/section_image/image/15623/ex2g39wqdct0q4dq68ckhhlp7jtxpdy/IMG_5941__1_.jpg?rect=0%2C0%2C1508%2C1482&w=600&fit=clip&s=808f5a9b48e55e0e7b352e5431c3b050)
 
 • Branded food service - marketing ManíLife as an ingredient to cafe and bakery chains. <br>• In and out of store samplings
 

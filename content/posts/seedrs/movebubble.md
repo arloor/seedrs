@@ -75,11 +75,11 @@ Movebubble appeals to people that are looking for a more convenient way to trans
 
 The market is growing quickly across the UK, with an expected 7.2m rental households by 2025, an approximate 30% increase from today. Property rental stock is fragmented across over 3,500 rental agents in the capital. Our analysis suggests that the largest agencies individually represent less than 3% of properties on the market and online agents have a micro-percentage of property stock. We estimate that 45% is represented by single-office operations. Developers are working to keep up with the demand and there has been an increasing number of large-scale landlords entering the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14500/s3yyv9uqki53fqm6iqehrjx5j58tc4g/-market-growth.png?rect=0%2C0%2C740%2C215&w=600&fit=clip&s=d3e0bff0223da5ca07a25a7a82db7b66)
+![](/img/seedrs/uploads/startup/section_image/image/14500/s3yyv9uqki53fqm6iqehrjx5j58tc4g/-market-growth.png?rect=0%2C0%2C740%2C215&w=600&fit=clip&s=d3e0bff0223da5ca07a25a7a82db7b66)
 
 Our typical renter is a professional aged 23-35 years. Smartphones are their primary device for online purchases, and they're using apps such as Uber, Deliveroo, and Airbnb. They care about authenticity, honest brands and trust recommendations over traditional advertising.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14501/he3l44jxru2lpn7gdykdw729bzkqhx8/personas.png?rect=0%2C0%2C740%2C305&w=600&fit=clip&s=035e4f4bc518e5c97d84f1590264b703)
+![](/img/seedrs/uploads/startup/section_image/image/14501/he3l44jxru2lpn7gdykdw729bzkqhx8/personas.png?rect=0%2C0%2C740%2C305&w=600&fit=clip&s=035e4f4bc518e5c97d84f1590264b703)
 
 For city expansion, the strategy is currently being developed.
 
@@ -91,7 +91,7 @@ Earlier this year, Movebubble ran its first ever campaign on the London Undergro
 
 We'll continue building brand awareness during the next 12 months to help spread the word so that more renters can discover a better way to find their next home.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14502/qaa6k59u1gvgqp82e1oqv403h2ffx28/ads.png?rect=0%2C0%2C740%2C415&w=600&fit=clip&s=c60f2335c41264e3625852cc7c22f43e)
+![](/img/seedrs/uploads/startup/section_image/image/14502/qaa6k59u1gvgqp82e1oqv403h2ffx28/ads.png?rect=0%2C0%2C740%2C415&w=600&fit=clip&s=c60f2335c41264e3625852cc7c22f43e)
 
 ### Competition strategy
 
@@ -103,7 +103,7 @@ Unlike many other providers, Movebubble has combined the best of traditional ser
 
 Movebubble distinguishes itself from the competition by having a fanatic focus on putting the renters' needs first. To the best of our knowledge, we're the only rental platform to successfully connect both sides of the marketplace, and ensure a world-class experience for renters.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14503/gnmvpejffuc0eelp9rl9av0yafe1qy1/testimonial.png?rect=0%2C0%2C740%2C299&w=600&fit=clip&s=64d16a25d582ac50c108ee5a8b669382)
+![](/img/seedrs/uploads/startup/section_image/image/14503/gnmvpejffuc0eelp9rl9av0yafe1qy1/testimonial.png?rect=0%2C0%2C740%2C299&w=600&fit=clip&s=64d16a25d582ac50c108ee5a8b669382)
 
 Movebubble has an early mover advantage in the rental market and has already captured a good share of the renter audience to date.
 

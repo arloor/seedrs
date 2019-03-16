@@ -83,7 +83,7 @@ Our direct client is a distributor. Our end user is a hospital or a stand-alone 
 
 We are also looking to collaborate with surgical instrument manufacturers, to deliver complete and dedicated solutions, providing a bundle like a medical robot and a washer designed specifically for its instruments.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14796/o1qh7x1h09mqo7vlgeae2e3xq7vs63e/Aseptium-Seedrs-2018-infographics-trends.jpg?rect=11%2C0%2C588%2C530&w=600&fit=clip&s=c7d5c95e87acc187667b8b3cb1960dfd)
+![](/img/seedrs/uploads/startup/section_image/image/14796/o1qh7x1h09mqo7vlgeae2e3xq7vs63e/Aseptium-Seedrs-2018-infographics-trends.jpg?rect=11%2C0%2C588%2C530&w=600&fit=clip&s=c7d5c95e87acc187667b8b3cb1960dfd)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ Based on our personal market experience, washers of the similar capacity to uSon
 
 From our own calculations we estimate the annual cost of consumables to be 20 - 50%+ of the purchase price of the equipment.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14797/deye8qjjnvffucu4gw4mo3qz2gzugce/Aseptium_-_VeriTest_Product_Family.jpg?rect=0%2C0%2C600%2C430&w=600&fit=clip&s=a5341b971b0c620735009e09882fc80c)
+![](/img/seedrs/uploads/startup/section_image/image/14797/deye8qjjnvffucu4gw4mo3qz2gzugce/Aseptium_-_VeriTest_Product_Family.jpg?rect=0%2C0%2C600%2C430&w=600&fit=clip&s=a5341b971b0c620735009e09882fc80c)
 
 ### Marketing strategy
 
@@ -105,7 +105,7 @@ Profile: <br>1. Aseptium is already an expert brand on the market. AR/VR marketi
 
 Publishing: <br>Our team contributes regularly to journals in the decontamination market and frequently speak at industry events building the brand globally.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14798/gnz1729lfnfkx36ivd1chim9gir9wa2/Aseptium_-_VeriTest_Multi.jpg?rect=0%2C0%2C600%2C430&w=600&fit=clip&s=c066b7eaca897f52891ef12bf50c292e)
+![](/img/seedrs/uploads/startup/section_image/image/14798/gnz1729lfnfkx36ivd1chim9gir9wa2/Aseptium_-_VeriTest_Multi.jpg?rect=0%2C0%2C600%2C430&w=600&fit=clip&s=c066b7eaca897f52891ef12bf50c292e)
 
 ### Competition strategy
 
@@ -117,5 +117,5 @@ The majority of serious competitors, such as Miele / Steelco offer conventional 
 
 There are a number of companies at that end of the market while we target high end, advanced solutions. Currently, we have seen that after-sales services and maintenance of equipment are costly and difficult to maintain at a high level with relatively low volume of international sales. Aseptium will combine AR/VR support with online equipment monitoring in order to reduce the cost and downtime and therefore we believe gives us a competitive advantage.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14799/qywu5w6hlroyzh6bbworan6c2p099t4/Aseptium_-_VeriTest-brochure.jpg?rect=0%2C0%2C600%2C430&w=600&fit=clip&s=55bde8ca5e75457de0dadba2fb0900e5)
+![](/img/seedrs/uploads/startup/section_image/image/14799/qywu5w6hlroyzh6bbworan6c2p099t4/Aseptium_-_VeriTest-brochure.jpg?rect=0%2C0%2C600%2C430&w=600&fit=clip&s=55bde8ca5e75457de0dadba2fb0900e5)
 

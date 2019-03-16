@@ -99,7 +99,7 @@ The recent and continued expansion of our product range opens Brother Cycles up 
 
 However, regardless of age, sex or location Brother Cycles appeals to the more discerning cyclist. They haven't just bought a convenient off-the-shelf bike to commute on. Rather they have chosen a Brother Cycles bike for the quality of the product and strength of the brand. Cycling to them is a way of life, as well as a form of transport, and they are heavily involved in the cycling community. As a result of this every Brother Cycles owner becomes an ambassador for the brand, this is clearly shown in our strong social media presence. Many of these cyclists own more than one bike and as such we've seen a number of repeat customers, showing a strong brand loyalty.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3483/qpnyjh7vij8f14kf5kkccv4h17qixhy/Target-Market.jpg?w=600&fit=clip&s=652decf82e09618246fef6f147d52a86)
+![](/img/seedrs/uploads/startup/section_image/image/3483/qpnyjh7vij8f14kf5kkccv4h17qixhy/Target-Market.jpg?w=600&fit=clip&s=652decf82e09618246fef6f147d52a86)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ With 4 years already operating in the market we are confident that we not only h
 
 .
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3484/4slm0wr7jpi0yy4yrs9w4n10wn2rste/Characteristics-of-Target-Market.jpg?w=600&fit=clip&s=58a118db0a3f41a1d960d41be754ff37)
+![](/img/seedrs/uploads/startup/section_image/image/3484/4slm0wr7jpi0yy4yrs9w4n10wn2rste/Characteristics-of-Target-Market.jpg?w=600&fit=clip&s=58a118db0a3f41a1d960d41be754ff37)
 
 ### Marketing strategy
 
@@ -123,7 +123,7 @@ The more complete range of products, combined with strong promotional activity t
 
 We have already developed relationships with brand ambassadors in some of the key regions we are looking to expand into (New York, Los Angeles, Singapore etc) and will leverage these contacts to help promote the brand. Making use of these and other contacts in various cycling networks in which we have a positive following should enable Brother Cycles to further develop a global presence from our modest base in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3485/nznec173q9cdjf9mxuqcnsl6128gncf/Marketing_Strategy.jpg?w=600&fit=clip&s=1cec01b8cd737af51278bcba10cd6b13)
+![](/img/seedrs/uploads/startup/section_image/image/3485/nznec173q9cdjf9mxuqcnsl6128gncf/Marketing_Strategy.jpg?w=600&fit=clip&s=1cec01b8cd737af51278bcba10cd6b13)
 
 ### Competition strategy
 
@@ -133,5 +133,5 @@ With growth we are aware that it's easy to lose this personal feel to a brand, a
 
 This is why we've turned to crowdfunding as a way of growing Brother Cycles, as essentially it is the ultimate connection with our customers. It is their investment and support of the company that will ultimately allow us to grow and eventually this in itself will differentiate us from the competition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3486/4877ojwjp2dasu93g1c0iyxyprvd0ja/Competition-Strategy.jpg?w=600&fit=clip&s=addb1aea14d2effb934479d4e1a291d9)
+![](/img/seedrs/uploads/startup/section_image/image/3486/4877ojwjp2dasu93g1c0iyxyprvd0ja/Competition-Strategy.jpg?w=600&fit=clip&s=addb1aea14d2effb934479d4e1a291d9)
 

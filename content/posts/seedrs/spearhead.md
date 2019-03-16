@@ -85,7 +85,7 @@ The Mobile Learning Market:
 
 - The worldwide market for Mobile Learning products and services reached $5.3 billion in 2012. With a compound annual growth rate of 18.2% for the following five years, it is estimated that the worldwide mobile learning market will reach $12.2 billion by 2017. <br>It is for this reason that we need a prominent online presence, and this will be achieved using the investment raised. We expect that this will enable us to open up to the global market via online sales.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10522/kk8kizrtnuogzghx7neqdwn1gpiankd/Business_category_image.jpg?rect=0%2C0%2C4614%2C3099&w=600&fit=clip&s=94b04f6dae94b26b8f43fe458c25c1fe)
+![](/img/seedrs/uploads/startup/section_image/image/10522/kk8kizrtnuogzghx7neqdwn1gpiankd/Business_category_image.jpg?rect=0%2C0%2C4614%2C3099&w=600&fit=clip&s=94b04f6dae94b26b8f43fe458c25c1fe)
 
 ### Characteristics of target market
 
@@ -101,13 +101,13 @@ The MOOC and online training model is well established now in the USA, with bran
 
 Therefore, we aim to execute on this and become the go-to provider in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10523/qf98ff7b1zjcofowg1kwaan0mkw27fc/Screen_Shot_2016-11-23_at_14.34.09.png?rect=0%2C0%2C1310%2C879&w=600&fit=clip&s=40298154d9c6343e53a4e4afba136e86)
+![](/img/seedrs/uploads/startup/section_image/image/10523/qf98ff7b1zjcofowg1kwaan0mkw27fc/Screen_Shot_2016-11-23_at_14.34.09.png?rect=0%2C0%2C1310%2C879&w=600&fit=clip&s=40298154d9c6343e53a4e4afba136e86)
 
 ### Marketing strategy
 
 We intend to use Digital Marketing Campaigns focusing on social media, direct mail campaigns, advertisement, SEO, PPC, and also social media influencers. Spearhead has a good social media presence (over 16,000 organic social media followers across 4 active channels – Twitter, Facebook, Instagram, LinkedIn) and has already been featured in a number of mummy blogs, YouTube channels, business magazines, SKY TV, and National Newspapers. With the investment we plan to drive sales by: <br>● Creating awareness through PR and sponsored social media activity, such as paid adverts on Facebook, LinkedIn, and Instagram to a carefully selected audience. <br>● Our PR focus will be on trade magazines and websites, as well as business profiling with national news and digital publications. <br>● We intend to spend 84% of the investment on SEO, PPC, and mail campaigns. We believe that this is key to our growth and our SEO and Marketing team are confident we can reach our estimated targets by the end of year 2. <br>● We aim to utilise social media influencers to promote and review our courses. In addition, we intend to offer a uniquely designed digital card that can be posted and shared on social media saying “Just completed a course with Spearhead”. We intend to give the user that posts it £10.00 credit on the site to use on any course.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10524/j0xlrfr81galhh8iq66wd6a1s7k7dw2/food_safety_category.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=c7707d08b0272d52b3f6dcf809fe5f7a)
+![](/img/seedrs/uploads/startup/section_image/image/10524/j0xlrfr81galhh8iq66wd6a1s7k7dw2/food_safety_category.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=c7707d08b0272d52b3f6dcf809fe5f7a)
 
 ### Competition strategy
 
@@ -115,5 +115,5 @@ Spearhead aims to differentiate itself in both the quality of the courses and th
 
 We offer qualifications that are recognised internationally and that are a legal requirement for businesses to ensure that their staff are trained and up-to-date. We also aim to deliver practical training and apprenticeship-funded training via our partners and consultancy services, which adds 3 additional revenue streams that our main online training competitors don't offer. We are one of the only providers to our knowledge that can offer a full training solution that includes online elearning, practical training, apprenticeship/funded training, and compliance consultancy.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10525/jpemeznq8nvok4jh8qkv03c86wqymat/main_2.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=60d14d31f40ece6c094d1d60fd0ea1eb)
+![](/img/seedrs/uploads/startup/section_image/image/10525/jpemeznq8nvok4jh8qkv03c86wqymat/main_2.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=60d14d31f40ece6c094d1d60fd0ea1eb)
 

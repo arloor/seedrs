@@ -111,7 +111,7 @@ On the corporate side, we’re seeing huge trends in workplace wellness as they 
 
 Urban Balance, our workplace wellness offering will provide in-office wellness activities such as yoga, massage and meditation.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15351/4i7qx7k05i3td1l0mj3ad50zqt6c26l/Screenshot_2018-08-08_09.23.01.png?rect=0%2C0%2C1326%2C950&w=600&fit=clip&s=dc311fbd2ce43c50a5b7ef43c4cbcf83)
+![](/img/seedrs/uploads/startup/section_image/image/15351/4i7qx7k05i3td1l0mj3ad50zqt6c26l/Screenshot_2018-08-08_09.23.01.png?rect=0%2C0%2C1326%2C950&w=600&fit=clip&s=dc311fbd2ce43c50a5b7ef43c4cbcf83)
 
 ### Characteristics of target market
 
@@ -129,7 +129,7 @@ Considering stress relief is the biggest prompt to book something like a massage
 
 * Based on Urban Massage's research.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15354/i7240hrir4rs3c6zolneiip74fem5tx/what_our_customers_care_about.jpg?rect=108%2C12%2C1020%2C679&w=600&fit=clip&s=bb57421302143655dc1ed4ea3e553719)
+![](/img/seedrs/uploads/startup/section_image/image/15354/i7240hrir4rs3c6zolneiip74fem5tx/what_our_customers_care_about.jpg?rect=108%2C12%2C1020%2C679&w=600&fit=clip&s=bb57421302143655dc1ed4ea3e553719)
 
 ### Marketing strategy
 
@@ -137,7 +137,7 @@ We’ve already achieved strong brand awareness and recognition in both London a
 
 As a result of this awareness and our high ratings, our brand advocacy is strong – with our referral programme and word of mouth contributing to 62% of our monthly acquired customers. We have a strong network effect, as every other customer we acquire will bring another friend on board too.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15352/78bvwvxzytezlerff40yxc7t2gkelp4/Screen_Shot_2018-08-08_at_00.18.07.png?rect=80%2C-2%2C2081%2C1558&w=600&fit=clip&s=43a3def93ab3acb694f5daa0a61f4763)
+![](/img/seedrs/uploads/startup/section_image/image/15352/78bvwvxzytezlerff40yxc7t2gkelp4/Screen_Shot_2018-08-08_at_00.18.07.png?rect=80%2C-2%2C2081%2C1558&w=600&fit=clip&s=43a3def93ab3acb694f5daa0a61f4763)
 
 On a monthly basis, we acquire new customers through various channels including:
 
@@ -161,5 +161,5 @@ Finally, our proprietary technology allows our customers to book appointments in
 
 For practitioners, they are able to use our proprietary apps to manage their schedules effectively while allowing us to sort their logistics and routing. Effectively, all they have to do is press play and do what they love.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15353/khc57c0yc21j5g9h9k9ua8dgw15pl1d/Second_down__therapist_stuff.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=58c520fd3ef8b58b88386e8af279095e)
+![](/img/seedrs/uploads/startup/section_image/image/15353/khc57c0yc21j5g9h9k9ua8dgw15pl1d/Second_down__therapist_stuff.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=58c520fd3ef8b58b88386e8af279095e)
 

@@ -87,7 +87,7 @@ MISCELLANEOUS OVERHEADS - approximately 25% <br>While we build up revenues to a 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9966/14ozwy6vmw6qujs85jglfx1w3wwn7rv/Seedrs_7_Testimonial.jpg?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=74404825149f89d7545100fe0a327b7a)
+![](/img/seedrs/uploads/startup/section_image/image/9966/14ozwy6vmw6qujs85jglfx1w3wwn7rv/Seedrs_7_Testimonial.jpg?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=74404825149f89d7545100fe0a327b7a)
 
 ### Target market
 
@@ -113,7 +113,7 @@ The event management software (all types of event management) market is expected
 
 In our view the endurance event management market is severely under-served, highly fragmented and wide open for innovative technology to make a real impact and secure a solid market share.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9968/8thzvp1iltpct9qv41xqhubk8bge7ov/Seedrs_2_T-shirt_new.jpg?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=d1d048ec7be171c4251ec314c07022cc)
+![](/img/seedrs/uploads/startup/section_image/image/9968/8thzvp1iltpct9qv41xqhubk8bge7ov/Seedrs_2_T-shirt_new.jpg?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=d1d048ec7be171c4251ec314c07022cc)
 
 ### Marketing strategy
 
@@ -133,7 +133,7 @@ BRAND HERO'S <br>With the smaller community, we believe that our growth will be 
 
 THE USUAL SUSPECTS <br>Our direct efforts will also be supported by the usual suspects: Social Media, SEO, SEM, PR etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9967/8tvtz3cd6ajiv3ixt74blchhunhy67r/Seedrs_8_Admin.jpg?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=2b562bd76d08114d3f67be689d2653ba)
+![](/img/seedrs/uploads/startup/section_image/image/9967/8tvtz3cd6ajiv3ixt74blchhunhy67r/Seedrs_8_Admin.jpg?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=2b562bd76d08114d3f67be689d2653ba)
 
 ### Competition strategy
 

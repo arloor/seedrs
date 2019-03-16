@@ -67,7 +67,7 @@ Specifically: <br>- Build and release of the B2B platform; <br>- Hire of staff, 
 
 EeBria's current customer base is geographically spread around the UK, with only 23% of customers based in London. <br> <br>Our key demographic is 25-40 year olds, who to date have displayed a 35% repeat rate on EeBria. It is this same demographic who are driving the craft beer market growth in general, however we also see good volumes outside this group, especially through some of our more traditional producers. <br> <br>Our user base is approximately three quarters male, which we don't foresee changing significantly in the near future. <br> <br>For B2B our initial target market is independent pubs and small chains (e.g. up to 10 pubs), as well as the growing number of smaller cafes/bars which are offering craft beers. We have received very regular requests for a B2B service from pubs, so have a long list of interested buyers as well as already having a good base of breweries. Numerous breweries that we work with (and breweries that we don't work with) have contacted us, suggesting that we develop a B2B offering.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2647/grxhom5gf5a2zjd197h1wfxom8eu2wq/customerinfographics2_white_498.png?w=600&fit=clip&s=d79909acddc5a18d5802e222f3b5939f)
+![](/img/seedrs/uploads/startup/section_image/image/2647/grxhom5gf5a2zjd197h1wfxom8eu2wq/customerinfographics2_white_498.png?w=600&fit=clip&s=d79909acddc5a18d5802e222f3b5939f)
 
 ### Characteristics of target market
 
@@ -79,7 +79,7 @@ EeBria's current customer base is geographically spread around the UK, with only
 
 - The UK represents just 12% of the total European Market Opportunity.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2648/2i7qh316drzxz350jecbr5d2k6hprp7/ukalcoohlmarket.png?w=600&fit=clip&s=1374f26df921ab0ba66472af339430d5)
+![](/img/seedrs/uploads/startup/section_image/image/2648/2i7qh316drzxz350jecbr5d2k6hprp7/ukalcoohlmarket.png?w=600&fit=clip&s=1374f26df921ab0ba66472af339430d5)
 
 ### Marketing strategy
 
@@ -93,11 +93,11 @@ As with our B2C model, we will offer breweries a reduced commission rate for cus
 
 We will also utilise conventional online channels, including Paid Search, Online Display, Retargetting, Content Driven Marketing and Social Media.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2678/37hxzcu4z7ttqah0dywh72rav20i2iw/b2bquotes_498.png?w=600&fit=clip&s=45f5d027147e9aa3a08bcec4efc4d85b)
+![](/img/seedrs/uploads/startup/section_image/image/2678/37hxzcu4z7ttqah0dywh72rav20i2iw/b2bquotes_498.png?w=600&fit=clip&s=45f5d027147e9aa3a08bcec4efc4d85b)
 
 ### Competition strategy
 
 In B2C and B2B we are the only online alcohol retailer we are aware of operating with a marketplace model. This means that in contrast to traditional warehouse based 'bottle shops' and distributors we: <br>- keep our overheads low. <br>- pay the producers more per sale, so become preferential suppliers. <br>- are able to offer a cheap price to customers and pubs <br>- provide the drinks in the optimal condition. A lot of the beers have a short time from production to the best before date (often 4 months). The marketplace model offers the freshest beers since they do not sit in a warehouse and come straight from the brewery. <br>- are able to offer a producers full range of drinks, including one-off and special ranges. This enables access to more products from a producer than our competitors. <br>- offer a personal touch from the craftsmen that make the products. <br>- have a first mover advantage in the marketplace model and sell many of the UK's best producers already on the site. <br>- can access the whole of the UK, unlike most distributors <br>- have a very scalable model
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2679/czc8s160z4sb49jvsq3mpe916ze3zza/EeBriakeyDistributionChannel.png?w=600&fit=clip&s=bc6c2983b7ea1f524e863444a709d01b)
+![](/img/seedrs/uploads/startup/section_image/image/2679/czc8s160z4sb49jvsq3mpe916ze3zza/EeBriakeyDistributionChannel.png?w=600&fit=clip&s=bc6c2983b7ea1f524e863444a709d01b)
 

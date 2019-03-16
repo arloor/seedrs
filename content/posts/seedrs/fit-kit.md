@@ -87,7 +87,7 @@ This group are time poor ABC1 consumers and one of the key motivations of exerci
 
 Therefore a life hack product like Fit Kit which provides them with the after exercise benefits they seek in a convenient format proved very appealing in our research.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16074/pgp6viyv10wndyfbuvpi0mlrrxpe8j1/Target_Market.jpg?rect=0%2C0%2C750%2C751&w=600&fit=clip&s=f48a9e9cbf61bc3fb317de55a44e9b61)
+![](/img/seedrs/uploads/startup/section_image/image/16074/pgp6viyv10wndyfbuvpi0mlrrxpe8j1/Target_Market.jpg?rect=0%2C0%2C750%2C751&w=600&fit=clip&s=f48a9e9cbf61bc3fb317de55a44e9b61)
 
 ### Characteristics of target market
 
@@ -99,7 +99,7 @@ Our research suggests that the change in this attitude to exercise has been driv
 
 These consumers have demonstrated a desire for products in various categories that support their healthy lifestyle such as Vitamin Drinks, Protein Snacks and Probiotic Yogurts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16075/jizywwpx7wteymgzu2tc4w92aiwbmq6/Characteristics_of_Target_Market.jpg?rect=0%2C0%2C750%2C747&w=600&fit=clip&s=af2aa320d4b820f11267aa38c19c7cad)
+![](/img/seedrs/uploads/startup/section_image/image/16075/jizywwpx7wteymgzu2tc4w92aiwbmq6/Characteristics_of_Target_Market.jpg?rect=0%2C0%2C750%2C747&w=600&fit=clip&s=af2aa320d4b820f11267aa38c19c7cad)
 
 ### Marketing strategy
 
@@ -113,5 +113,5 @@ Fit Kit initially launched within the Male Toiletry market. We've found that ove
 
 The growth in the market is coming from brands with natural ingredients and ethical business models. Fit Kit reflects these trends with natural formulations, cruelty-free testing and UK based production.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16080/1ahzrnspqkqo8bcjj3u191jfnmhyjtl/Fit_Kit_5_Product_shot.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=09dfe07328fa616b28fe3f0134240b66)
+![](/img/seedrs/uploads/startup/section_image/image/16080/1ahzrnspqkqo8bcjj3u191jfnmhyjtl/Fit_Kit_5_Product_shot.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=09dfe07328fa616b28fe3f0134240b66)
 

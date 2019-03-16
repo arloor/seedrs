@@ -101,7 +101,7 @@ We've selected marketing channels to reach our target market for both acquisitio
 
 By using these channels, we've constructed a customer journey that leads a potential customer from awareness, to discoverability, to researching, to conversion and finally to advocacy as we strive to delight our customers and create loyal fans.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14808/qws0yewdrkzrvhdwzm4e662nh3pdfjg/5.jpg?rect=0%2C0%2C600%2C229&w=600&fit=clip&s=5e3ed255c21104fe245aa8809798971e)
+![](/img/seedrs/uploads/startup/section_image/image/14808/qws0yewdrkzrvhdwzm4e662nh3pdfjg/5.jpg?rect=0%2C0%2C600%2C229&w=600&fit=clip&s=5e3ed255c21104fe245aa8809798971e)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ We're also uniquely placed at the crossroads of online and offline experiences a
 
 Our view of the competition:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14809/r1owz7irpa7ubninb2buoz1z8vy3afk/6.jpg?rect=0%2C0%2C600%2C416&w=600&fit=clip&s=014eeb2bb0922852f8881acc633a8b35)
+![](/img/seedrs/uploads/startup/section_image/image/14809/r1owz7irpa7ubninb2buoz1z8vy3afk/6.jpg?rect=0%2C0%2C600%2C416&w=600&fit=clip&s=014eeb2bb0922852f8881acc633a8b35)
 

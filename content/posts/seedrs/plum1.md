@@ -57,7 +57,7 @@ The preferred shares have a right to receive 1x their initial investment ahead o
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14959/m0ztnhefefydzkg9rtsu49o8mgdmgen/Picture6.png?rect=0%2C0%2C939%2C491&w=600&fit=clip&s=e914caea09ee0a04b0754f984a8702fb)
+![](/img/seedrs/uploads/startup/section_image/image/14959/m0ztnhefefydzkg9rtsu49o8mgdmgen/Picture6.png?rect=0%2C0%2C939%2C491&w=600&fit=clip&s=e914caea09ee0a04b0754f984a8702fb)
 
 ### Target market
 
@@ -67,7 +67,7 @@ Plum seeks to address and improve the management of personal finance for the est
 
 Plum’s algorithm has mass appeal. Our user base spans all age-groups, income levels and backgrounds, yet share the following characteristics: <br> <br>• Busy, sociable and living for the moment, with little time for “life admin”; <br>• Untrusting of banks and unsure of who to turn to for financial advice; and <br>• Comfortable and expectant of using technology to simplify their lives. <br> <br>This demographic has become accustomed to the disruption and advances that technology has driven across all other aspects of their lives where at the click of a button you receive an personal taxi-driver. Currently we believe there is no personal financial advisor at the click of the button that looks out for your holistic financial well-being! <br> <br>Financial advice basically hasn’t changed since the time of our parents and Plum intends to spearhead this change in the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14961/tlzdhlk0jjfqk80o3q2h1oiv60z9o1x/Picture9.png?rect=0%2C4%2C937%2C625&w=600&fit=clip&s=8bd19cef24d29b08fb62100565580c09)
+![](/img/seedrs/uploads/startup/section_image/image/14961/tlzdhlk0jjfqk80o3q2h1oiv60z9o1x/Picture9.png?rect=0%2C4%2C937%2C625&w=600&fit=clip&s=8bd19cef24d29b08fb62100565580c09)
 
 ### Marketing strategy
 

@@ -73,7 +73,7 @@ The major hotel chains have already bought into a similar business model for the
 
 We are currently covering London, Monte Carlo, Dubai and New York with Las Vegas, Chicago, Miami, San Francisco and LA next on the radar. Joint ventures with local experts are planned for sub saharan Africa and France. Penetration into Asia and Africa through the mobile app is expected in 2016.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6860/oktzg7rom293rjfmddhg705lw8g2t5y/150126_0121_JTucker.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=289d579757360e726cd93edbe6058607)
+![](/img/seedrs/uploads/startup/section_image/image/6860/oktzg7rom293rjfmddhg705lw8g2t5y/150126_0121_JTucker.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=289d579757360e726cd93edbe6058607)
 
 ### Characteristics of target market
 
@@ -85,7 +85,7 @@ In 2012, the estimated total global addressable market size for event technology
 
 According to Gartner Insights, digital business is driving 'big change'. The current leaders in a given industry will not necessarily remain there. They need to identify potential disruptors and stay ahead of the game.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6861/7af6irgxcic78591usdwxiab4gsl82a/Committee.jpg?rect=0%2C0%2C1024%2C1419&w=600&fit=clip&s=d7f63542eeffc21dcc6b53e5350f8363)
+![](/img/seedrs/uploads/startup/section_image/image/6861/7af6irgxcic78591usdwxiab4gsl82a/Committee.jpg?rect=0%2C0%2C1024%2C1419&w=600&fit=clip&s=d7f63542eeffc21dcc6b53e5350f8363)
 
 ### Marketing strategy
 
@@ -95,7 +95,7 @@ In November 2015 we had 6,000 unique users visiting our site and we have current
 
 We are supported by a high profile group of event &amp; communications professionals. We have partnered with global event tech company DoubleDutch who have raised $78m in the past 3 years and have a relationship with Eventbrite that have over 200,000 twitter followers. We run our own live event brands Eventopedia VIP and Discovery. Events held so far include the Mandarin Oriental, Hyde Park, 8 Northumberland Avenue, One Horse Guards Avenue, Westminster Boating Base and 30 Euston Square.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6862/bh38y8o0clza6na95zp2emh2to60syk/Press_Coverage.png?rect=-6%2C0%2C845%2C1276&w=600&fit=clip&s=2e9051427cb5f8738af4e040a550145c)
+![](/img/seedrs/uploads/startup/section_image/image/6862/bh38y8o0clza6na95zp2emh2to60syk/Press_Coverage.png?rect=-6%2C0%2C845%2C1276&w=600&fit=clip&s=2e9051427cb5f8738af4e040a550145c)
 
 ### Competition strategy
 
@@ -109,5 +109,5 @@ Grosvenor House Hotel (part of JW Marriott) on Park Lane thinks Eventopedia deli
 
 <a target="_blank" rel="nofollow" class="outside" href="http://eventindustrynews.co.uk/event-technology-news/eventopedia-delivers-higher-roi-than-other-channels-grosvenor-house/">http://eventindustrynews.co.uk/event-technology...</a>
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6863/eccecttw7g7x5c19d2dlmrz1fd1h3x8/Champagne.jpg?rect=0%2C0%2C2000%2C1334&w=600&fit=clip&s=8f4bb837a2af360ca21d7b0e838f3b1a)
+![](/img/seedrs/uploads/startup/section_image/image/6863/eccecttw7g7x5c19d2dlmrz1fd1h3x8/Champagne.jpg?rect=0%2C0%2C2000%2C1334&w=600&fit=clip&s=8f4bb837a2af360ca21d7b0e838f3b1a)
 

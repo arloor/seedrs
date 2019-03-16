@@ -93,13 +93,13 @@ We have two key target markets:
 
 • Food entrepreneurs. <br>• Street food traders, supperclubs and pop-ups. <br>• Online food delivery companies. <br>• Chefs and caterers. <br>• Restaurants/cafes. <br>• Retail products. <br>• Corporate events (cooking classes). <br>• Media companies and advertising agencies (food photography and filming).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12943/5mppl5s4fl3bqwas08vouj6nc7r41oe/Target_market.png?rect=0%2C0%2C959%2C541&w=600&fit=clip&s=6ef90f82a01e9ffa6d8148f05752104c)
+![](/img/seedrs/uploads/startup/section_image/image/12943/5mppl5s4fl3bqwas08vouj6nc7r41oe/Target_market.png?rect=0%2C0%2C959%2C541&w=600&fit=clip&s=6ef90f82a01e9ffa6d8148f05752104c)
 
 ### Characteristics of target market
 
 In the UK alone, there are over 500,000 registered food premises, presenting massive potential growth for Kitchen Hosts. 70% of the UK population would share their idle assets if it were easy or convenient, and Kitchup is the first to bring a managed solution for commercial kitchens.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12945/sr2twy8ytlp24v5sexseee99au5e45i/Hackney_kitchen.jpg?rect=0%2C0%2C4233%2C2825&w=600&fit=clip&s=f161628512b91279f6dc9a9d6bd960ac)
+![](/img/seedrs/uploads/startup/section_image/image/12945/sr2twy8ytlp24v5sexseee99au5e45i/Hackney_kitchen.jpg?rect=0%2C0%2C4233%2C2825&w=600&fit=clip&s=f161628512b91279f6dc9a9d6bd960ac)
 
 Almost every food business needs a commercial kitchen and the need for flexible kitchen space is increasing due to a number of growing markets and shifting demands:
 
@@ -109,7 +109,7 @@ Almost every food business needs a commercial kitchen and the need for flexible 
 
 • Globally, the sharing economy is set to be worth $335 billion in 2025, driving a shift from ownership to access with innovative young restaurant brands favouring delivery-only kitchens and pop-up stands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12944/24u6hd037d6u1swni2ry4fez15fznxc/Battersea_kitchen.jpg?rect=0%2C0%2C3743%2C2496&w=600&fit=clip&s=94616b6a23fc99bd225880e7aec213e5)
+![](/img/seedrs/uploads/startup/section_image/image/12944/24u6hd037d6u1swni2ry4fez15fznxc/Battersea_kitchen.jpg?rect=0%2C0%2C3743%2C2496&w=600&fit=clip&s=94616b6a23fc99bd225880e7aec213e5)
 
 ### Marketing strategy
 
@@ -121,7 +121,7 @@ Food unifies our community and attracts huge audiences online which we aim to ta
 
 We intend to adopt a test and learn approach to find what drives the most cost-effective growth and adapt accordingly.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12946/ba9lx2asyhtncj20ypk6t8g53gq1gqp/Chefs.jpg?rect=0%2C0%2C3074%2C1878&w=600&fit=clip&s=ec04359cc29a6b21db01a083ee836262)
+![](/img/seedrs/uploads/startup/section_image/image/12946/ba9lx2asyhtncj20ypk6t8g53gq1gqp/Chefs.jpg?rect=0%2C0%2C3074%2C1878&w=600&fit=clip&s=ec04359cc29a6b21db01a083ee836262)
 
 ### Competition strategy
 
@@ -133,5 +133,5 @@ Kitchup sets itself apart from any competitors with what we believe is a unique 
 
 We have a strong position with top organic Google ranking, a distinctive brand and the trademarked tagline 'The place for kitchen space'. Our investment plans should enable us to capitalise on our first-mover advantage, accelerating the network effects to scale and remain the industry leader.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12976/f2x2o4r5v2c09dgtka24ffws4jp8qm1/Kitchup_platform.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=72425b12e3f24e17c90d2ecd39c13739)
+![](/img/seedrs/uploads/startup/section_image/image/12976/f2x2o4r5v2c09dgtka24ffws4jp8qm1/Kitchup_platform.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=72425b12e3f24e17c90d2ecd39c13739)
 

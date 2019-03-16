@@ -95,7 +95,7 @@ Brightstar: Brightstar are a $bn US company who sell wireless devices to 40,000 
 
 Opportunity: Brightstar have been looking for a company who can pull together their portfolio of disparate ‘connected devices’ into a single platform.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6838/97cebm6b7rjcmxf6t6wfexw8opnwqh7/Untitled.png?rect=0%2C0%2C1310%2C621&w=600&fit=clip&s=7ffd3fbbf66ecc8e2af99a16b7b008ef)
+![](/img/seedrs/uploads/startup/section_image/image/6838/97cebm6b7rjcmxf6t6wfexw8opnwqh7/Untitled.png?rect=0%2C0%2C1310%2C621&w=600&fit=clip&s=7ffd3fbbf66ecc8e2af99a16b7b008ef)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Potentially huge. MyLiveGuard runs on, inter alia, Android Smart TVs and on Andr
 
 Distribution agreements could create millions of ‘smart home hubs’ to leverage for software sales, (captive) add-on device sales (cameras, sensors, switches), subscription revenues, installation/monitoring services etcetera.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6839/f04tikos2zg015tsr6pdd0896vp73yo/Picture1.jpg?rect=0%2C63%2C828%2C488&w=600&fit=clip&s=2cb2d4034963f27bcb551224abf5d66c)
+![](/img/seedrs/uploads/startup/section_image/image/6839/f04tikos2zg015tsr6pdd0896vp73yo/Picture1.jpg?rect=0%2C63%2C828%2C488&w=600&fit=clip&s=2cb2d4034963f27bcb551224abf5d66c)
 
 ### Marketing strategy
 

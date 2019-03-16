@@ -71,7 +71,7 @@ Additional terms and conditions may apply to any rewards offered. Please contact
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12180/po39j3xln9r07r266csi659u56mjw0f/Filter__1_.jpg?rect=0%2C0%2C600%2C316&w=600&fit=clip&s=9b37980b385a19b658bc82468d6f39e9)
+![](/img/seedrs/uploads/startup/section_image/image/12180/po39j3xln9r07r266csi659u56mjw0f/Filter__1_.jpg?rect=0%2C0%2C600%2C316&w=600&fit=clip&s=9b37980b385a19b658bc82468d6f39e9)
 
 ### Target market
 
@@ -83,7 +83,7 @@ We expect this initial target to expand rapidly. Awareness from our crowdfunding
 
 Consider how many individuals you see with a thermos or to-go coffee cup each morning. A significant percentage of those individuals (64% in Germany alone) are sipping filter coffee. These individuals are our target market - starting with those with their fingers on the pulse of how innovation is evolving our ways of working.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12176/jcqm3x098ypacg9a78yhiulsnn9029a/Screen_Shot_2017-06-27_at_19.32.57.png?rect=0%2C0%2C1793%2C860&w=600&fit=clip&s=797c176990b1be8dfea2e5bf231566f8)
+![](/img/seedrs/uploads/startup/section_image/image/12176/jcqm3x098ypacg9a78yhiulsnn9029a/Screen_Shot_2017-06-27_at_19.32.57.png?rect=0%2C0%2C1793%2C860&w=600&fit=clip&s=797c176990b1be8dfea2e5bf231566f8)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ In our coffee trade infrastructure, all stakeholders’ profits are interdepende
 
 Finally, we bring together machine and coffee, rather than treating them as separate entities. Through our traceable digital ecosystem, we’re able to create options like pay-as-you-go coffee, single-portion consumer pouches, and consumer networks based on interconnected machines.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12181/rfuondu1al4v2l4lbnu57kyb0xksxwy/970x250-Machine.jpg?rect=0%2C0%2C970%2C249&w=600&fit=clip&s=a782b181153f74796626fc632b7e4cb8)
+![](/img/seedrs/uploads/startup/section_image/image/12181/rfuondu1al4v2l4lbnu57kyb0xksxwy/970x250-Machine.jpg?rect=0%2C0%2C970%2C249&w=600&fit=clip&s=a782b181153f74796626fc632b7e4cb8)
 
 ### Marketing strategy
 
@@ -107,7 +107,7 @@ Incentive to share is an intrinsic element of our product. Owning a Bonaverde Be
 
 The second half of our marketing strategy, attracting new awareness, will draw on our extensive experience running campaigns that share this new coffee experience. It’s important to remember that what we’re creating is not just a disruption, but an entire reinvention of a common product and enormous industry. We can’t just explain it - we need to allow people to experience it. Our experiential marketing campaigns focus on tasting events that aim to catch the attention of bloggers, influencers, and distributors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12182/sgtiqi3y7gao2rse33yc8osinymdhle/Odewald-01.jpg?rect=0%2C0%2C834%2C551&w=600&fit=clip&s=41601ba0001312d2895ca27755381f3f)
+![](/img/seedrs/uploads/startup/section_image/image/12182/sgtiqi3y7gao2rse33yc8osinymdhle/Odewald-01.jpg?rect=0%2C0%2C834%2C551&w=600&fit=clip&s=41601ba0001312d2895ca27755381f3f)
 
 ### Competition strategy
 

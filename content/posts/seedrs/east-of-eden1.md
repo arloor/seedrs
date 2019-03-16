@@ -63,7 +63,7 @@ In the first 4 months, we generated £37,650 in revenue against £26,241 in cost
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5135/ehus6177rti92xier2br9t6nogy22jg/East_of_Eden-14__resize_.jpg?rect=0%2C670%2C1000%2C750&w=600&fit=clip&s=6b39cfc2ad7bed6afb703869353323e6)
+![](/img/seedrs/uploads/startup/section_image/image/5135/ehus6177rti92xier2br9t6nogy22jg/East_of_Eden-14__resize_.jpg?rect=0%2C670%2C1000%2C750&w=600&fit=clip&s=6b39cfc2ad7bed6afb703869353323e6)
 
 ### Target market
 
@@ -71,7 +71,7 @@ People within Walthamstow itself but also yoga and Pilates lovers from further a
 
 Walthamstow is changing fast and has been referenced in the Telegraph, Evening Standard, Financial Times and Guardian in the last 12 months as an up and coming area of London. House prices have seen 30% growth over the last 3 years and many new businesses opening, from High St names to small independents. We are not currently aware of another studio in Walthamstow although we have found the demand is high.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5132/q7o2tjf2m94zlbruyjnvli5gw3yz1mk/photo_2.JPG?rect=0%2C0%2C2552%2C2552&w=600&fit=clip&s=dd10955e0c394dab19d1e1a5b8fd3ace)
+![](/img/seedrs/uploads/startup/section_image/image/5132/q7o2tjf2m94zlbruyjnvli5gw3yz1mk/photo_2.JPG?rect=0%2C0%2C2552%2C2552&w=600&fit=clip&s=dd10955e0c394dab19d1e1a5b8fd3ace)
 
 ### Characteristics of target market
 
@@ -79,7 +79,7 @@ Yoga and Pilates are booming – in the US, seeing 2.8% YoY growth and a $7bn in
 
 80% of respondents said they would be likely to go to a yoga/pilates class in Walthamstow. <br>Over 60% of respondents would walk for 20 minutes or more to attend a class. <br>Mat based pilates (64%), Ashtanga (40%), Hatha (36%) , Vinyasa Flow (31%) and reformer pilates (34%) were the most popular disciplines.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5133/2qypf4ec1w9jb4oa0bcar0nhb3kw6d2/EE_studio.png?rect=0%2C0%2C1343%2C844&w=600&fit=clip&s=80795f44f0d6b8cff1b7edd06718e280)
+![](/img/seedrs/uploads/startup/section_image/image/5133/2qypf4ec1w9jb4oa0bcar0nhb3kw6d2/EE_studio.png?rect=0%2C0%2C1343%2C844&w=600&fit=clip&s=80795f44f0d6b8cff1b7edd06718e280)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ Maximise use of discount offers, social and press partnerships to drive initial 
 
 Develop strong launch PR via press contacts, local and London-wide. We have a PR executive working with us who has already secured press in Yoga Magazine and several other titles. We have also had coverage in the Evening Standard and the Waltham Forest News. <br>Naomi Costantino also writes for Womens Fitness, We Heart Living and the Numinous among others and we are also developing video content for We Heart Living which will be used as a vehicle to promote the studio.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5134/geo4pxudn8vz6q6acqbipk6btmwq265/website_MUSIC.jpeg?rect=0%2C6%2C1280%2C1796&w=600&fit=clip&s=3eaf996784f338861cd67d292c598e86)
+![](/img/seedrs/uploads/startup/section_image/image/5134/geo4pxudn8vz6q6acqbipk6btmwq265/website_MUSIC.jpeg?rect=0%2C6%2C1280%2C1796&w=600&fit=clip&s=3eaf996784f338861cd67d292c598e86)
 
 ### Competition strategy
 

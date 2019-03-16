@@ -79,7 +79,7 @@ Alongside working with partners on their B2C offering, Candy Mechanics also have
 
 This is particularly exciting because through the addition of the experiential and personalisation elements, Candy Mechanics sets itself apart from the rest of the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14923/2boouv6udcky02kdzivxl8avbuczp0t/Target-Market.jpg?rect=-5%2C0%2C600%2C603&w=600&fit=clip&s=7a1d559325cbad2d093b361c76fe7269)
+![](/img/seedrs/uploads/startup/section_image/image/14923/2boouv6udcky02kdzivxl8avbuczp0t/Target-Market.jpg?rect=-5%2C0%2C600%2C603&w=600&fit=clip&s=7a1d559325cbad2d093b361c76fe7269)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ We aim to become the industry leader in personalised chocolate gifting. We belie
 
 The theatre of Candy Mechanics’ retail offering is coupled with social media and online marketing campaigns to unlock the online personalised gifting market, generally through our partners’ infrastructure. Furthermore, we anticipate additional opportunities being available via high traffic 3rd party websites.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14924/nzevsasbdsvum4acp672v0lu18fsdzk/Marketing-Strategy.jpg?rect=100%2C0%2C434%2C300&w=600&fit=clip&s=80902501d59ffa3cfb21562820c336bd)
+![](/img/seedrs/uploads/startup/section_image/image/14924/nzevsasbdsvum4acp672v0lu18fsdzk/Marketing-Strategy.jpg?rect=100%2C0%2C434%2C300&w=600&fit=clip&s=80902501d59ffa3cfb21562820c336bd)
 
 We expect that our in-house marketing and design team will work with brand partner teams on their channel marketing and user experience to maximise the offering we have developed.
 

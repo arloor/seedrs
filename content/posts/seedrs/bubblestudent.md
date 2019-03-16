@@ -87,7 +87,7 @@ In the UK alone the addressable student housing market value is £5.9bn, with an
 
 International student enrollment growing year on year, with 438,000 in 2016. <br>The number of students around the globe enrolled in higher education is forecast to more than double to 262 million by 2025.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14936/1e2mib1ewl11ovynii58s3cwu8rycdq/Screen_Shot_2018-06-14_at_10.18.16.png?rect=0%2C0%2C827%2C366&w=600&fit=clip&s=25dbf8e02252af1eed2eceb02e801ac4)
+![](/img/seedrs/uploads/startup/section_image/image/14936/1e2mib1ewl11ovynii58s3cwu8rycdq/Screen_Shot_2018-06-14_at_10.18.16.png?rect=0%2C0%2C827%2C366&w=600&fit=clip&s=25dbf8e02252af1eed2eceb02e801ac4)
 
 B2B <br>INSTITUTIONAL LANDLORDS <br>Characteristics: <br>- In-house rent collection systems. <br>- Prime close-to-campus locations. <br>- All-inclusive bills. <br>- 10+ properties on average.
 
@@ -109,7 +109,7 @@ Google: <br>We have a relationship with Google’s new app development team, and
 
 Ambassadors: <br>We have a strong ambassador programme that is in full affect, utilising personal networks and working with students for ground activated tasks such as stunts for brand awareness.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14932/2yu0f38szxmopoggact7gq3pw2noamb/IMG_6251__1_.jpg?rect=0%2C-7%2C1666%2C1111&w=600&fit=clip&s=daca31469c15b354cc837717280941f4)
+![](/img/seedrs/uploads/startup/section_image/image/14932/2yu0f38szxmopoggact7gq3pw2noamb/IMG_6251__1_.jpg?rect=0%2C-7%2C1666%2C1111&w=600&fit=clip&s=daca31469c15b354cc837717280941f4)
 
 Events: <br>Events play such a large part of our business and marketing and we are working on bringing in partners to build campaigns. This is part of a bigger focus on brand partnerships.
 

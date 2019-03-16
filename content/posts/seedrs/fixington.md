@@ -73,7 +73,7 @@ The Company currently has a £5,000 interest free director loan. None of the fun
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8040/baxt4h9ikcndh29s57qdkoekfqi6jnz/Screen_Shot_2016-04-27_at_18.49.25.png?rect=0%2C0%2C2858%2C1610&w=600&fit=clip&s=dd8b380058f1a918dc963bbc027e0c01)
+![](/img/seedrs/uploads/startup/section_image/image/8040/baxt4h9ikcndh29s57qdkoekfqi6jnz/Screen_Shot_2016-04-27_at_18.49.25.png?rect=0%2C0%2C2858%2C1610&w=600&fit=clip&s=dd8b380058f1a918dc963bbc027e0c01)
 
 ### Target market
 
@@ -83,13 +83,13 @@ Smaller jobs can generally be booked online either at a fixed price or on an hou
 
 We are starting off in the UK, but the problem we are solving exists in Europe and USA too, and we do plan to expand internationally once we are established in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8042/b9dt7utuwz6rc0ggl4ih20v3zl37h2m/Screen_Shot_2016-04-27_at_12.26.48.png?rect=0%2C0%2C897%2C352&w=600&fit=clip&s=f076e4843a431002129a05c0041bca14)
+![](/img/seedrs/uploads/startup/section_image/image/8042/b9dt7utuwz6rc0ggl4ih20v3zl37h2m/Screen_Shot_2016-04-27_at_12.26.48.png?rect=0%2C0%2C897%2C352&w=600&fit=clip&s=f076e4843a431002129a05c0041bca14)
 
 ### Characteristics of target market
 
 The market size of small (less than £500) home improvement and repair jobs is roughly £14bn in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8041/6o8c7p13bxxo43rsxj2h7ubsiemcpk3/Screen_Shot_2016-04-27_at_18.45.20.png?rect=0%2C-9%2C1902%2C1064&w=600&fit=clip&s=ee1d78f5e481eb3be630ce4feac1ab4a)
+![](/img/seedrs/uploads/startup/section_image/image/8041/6o8c7p13bxxo43rsxj2h7ubsiemcpk3/Screen_Shot_2016-04-27_at_18.45.20.png?rect=0%2C-9%2C1902%2C1064&w=600&fit=clip&s=ee1d78f5e481eb3be630ce4feac1ab4a)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ We expect that we will only have to market ourselves a little bit more effective
 
 This combined with a far better booking experience and service for customers, means that repeat business would be much more likely.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8043/a543tfmg1lyf8o7oqw7bturjp0bie37/5.5-inch__iPhone_6___-_Screenshot_3.jpg?rect=0%2C220%2C1242%2C1987&w=600&fit=clip&s=3d83ecec2a3afa58f7e051c32d7939e1)
+![](/img/seedrs/uploads/startup/section_image/image/8043/a543tfmg1lyf8o7oqw7bturjp0bie37/5.5-inch__iPhone_6___-_Screenshot_3.jpg?rect=0%2C220%2C1242%2C1987&w=600&fit=clip&s=3d83ecec2a3afa58f7e051c32d7939e1)
 
 ### Competition strategy
 
@@ -107,5 +107,5 @@ Existing online services are either lead-generation businesses or directory site
 
 There are some newer startups offering something similar to Fixington, but we believe that they don't have the network and industry experience that we have.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8070/6967mphic7a579ekwes7e2b5hnu65tm/Screen_Shot_2016-04-27_at_12.28.59.png?rect=0%2C0%2C890%2C556&w=600&fit=clip&s=ce7539b53314e54b288323eb0833b5ac)
+![](/img/seedrs/uploads/startup/section_image/image/8070/6967mphic7a579ekwes7e2b5hnu65tm/Screen_Shot_2016-04-27_at_12.28.59.png?rect=0%2C0%2C890%2C556&w=600&fit=clip&s=ce7539b53314e54b288323eb0833b5ac)
 

@@ -73,7 +73,7 @@ Moving ahead with B2B and B2C, we are currently in discussion with several parti
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7191/mf58uvl12vlfnoc22nw80iznun1wp8s/Readbug_Deck11__1__copy.jpg?rect=0%2C0%2C4724%2C2657&w=600&fit=clip&s=e0a82fc64d28f95064327e05088cf580)
+![](/img/seedrs/uploads/startup/section_image/image/7191/mf58uvl12vlfnoc22nw80iznun1wp8s/Readbug_Deck11__1__copy.jpg?rect=0%2C0%2C4724%2C2657&w=600&fit=clip&s=e0a82fc64d28f95064327e05088cf580)
 
 ### Target market
 
@@ -89,7 +89,7 @@ User profiles
 
 • Aged 24 - 47. <br>• Subscribe to Spotify / Netflix. <br>• Degree educated. <br>• Works in a creative / ideas based industry. <br>• Reading is part of their daily routine. <br>• Look to further their knowledge and or keep track of current affairs. <br>• They live their passion and reading is part of the professional / personal learning.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7192/n88dcmfz1b5noujmwoum24zqeszprzl/Readbug_Deck12__1__copy.jpg?rect=0%2C0%2C4724%2C2657&w=600&fit=clip&s=2fdd166e5ebfc2a67d68560ff43f11aa)
+![](/img/seedrs/uploads/startup/section_image/image/7192/n88dcmfz1b5noujmwoum24zqeszprzl/Readbug_Deck12__1__copy.jpg?rect=0%2C0%2C4724%2C2657&w=600&fit=clip&s=2fdd166e5ebfc2a67d68560ff43f11aa)
 
 ### Characteristics of target market
 
@@ -111,7 +111,7 @@ Our strategy will focus on 4 key areas:
 
 During our development launch stage these channels have delivered the most promising results and we will continue to tactically explore new channels and further refine existing channels to drive down CPA.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7193/ldvjxz9a2b6nwyp4hji5seriiolnu6f/Readbug_Deck13__1__copy.jpg?rect=0%2C0%2C4724%2C2657&w=600&fit=clip&s=84263f069d5148cdf07e292e2b9869b7)
+![](/img/seedrs/uploads/startup/section_image/image/7193/ldvjxz9a2b6nwyp4hji5seriiolnu6f/Readbug_Deck13__1__copy.jpg?rect=0%2C0%2C4724%2C2657&w=600&fit=clip&s=84263f069d5148cdf07e292e2b9869b7)
 
 ### Competition strategy
 

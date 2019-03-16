@@ -139,7 +139,7 @@ We currently have two ideal home customer personas: <br>- 30 - 45 years old fema
 
 Our typical office customer is a start-up or small enterprise with 10-250 employees. We believe they want to keep their employees healthy and provide them with healthy snacks. We also feel that they have an ethical mindset and put a strong focus on their Corporate Social Responsibility (CSR) obligations and are willing to buy wonky and surplus fruits.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15103/dcf2v1yqgu10hn8t6ztbe4zikadnh8w/5._end_of_target_market.jpg?rect=0%2C31%2C5000%2C3305&w=600&fit=clip&s=f91fbddd33f46ddc4698159b5b6e630a)
+![](/img/seedrs/uploads/startup/section_image/image/15103/dcf2v1yqgu10hn8t6ztbe4zikadnh8w/5._end_of_target_market.jpg?rect=0%2C31%2C5000%2C3305&w=600&fit=clip&s=f91fbddd33f46ddc4698159b5b6e630a)
 
 ### Characteristics of target market
 
@@ -159,7 +159,7 @@ We directly engage with our customer community via our weekly box letter (which 
 
 We have built a product that can be endorsed by vegan / zero-waste influencers and can be promoted to their audience on social media and have seen some traffic through this channel.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15104/8ladnjccbkk8mc5kuwbvqst4ferr5n9/5.5_middle_of_marketing_strategy__after_3rd_para_.JPG?rect=0%2C0%2C4032%2C3022&w=600&fit=clip&s=c52efedde021929c97314d8ff339962c)
+![](/img/seedrs/uploads/startup/section_image/image/15104/8ladnjccbkk8mc5kuwbvqst4ferr5n9/5.5_middle_of_marketing_strategy__after_3rd_para_.JPG?rect=0%2C0%2C4032%2C3022&w=600&fit=clip&s=c52efedde021929c97314d8ff339962c)
 
 Referral is a strong channel for us as 1 in 5 of our new customers come through referrals and we will be upgrading our platform to make it easier for our customers to refer.
 
@@ -167,7 +167,7 @@ On the B2B side, we are listed on platforms providing supplies to offices and ar
 
 We are partnering with Workspace.co.uk, one of London’s largest co-working and office space providers, planning to be part of their Perks program (launch Q3 2018).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15105/qvmebk0noh56a8ev7pd7lnkw38hs5el/6._end_of_marketing_strategy.jpg?rect=37%2C-1%2C4165%2C2767&w=600&fit=clip&s=9c8d91de41dc55dcf6fd8f6783b63ff5)
+![](/img/seedrs/uploads/startup/section_image/image/15105/qvmebk0noh56a8ev7pd7lnkw38hs5el/6._end_of_marketing_strategy.jpg?rect=37%2C-1%2C4165%2C2767&w=600&fit=clip&s=9c8d91de41dc55dcf6fd8f6783b63ff5)
 
 ### Competition strategy
 
@@ -185,5 +185,5 @@ In addition, we minimise plastic packaging and re-use / recycle our boxes.
 
 “We expect that more and more brands will offer education and leadership with clean, safe and sustainable products that distinguish them from the competition” – Source Mintel – Consumer trends in 2018.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15106/eamdkc3jeuh2oplfibey4to2j6uc244/7._end_of_competition_strategy.jpg?rect=0%2C0%2C5416%2C3610&w=600&fit=clip&s=4181e74882a1e9d982dcb9b106a276c9)
+![](/img/seedrs/uploads/startup/section_image/image/15106/eamdkc3jeuh2oplfibey4to2j6uc244/7._end_of_competition_strategy.jpg?rect=0%2C0%2C5416%2C3610&w=600&fit=clip&s=4181e74882a1e9d982dcb9b106a276c9)
 

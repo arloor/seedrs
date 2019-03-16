@@ -95,23 +95,23 @@ MarcoPolo intends to use the proceeds for the following:
 
 There are over 1.3 billion children in the world aged 9 or below, half of which are under the age of 5. Too many of these children do not currently have access to early childhood education.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14838/oqpub6tlignl5zo8rnbwoqwy6cgutqe/Screen_Shot_2018-06-08_at_11.53.14.png?rect=0%2C0%2C2066%2C1374&w=600&fit=clip&s=5a999c590c06c32b5487b9aab1fad141)
+![](/img/seedrs/uploads/startup/section_image/image/14838/oqpub6tlignl5zo8rnbwoqwy6cgutqe/Screen_Shot_2018-06-08_at_11.53.14.png?rect=0%2C0%2C2066%2C1374&w=600&fit=clip&s=5a999c590c06c32b5487b9aab1fad141)
 
 MarcoPolo Learning is addressing this need and has the potential to access and engage millions of children all over the world, at the most crucial time of their development.
 
 Our primary market segment is millennial parents of 3-7 year old children. These parents are generally digitally savvy and they realise the necessity for children not only to learn ABCs and 123s but also important skills for life (eg curiosity, creativity and problem solving) in the fast changing, technology driven 21st century. UNICEF estimates that 65% of children entering school today will work in jobs which currently do not exist! We believe these millennial parents also care for the environment and want their children to be inspired by exploring and discovering the wonders of planet earth.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14832/m4a1nvtyuytljxsz7myoa7k3qsrjc2u/Iphone_Landscape_Updated.png?rect=0%2C-4%2C878%2C619&w=600&fit=clip&s=c9582fbd0672500cc28e9a9f066986bc)
+![](/img/seedrs/uploads/startup/section_image/image/14832/m4a1nvtyuytljxsz7myoa7k3qsrjc2u/Iphone_Landscape_Updated.png?rect=0%2C-4%2C878%2C619&w=600&fit=clip&s=c9582fbd0672500cc28e9a9f066986bc)
 
 ### Characteristics of target market
 
 The ubiquity of mobile phones has the potential to put an early learning school in most families' pockets. For example in 2017, there were over 5 billion mobile phone users globally.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14839/94e4izl4p2d7elk903dyhnsvqwsavz5/Screen_Shot_2018-05-31_at_16.36.54.png?rect=0%2C0%2C1810%2C1508&w=600&fit=clip&s=78b47cd854efaf249a930ca881faeead)
+![](/img/seedrs/uploads/startup/section_image/image/14839/94e4izl4p2d7elk903dyhnsvqwsavz5/Screen_Shot_2018-05-31_at_16.36.54.png?rect=0%2C0%2C1810%2C1508&w=600&fit=clip&s=78b47cd854efaf249a930ca881faeead)
 
 Most young children in the US now have access to a mobile device and it is rapidly becoming the primary media consumption tool (similar trends globally).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14862/rruybxyuout192b0uapyvhsnds6yd76/Screen_Shot_2018-06-01_at_08.58.08.png?rect=0%2C0%2C934%2C542&w=600&fit=clip&s=58924634feca495edda8733ae7c148a4)
+![](/img/seedrs/uploads/startup/section_image/image/14862/rruybxyuout192b0uapyvhsnds6yd76/Screen_Shot_2018-06-01_at_08.58.08.png?rect=0%2C0%2C934%2C542&w=600&fit=clip&s=58924634feca495edda8733ae7c148a4)
 
 Since recently removing the 1 child policy in China, in January 2016, there are now about 18 million babies being born every year in China, so this is creating an enormous market for MarcoPolo Learning. We already have over 2 million downloads of our existing products in China and rising quickly. Furthermore, China's education industry is currently a $1.43 trillion market and analysis suggests that it only has 2 major players, with a market share of less than 4%. This highly fragmented market, consumers' willingness to pay and the fast growth of online education are all expected to create phenomenal opportunities for MarcoPolo.
 
@@ -125,13 +125,13 @@ Since recently removing the 1 child policy in China, in January 2016, there are 
 
 4. Partnerships <br>Partner with influencers, celebrities, school networks and companies to maximise market reach. We are already working on numerous potential major global partnerships.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14833/i2m6lse8niht335k3m8wddps1uw3fu9/Screen_Shot_2018-01-16_at_11.28.27.png?rect=0%2C0%2C3470%2C1950&w=600&fit=clip&s=00de1db34364a8d3c284090ee01d20fa)
+![](/img/seedrs/uploads/startup/section_image/image/14833/i2m6lse8niht335k3m8wddps1uw3fu9/Screen_Shot_2018-01-16_at_11.28.27.png?rect=0%2C0%2C3470%2C1950&w=600&fit=clip&s=00de1db34364a8d3c284090ee01d20fa)
 
 ### Competition strategy
 
 Our competitors are generally split between the early learning and children’s media entertainment spaces. In our view, there are very few mobile focused companies who are truly educational. Furthermore, there are even fewer companies who are truly educational and have high media value - we believe MarcoPolo Learning is uniquely positioned to combine both.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14841/jhevu7ug4j06qxt3ygymb7i1o6r1ri9/Screen_Shot_2018-06-18_at_10.02.47.png?rect=0%2C0%2C1046%2C762&w=600&fit=clip&s=43bebff4fc52e6966d6ab4887a5b10c2)
+![](/img/seedrs/uploads/startup/section_image/image/14841/jhevu7ug4j06qxt3ygymb7i1o6r1ri9/Screen_Shot_2018-06-18_at_10.02.47.png?rect=0%2C0%2C1046%2C762&w=600&fit=clip&s=43bebff4fc52e6966d6ab4887a5b10c2)
 
 One of the key ways that MarcoPolo Learning aims to distinguish itself from the competition is through its focus on using video footage of the real world, contextualised with interactive learning activities.
 

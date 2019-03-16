@@ -65,7 +65,7 @@ The Company has outstanding debts of £168k. This is made up of £138k in long t
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6897/nq0q62bc2kmp3q40wkxe15b1e0k15az/Image_1_Marketing.jpg?rect=0%2C0%2C600%2C347&w=600&fit=clip&s=5c3e3993721dc9083e38e11a39c85e52)
+![](/img/seedrs/uploads/startup/section_image/image/6897/nq0q62bc2kmp3q40wkxe15b1e0k15az/Image_1_Marketing.jpg?rect=0%2C0%2C600%2C347&w=600&fit=clip&s=5c3e3993721dc9083e38e11a39c85e52)
 
 ### Target market
 
@@ -85,7 +85,7 @@ Bring Your Own Device has created challenges and opportunities for companies to 
 
 In all of these sectors, Pocket App is currently applying its expertise and skills to consult, design and develop mobile services and applications for the businesses that need it.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6899/bu3lrb0fg3hdnc5fen3j2on485pia9c/Image_2_Marketing.jpg?rect=0%2C0%2C600%2C347&w=600&fit=clip&s=8cbbb1417aaf7d62d2573356dccd895c)
+![](/img/seedrs/uploads/startup/section_image/image/6899/bu3lrb0fg3hdnc5fen3j2on485pia9c/Image_2_Marketing.jpg?rect=0%2C0%2C600%2C347&w=600&fit=clip&s=8cbbb1417aaf7d62d2573356dccd895c)
 
 ### Marketing strategy
 

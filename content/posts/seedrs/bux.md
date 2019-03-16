@@ -83,17 +83,17 @@ From experience, we know that there are lots of people who'd like to do more wit
 
 Therefore, BUX targets young Europeans (and the young at heart!) who require a financial product to help them invest in a contemporary way: focused on mobile, great UI/ UX and a product that speaks their language. Also, a product that fits their spending power by being very affordable. And, last but not least, a product that educates them. The financial world can be complex and off-putting, so financial service companies have a duty to make their clients understand how things work.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13232/exli6v3mdvmr6xf8gn1jo6h7wio5zo3/Target_Market.png?rect=136%2C129%2C953%2C1670&w=600&fit=clip&s=5b620df77d03eff9422b8c805fe71564)
+![](/img/seedrs/uploads/startup/section_image/image/13232/exli6v3mdvmr6xf8gn1jo6h7wio5zo3/Target_Market.png?rect=136%2C129%2C953%2C1670&w=600&fit=clip&s=5b620df77d03eff9422b8c805fe71564)
 
 ### Characteristics of target market
 
 Roughly 25% of the European population is in the 'millennial' age. Research shows that this group hardly saves nor invests. With governments pulling back on financial support, this is a scary thought.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13234/382et7agj70cw5sx9h0dqj6ek4n8z9q/characteristics_1.png?rect=-1%2C0%2C1200%2C1645&w=600&fit=clip&s=6274da1f9ecb7be866377aac4486d106)
+![](/img/seedrs/uploads/startup/section_image/image/13234/382et7agj70cw5sx9h0dqj6ek4n8z9q/characteristics_1.png?rect=-1%2C0%2C1200%2C1645&w=600&fit=clip&s=6274da1f9ecb7be866377aac4486d106)
 
 If the right conditions are met, the market for millennials and their finances is huge. Especially as there are hardly any dedicated millennial financial services companies. Think of mobile first (or mobile only) services, products adapted to the millennial's spending power and a brand that speaks their language.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13235/m4c7lvp84z6gn5yc7aiuhljhgwwz9zr/Characteristics_2.png?rect=-1%2C0%2C1200%2C1332&w=600&fit=clip&s=d6775143a40716aff1ff323145dec974)
+![](/img/seedrs/uploads/startup/section_image/image/13235/m4c7lvp84z6gn5yc7aiuhljhgwwz9zr/Characteristics_2.png?rect=-1%2C0%2C1200%2C1332&w=600&fit=clip&s=d6775143a40716aff1ff323145dec974)
 
 ### Marketing strategy
 
@@ -105,7 +105,7 @@ Once we have our audience’s attention, we use performance marketing, such as v
 
 Apart from paid app installs, about 50% of our users arrive organically (via word of mouth) and through the BUX referral program.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13236/majdz6ch80io8db7ikmg9lorfqijjbx/bux_marketing_funnel.png?rect=0%2C0%2C1200%2C1295&w=600&fit=clip&s=af83dd1145cebcfec786dde66c5d69dd)
+![](/img/seedrs/uploads/startup/section_image/image/13236/majdz6ch80io8db7ikmg9lorfqijjbx/bux_marketing_funnel.png?rect=0%2C0%2C1200%2C1295&w=600&fit=clip&s=af83dd1145cebcfec786dde66c5d69dd)
 
 ### Competition strategy
 

@@ -95,7 +95,7 @@ Parents (with pre-teen / teen children).
 
 Of the 8 million children between the ages of 5-15 years old, almost 1.83m have mobile phones on a pre-paid tariff and a good 4+ million of these children are users of console games of some kind. A research conducted by Kwikpay on parents of teenagers has indicated the following: <br>• 79% found managing top up of multiple services for their children a problem. <br>• 76% of the parents also responded that a top up platform with mobile and digital gaming services top up would be a very useful offer and they would definitely be users of such a service.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10497/32yqobnc4f04p5abay6z6hjf8ba41ud/Potential_Image_.png?rect=0%2C0%2C600%2C500&w=600&fit=clip&s=559bbee0ad36bbcc8bb2be816f6efa09)
+![](/img/seedrs/uploads/startup/section_image/image/10497/32yqobnc4f04p5abay6z6hjf8ba41ud/Potential_Image_.png?rect=0%2C0%2C600%2C500&w=600&fit=clip&s=559bbee0ad36bbcc8bb2be816f6efa09)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ GenY are heavily reliant on technology to the point of stubbornness to use mobil
 
 Parents of teens and pre-teens are already reliant on technology for making payments for their children for dinner money and other school needs. Kwikpay will explore opportunities of piggy backing on some of these networks to exploit this target segment.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10491/a001mt6zajbg8gougy1hwdgqa0qbon6/graph_PPT.png?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=852b693426e405553b1aee389b4f4395)
+![](/img/seedrs/uploads/startup/section_image/image/10491/a001mt6zajbg8gougy1hwdgqa0qbon6/graph_PPT.png?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=852b693426e405553b1aee389b4f4395)
 
 ### Marketing strategy
 
@@ -123,7 +123,7 @@ Advertising Leaflet ‘drops’ in key segment locations supported by promotiona
 
 In our early testing we feel that we proved that word of mouth marketing can play a significant role in the adoption of the Kwikpay service. We plan to exploit this and will look to communities where early adopters will spread the word ie, university campuses and parental communities. We will identify early adopters within these communities and use incentive driven campaigns to promote word of mouth referrals. Kwikpay is also integrating with a third party to provide promotional vouchers for a host of high street / restaurants and entertainment services vouchers which kwikpay will bundle along with each top up to provide additional benefit to the customers to drive user acquisition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10492/phm43qbv22k2f39ef7ers9vwhlchmj4/collage.png?rect=0%2C42%2C600%2C234&w=600&fit=clip&s=9837e27b0be7a04beb106c149c860449)
+![](/img/seedrs/uploads/startup/section_image/image/10492/phm43qbv22k2f39ef7ers9vwhlchmj4/collage.png?rect=0%2C42%2C600%2C234&w=600&fit=clip&s=9837e27b0be7a04beb106c149c860449)
 
 ### Competition strategy
 

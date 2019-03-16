@@ -47,13 +47,13 @@ Having completed the first phase of platform development, we are raising funds t
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8050/46aypycc3i1x7rfswajpsk21o0mfd1f/Screenshot_2016-04-21_15.49.33.png?rect=0%2C-6%2C1421%2C717&w=600&fit=clip&s=e6d6ecdd2c1a2e4d48a4c45ff0750018)
+![](/img/seedrs/uploads/startup/section_image/image/8050/46aypycc3i1x7rfswajpsk21o0mfd1f/Screenshot_2016-04-21_15.49.33.png?rect=0%2C-6%2C1421%2C717&w=600&fit=clip&s=e6d6ecdd2c1a2e4d48a4c45ff0750018)
 
 ### Target market
 
 The target market is the art community, divided into two clusters: <br>1. creators: artists, art institutions and art professionals (gallerists, curators, art journalists, etc.). <br>2. backers: art lovers or followers of a specific artist, art institution or art professional. <br>BEART's industries are crowdfunding and art.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8051/qxim1ru5suoc53kl4o9ugwvn2m173xo/Screenshot_2016-04-21_15.22.06.png?rect=0%2C0%2C1418%2C782&w=600&fit=clip&s=ab864086370d91d5d64745731d730d6b)
+![](/img/seedrs/uploads/startup/section_image/image/8051/qxim1ru5suoc53kl4o9ugwvn2m173xo/Screenshot_2016-04-21_15.22.06.png?rect=0%2C0%2C1418%2C782&w=600&fit=clip&s=ab864086370d91d5d64745731d730d6b)
 
 ### Characteristics of target market
 
@@ -61,7 +61,7 @@ Crowdfunding is accelerating at an unprecedented rate: in 2014 crowdfunding plat
 
 Our experience has found that the art community is connected, informed, participative, motivated and interested in new trends. It follows artists and visits museums, exhibitions, fairs and art biennials and loves collecting. In 2014 there were more than 50 million visits to the main museums and galleries in the UK, with a growth by 4% over 2013 and even 40% over ten years before (2004) (Source: Department of Culture Media &amp; Sport).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8052/ezk774w4lf7jzq7afuwcsniz827rl6y/Wallinger__1_.png?rect=14%2C11%2C440%2C651&w=600&fit=clip&s=a6855bbe13ea9bd07b3d93d1fd91de11)
+![](/img/seedrs/uploads/startup/section_image/image/8052/ezk774w4lf7jzq7afuwcsniz827rl6y/Wallinger__1_.png?rect=14%2C11%2C440%2C651&w=600&fit=clip&s=a6855bbe13ea9bd07b3d93d1fd91de11)
 
 ### Marketing strategy
 
@@ -73,7 +73,7 @@ a) First level Creators . <br>Our business development team creates a connection
 
 b) Second level Creators. <br>The “second level creators” have been contacted/informed by creators under a) above. The bigger is the number of followers/users of said above creators, the bigger is the number of second level creators. No activity is due on our side.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8053/j0crwwdylgk2i8uzac2bj4lhehqkmiq/Screenshot_2016-04-21_15.54.57.png?rect=0%2C-4%2C903%2C460&w=600&fit=clip&s=ca6b7881df1b29440e08affc3b51ceb7)
+![](/img/seedrs/uploads/startup/section_image/image/8053/j0crwwdylgk2i8uzac2bj4lhehqkmiq/Screenshot_2016-04-21_15.54.57.png?rect=0%2C-4%2C903%2C460&w=600&fit=clip&s=ca6b7881df1b29440e08affc3b51ceb7)
 
 ### Competition strategy
 

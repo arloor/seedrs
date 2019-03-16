@@ -111,13 +111,13 @@ Please take a moment to view both our campaign video and our 'inside M' short fi
 
 Our current offering at both M Threadneedle St and M Victoria St attracts a large span of demographics aging between 25-65 years in age, with fairly equal gender split. Through our diversity of use and broad appeal, we aim to continue to grow our community of investors, M Den members and regular guests further by offering outstanding hospitality and guest recognition, coupled with a diverse world class, international food and beverage offering.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9821/ly0cg7nl2h1vlh46qkgw1ci3n90hx8m/_DSC0336k.jpg?rect=0%2C0%2C7360%2C4912&w=600&fit=clip&s=51603b5ac4323228051e0a3ccac611d0)
+![](/img/seedrs/uploads/startup/section_image/image/9821/ly0cg7nl2h1vlh46qkgw1ci3n90hx8m/_DSC0336k.jpg?rect=0%2C0%2C7360%2C4912&w=600&fit=clip&s=51603b5ac4323228051e0a3ccac611d0)
 
 ### Characteristics of target market
 
 Our new ‘M Social’ venues will reflect all of the above, in a local ‘clubhouse’ environment. To create the same award-winning offering, but in residential destinations; will be a first. As our two ‘Flagship M Venues’ continue to grow in reputation and become institutions in the City and Central London, the emergence of M Social venues opening in areas of Greater London, where many of our current and future diners live, will grow the brand recognition further still.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9822/3f4s2lok6oll5i4nol7m84genij76mr/Social.jpg?rect=0%2C0%2C600%2C662&w=600&fit=clip&s=6df52e527bf7854c58b6e2e4e2fa9776)
+![](/img/seedrs/uploads/startup/section_image/image/9822/3f4s2lok6oll5i4nol7m84genij76mr/Social.jpg?rect=0%2C0%2C600%2C662&w=600&fit=clip&s=6df52e527bf7854c58b6e2e4e2fa9776)
 
 ### Marketing strategy
 
@@ -131,7 +131,7 @@ Michael and Zack’s talents and menus have created an amazing offering that len
 
 Supporting the engaging activity and the attraction of the brand; which drives both corporate and destination dining to it is a strategy (headed up by our Marketing Manager Stacey Anderson) of cover driving through the maximisation of relationships with Hotel Concierges, PA &amp; EA’s, events companies, local business engagement and booking affiliates.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9823/aarhl2kqd714r0obwnh602sq46y53ac/Raw.jpg?rect=0%2C0%2C678%2C661&w=600&fit=clip&s=815266319ff15915f29e960c55cedff0)
+![](/img/seedrs/uploads/startup/section_image/image/9823/aarhl2kqd714r0obwnh602sq46y53ac/Raw.jpg?rect=0%2C0%2C678%2C661&w=600&fit=clip&s=815266319ff15915f29e960c55cedff0)
 
 ### Competition strategy
 
@@ -143,5 +143,5 @@ Our venues are beautiful and multi-faceted, perfect to visit to drink dine (or b
 
 The team, venue and offering are the best of the best. We believe that diners are tiring of the dull offering of chain restaurants and being treated as a nameless number when visiting restaurants; M is the future of drinking and dining.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9824/kkyuhv122tarddqk6s8n6g6ojyrfup0/Den.jpg?rect=0%2C0%2C678%2C661&w=600&fit=clip&s=a309d73245a6ce6e8a9cb421d34c5482)
+![](/img/seedrs/uploads/startup/section_image/image/9824/kkyuhv122tarddqk6s8n6g6ojyrfup0/Den.jpg?rect=0%2C0%2C678%2C661&w=600&fit=clip&s=a309d73245a6ce6e8a9cb421d34c5482)
 

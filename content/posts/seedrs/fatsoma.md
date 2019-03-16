@@ -99,7 +99,7 @@ Fatsoma's latest partnership model means that it can support all types of events
 
 The target in 2016 will be to grow further within the 18 to 25 year old age demographic within the UK and overseas and to also further expand the range of events outside of this age range, which is gradually being achieved.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6653/q9f9wtmohvtu6sw11u9gd9xg7anojhm/market-1.jpg?rect=0%2C0%2C511%2C340&w=600&fit=clip&s=077375df05a6f260fff918e1f05eec68)
+![](/img/seedrs/uploads/startup/section_image/image/6653/q9f9wtmohvtu6sw11u9gd9xg7anojhm/market-1.jpg?rect=0%2C0%2C511%2C340&w=600&fit=clip&s=077375df05a6f260fff918e1f05eec68)
 
 ### Characteristics of target market
 
@@ -109,7 +109,7 @@ Currently Fatsoma's largest cities are London, Nottingham, Manchester, Southampt
 
 Fatsoma aims to increase it's reach around the UK by forming partnerships in cities where it doesn't already have a foothold. Management believes this to be a faster route to market and more cost efficient roll out strategy. This therefore validates Fatsoma's partnership strategy, which will be a focus for 2016.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6654/dgew051f8cyb1kp3m63rjttenfg7958/market-2.png?rect=0%2C0%2C1243%2C827&w=600&fit=clip&s=a98df6c09c701f676c13557a5fbefce8)
+![](/img/seedrs/uploads/startup/section_image/image/6654/dgew051f8cyb1kp3m63rjttenfg7958/market-2.png?rect=0%2C0%2C1243%2C827&w=600&fit=clip&s=a98df6c09c701f676c13557a5fbefce8)
 
 ### Marketing strategy
 
@@ -123,7 +123,7 @@ Fatsoma intends to reach its customers through a number of different methods:
 
 4) PR - since the recent release of the new Fatsoma platform, the company will embark on a PR campaign to highlight high-profile successes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6655/rsdu4z6o1mrksqh3amapc4ksaiv0ef6/market-3.png?rect=0%2C0%2C511%2C340&w=600&fit=clip&s=2f0a50f8ea633e839bde62f8130811c0)
+![](/img/seedrs/uploads/startup/section_image/image/6655/rsdu4z6o1mrksqh3amapc4ksaiv0ef6/market-3.png?rect=0%2C0%2C511%2C340&w=600&fit=clip&s=2f0a50f8ea633e839bde62f8130811c0)
 
 ### Competition strategy
 
@@ -137,5 +137,5 @@ We believe Fatsoma has many benefits over its competitors and to our knowledge h
 
 4) Price - the final factor which comes into a sale is the price for promoters to use the platform. As far as we know Fatsoma is better priced than its competitors, as the fees on Fatsoma are much more transparent. Fatsoma can acheive this due to its streamlined technology which allows the platform to handle thousands of clients with very little need for account support.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6656/d01zz1w15o1y1o6d1aweemncvjfds5z/market-4.jpg?rect=0%2C0%2C511%2C340&w=600&fit=clip&s=6b37c1c9bbd936f108b6ebfe52de39d9)
+![](/img/seedrs/uploads/startup/section_image/image/6656/d01zz1w15o1y1o6d1aweemncvjfds5z/market-4.jpg?rect=0%2C0%2C511%2C340&w=600&fit=clip&s=6b37c1c9bbd936f108b6ebfe52de39d9)
 

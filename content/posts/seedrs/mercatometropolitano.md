@@ -109,7 +109,7 @@ We have opened our doors to anyone who wants to meet at our premises and talk, s
 
 The plan over the next five years is to open at least two more sites in London of similar size to the site in Elephant and Castle (approx. 25,000 to 40,000 sq. ft.), and have had initial contact with a local development company for a site in Manchester. Outside the UK, we are negotiating with a private development company for a ca. 3,000 sq.mt. site in the heart of Brussels for the development of a Mercato Metropolitano site. We also intend to roll out our online platform over the next 18 to 24 months.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12820/1rrcttds20rlf2cyny07w4qfpy78o2s/01-MER101_001-Seedrs_Campaign_Photography_070817_09-Cinema__1_.png?rect=0%2C0%2C2501%2C1957&w=600&fit=clip&s=a7e962e0c8a6a430cb318307b52ed60e)
+![](/img/seedrs/uploads/startup/section_image/image/12820/1rrcttds20rlf2cyny07w4qfpy78o2s/01-MER101_001-Seedrs_Campaign_Photography_070817_09-Cinema__1_.png?rect=0%2C0%2C2501%2C1957&w=600&fit=clip&s=a7e962e0c8a6a430cb318307b52ed60e)
 
 ### Characteristics of target market
 
@@ -117,7 +117,7 @@ This campaign focuses on our first London site located between Borough and Eleph
 
 Elephant and Castle is a vibrant neighbourhood south of the River Thames in central London. It is key transport node with a major regeneration programme underway, where over £3bn of public/private money are being invested.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12821/edvsadrrzodrxlk21xxhq41c1atmzg6/01-MER101_010-Seedrs_Campaign-Map_070817_A_14.png?rect=0%2C0%2C2501%2C1459&w=600&fit=clip&s=8f4a9e3004fee81d5554a1f8ce3c433a)
+![](/img/seedrs/uploads/startup/section_image/image/12821/edvsadrrzodrxlk21xxhq41c1atmzg6/01-MER101_010-Seedrs_Campaign-Map_070817_A_14.png?rect=0%2C0%2C2501%2C1459&w=600&fit=clip&s=8f4a9e3004fee81d5554a1f8ce3c433a)
 
 In 2015 Lend Lease started implementation of its approved scheme to build 2,500 new homes on their site between by 2025. We expect this to increase our already thriving customer footfall, particularly as we cater for a large cross-section of local and visiting residents interested in the alternative food retail sector, farmers' market, the street food vents and entertainment in general.
 
@@ -135,7 +135,7 @@ We have a letter of intent from the owner of a 19,000 sq.ft. property in Canary 
 
 In addition to the core business in development, we have secured letters of intent from operators in Miami (Florida – USA) and Tokyo (Japan) to open joint venture food and cultural markets under the brand Mercato Metropolitano. As these opportunities are still being structured, we have not included the revenue potential that may derive to Mercato Metropolitano in the current valuation for the purpose of this Seedrs campaign.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12869/m6pw0oc0s3konpfdbl1xlkpkjuk8bf6/01-MER101_011-Seedrs_Campaign-Perks_090817_16__1___fine_.png?rect=0%2C0%2C2501%2C1628&w=600&fit=clip&s=0365597eb554459ac78f45bf4db944ba)
+![](/img/seedrs/uploads/startup/section_image/image/12869/m6pw0oc0s3konpfdbl1xlkpkjuk8bf6/01-MER101_011-Seedrs_Campaign-Perks_090817_16__1___fine_.png?rect=0%2C0%2C2501%2C1628&w=600&fit=clip&s=0365597eb554459ac78f45bf4db944ba)
 
 ### Competition strategy
 
@@ -147,5 +147,5 @@ Faithful to our vision, values and ethos, we have not set out to take on competi
 
 We have already seen amazing results, both in Milan and in our Elephant and Castle site, of customers visiting several days a week from the neighbourhood and beyond and asking us how the can get involved with our activities. We think that when customers are so passionate to become our best ambassadors, we must be onto something!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12823/zia6m37wko8rz1rzyyxnyuoqu3l7bj/01-MER101_009-Seedrs_Campaign-Timeline_Future_080817_A_13__1_.png?rect=0%2C0%2C2501%2C1347&w=600&fit=clip&s=ccd8569aa18a9d34e083d98ad7cef2e9)
+![](/img/seedrs/uploads/startup/section_image/image/12823/zia6m37wko8rz1rzyyxnyuoqu3l7bj/01-MER101_009-Seedrs_Campaign-Timeline_Future_080817_A_13__1_.png?rect=0%2C0%2C2501%2C1347&w=600&fit=clip&s=ccd8569aa18a9d34e083d98ad7cef2e9)
 

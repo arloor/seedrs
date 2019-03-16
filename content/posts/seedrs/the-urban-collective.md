@@ -91,7 +91,7 @@ We see a gap in today’s rental market, which focuses on the landlords rather t
 
 Currently our primary target segment is London-based busy professionals, expatriates, and international students. Over time we plan to expand to the rest of the UK and key European cities as well.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14434/tm6pjkqqoe9hu3vsu6uxovnckwytgzx/_TUC__Lifestyle_Mobile_Mockup7.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=1ac434b272f32efb0e7d3d1a21f164e4)
+![](/img/seedrs/uploads/startup/section_image/image/14434/tm6pjkqqoe9hu3vsu6uxovnckwytgzx/_TUC__Lifestyle_Mobile_Mockup7.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=1ac434b272f32efb0e7d3d1a21f164e4)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ In the case of international students or professionals, we found and secured a p
 
 We believe our clients are looking for an efficient and personalised rental search experience that takes into account their lifestyle criteria and specific needs (commute to work, local amenities, look and feel of the area, local schools, etc.), as well as streamlines the overall process, at an affordable price.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14435/apqtf0cpw9pgxa2yzzzn66h7sxy948g/_TUC__Lifestyle_Mobile_Mockup3.png?rect=0%2C0%2C599%2C450&w=600&fit=clip&s=0ee60a75f868bfb95f3eed62adaf6cb1)
+![](/img/seedrs/uploads/startup/section_image/image/14435/apqtf0cpw9pgxa2yzzzn66h7sxy948g/_TUC__Lifestyle_Mobile_Mockup3.png?rect=0%2C0%2C599%2C450&w=600&fit=clip&s=0ee60a75f868bfb95f3eed62adaf6cb1)
 
 ### Marketing strategy
 
@@ -119,7 +119,7 @@ We’ve also been driving targeted marketing campaigns through our social media 
 
 We feel that we have built strong engagement with our audience, through a curated content marketing approach addressing tenants’ pain points and providing advice about renting and life in London.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14436/3io7baqvhmlgmxb7xrvxm4t4vx2vgjn/_TUC__Lifestyle_Mobile_Mockup2.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=fe4bdc350ba1fc640a91f3e8714c6789)
+![](/img/seedrs/uploads/startup/section_image/image/14436/3io7baqvhmlgmxb7xrvxm4t4vx2vgjn/_TUC__Lifestyle_Mobile_Mockup2.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=fe4bdc350ba1fc640a91f3e8714c6789)
 
 ### Competition strategy
 
@@ -133,5 +133,5 @@ We differ significantly from the traditional players as well as PropTech startup
 
 • They typically earn fees from either the landlords or estate agents, restricting their ability to provide unbiased advice to tenants. <br>• We provide a tech-driven, personalised service, which we think is affordable and accessible to mass market, instead of being restricted to higher paying tenants only. <br>• We focus on providing a carefully crafted end-to-end search experience, which we feel goes significantly beyond limited features.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14437/ano3w9d4uu4vldeavq0gdpb4gvse3k8/_TUC__Lifestyle_Mobile_Mockup1.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=5fdc376f74da19ec74f80c1429c9074d)
+![](/img/seedrs/uploads/startup/section_image/image/14437/ano3w9d4uu4vldeavq0gdpb4gvse3k8/_TUC__Lifestyle_Mobile_Mockup1.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=5fdc376f74da19ec74f80c1429c9074d)
 

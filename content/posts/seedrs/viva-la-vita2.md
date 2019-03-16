@@ -99,7 +99,7 @@ Having launched our MVP we have gathered feedback from VLV's early adopters. Mon
 
 -“Increased flexibility” is key to encouraging potential fitness class attendees and/or gym goers, with the majority favouring a pay-as-you-go option.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4637/jhq5pq25hf0iitehua82261y3r097cp/market-PNG.png?rect=33%2C0%2C873%2C638&w=600&fit=clip&s=89c4b1a96d8c49d4b9819344637c7869)
+![](/img/seedrs/uploads/startup/section_image/image/4637/jhq5pq25hf0iitehua82261y3r097cp/market-PNG.png?rect=33%2C0%2C873%2C638&w=600&fit=clip&s=89c4b1a96d8c49d4b9819344637c7869)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Having launched our MVP we have gathered feedback from VLV's early adopters. Mon
 
 -Presence at Fitness &amp; Tech Conventions
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4638/fe9er0cco7fyg9p8q3ociunisjf4eib/freshers_new.png?rect=75%2C0%2C343%2C395&w=600&fit=clip&s=b909e9a760180025ad60eb3dbaf40c4c)
+![](/img/seedrs/uploads/startup/section_image/image/4638/fe9er0cco7fyg9p8q3ociunisjf4eib/freshers_new.png?rect=75%2C0%2C343%2C395&w=600&fit=clip&s=b909e9a760180025ad60eb3dbaf40c4c)
 
 -Social Media: Paid campaigns, sponsored posts &amp; tweets by influencers
 
@@ -127,7 +127,7 @@ Having launched our MVP we have gathered feedback from VLV's early adopters. Mon
 
 -Grassroots Marketing
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4639/44y6xvc5budldixf2het9c47xtwy3ge/Grassroots_Marketing.jpg?rect=0%2C0%2C1898%2C1401&w=600&fit=clip&s=c6f84e813e1d35cd6643fb2daac44a41)
+![](/img/seedrs/uploads/startup/section_image/image/4639/44y6xvc5budldixf2het9c47xtwy3ge/Grassroots_Marketing.jpg?rect=0%2C0%2C1898%2C1401&w=600&fit=clip&s=c6f84e813e1d35cd6643fb2daac44a41)
 
 ### Competition strategy
 

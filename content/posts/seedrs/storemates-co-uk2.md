@@ -117,7 +117,7 @@ B2B: Currently most independent storage companies are only 60-70% occupied. We w
 
 In our opinion the demand for additional storage will increase exponentially in the coming years.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8278/lx1exf3pvrrhbottzoe9blbk83f7300/anna_and_mia.jpg?rect=0%2C0%2C2048%2C1365&w=600&fit=clip&s=ddb69efd39e0f346abc80db82b596dfe)
+![](/img/seedrs/uploads/startup/section_image/image/8278/lx1exf3pvrrhbottzoe9blbk83f7300/anna_and_mia.jpg?rect=0%2C0%2C2048%2C1365&w=600&fit=clip&s=ddb69efd39e0f346abc80db82b596dfe)
 
 ### Characteristics of target market
 
@@ -129,7 +129,7 @@ However we have found self storage companies are restricted in meeting the new d
 
 According to PwC, the Global 'Sharing Economy' is currently worth £9B and will grow to £250B by 2025. In our opinion peer to peer sites like Storemates will soon be considered as mainstream as ecommerce sites like Amazon and eBay.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8284/cdm03fc146km2664wgkkvz2irvonzog/anna_and_mr_shah.jpg?rect=0%2C0%2C2048%2C1365&w=600&fit=clip&s=1e6babac9030eb606acddbba2f448317)
+![](/img/seedrs/uploads/startup/section_image/image/8284/cdm03fc146km2664wgkkvz2irvonzog/anna_and_mr_shah.jpg?rect=0%2C0%2C2048%2C1365&w=600&fit=clip&s=1e6babac9030eb606acddbba2f448317)
 
 ### Marketing strategy
 
@@ -155,7 +155,7 @@ Through a discount referral scheme we will enable word of mouth recruitment.
 
 With investment we will be able to increase our staff capacity to undertake all of the above campaigns.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8287/15r3l3ln4kx2ybudc0246nejdq29i0v/Laughing_girls.jpg?rect=0%2C5%2C1181%2C787&w=600&fit=clip&s=8ecb49ff419ee1e172cc34f1af706886)
+![](/img/seedrs/uploads/startup/section_image/image/8287/15r3l3ln4kx2ybudc0246nejdq29i0v/Laughing_girls.jpg?rect=0%2C5%2C1181%2C787&w=600&fit=clip&s=8ecb49ff419ee1e172cc34f1af706886)
 
 ### Competition strategy
 

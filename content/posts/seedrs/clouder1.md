@@ -73,7 +73,7 @@ The marketing funds will be used primarily for direct customer acquisition (50%)
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15933/1205y5fg0fblxnirwqz422at9xe6zr0/Image_8__3_.jpg?rect=0%2C0%2C600%2C462&w=600&fit=clip&s=917d53d0911e4555e0691193300a4996)
+![](/img/seedrs/uploads/startup/section_image/image/15933/1205y5fg0fblxnirwqz422at9xe6zr0/Image_8__3_.jpg?rect=0%2C0%2C600%2C462&w=600&fit=clip&s=917d53d0911e4555e0691193300a4996)
 
 B2B - vape retailers, manufacturers and distributors with and without an online presence (from small independent sellers of vape products to large chains and brands). <br>B2C - regular vapers, those who are new to vaping and people switching from smoking. <br> <br>Buyers have an unparalleled service proposition of a huge choice of products, customer reviews, 1-hour delivery and a monthly subscription service providing extraordinary value for money.
 
@@ -83,7 +83,7 @@ Demographics:
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15934/dhi9od14mqjo0hz5libch2ss1wnxdoh/Image_9__3_.jpg?rect=0%2C0%2C600%2C344&w=600&fit=clip&s=527bddaf952ae7bf40136d18ab52ce3d)
+![](/img/seedrs/uploads/startup/section_image/image/15934/dhi9od14mqjo0hz5libch2ss1wnxdoh/Image_9__3_.jpg?rect=0%2C0%2C600%2C344&w=600&fit=clip&s=527bddaf952ae7bf40136d18ab52ce3d)
 
 Most ex-smokers start their vape journey at a local vape shop - they want to learn how it works, what to buy, and try out different flavours. Around 6 months later they know what they want and turn online to find a wider selection at better prices. <br> <br>25% of vapers buy refills online with 20% buying devices - between £300 and £375 million being spent online per year in the UK alone. <br> <br>We believe that in the UK, consumer behaviour is similar to that of passing trade for brick and mortar shops, a valuable but not loyal revenue. This is due to the same ‘bargain hunter’ mentality that drives vape consumers online in the first place.
 
@@ -91,7 +91,7 @@ At Clouder, 1-hour delivery has driven a repeat custom rate of 46.67%, while sub
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15935/l88oa66xt08dafo842hbzawnjy8p10e/Image_10__3_.jpg?rect=0%2C0%2C600%2C413&w=600&fit=clip&s=5909f37794bcdd48d7bdea0b07fc509d)
+![](/img/seedrs/uploads/startup/section_image/image/15935/l88oa66xt08dafo842hbzawnjy8p10e/Image_10__3_.jpg?rect=0%2C0%2C600%2C413&w=600&fit=clip&s=5909f37794bcdd48d7bdea0b07fc509d)
 
 Clouder has a comprehensive marketing strategy, which has allowed for rapid growth to 2,300+ registered users, 1550+ orders and 20+ monthly subscribers. <br> <br>Clouder currently markets its service via:
 
@@ -101,7 +101,7 @@ Clouder has a comprehensive marketing strategy, which has allowed for rapid grow
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15936/esql1l8cg76ebgu2ipz1rbi52gj6cyq/Image_11__3_.jpg?rect=0%2C0%2C600%2C458&w=600&fit=clip&s=7027ec92e19412cc61e055cb6671e7b2)
+![](/img/seedrs/uploads/startup/section_image/image/15936/esql1l8cg76ebgu2ipz1rbi52gj6cyq/Image_11__3_.jpg?rect=0%2C0%2C600%2C458&w=600&fit=clip&s=7027ec92e19412cc61e055cb6671e7b2)
 
 Marketplace. <br>We are the pioneers of a vape marketplace model. There have been attempts at building a vape marketplace, but we believe they are behind Clouder in terms of partnerships and complexity. <br> <br>Subscriptions. <br>The online subscription market has doubled over 5 years (McKinsey). Online visits to UK subscription box services are rising 30% year-on-year. Clouder can dominate this space in Europe with: <br> <br>● Exclusive industry deals - to our knowledge we are the only UK company to use known vape brands in our subscription boxes at such low prices. <br>● Established sales channels and consumer base, ready to transform one-time buyers into full-time brand ambassadors. <br>● Fulfilment infrastructure in partnership with Vapourcore can scale up to 9,000 shipments a month. <br> <br>1-hour Delivery. <br>To our knowledge, no courier network in London has the vape industry knowledge and product databases to tailor their offering to vapers. We believe vape stores don’t have the technology, infrastructure and support staff required to operate 1-hour deliveries at scale.
 

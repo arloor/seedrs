@@ -101,11 +101,11 @@ Our target borrowers are SME experienced property developers who are in need of 
 
 We regularly communicate with hundreds of property development businesses through the property investors network (founded by Simon Zutshi), one of the largest in the UK. No need to pay commercial brokers for deals. This proprietary access to thousands of potential borrowers gives us a competitive advantage of responding to borrower needs in product, service and proposition development.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13422/ctsiphr2b1no4ioi7011g98mhpehckv/New_Terraced_Housing.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=f92ebfeaf13f728163f203a974ef489f)
+![](/img/seedrs/uploads/startup/section_image/image/13422/ctsiphr2b1no4ioi7011g98mhpehckv/New_Terraced_Housing.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=f92ebfeaf13f728163f203a974ef489f)
 
 Our target lenders have funds available, looking to earn a rate of return higher than elsewhere, whilst still understanding the risks involved in lending. These are mitigated by CrowdProperty taking the first legal charge on the property on behalf of the lenders. Lenders prefer our 12-18 month loan term rather than the longer loan terms typically offered by other peer to peer lenders whilst retail lenders find security against a property more comprehensible than security against SME businesses.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13423/8cpxvpy1wby0ytvbmh3b0kb91ksd623/CrowdProperty_Market_Summary.PNG?rect=0%2C0%2C600%2C330&w=600&fit=clip&s=ca2b945c346854821d0f7bd563ca53e9)
+![](/img/seedrs/uploads/startup/section_image/image/13423/8cpxvpy1wby0ytvbmh3b0kb91ksd623/CrowdProperty_Market_Summary.PNG?rect=0%2C0%2C600%2C330&w=600&fit=clip&s=ca2b945c346854821d0f7bd563ca53e9)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ Having proved the model and acquired customers on both sides of the marketplace 
 
 Based on lender feedback we have implemented a pre-launch webinar for each new launch to answer initial questions and bring the deals to life. Engaging with our lenders breeds confidence and has resulted in projects being funded in less time on each subsequent raise.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13424/2gyf20t66m9kvpczv3g3ogl721ij0wo/PieceOfCake3inch.jpg?rect=0%2C0%2C600%2C534&w=600&fit=clip&s=26d0f5fafba7d47c834655fd8dbea173)
+![](/img/seedrs/uploads/startup/section_image/image/13424/2gyf20t66m9kvpczv3g3ogl721ij0wo/PieceOfCake3inch.jpg?rect=0%2C0%2C600%2C534&w=600&fit=clip&s=26d0f5fafba7d47c834655fd8dbea173)
 
 ### Competition strategy
 
@@ -139,5 +139,5 @@ Property peer to peer lenders: <br>• Specialists in development finance <br>�
 
 On the lender side, not only do savers in banking institutions receive &lt;1% on average, but we also differentiate v alternative finance players in the following ways: <br>• Always 1st charge security <br>• Pure P2P model <br>• 12-18 month liquidity <br>• Fixed, strong returns <br>• Simple structure <br>• No direct exposure to property market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13425/fa34u9j14zj4ol9me99gmdym28oaqf9/CrowdProperty_WebPage.PNG?rect=-7%2C0%2C600%2C800&w=600&fit=clip&s=03eba9c98316acdfa65174043ff63187)
+![](/img/seedrs/uploads/startup/section_image/image/13425/fa34u9j14zj4ol9me99gmdym28oaqf9/CrowdProperty_WebPage.PNG?rect=-7%2C0%2C600%2C800&w=600&fit=clip&s=03eba9c98316acdfa65174043ff63187)
 

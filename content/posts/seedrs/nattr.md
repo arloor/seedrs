@@ -67,7 +67,7 @@ How we'll use the funds
 
 Our current target audience is Millennials, the largest generation alive and they account for 1.8 billion out of 7 billion people worldwide.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8975/8bkmjzfmeke73jenb5rzar1bb8sjxdy/Millenials.png?w=600&fit=clip&s=142a23edc21c4357a55b29bb6215fe21)
+![](/img/seedrs/uploads/startup/section_image/image/8975/8bkmjzfmeke73jenb5rzar1bb8sjxdy/Millenials.png?w=600&fit=clip&s=142a23edc21c4357a55b29bb6215fe21)
 
 ### Characteristics of target market
 
@@ -75,7 +75,7 @@ Millennials send on average 67 texts a day. Of which 75% are single and spend 18
 
 They are a mobile driven generation who constantly seek advice. Instead of creating a new behavior, we found a habit that already exists and we're building our product around that.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8976/k9q47ftpxls8u4d7pvk2ntog1lr45xf/Millenials.jpg?w=600&fit=clip&s=c7eecbfcf50211d6b905dfed0733e492)
+![](/img/seedrs/uploads/startup/section_image/image/8976/k9q47ftpxls8u4d7pvk2ntog1lr45xf/Millenials.jpg?w=600&fit=clip&s=c7eecbfcf50211d6b905dfed0733e492)
 
 ### Marketing strategy
 
@@ -83,7 +83,7 @@ Nattr plans on gaining initial traction from the dating market. According to Mat
 
 According to The Huffington Post the dating industry is estimated to be worth more than £2bn. Over 1.3 billion people will use their phone for dating purposes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8985/g9di8urwwcilw2uld246vqxgs06cqwf/phone-white3.png?w=600&fit=clip&s=1fe6c4eae42a8a6677e1e2064d36a08b)
+![](/img/seedrs/uploads/startup/section_image/image/8985/g9di8urwwcilw2uld246vqxgs06cqwf/phone-white3.png?w=600&fit=clip&s=1fe6c4eae42a8a6677e1e2064d36a08b)
 
 ### Competition strategy
 

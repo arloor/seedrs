@@ -97,7 +97,7 @@ We target our corporate customers to meet the workplace charging occasions, and 
 
 We target public sector bodies to provide On Street charging for our EV Drivers' needs.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2576/sdnjixjdywlma10skui98cat69ee2ob/2.jpg?rect=0%2C0%2C416%2C276&w=600&fit=clip&s=53156bb9f9195602545383770d970fe1)
+![](/img/seedrs/uploads/startup/section_image/image/2576/sdnjixjdywlma10skui98cat69ee2ob/2.jpg?rect=0%2C0%2C416%2C276&w=600&fit=clip&s=53156bb9f9195602545383770d970fe1)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ This year we are developing our interaction with EV Drivers and Customers furthe
 
 POD Point has achieved significant press exposure, including features in the Financial Times, City AM, The Telegraph, The Sunday Times, The Guardian and the Wall Street Journal. POD Point was voted one of Real Business magazine’s future 50 disruptive companies.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2578/d4jomd2jdhbo84x8z781niump6l1w4t/Marketing_Strategy_-_No.1.jpg?rect=0%2C0%2C1200%2C795&w=600&fit=clip&s=4afd2f38fec8a909db1ca06273e249a5)
+![](/img/seedrs/uploads/startup/section_image/image/2578/d4jomd2jdhbo84x8z781niump6l1w4t/Marketing_Strategy_-_No.1.jpg?rect=0%2C0%2C1200%2C795&w=600&fit=clip&s=4afd2f38fec8a909db1ca06273e249a5)
 
 ### Competition strategy
 

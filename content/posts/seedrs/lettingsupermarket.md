@@ -87,7 +87,7 @@ Investments of £25,000 or more will qualify for property management free of cha
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7779/a5bx33l6vwv9cr7tjgsclykzsnjqf4u/LetSupMarketLogoLR.jpg?rect=0%2C0%2C598%2C221&w=600&fit=clip&s=a0a4306d5094dad4c6e46876dd021420)
+![](/img/seedrs/uploads/startup/section_image/image/7779/a5bx33l6vwv9cr7tjgsclykzsnjqf4u/LetSupMarketLogoLR.jpg?rect=0%2C0%2C598%2C221&w=600&fit=clip&s=a0a4306d5094dad4c6e46876dd021420)
 
 ### Target market
 
@@ -107,7 +107,7 @@ The primary source of competition to Lettingsupermarket.com are high street agen
 
 Lettingsupermarket.com provide a full property management service, much the same as provided by agents on the high street, but on a national scale with the added bonus of a much lower management fee.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7782/lpd5rc78r6g0e5jawlvqb2jvj3cydx3/seedrs_cover.jpg?rect=0%2C0%2C740%2C415&w=600&fit=clip&s=52f4a9ac68023a1ed769ec6aa425ffc7)
+![](/img/seedrs/uploads/startup/section_image/image/7782/lpd5rc78r6g0e5jawlvqb2jvj3cydx3/seedrs_cover.jpg?rect=0%2C0%2C740%2C415&w=600&fit=clip&s=52f4a9ac68023a1ed769ec6aa425ffc7)
 
 ### Marketing strategy
 

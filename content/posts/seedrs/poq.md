@@ -95,7 +95,7 @@ We generally approach the E-commerce Director, as mobile traditionally falls und
 
 In the next 8 months our main focus will be largely on retailers in the UK, but still going to key events organised by our partners in Europe and the US. We already have two key beachhead clients: Steven Alan in the US and Scarosso in Germany.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2391/snspm25vpf7clqjpbc7drkbkl15erpi/omni_channel_retailing_2.png?rect=0%2C0%2C1500%2C1125&w=600&fit=clip&s=c34fc39dea084f8af3473abd373170f4)
+![](/img/seedrs/uploads/startup/section_image/image/2391/snspm25vpf7clqjpbc7drkbkl15erpi/omni_channel_retailing_2.png?rect=0%2C0%2C1500%2C1125&w=600&fit=clip&s=c34fc39dea084f8af3473abd373170f4)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ Secondly, the market for SaaS, cloud based solutions for large retailers. Gartne
 
 Thirdly, mobile in an omni-channel world. Google states that already 82% of smartphone users are using their mobile when buying products in a store. We believe that soon mobile will be not just e-commerce, but will touch 100% of retail. Apple and Samsung are opening fingerprint recognition for payments, which will finally open retail to mobile payments.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2346/rxwjhh1fjf37c0lhj8sara18w3xk3ir/7_after_characterisation_of_target_market_.png?rect=0%2C0%2C1495%2C951&w=600&fit=clip&s=f3feeafffa079631a46db8f48f50655a)
+![](/img/seedrs/uploads/startup/section_image/image/2346/rxwjhh1fjf37c0lhj8sara18w3xk3ir/7_after_characterisation_of_target_market_.png?rect=0%2C0%2C1495%2C951&w=600&fit=clip&s=f3feeafffa079631a46db8f48f50655a)
 
 ### Marketing strategy
 
@@ -119,7 +119,7 @@ Secondly, growing our customer base in the UK. Currently, most of our prospects 
 
 Thirdly, we plan to grow our presence in new markets, specifically the US and Europe. We already have key customers in both territories and we expect that existing and new partnerships will allow us to grow further in those places.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2347/qgz2j6ygp1azhr26go4m2ns6a8l0w0f/9_after_marketing_strategy_Lookbook.png?rect=0%2C0%2C1429%2C603&w=600&fit=clip&s=30eceed52f054ad36dbf058578477273)
+![](/img/seedrs/uploads/startup/section_image/image/2347/qgz2j6ygp1azhr26go4m2ns6a8l0w0f/9_after_marketing_strategy_Lookbook.png?rect=0%2C0%2C1429%2C603&w=600&fit=clip&s=30eceed52f054ad36dbf058578477273)
 
 ### Competition strategy
 
@@ -131,5 +131,5 @@ Generally competition can be split up in the following sources:
 
 - In-house development efforts. This is rather rare and we feel only works well for a handful of multinational retailers like Amazon and Ebay. Especially looking at a cross platform offering of iPhone, iPad and Android, we believe that this becomes too resource intensive for the vast majority of retailers. <br>- Traditional web agencies, who aim to build mobile apps bespoke. Only a few agencies can warrant to hire a large team of app developers, as it’s not their core business. Cross platform development can be very expensive for the client to launch and maintain. Thus we believe that we will always be able to beat agencies on price and long term innovation. <br>- App developers: we compete mainly with reliability and scalability of our solutions, our speed of deployment and cross-channel development. This means we can launch a new clients in weeks rather than months. In addition, we believe that our model is cheaper on scale, because we only deploy one code-base for all our clients. <br> <br>Finally, we are regularly approached by app technology providers for exclusive partnerships, for example for offering augmented reality or ibeacon to retailers on the Poq platform. <br> <br>We strongly believe that we are already seen as the market leader in the industry. We feel that the Poq platform is unique in being the only fully cloud based platform for native retail apps, built for large retailers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2361/qo2ggoexzp71o26mpeeapjvvvk4dl8/10_after_competition_-_platform_advantage.png?rect=127%2C88%2C1218%2C957&w=600&fit=clip&s=ade92d3e1d6e26943fdfd3e082e65c96)
+![](/img/seedrs/uploads/startup/section_image/image/2361/qo2ggoexzp71o26mpeeapjvvvk4dl8/10_after_competition_-_platform_advantage.png?rect=127%2C88%2C1218%2C957&w=600&fit=clip&s=ade92d3e1d6e26943fdfd3e082e65c96)
 

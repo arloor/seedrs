@@ -93,7 +93,7 @@ Maison Sport is addressing the ski lesson market, which is estimated to be worth
 
 Since launch, we have predominately focused on the French market, which consists of over 18,000 fully qualified ski and snowboard instructors, we believe it represents the largest opportunity for our business model. Our focus will remain on France for the 18/19 winter but we will also target resort specific opportunities in other countries, to grow our coverage in the key resorts across Europe.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15543/q7gpwlw4rurvlm41ybhxwrhaw0ba3tb/Untitled8.png?rect=0%2C-4%2C933%2C355&w=600&fit=clip&s=bf1179a8703654a5d9a71183152ff9f9)
+![](/img/seedrs/uploads/startup/section_image/image/15543/q7gpwlw4rurvlm41ybhxwrhaw0ba3tb/Untitled8.png?rect=0%2C-4%2C933%2C355&w=600&fit=clip&s=bf1179a8703654a5d9a71183152ff9f9)
 
 In our experience, ski instructors generally work on a self employed basis, even if they are working for a ski school, which typically results in them not benefiting from any of the standard employee benefits. Our model takes advantage of this self employed status, to enable instructors to increase their earnings by truly working for themselves.
 

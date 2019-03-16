@@ -129,7 +129,7 @@ The HR/Human Capital Management (HCM) market is forecast to grow from $12.59 bil
 
 This means that Perkbox customer and employee engagement platforms are faced with a worldwide market opportunity of more than $30 billion.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10051/35dzql09c5w2s4a41op0n2foeuatvgi/IMAGE_5.jpg?rect=0%2C-1%2C2500%2C1667&w=600&fit=clip&s=b7ec9eb558a0d9a3327ef584049a3cb4)
+![](/img/seedrs/uploads/startup/section_image/image/10051/35dzql09c5w2s4a41op0n2foeuatvgi/IMAGE_5.jpg?rect=0%2C-1%2C2500%2C1667&w=600&fit=clip&s=b7ec9eb558a0d9a3327ef584049a3cb4)
 
 ### Characteristics of target market
 
@@ -145,7 +145,7 @@ While the product is suitable and easily-integrated into any industry, Perkbox h
 
 With regards to customer engagement, Perkbox focuses on large businesses with a significant customer base (typically over 25,000 customers when the target company is B2B and 50,000 customers in a B2C environment). The customer loyalty offering also generates a valuable ROI with companies in any industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10073/d6s8wgw3l7du6sd5fd0z79g648lqrs7/Perkbox_Team.jpg?w=600&fit=clip&s=b60bd3322f97278bccc6ad9da2782a37)
+![](/img/seedrs/uploads/startup/section_image/image/10073/d6s8wgw3l7du6sd5fd0z79g648lqrs7/Perkbox_Team.jpg?w=600&fit=clip&s=b60bd3322f97278bccc6ad9da2782a37)
 
 ### Marketing strategy
 
@@ -163,7 +163,7 @@ A key differentiator is that we apply very successful B2C marketing and branding
 
 Our engagement strategy further helps us to place our proposition above the competition. Our emails and comms are tailored to the needs of each user segment to ensure that are customers are delighted and engaged everyday. From our experience many employee benefits schemes incite very low levels of engagement. We typically generate a minimum of 70% engagement.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10052/mm6x4ibf0jr4youcyc6elf2nrhbjrxj/IMAGE_6.png?rect=0%2C0%2C933%2C526&w=600&fit=clip&s=ffcf4c3695c356966044f7b3092348a3)
+![](/img/seedrs/uploads/startup/section_image/image/10052/mm6x4ibf0jr4youcyc6elf2nrhbjrxj/IMAGE_6.png?rect=0%2C0%2C933%2C526&w=600&fit=clip&s=ffcf4c3695c356966044f7b3092348a3)
 
 ### Competition strategy
 

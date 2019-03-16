@@ -101,7 +101,7 @@ The market size of the Indian market is significantly larger than in the UK. It 
 
 Also, with the increasing penetration of the Internet and continued digitisation, the global market for this will surely only grow.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1872/14uztpso07j500a26joylxpc149z415/PD.002.png?rect=17%2C0%2C1000%2C768&w=600&fit=clip&s=5c5ed17979baf901fe288acba0c15f66)
+![](/img/seedrs/uploads/startup/section_image/image/1872/14uztpso07j500a26joylxpc149z415/PD.002.png?rect=17%2C0%2C1000%2C768&w=600&fit=clip&s=5c5ed17979baf901fe288acba0c15f66)
 
 ### Characteristics of target market
 
@@ -135,7 +135,7 @@ We aim to establish partnerships with businesses in following sectors
 
 * Charities <br>The legacy fundraising market for charities is worth approximately £1.98 billion every year. Planned Departure can be recommended by charities to ensure legacy fundraising because it allows users to leave their digital assets to charities. We are already working with Age UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1963/bxmte6hv30759lzyzkgt17c0wu4fmbk/APS.001.png?rect=68%2C68%2C884%2C597&w=600&fit=clip&s=116cf711e6fbe5e74fee436b21062daa)
+![](/img/seedrs/uploads/startup/section_image/image/1963/bxmte6hv30759lzyzkgt17c0wu4fmbk/APS.001.png?rect=68%2C68%2C884%2C597&w=600&fit=clip&s=116cf711e6fbe5e74fee436b21062daa)
 
 ### Competition strategy
 
@@ -149,5 +149,5 @@ Apart from these, our most important differentiator is our team. We believe that
 
 We are also proud of our university network and between both the co-founders, we cover three premier universities from the UK and India. Our alumni network from these universities is particularly strong and we believe will be of significant benefit for this business going forward. We have recruited our first batch from this network without incurring any recruitment cost. We strongly believe in our own ability to innovate, execute and utilize our connections to build this into a highly successful business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1874/rm1fzqi073agegggfifsykjsxxmpv1q/Seedrs.004__1_.png?rect=0%2C0%2C1024%2C768&w=600&fit=clip&s=879f50ff86eada841b4e8cb9cd5b672d)
+![](/img/seedrs/uploads/startup/section_image/image/1874/rm1fzqi073agegggfifsykjsxxmpv1q/Seedrs.004__1_.png?rect=0%2C0%2C1024%2C768&w=600&fit=clip&s=879f50ff86eada841b4e8cb9cd5b672d)
 

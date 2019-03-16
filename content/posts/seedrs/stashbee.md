@@ -71,7 +71,7 @@ Our Guests are individuals and businesses looking for affordable, local, secure 
 
 Our Hosts are individuals and businesses who are looking to earn additional income from an idle asset at no upfront cost. Examples of our current Hosts: <br>• Those with spare internal space such as as rooms or basements. <br>• Those with spare externally accessible space such as garages, lock-ups, or parking spaces. <br>• Small and medium sized business with extra space in their warehouse.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14592/rxt5ziu824ccy1wh9bmmd6g2ea1brzm/Garage.png?rect=0%2C0%2C1200%2C888&w=600&fit=clip&s=ee8c16f01d2acc72abb37a89da34c16a)
+![](/img/seedrs/uploads/startup/section_image/image/14592/rxt5ziu824ccy1wh9bmmd6g2ea1brzm/Garage.png?rect=0%2C0%2C1200%2C888&w=600&fit=clip&s=ee8c16f01d2acc72abb37a89da34c16a)
 
 ### Characteristics of target market
 
@@ -89,7 +89,7 @@ PARKING MARKET. <br>• £2bn in the UK.
 
 REMOVALS MARKET. <br>• £1bn in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14588/58emsstmcgu10uvjmgtijm07uqteixw/target-markets-2.svg.png?rect=-1%2C0%2C1200%2C1256&w=600&fit=clip&s=7b70d1d0843a1d4b0b9a22a634ac00b2)
+![](/img/seedrs/uploads/startup/section_image/image/14588/58emsstmcgu10uvjmgtijm07uqteixw/target-markets-2.svg.png?rect=-1%2C0%2C1200%2C1256&w=600&fit=clip&s=7b70d1d0843a1d4b0b9a22a634ac00b2)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ Our marketing will revolve around the following strategies:
 
 We will continue to measure and make data-driven improvements between each marketing initiative to ensure we're constantly improving the effectiveness of our marketing spend.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14589/haskmwtzb2cq77rte7jpvu47ag7pod2/Warehouse.png?rect=0%2C0%2C1200%2C900&w=600&fit=clip&s=c5b0859284eec50e302d1ee70ed93b07)
+![](/img/seedrs/uploads/startup/section_image/image/14589/haskmwtzb2cq77rte7jpvu47ag7pod2/Warehouse.png?rect=0%2C0%2C1200%2C900&w=600&fit=clip&s=c5b0859284eec50e302d1ee70ed93b07)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ Existing solutions in the market include:
 
 • TRADITIONAL SELF-STORAGE: Storage unit lets, typically in large purpose built facilities. <br>• CONCIERGE SELF-STORAGE: Out-of-town facilities with focus on per-item storage and logistics. <br>• GARAGES &amp; PARKING: Long term rental of garages &amp; parking spaces.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14590/fx21iaimia43ldwlau4ecrk4fisugpg/Sofa.png?rect=0%2C5%2C1200%2C800&w=600&fit=clip&s=16380a23beabed3b85654ce163db1759)
+![](/img/seedrs/uploads/startup/section_image/image/14590/fx21iaimia43ldwlau4ecrk4fisugpg/Sofa.png?rect=0%2C5%2C1200%2C800&w=600&fit=clip&s=16380a23beabed3b85654ce163db1759)
 

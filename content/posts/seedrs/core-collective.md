@@ -65,13 +65,13 @@ Please note that the business currently has a director loan worth £86,000. None
 
 Core Collective sits at the convergence of recent trends in fitness, nutrition and social behaviour driven by the millennial generation, who now represent the largest demographic segment in the UK. Fitness revenues from gyms in the UK have grown by over 5.4% to £4.3bn during 2015, while there has been a 37% increase in the number of boutique fitness studios during 2012-2015. We feel that this growth has been driven by consumers’ desire to have flexibility in spending decisions, and the ability to make spontaneous purchases, both of which are counter-intuitive to the concept of a committed gym membership. As highly active social media users, many millennial consumers tend to be social in their choice of fitness activities whether it be a spinning class, TRX, high intensity interval training, pilates, or yoga. Furthermore, many millennial consumers are very conscious about the foods they consume opting for fresh simple and healthy choices.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11367/oobm3yh6fjsk6cy09q34bvpjvel8gku/DSC4223-Edit-Edit_copy.jpg?rect=0%2C0%2C7360%2C4912&w=600&fit=clip&s=3309fce1f9d6048e7f2ff1f497381393)
+![](/img/seedrs/uploads/startup/section_image/image/11367/oobm3yh6fjsk6cy09q34bvpjvel8gku/DSC4223-Edit-Edit_copy.jpg?rect=0%2C0%2C7360%2C4912&w=600&fit=clip&s=3309fce1f9d6048e7f2ff1f497381393)
 
 ### Characteristics of target market
 
 We believe that these millennial consumers have shown a preference to make spontaneous purchase decisions and are therefore less likely to commit to long term gym memberships, preferring pay as you go models and using mobile technology to search for and book their fitness activities. As avid social media users, over 37% feel they are ‘missing’ something if not active on Facebook, Instagram or Twitter each day. Therefore, its not surprising that over 56% prefer to exercise in a social setting. Over 55% of millennial consumers ranked brands that stood for high quality as being the most authentic while 53% would rather spend money on experiences instead of possessions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11368/iasfdvbbrlmvc4yrj4ojmafw5t3e5x5/SG_20160520_CC_Class_33_copy.jpg?rect=0%2C0%2C1255%2C837&w=600&fit=clip&s=caea6ff2ec21ae69d53980c80282b2e6)
+![](/img/seedrs/uploads/startup/section_image/image/11368/iasfdvbbrlmvc4yrj4ojmafw5t3e5x5/SG_20160520_CC_Class_33_copy.jpg?rect=0%2C0%2C1255%2C837&w=600&fit=clip&s=caea6ff2ec21ae69d53980c80282b2e6)
 
 ### Marketing strategy
 
@@ -81,7 +81,7 @@ Core Collective has an in house marketing team which manages all aspects of incr
 
 Social Media Marketing is a central avenue of customer acquisition. We encourage customers and advocates to use hashtags such as #keepitcore #corekitchen and @coregyms the spread of the brand can achieve greater reach among its target audience. Core Collective also invests a significant amount of its own internal resource to posting informative content on Instagram about new trainers, food choices, and classes. These type of posts tap into the ‘aspirational’ aspects of sharing fashion, food, workout regimes, and healthy living.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11369/rsa2hrfqmh16ei20x3hl7ueye01h5b/CC_3.jpg?rect=0%2C8%2C400%2C532&w=600&fit=clip&s=fc4b93e5b5a07812c7a6e313c5e8a84d)
+![](/img/seedrs/uploads/startup/section_image/image/11369/rsa2hrfqmh16ei20x3hl7ueye01h5b/CC_3.jpg?rect=0%2C8%2C400%2C532&w=600&fit=clip&s=fc4b93e5b5a07812c7a6e313c5e8a84d)
 
 ### Competition strategy
 

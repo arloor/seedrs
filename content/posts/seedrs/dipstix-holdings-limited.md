@@ -93,13 +93,13 @@ Car demographic: <br>• 43% (13.2m) cars in UK are aged 3-9 years old
 
 While the two demographics may not perfectly align, we estimate that there are over 10 million potential customers for Dipstix. The service centres Dipstix is focused on working with are the independent garages rather than main dealer networks. The size of this market varies but according to Motor Trader the current number of independent garages is 35,000. We are hoping to reach a target of 3,000 on the platform by 2017, just under 10% of the total market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2215/88he56ui0emwmd6juhb17s8h464n0pw/marketsize.jpg?rect=0%2C0%2C498%2C377&w=600&fit=clip&s=bd2bc671746225b60edc67148e081bd6)
+![](/img/seedrs/uploads/startup/section_image/image/2215/88he56ui0emwmd6juhb17s8h464n0pw/marketsize.jpg?rect=0%2C0%2C498%2C377&w=600&fit=clip&s=bd2bc671746225b60edc67148e081bd6)
 
 ### Characteristics of target market
 
 Recent estimates give a total of approximately 31.5 million cars on UK roads and a spend on private automotive services worth around £14bn, equating to an average spend of c.£450 per year on each vehicle. <br> <br>From our early interactions with consumers we can see that this roughly breaks down into the following areas: <br>Type of booking % of bookings Average order value <br>Servicing 60% £117 <br>MOT 15% £35 <br>Repairs 20% £200 <br>Diagnostics 5% £40
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2216/6m5c5z0n59srn0yw5usykrfot247o8t/Target_Audienceee.png?rect=0%2C0%2C496%2C377&w=600&fit=clip&s=98a621344087e8c51ee571ff617299e4)
+![](/img/seedrs/uploads/startup/section_image/image/2216/6m5c5z0n59srn0yw5usykrfot247o8t/Target_Audienceee.png?rect=0%2C0%2C496%2C377&w=600&fit=clip&s=98a621344087e8c51ee571ff617299e4)
 
 ### Marketing strategy
 

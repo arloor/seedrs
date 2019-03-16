@@ -87,7 +87,7 @@ In addition to famous name league sports, our product is also a great fit for Ol
 
 Ultimately, our platform is a flexible solution for tracking and analysing human performance data in any arena, be it space exploration, military, or the workplace. We see huge opportunity in these adjacent markets, and we've already proven our suitability having worked with the European Space Agency and GSK. Q3 2017 sees the launch of our pilot in workplace wellness to further our expansion into these adjacent markets for Human Performance Analytics.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12519/gvhme0uh5xzfyx9580xqn98ll62036z/Asset_6__1_.JPG?rect=0%2C0%2C680%2C471&w=600&fit=clip&s=2cafcbd3ee33bec28f7e35e3562cc662)
+![](/img/seedrs/uploads/startup/section_image/image/12519/gvhme0uh5xzfyx9580xqn98ll62036z/Asset_6__1_.JPG?rect=0%2C0%2C680%2C471&w=600&fit=clip&s=2cafcbd3ee33bec28f7e35e3562cc662)
 
 ### Characteristics of target market
 
@@ -99,7 +99,7 @@ The make up of the EDGE10 client base is split approximately one third in UK and
 
 Due to increasing customer sophistication, the explosion in the use of data from multiple sources in sport, healthcare and by consumers, means that there has never been more focus on the health and wellbeing of not only elite athletes but also the wider population. EDGE10 is at the forefront of the changing culture around wellness and performance, driving demand for flexible, customisable platforms to collect, analyse and visualise performance data.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12520/u4j4r01nax8cu3173ydubg8ioepxu0/Screen_Shot_2017-08-14_at_09.40.41.png?rect=0%2C0%2C1472%2C953&w=600&fit=clip&s=5f5da78106a7239cbe11e84fe67ab7d3)
+![](/img/seedrs/uploads/startup/section_image/image/12520/u4j4r01nax8cu3173ydubg8ioepxu0/Screen_Shot_2017-08-14_at_09.40.41.png?rect=0%2C0%2C1472%2C953&w=600&fit=clip&s=5f5da78106a7239cbe11e84fe67ab7d3)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Using the new investment we will seek to accelerate growth by complementing our 
 
 Moving down the human performance pyramid our strategy will shift from a largely sales led process, with a longer sales cycle, to a more marketing led approach using a range of digital channels. Our marketing strategy will leverage the success we've helped to create in our famous name clients.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12521/est1lap4mqejoacdskuy5bsvn63nom6/Asset_8_Leicester_Tigers__1_.JPG?rect=0%2C0%2C679%2C469&w=600&fit=clip&s=569a299b4d0d8d0eaec1ccd5508cd1a4)
+![](/img/seedrs/uploads/startup/section_image/image/12521/est1lap4mqejoacdskuy5bsvn63nom6/Asset_8_Leicester_Tigers__1_.JPG?rect=0%2C0%2C679%2C469&w=600&fit=clip&s=569a299b4d0d8d0eaec1ccd5508cd1a4)
 
 ### Competition strategy
 

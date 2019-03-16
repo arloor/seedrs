@@ -89,7 +89,7 @@ Tourists, Musicians, Artists and everyday people like me. Tower 47 has enough of
 
 As for musicians being a target market, given that Camden is considered the Music Capital of World, there is a good chance that passer-bys will be musicians and/or groupies both of which will find Tower 47 useful as 'all things music' attract this type of customers. The lesson/practice rooms target a specific target market which are pro-musicians, students and teachers, making this a destination location for this target market. This type of customer will again create foot traffic for the coffee/food area. The art galleries combined with coffee and wifi are perfect for hundreds of thousands of tourists that Camden receive each weekend who are people like myself who are looking for a good cup of coffee in a good environment.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1594/97lxc1pbbs8rlckqtskfnohtsb17bi/target.JPG?w=600&fit=clip&s=24a7a7355875482f5c243e1879373695)
+![](/img/seedrs/uploads/startup/section_image/image/1594/97lxc1pbbs8rlckqtskfnohtsb17bi/target.JPG?w=600&fit=clip&s=24a7a7355875482f5c243e1879373695)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ Tower 47 will most certainly form synergies with and try to complement those bus
 
 Through working tirelessly, Tower 47 members developed relationships and provided services to high profile customers such as the Birmingham Symphony Orchestra, Hungary’s Szolnok Orchestra, Dame Evelyn Glennie and The Royal Academy of Music via Julian Wolstencroft.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1595/eh4k9h5b5izx2p605bpffddvoep2w21/strategy.jpg?w=600&fit=clip&s=e2245cc5c5c7b1c193705059668bdd99)
+![](/img/seedrs/uploads/startup/section_image/image/1595/eh4k9h5b5izx2p605bpffddvoep2w21/strategy.jpg?w=600&fit=clip&s=e2245cc5c5c7b1c193705059668bdd99)
 
 ### Competition strategy
 

@@ -75,7 +75,7 @@ In our view, customers motivated by investing in property fall into two groups, 
 
 Property developers are also our customers, through us they can access both equity and debt capital to fund their projects all in one place, and have a new sales channel to sell their completed developments.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15883/rzo3gte4gw9n4s2k4wdvmvpan1p8cry/BP_advert_cake_600x600.jpg?rect=0%2C0%2C600%2C469&w=600&fit=clip&s=f909613bc1d7a1c9a0f830c505247850)
+![](/img/seedrs/uploads/startup/section_image/image/15883/rzo3gte4gw9n4s2k4wdvmvpan1p8cry/BP_advert_cake_600x600.jpg?rect=0%2C0%2C600%2C469&w=600&fit=clip&s=f909613bc1d7a1c9a0f830c505247850)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ These plans are in place across digital and offline channels, and we consider th
 
 We have acquired investors from five countries, which is a reassuring validation of our proposition. We will continue to refine our marketing approach through small scale tests before investing heavily thereby ensuring effectiveness of spend.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15884/ekiplh0do724kbh3ek0hny2g280c267/BP_comm_600x416.jpg?rect=0%2C0%2C600%2C416&w=600&fit=clip&s=82ae64513b4fa73bae694b7463096b06)
+![](/img/seedrs/uploads/startup/section_image/image/15884/ekiplh0do724kbh3ek0hny2g280c267/BP_comm_600x416.jpg?rect=0%2C0%2C600%2C416&w=600&fit=clip&s=82ae64513b4fa73bae694b7463096b06)
 
 ### Competition strategy
 

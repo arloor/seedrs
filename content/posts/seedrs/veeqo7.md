@@ -97,7 +97,7 @@ Please note that Veeqo has an outstanding convertible loan of £253,500 which wi
 
 Veeqo targets online retailers in the UK, US, New Zealand, Australia and Germany selling on multiple platforms with a turnover between £0.5m and £50m.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10633/k627bueay9flgs8j2qhtno89k7xm9x0/Veeqo_image.png?rect=0%2C0%2C768%2C876&w=600&fit=clip&s=367d8ebc533ddd5c650d99a18c03f2cd)
+![](/img/seedrs/uploads/startup/section_image/image/10633/k627bueay9flgs8j2qhtno89k7xm9x0/Veeqo_image.png?rect=0%2C0%2C768%2C876&w=600&fit=clip&s=367d8ebc533ddd5c650d99a18c03f2cd)
 
 ### Characteristics of target market
 
@@ -109,7 +109,7 @@ The size of the potential addressable market is already huge but it is also grow
 
 You can find more details by requesting the document called market sizing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10639/nmn93f71li51mgl78kn1nwtz8ta9yms/Retailer_Collage.jpg?rect=0%2C0%2C2970%2C1510&w=600&fit=clip&s=dfc155006de8765d9e018fff299cb768)
+![](/img/seedrs/uploads/startup/section_image/image/10639/nmn93f71li51mgl78kn1nwtz8ta9yms/Retailer_Collage.jpg?rect=0%2C0%2C2970%2C1510&w=600&fit=clip&s=dfc155006de8765d9e018fff299cb768)
 
 ### Marketing strategy
 
@@ -131,7 +131,7 @@ Moving forward, Veeqo will focus on the following marketing strategy:
 
 More details available in the forecast and pitch deck.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10640/3injq8428ap5bspq6b1lt6bugbjzf32/Marketing_Strategy.jpeg?rect=0%2C-2%2C5000%2C3338&w=600&fit=clip&s=2f55cdc8ad09816a9696ee64abee940c)
+![](/img/seedrs/uploads/startup/section_image/image/10640/3injq8428ap5bspq6b1lt6bugbjzf32/Marketing_Strategy.jpeg?rect=0%2C-2%2C5000%2C3338&w=600&fit=clip&s=2f55cdc8ad09816a9696ee64abee940c)
 
 ### Competition strategy
 
@@ -145,7 +145,7 @@ Veeqo is the Master Product Catalog for online retailers. Through Veeqo, they ma
 
 -&gt; Shipping: Veeqo has 9 shipping integrations. This flexibility enables our retailers to save time and money by choosing the right shipping provider depending on the type of products they are shipping.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10634/9hip1xaoz9417qnrp2mppjytlvd2ugj/6.jpg?rect=0%2C0%2C3000%2C1965&w=600&fit=clip&s=0d311df00666e36ede4229db3d1a4b68)
+![](/img/seedrs/uploads/startup/section_image/image/10634/9hip1xaoz9417qnrp2mppjytlvd2ugj/6.jpg?rect=0%2C0%2C3000%2C1965&w=600&fit=clip&s=0d311df00666e36ede4229db3d1a4b68)
 
 Our competition has been focused on solving this problem for the very small online retailer (&lt;£0.5M) per year or for the very large one (&gt;£100M). For the Small and Medium sized online retail market of £0.5-50M per year, there is no fully integrated solution available to our knowledge which offers the level of flexibility and depth of features that Veeqo offers.
 

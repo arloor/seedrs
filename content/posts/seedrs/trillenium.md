@@ -81,7 +81,7 @@ Trillenium would target other like ASOS such as Otto, Zalando, Selfridges and Ha
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4104/qpu128ca6979as9dy3pav45vtoo6wsj/unnamed.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=d6ac99dedfd38696dfb07e4b5602624c)
+![](/img/seedrs/uploads/startup/section_image/image/4104/qpu128ca6979as9dy3pav45vtoo6wsj/unnamed.jpg?rect=0%2C0%2C2000%2C1333&w=600&fit=clip&s=d6ac99dedfd38696dfb07e4b5602624c)
 
 ### Characteristics of target market
 
@@ -97,7 +97,7 @@ Tablet devices are becoming increasingly popular with 20 per cent of online shop
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4107/ddlr6uhradmagl2a9upd6ot21iece6r/9.png?rect=0%2C0%2C2022%2C1027&w=600&fit=clip&s=9344f8dfe8f0693abcb8f7179a633f52)
+![](/img/seedrs/uploads/startup/section_image/image/4107/ddlr6uhradmagl2a9upd6ot21iece6r/9.png?rect=0%2C0%2C2022%2C1027&w=600&fit=clip&s=9344f8dfe8f0693abcb8f7179a633f52)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ Extract from the February 2015 PR statement with ASOS to announce our joint vent
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4183/hwxl7dr1rba9lvk8byq3fq6hnqvsjqe/slide-31.jpg?rect=0%2C0%2C1600%2C900&w=600&fit=clip&s=b76070e9c3e5ec035cd4647062c1f615)
+![](/img/seedrs/uploads/startup/section_image/image/4183/hwxl7dr1rba9lvk8byq3fq6hnqvsjqe/slide-31.jpg?rect=0%2C0%2C1600%2C900&w=600&fit=clip&s=b76070e9c3e5ec035cd4647062c1f615)
 
 ### Competition strategy
 

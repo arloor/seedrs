@@ -65,7 +65,7 @@ In 2011 when Duncan co-founded StartUp Britain he emailed The Supper Club’s me
 
 In recent years there has also been a trend amongst larger businesses to engage and hire school leavers where previously they would have only hired graduates. There seems to be an increased desire from larger companies to recruit from a broader range of backgrounds to improve the diversity of their workforce. PwC recently announced in the Sunday Times that they will no longer be using A-levels as a selection measure as they feel it’s more an indicator of background than potential.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4299/kmgm0rnmfg8l3rz88cf4g9xzoww0j7z/Market.png?rect=0%2C0%2C1466%2C856&w=600&fit=clip&s=04d2412f624ae2b2e2ecd17563bff5ac)
+![](/img/seedrs/uploads/startup/section_image/image/4299/kmgm0rnmfg8l3rz88cf4g9xzoww0j7z/Market.png?rect=0%2C0%2C1466%2C856&w=600&fit=clip&s=04d2412f624ae2b2e2ecd17563bff5ac)
 
 ### Characteristics of target market
 
@@ -73,7 +73,7 @@ In recent years there has also been a trend amongst larger businesses to engage 
 
 Young People: Key Facts <br>• There are 7.5m UK based 16-24 year olds, which is 11.9% of the population <br>• Unemployment rates in this demographic are currently around 15.9% <br>• Half of grads from the top 30 universities want to work in London
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4312/rwgckp6a9ige768nfo7mrwvhijwd41l/42_new.png?rect=0%2C0%2C565%2C190&w=600&fit=clip&s=1ba655fc455eed4845160aeff38ce70c)
+![](/img/seedrs/uploads/startup/section_image/image/4312/rwgckp6a9ige768nfo7mrwvhijwd41l/42_new.png?rect=0%2C0%2C565%2C190&w=600&fit=clip&s=1ba655fc455eed4845160aeff38ce70c)
 
 ### Marketing strategy
 
@@ -85,7 +85,7 @@ Initially we are employing a 3-pronged route-to-market strategy:
 
 3) Direct Sales – For any start-up, the key is on-boarding the right users in the right volume, quickly and cost effectively. We plan to set up a direct salesforce to hit the inbox and phones at the same time as we ‘hard launch’.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4433/mc3oqwl4txkjpy7z8auufvbiyuzc1je/1483179_651476094898431_596369289_n.png?rect=0%2C0%2C493%2C228&w=600&fit=clip&s=9ef692e535b977b429a852a0d050d344)
+![](/img/seedrs/uploads/startup/section_image/image/4433/mc3oqwl4txkjpy7z8auufvbiyuzc1je/1483179_651476094898431_596369289_n.png?rect=0%2C0%2C493%2C228&w=600&fit=clip&s=9ef692e535b977b429a852a0d050d344)
 
 ### Competition strategy
 

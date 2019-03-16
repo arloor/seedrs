@@ -123,7 +123,7 @@ a) driving retail sales <br>b) driving direct sales (Amazon, website) <br>c) bui
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11952/hxedlvx51i1bu4gxmqqm02gkbxup1dh/Target_Market_Header.png?w=600&fit=clip&s=8ac1682c1e4b09aac27409456dc9578e)
+![](/img/seedrs/uploads/startup/section_image/image/11952/hxedlvx51i1bu4gxmqqm02gkbxup1dh/Target_Market_Header.png?w=600&fit=clip&s=8ac1682c1e4b09aac27409456dc9578e)
 
 Our intended target market are music lovers with a passion for Electronic and Dance Music, aged 15 - 35.
 
@@ -151,15 +151,15 @@ We are very confident that we have identified a significant gap in the market.
 
 This gap can be summarised as extremely high sound quality at a (relatively) very low price:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11958/bygndt21qclk4qon9u9onxud0q7ikx5/Gap_in_Market__1_.png?w=600&fit=clip&s=3b051a2e05ea68737d36a87572ba93b2)
+![](/img/seedrs/uploads/startup/section_image/image/11958/bygndt21qclk4qon9u9onxud0q7ikx5/Gap_in_Market__1_.png?w=600&fit=clip&s=3b051a2e05ea68737d36a87572ba93b2)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11953/oy8rtn3eca51j5zbjwusxzeq5ni7d45/Price_Tech_Fashion_Matrix.png?w=600&fit=clip&s=6c5070ec10963797a5618e9a453b4349)
+![](/img/seedrs/uploads/startup/section_image/image/11953/oy8rtn3eca51j5zbjwusxzeq5ni7d45/Price_Tech_Fashion_Matrix.png?w=600&fit=clip&s=6c5070ec10963797a5618e9a453b4349)
 
 There is a lot of congestion in the headphone market both in the UK and globally, but we are confident that our market positioning is distinct and and a significant gap exists that we are beginning to fill.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11954/22asyshwh74wmuteh33wrpikwfmxwha/Brand_Overlap.png?w=600&fit=clip&s=d0e073f3ca1e455d0b9b4c164fe57264)
+![](/img/seedrs/uploads/startup/section_image/image/11954/22asyshwh74wmuteh33wrpikwfmxwha/Brand_Overlap.png?w=600&fit=clip&s=d0e073f3ca1e455d0b9b4c164fe57264)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11955/j8ev785to9q3jpfduw8hlw9c22insyz/Brand_Overlap_2.png?w=600&fit=clip&s=9e39a6dfdae9e1e904d3e5a04c354cfe)
+![](/img/seedrs/uploads/startup/section_image/image/11955/j8ev785to9q3jpfduw8hlw9c22insyz/Brand_Overlap_2.png?w=600&fit=clip&s=9e39a6dfdae9e1e904d3e5a04c354cfe)
 
 According to the IMS Business Report 2016, the Electronic Music business had a value of $7.1 billion globally in 2016, a 60% percent increase from three years before, and Dance Music accounted for 4.2% of all music sales in the USA in 2015.
 
@@ -169,7 +169,7 @@ What we are very confident of is that both the market for Headphones and the mar
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11956/exgya2w2ckk7s8mrnfez0ydvjo1zzsw/Business_to_Consumer.png?w=600&fit=clip&s=5bf950c4af172bbc01429041167fd7b3)
+![](/img/seedrs/uploads/startup/section_image/image/11956/exgya2w2ckk7s8mrnfez0ydvjo1zzsw/Business_to_Consumer.png?w=600&fit=clip&s=5bf950c4af172bbc01429041167fd7b3)
 
 We will continue to sell directly to the consumer, with an increased focus on Amazon in particular.
 
@@ -179,7 +179,7 @@ It also meant that margin we could have been earning ourselves was split between
 
 That issue has been resolved now that we have introduced the brand new generation of products and we have undertaken to be extremely particular about which distributors (and retailers) we sell to.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11957/hznokxvj6f176rj880dinqdo8fmbxbo/Business_to_Business.png?w=600&fit=clip&s=521a32b90a9cb0935f8c298d907d3486)
+![](/img/seedrs/uploads/startup/section_image/image/11957/hznokxvj6f176rj880dinqdo8fmbxbo/Business_to_Business.png?w=600&fit=clip&s=521a32b90a9cb0935f8c298d907d3486)
 
 The bulk of our focus over the last 10 months has been developing a new product range that appeals to both consumers AND retail buyers.
 
@@ -203,13 +203,13 @@ These actions have been carried out under the mentorship of Gordon Anderson and 
 
 Our strategy for driving volume over the next six months is as follows:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11961/a5niwyrtkop21zqcd2jinuxex5g4874/Drive_Revenues__Monetisation_Strategy___2_.png?w=600&fit=clip&s=91af3a9a19c1fa1dac452c481b030a83)
+![](/img/seedrs/uploads/startup/section_image/image/11961/a5niwyrtkop21zqcd2jinuxex5g4874/Drive_Revenues__Monetisation_Strategy___2_.png?w=600&fit=clip&s=91af3a9a19c1fa1dac452c481b030a83)
 
 ### Competition strategy
 
 We've identified exactly where PUMP Audio sits in the marketplace using insight from people who have done it before.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11959/7ivn21vd11boyospeetlodtbxbjsisa/Competition.png?w=600&fit=clip&s=60db3b9f731b66a2dfd5553e588e3200)
+![](/img/seedrs/uploads/startup/section_image/image/11959/7ivn21vd11boyospeetlodtbxbjsisa/Competition.png?w=600&fit=clip&s=60db3b9f731b66a2dfd5553e588e3200)
 
 Our values:
 

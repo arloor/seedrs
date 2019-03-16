@@ -55,7 +55,7 @@ The raised funds will be spent on: <br>1. Talent: Adding new operational team me
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13284/9aff8g6rvw2dod0va6ng1ukku8cju6h/Welendus_image_7.png?rect=0%2C0%2C600%2C339&w=600&fit=clip&s=84aa7863abbe94748f0fbd761cf14bc1)
+![](/img/seedrs/uploads/startup/section_image/image/13284/9aff8g6rvw2dod0va6ng1ukku8cju6h/Welendus_image_7.png?rect=0%2C0%2C600%2C339&w=600&fit=clip&s=84aa7863abbe94748f0fbd761cf14bc1)
 
 Welendus has two target markets:
 
@@ -69,7 +69,7 @@ Thanks to our all new and innovative approach, Welendus will bring an affordable
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13285/8j85pbfm8h5123baj21qku2l0527t3w/Welendus_-_Seedrs_Disruption_Image.png?rect=0%2C0%2C600%2C256&w=600&fit=clip&s=f1d4b45441c81c862fd8e5046b975dbe)
+![](/img/seedrs/uploads/startup/section_image/image/13285/8j85pbfm8h5123baj21qku2l0527t3w/Welendus_-_Seedrs_Disruption_Image.png?rect=0%2C0%2C600%2C256&w=600&fit=clip&s=f1d4b45441c81c862fd8e5046b975dbe)
 
 Since Welendus will be reaching out to two markets, this section is divided over 2 parts:
 
@@ -79,7 +79,7 @@ Since Welendus will be reaching out to two markets, this section is divided over
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13286/i5mvx4tgefieri4elpavi59rik10ftv/Welendus_-_Seedrs_New_Product_Image__1_.png?rect=0%2C0%2C600%2C279&w=600&fit=clip&s=0e3ccc75721acd191a789d992d557fb8)
+![](/img/seedrs/uploads/startup/section_image/image/13286/i5mvx4tgefieri4elpavi59rik10ftv/Welendus_-_Seedrs_New_Product_Image__1_.png?rect=0%2C0%2C600%2C279&w=600&fit=clip&s=0e3ccc75721acd191a789d992d557fb8)
 
 We are aiming to soft-launch with our mobile adaptive web platform in Q4 2017. This will allow us to verify our systems as well as our marketing channels with a moderate marketing budget and to make early adjustments where required.
 

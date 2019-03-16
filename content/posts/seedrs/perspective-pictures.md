@@ -89,7 +89,7 @@ The market for digital video content is vast. From speaking with our clients, it
 
 Another target market is digital agencies. There are over 25,000 agencies in the UK alone and many of them can often not afford to have their own video production teams in-house. We want to build close relationships with agencies to become their go-to video production company.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14066/cardwv9q707ueacbtssnp15lceke8ae/Screen_Shot_2017-01-25_at_07.23.00.png?rect=0%2C0%2C1680%2C915&w=600&fit=clip&s=57f11838d5f3f694ae9326635630e924)
+![](/img/seedrs/uploads/startup/section_image/image/14066/cardwv9q707ueacbtssnp15lceke8ae/Screen_Shot_2017-01-25_at_07.23.00.png?rect=0%2C0%2C1680%2C915&w=600&fit=clip&s=57f11838d5f3f694ae9326635630e924)
 
 ### Characteristics of target market
 
@@ -101,7 +101,7 @@ Currently, we believe that there is a lack of strategic approach from brands, wh
 
 Our target market will also be concerned with budget and reliability. We have worked hard to gain the trust of and retain our clients.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14067/3zbt61du9r25uxqjygbh835ynwbyuti/Screen_Shot_2018-03-05_at_11.41.12.png?rect=0%2C-5%2C1177%2C785&w=600&fit=clip&s=bd1e18b020b9bbe972fa4acd6f26f184)
+![](/img/seedrs/uploads/startup/section_image/image/14067/3zbt61du9r25uxqjygbh835ynwbyuti/Screen_Shot_2018-03-05_at_11.41.12.png?rect=0%2C-5%2C1177%2C785&w=600&fit=clip&s=bd1e18b020b9bbe972fa4acd6f26f184)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ Our marketing strategy relies on reaching key stakeholders through a variety of 
 
 - Website/Branding improvement - To this point, all our website development has been done in-house. We are enthusiastic to build more professional branding materials.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14068/26w6ytztqusn05evc5bmzcnr8wlbmtc/Screen_Shot_2016-07-31_at_14.09.30.png?rect=0%2C-1%2C1198%2C1191&w=600&fit=clip&s=0322b6b7e3f988747f08f2e7e3f0c669)
+![](/img/seedrs/uploads/startup/section_image/image/14068/26w6ytztqusn05evc5bmzcnr8wlbmtc/Screen_Shot_2016-07-31_at_14.09.30.png?rect=0%2C-1%2C1198%2C1191&w=600&fit=clip&s=0322b6b7e3f988747f08f2e7e3f0c669)
 
 ### Competition strategy
 
@@ -123,5 +123,5 @@ However, to the best of our knowledge, very few video production companies take 
 
 We've also seen that agencies may shop around for different video production teams, due in part to a long turnaround time for quotes. We aim to cultivate close relationships, and want to be able to deliver a quote in less than 15 minutes and - if requested - a pitch deck within 48 hours.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14069/lsdsrlqjnhq5xape8il07m2wpaj7s97/Copy_of_DSC05268.jpg?rect=0%2C0%2C2872%2C2052&w=600&fit=clip&s=e76bb2ad850fb96793d5ea6506f06b05)
+![](/img/seedrs/uploads/startup/section_image/image/14069/lsdsrlqjnhq5xape8il07m2wpaj7s97/Copy_of_DSC05268.jpg?rect=0%2C0%2C2872%2C2052&w=600&fit=clip&s=e76bb2ad850fb96793d5ea6506f06b05)
 

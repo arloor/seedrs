@@ -135,7 +135,7 @@ Traditional advertising – Highly targeted advertising via local media and door
 
 Account Management – A consultative selling approach for catering customers in private and public sector. We take a partnership approach with B2B customers rather than selling transactionally. This results in stronger customer acquisition and retention performance.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12225/i7r83yfb7epqnklhrlunmgn7qrh7y4/Vans_outside_hub__1_.jpg?rect=0%2C0%2C1024%2C683&w=600&fit=clip&s=a16f208f3d1998770c8e5c7cbd87d096)
+![](/img/seedrs/uploads/startup/section_image/image/12225/i7r83yfb7epqnklhrlunmgn7qrh7y4/Vans_outside_hub__1_.jpg?rect=0%2C0%2C1024%2C683&w=600&fit=clip&s=a16f208f3d1998770c8e5c7cbd87d096)
 
 ### Competition strategy
 

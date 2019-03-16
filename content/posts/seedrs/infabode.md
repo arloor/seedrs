@@ -93,7 +93,7 @@ The size of the professionally managed global real estate investment market grew
 
 Infabode aims to reach 7.2% of those working in the global real estate market by the year 2021/22.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14100/9gdvd514kxpqdvu011aqtoci2hl3soj/Panel2__1_.jpg?rect=0%2C0%2C600%2C528&w=600&fit=clip&s=19f97ac3bc9584c210acc125d9dca63c)
+![](/img/seedrs/uploads/startup/section_image/image/14100/9gdvd514kxpqdvu011aqtoci2hl3soj/Panel2__1_.jpg?rect=0%2C0%2C600%2C528&w=600&fit=clip&s=19f97ac3bc9584c210acc125d9dca63c)
 
 ### Marketing strategy
 
@@ -111,5 +111,5 @@ Infabode is likely to compete when it comes to building the platform from which 
 
 Infabode believes that it's well positioned to build such a platform (Apple App store of Real Estate) as it requires large amounts of collaborations, of which Infabode has already formed hundreds.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14098/f4kogeak7te3d3aitk11z5f184cmeto/Panel5__1_.jpg?rect=0%2C0%2C597%2C505&w=600&fit=clip&s=b5056a961601b5f934fc45ecc372fafb)
+![](/img/seedrs/uploads/startup/section_image/image/14098/f4kogeak7te3d3aitk11z5f184cmeto/Panel5__1_.jpg?rect=0%2C0%2C597%2C505&w=600&fit=clip&s=b5056a961601b5f934fc45ecc372fafb)
 

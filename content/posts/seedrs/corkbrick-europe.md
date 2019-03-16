@@ -125,7 +125,7 @@ We believe millennials are used to purchasing and researching on internet and ar
 
 CORKBRICK lends itself to the consumer culture that seeks creative, easy to assemble and flexible interior design and furnishing options. We believe it appeals to those consumers who simply want simple, affordable and durable home solutions that do not require even basic assembly skills.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11266/3gjgo9j8mm1mkc0r1v91fm2gu6qwlj7/ggr.jpg?rect=0%2C0%2C1495%2C900&w=600&fit=clip&s=4c22b81fadf25db002d09ce6abbeeb19)
+![](/img/seedrs/uploads/startup/section_image/image/11266/3gjgo9j8mm1mkc0r1v91fm2gu6qwlj7/ggr.jpg?rect=0%2C0%2C1495%2C900&w=600&fit=clip&s=4c22b81fadf25db002d09ce6abbeeb19)
 
 ### Marketing strategy
 
@@ -145,7 +145,7 @@ This would allow "corkies" to expand our line of product sets while allowing the
 
 In parallel, we intend to promote our concept and "way of life" producing creative presentations in public spaces like museums, art galleries, airports and other non-obvious places to surprise the audience and get media attention.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11267/d153htayptfe8uvrw4pxycssvxobuc3/13615005_651359351679440_6129696138340281039_n.jpg?rect=0%2C0%2C953%2C640&w=600&fit=clip&s=ca42ef3c6823008d11a54a887eef3c46)
+![](/img/seedrs/uploads/startup/section_image/image/11267/d153htayptfe8uvrw4pxycssvxobuc3/13615005_651359351679440_6129696138340281039_n.jpg?rect=0%2C0%2C953%2C640&w=600&fit=clip&s=ca42ef3c6823008d11a54a887eef3c46)
 
 ### Competition strategy
 

@@ -101,7 +101,7 @@ Global pet food manufacturers are responding to consumer demand for better quali
 
 In turn, health and wellness solutions are gaining pace across the industry, with significant opportunities for manufacturers with the research and development budget, product innovation and marketing savvy to exploit them. Tightening regulations globally for human food and beverages may also impact health and wellness pet food, further highlighting the importance of food safety for both humans and animals alike. <br>In our view Woof and Brew products can be distributed globally with only minor changes to packaging and labeling to meet local regulations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7726/l0dnewfutvw4yhcaf71c7yoq843anjk/2.jpg?rect=154%2C115%2C2568%2C1770&w=600&fit=clip&s=4d076f8e61436a20a2bcc9cb606ed3de)
+![](/img/seedrs/uploads/startup/section_image/image/7726/l0dnewfutvw4yhcaf71c7yoq843anjk/2.jpg?rect=154%2C115%2C2568%2C1770&w=600&fit=clip&s=4d076f8e61436a20a2bcc9cb606ed3de)
 
 picture courtesy of The Daily Mail.
 
@@ -111,7 +111,7 @@ An aging population and declining birth rates have led to a different cultural a
 
 Woof and Brew will target the second 50% with effective and affordable products designed to deliver clear benefits. Early adopters will be encouraged to interact with the brand to build advocacy and recommendation for those less willing to change.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7745/7pr33mpzdjyvcanwx5w5vplp2xb1dwo/12771838_829006117245204_2371765612167365001_o.jpg?rect=0%2C0%2C1024%2C680&w=600&fit=clip&s=3bb77a791f72c8b9c788bdda263136a2)
+![](/img/seedrs/uploads/startup/section_image/image/7745/7pr33mpzdjyvcanwx5w5vplp2xb1dwo/12771838_829006117245204_2371765612167365001_o.jpg?rect=0%2C0%2C1024%2C680&w=600&fit=clip&s=3bb77a791f72c8b9c788bdda263136a2)
 
 ### Marketing strategy
 
@@ -137,7 +137,7 @@ Most pet owners rely on others for recommendation and endorsement. Woof and Brew
 
 While pet owners can be cynical about PR coverage we believe they do respond to trends. Woof and Brew will continue to build media profile in all key markets and to use data capture to build a direct market over time.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7725/lasj40k82vm4fgi3fccrwirzfwaevfr/12823345_833298123482670_8038337632686275847_o.jpg?rect=0%2C0%2C2048%2C1536&w=600&fit=clip&s=346965b1041076715a409a9bce41fcc0)
+![](/img/seedrs/uploads/startup/section_image/image/7725/lasj40k82vm4fgi3fccrwirzfwaevfr/12823345_833298123482670_8038337632686275847_o.jpg?rect=0%2C0%2C2048%2C1536&w=600&fit=clip&s=346965b1041076715a409a9bce41fcc0)
 
 ### Competition strategy
 
@@ -155,7 +155,7 @@ Woof and Brew has n early mover advantage but must move quickly to protect it's 
 
 We believe competition will come first from the leading petfood brands who are most likely to acquire for quick entry ...... giving Woof and Brew an opportunity for exit within three years or to secure new funding in a growing market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7746/hdj4cttq7aco7fqqbqtlccrzdbeybi3/May_2014.png?rect=-3%2C0%2C566%2C724&w=600&fit=clip&s=e1058469ddd8d8f88de0a60c3c17b427)
+![](/img/seedrs/uploads/startup/section_image/image/7746/hdj4cttq7aco7fqqbqtlccrzdbeybi3/May_2014.png?rect=-3%2C0%2C566%2C724&w=600&fit=clip&s=e1058469ddd8d8f88de0a60c3c17b427)
 
 picture courtesy of The Daily Mail.
 

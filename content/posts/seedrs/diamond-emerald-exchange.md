@@ -93,7 +93,7 @@ An ongoing programme of SEO and social media back links are aimed at promoting t
 
 4. PR - we are proactively raising the profile of LDE in a number of ways, including applying for industry awards and recognition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11116/nm8zm2ofstpgofgryt0dhc26y0fx8eu/20160611_155612_1___1_.jpg?rect=88%2C0%2C5134%2C2988&w=600&fit=clip&s=df8e1ad2f4124f935570b6214a3cc46d)
+![](/img/seedrs/uploads/startup/section_image/image/11116/nm8zm2ofstpgofgryt0dhc26y0fx8eu/20160611_155612_1___1_.jpg?rect=88%2C0%2C5134%2C2988&w=600&fit=clip&s=df8e1ad2f4124f935570b6214a3cc46d)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ The fastest growth in demand is however in the emerging markets. In 2014, Bain &
 
 The price of emeralds has almost tripled in the past 10 years (Gemval, 2015). Gemfields (the principle miner of these gems) are aiming to corner the emerald market in the way that De Beers once cornered the diamond market. Emeralds are estimated to be around 20 times rarer than diamonds. Coloured gems in general are a growing force in the market and they are experiencing the most rapid gains. We've found that they also attract a higher margin and cost less to advertise than diamonds.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11117/73ud72vv9jmw2j2cwyea5ad4ynrv1dk/Engagment_rings.png?rect=0%2C0%2C2502%2C496&w=600&fit=clip&s=d376b792e7b4bdbb1b7d4ea82cd9ca7a)
+![](/img/seedrs/uploads/startup/section_image/image/11117/73ud72vv9jmw2j2cwyea5ad4ynrv1dk/Engagment_rings.png?rect=0%2C0%2C2502%2C496&w=600&fit=clip&s=d376b792e7b4bdbb1b7d4ea82cd9ca7a)
 
 ### Marketing strategy
 
@@ -119,7 +119,7 @@ We aim to establish our first overseas footprint in Dubai in 2-3 years. Within 5
 
 It is anticipated that spin-off opportunities may arise from this, enabling us to further diversify our portfolio of products and services to maximise profitability and reach. Continuous television and digital marketing campaigns would promote the brand via every available medium. A physical presence within the major luxury hubs of the world will greatly enhance sales opportunities.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11118/r04429d3ayos5cu71p67v4ec6fxue6h/Mining_region.jpg?rect=0%2C0%2C1024%2C683&w=600&fit=clip&s=3810d513f6658d7caee8c1a38e75df25)
+![](/img/seedrs/uploads/startup/section_image/image/11118/r04429d3ayos5cu71p67v4ec6fxue6h/Mining_region.jpg?rect=0%2C0%2C1024%2C683&w=600&fit=clip&s=3810d513f6658d7caee8c1a38e75df25)
 
 ### Competition strategy
 
@@ -141,5 +141,5 @@ The traditional jewellery shop no longer controls the market:
 
 "The experts agree that anyone buying an engagement ring should give the high street jewellers a miss and go on-line instead. As well as saving up to 80% of the cost of a diamond, shopping on-line at certain sites allows buyers to match up the exact combination of the 4 c's that they want." (Emma Lunn, guardian.com).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11119/f4xx0n08fhxpc6ppualy3spbf7x0dis/LDE_Branded_4.png?rect=0%2C-5%2C1198%2C379&w=600&fit=clip&s=9e9b2cc63ffac85a8c6f65541a862750)
+![](/img/seedrs/uploads/startup/section_image/image/11119/f4xx0n08fhxpc6ppualy3spbf7x0dis/LDE_Branded_4.png?rect=0%2C-5%2C1198%2C379&w=600&fit=clip&s=9e9b2cc63ffac85a8c6f65541a862750)
 

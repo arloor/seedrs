@@ -95,7 +95,7 @@ Our service is most relevant for business-to-consumer (B2C) brands. A quick glan
 
 The second audience group are the estimated 560,000 agencies (PR, Media and digital) globally who support and deliver marketing for brands. Most of these agencies will be directly or indirectly supporting their clients’ digital marketing and content creation needs. There are three decision maker profiles we will target: production teams who are responsible for selecting production partners; account teams who manage specific brand clients; digital and social media teams who deliver digital specific projects.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4368/meya16m74er1wo5hzcfvljofze53dg7/advertising_spend_chart_966.png?rect=0%2C29%2C996%2C859&w=600&fit=clip&s=ddf55fb897310ef0038ea4902a4d2874)
+![](/img/seedrs/uploads/startup/section_image/image/4368/meya16m74er1wo5hzcfvljofze53dg7/advertising_spend_chart_966.png?rect=0%2C29%2C996%2C859&w=600&fit=clip&s=ddf55fb897310ef0038ea4902a4d2874)
 
 <br>The third core audience group is the creative talent who form our community. We specifically target ‘independent creative talent’ who don’t fit the traditional model of what a creative should do, nor how or for whom they should work. These include anyone from vloggers and creative influencers with their own followings, to writers, designers, directors and videographers, who simply find the agency and production company environment too stifling and restrictive.
 
@@ -115,7 +115,7 @@ Our focus will be a one-to-many sales strategy using industry events, PR coverag
 
 These one-to-many tactics will feed our CRM strategy, which already contains a database of more than 4,139 contacts. We will regularly share company news, case studies and thought leadership through email newsletters and social media marketing. Our CRM strategy will be supported with telemarketing focused on warm prospects who have engaged with a piece of content.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4367/2u1fmls4e4fwfn780t8zr9c9elfszu/Case_Study_1_heart_966.png?rect=0%2C36%2C996%2C699&w=600&fit=clip&s=89fdff2d2b801af1a75e3a622445ce0d)
+![](/img/seedrs/uploads/startup/section_image/image/4367/2u1fmls4e4fwfn780t8zr9c9elfszu/Case_Study_1_heart_966.png?rect=0%2C36%2C996%2C699&w=600&fit=clip&s=89fdff2d2b801af1a75e3a622445ce0d)
 
 Larger, high priority prospects will receive a tailored approach managed by the senior sales team. We will place greater resource in thought leadership and bespoke solutions to solve their specific content challenges.
 
@@ -129,11 +129,11 @@ Apparently a business that can do something faster, cheaper and better is a myth
 
 Specifically our competitive advantage will be created through;
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4370/s65w4edahynhl8lveai5m3s24kruxi0/Trigger_Studio_Logo_new_new.png?rect=0%2C0%2C5296%2C1004&w=600&fit=clip&s=e6094b1fd6b248fc4ddc6be7e04a01b7)
+![](/img/seedrs/uploads/startup/section_image/image/4370/s65w4edahynhl8lveai5m3s24kruxi0/Trigger_Studio_Logo_new_new.png?rect=0%2C0%2C5296%2C1004&w=600&fit=clip&s=e6094b1fd6b248fc4ddc6be7e04a01b7)
 
 - Developing the size of our community and breadth of creative skill sets to offer a more comprehensive on-demand service than other providers. <br>- Increasing the quality of our community through improved testing to ensure we have the best group of creatives available. <br>- Creating exclusive partnerships with institutions that house creative talent, particularly industry bodies and top university courses, to facilitate a knowledge exchange and access to the best talent of the future. <br>- Increasing community members’ loyalty by helping develop their skills and knowledge through support, tuition, activities and events from aspirational category experts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4369/69ee586av27skebac444jgiumu5d9u3/Trigger_Hub_Logo_new_new.png?rect=0%2C0%2C4192%2C1100&w=600&fit=clip&s=cd1eb8465e1273d9fa4f99b9f93dbb4f)
+![](/img/seedrs/uploads/startup/section_image/image/4369/69ee586av27skebac444jgiumu5d9u3/Trigger_Hub_Logo_new_new.png?rect=0%2C0%2C4192%2C1100&w=600&fit=clip&s=cd1eb8465e1273d9fa4f99b9f93dbb4f)
 
 - A platform that’s built for the sole purpose of creating content in a more streamlined and efficient way. <br>- Launching an app to provide a more accessible service to both brands and creatives. <br>- Plug-in complimentary service providers, allowing clients to complete more elements of the digital marketing process through our platform.
 

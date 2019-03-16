@@ -93,7 +93,7 @@ The Company currently has a £20,000 interest free director loan. None of the fu
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8604/gwc7crx8tsajafgm7uglndf1ouwpcax/Richmond_home_welcome_pack.jpg?w=600&fit=clip&s=3892742525565ef3fab52caf37e97d22)
+![](/img/seedrs/uploads/startup/section_image/image/8604/gwc7crx8tsajafgm7uglndf1ouwpcax/Richmond_home_welcome_pack.jpg?w=600&fit=clip&s=3892742525565ef3fab52caf37e97d22)
 
 ### Target market
 
@@ -107,7 +107,7 @@ Among guests our primary market are those who will only stay in homes in London 
 
 • Business travellers who want a guaranteed quality of experience as well as health and safety considerations in place <br>• Families who want the assurance that everything they need is provided <br>• Visitors from abroad who want the peace of mind everything will be as they hoped
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8602/1uao2yzdogdzaec6oy8v52ahnp48sli/live_like_a_local_main.png?rect=0%2C0%2C540%2C320&w=600&fit=clip&s=3a1056ae97f1460b121b19921edb9bb0)
+![](/img/seedrs/uploads/startup/section_image/image/8602/1uao2yzdogdzaec6oy8v52ahnp48sli/live_like_a_local_main.png?rect=0%2C0%2C540%2C320&w=600&fit=clip&s=3a1056ae97f1460b121b19921edb9bb0)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ The market is currently dominated by platforms such as Airbnb (estimated revenue
 
 OneFineStay, which focuses on the luxury segment of the managed home sector and was founded in London in 2009, was recently bought out by Accor for $170m.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8601/oleac4pju0rx135vo4e47a6kfspmwy9/Stuart_home_rooftop.jpg?w=600&fit=clip&s=3221a6fc6f89beffc63eea386f1de132)
+![](/img/seedrs/uploads/startup/section_image/image/8601/oleac4pju0rx135vo4e47a6kfspmwy9/Stuart_home_rooftop.jpg?w=600&fit=clip&s=3221a6fc6f89beffc63eea386f1de132)
 
 ### Marketing strategy
 
@@ -151,7 +151,7 @@ Guest marketing through platforms is a variable cost - we only pay a fee when a 
 
 We also use incentives to encourage homeowner and guest acquisition. Right now, when someone introduces a new homeowner both they and the new homeowner receive £100 each after the first guest booking.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8603/i3vbiewmpopzw44kwaodhacs7p3y72m/UTD_welcomepackjpg.jpg?w=600&fit=clip&s=557a9cad06963c19704c6cb8e73eb6ea)
+![](/img/seedrs/uploads/startup/section_image/image/8603/i3vbiewmpopzw44kwaodhacs7p3y72m/UTD_welcomepackjpg.jpg?w=600&fit=clip&s=557a9cad06963c19704c6cb8e73eb6ea)
 
 ### Competition strategy
 

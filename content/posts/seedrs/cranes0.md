@@ -113,7 +113,7 @@ Our core consumer is the younger adult female market 18-30, who seek a longer dr
 
 However, having sold Cranes at numerous consumer shows we know the drink is enjoyed by all ages, and both men and women.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8785/4f61mc2uitf72qwwqnjtfk10zvxsw91/13403751_829310360503524_2297611624809682570_o.jpg?rect=0%2C0%2C1785%2C2048&w=600&fit=clip&s=520f7fada88f462d12d34dc69b98a770)
+![](/img/seedrs/uploads/startup/section_image/image/8785/4f61mc2uitf72qwwqnjtfk10zvxsw91/13403751_829310360503524_2297611624809682570_o.jpg?rect=0%2C0%2C1785%2C2048&w=600&fit=clip&s=520f7fada88f462d12d34dc69b98a770)
 
 ### Characteristics of target market
 
@@ -123,7 +123,7 @@ Fruit cider is 26% of the on-trade cider volume and is predicted to be 31% by 20
 
 Spirits and Liqueurs were worth £5.3 billion in the on-trade in 2015, and flavoured spirits made up 19.6% of UK spirit sales in 2014 over double that of gin sales totalling 9.4% of the UK Spirit sales in 2014 showing there is also a potentially huge market for Cranes Liqueur.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8786/dh48g8o6dk15m2jrr8itw05h2owotxp/11350526_677512839016611_1049090199814530189_n.jpg?rect=0%2C0%2C720%2C819&w=600&fit=clip&s=f615385f03c2c14e58712bdff5048a39)
+![](/img/seedrs/uploads/startup/section_image/image/8786/dh48g8o6dk15m2jrr8itw05h2owotxp/11350526_677512839016611_1049090199814530189_n.jpg?rect=0%2C0%2C720%2C819&w=600&fit=clip&s=f615385f03c2c14e58712bdff5048a39)
 
 ### Marketing strategy
 
@@ -133,7 +133,7 @@ PR – Part of the funds raised will be used to hire a PR company to launch a ta
 
 Event’s including Food &amp; Drink shows – Events are great for brand exposure, getting in front of the consumer and getting the product tasted. At each Event we are able to sell the three flavours, cocktail packs, and Cranes Liqueur and have been able to break even or better still make a profit. Along with every sale or tasting we will give out an Ocado voucher and promote our own online sales, making shows a great cost effective marketing and sales channel. At the moment we have 35 events planned for this summer.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8791/5p9xpzf2myrb6b7a9fz8ox6cgil2n3z/13094202_808409025926991_1929503036595894254_n.jpg?rect=0%2C0%2C670%2C960&w=600&fit=clip&s=19503f525b786847756da252fc081171)
+![](/img/seedrs/uploads/startup/section_image/image/8791/5p9xpzf2myrb6b7a9fz8ox6cgil2n3z/13094202_808409025926991_1929503036595894254_n.jpg?rect=0%2C0%2C670%2C960&w=600&fit=clip&s=19503f525b786847756da252fc081171)
 
 Social Media – We currently have 4,500 fans on facebook, twitter and Instagram, but using advice and getting help from a social media company means we can really push and extend our fan base and interaction on social media.
 
@@ -145,7 +145,7 @@ In-Store Sampling – Another great way of getting the consumer tasting the prod
 
 Promotion – We plan to drive national sales with price promotions with Ocado, highlighting the brand at key times of year, notably in the summer.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8787/p6ssodfh7pwua1r9rfty986q0v5fphc/Marketing_Strategy_diagram.png?rect=0%2C0%2C1350%2C762&w=600&fit=clip&s=eb55dd90a4ee910ece9d183972038aa4)
+![](/img/seedrs/uploads/startup/section_image/image/8787/p6ssodfh7pwua1r9rfty986q0v5fphc/Marketing_Strategy_diagram.png?rect=0%2C0%2C1350%2C762&w=600&fit=clip&s=eb55dd90a4ee910ece9d183972038aa4)
 
 ### Competition strategy
 
@@ -155,5 +155,5 @@ The fact we are unique and offer something a little bit different is expected to
 
 The trend to reduce sugar is really starting to snowball, as shown by the sugar tax coming in for soft drinks and company’s like Starbucks promising to reduce sugar in their drinks by 2020. Alcoholic beverages will also come under scrutiny which we believe will only help Cranes as we lead by example.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8788/86ejrm388l4swmtdli8sr2czali7950/Cambridge_Magazine.JPG?rect=0%2C0%2C602%2C806&w=600&fit=clip&s=0577afa9a2b60306892bca1bbba26d75)
+![](/img/seedrs/uploads/startup/section_image/image/8788/86ejrm388l4swmtdli8sr2czali7950/Cambridge_Magazine.JPG?rect=0%2C0%2C602%2C806&w=600&fit=clip&s=0577afa9a2b60306892bca1bbba26d75)
 

@@ -87,7 +87,7 @@ Our target sectors are charities, museums, religious organisations, individuals 
 
 Looking at the individual target market specifically, we believe there exists an opportunity to add rich value-add services via our online platform and mobile app. Not only is the data opportunity meaningful, but GiftAiding or extracting individual tax relief will be transformed into an effortlessly simple process.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13116/4jea2wdmkcgp4j8yxnwxt10hs7tu59p/VICTORIAPARK5.jpg?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=704386bea4e7e1ea7591ccbeb789ddaf)
+![](/img/seedrs/uploads/startup/section_image/image/13116/4jea2wdmkcgp4j8yxnwxt10hs7tu59p/VICTORIAPARK5.jpg?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=704386bea4e7e1ea7591ccbeb789ddaf)
 
 ### Characteristics of target market
 
@@ -97,7 +97,7 @@ We intend to help charities harness this growth for their own benefit. Currently
 
 Many charities do not currently use contactless payments primarily because technology is not their key competency but also due to substandard mainstream offerings. We provide a user-friendly, end-to-end donation solution which can increase donation volumes and eliminate cash-handling costs to this substantial, untapped market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13117/b25b6o6o6nwpnl90x50im9ct20xadjp/NHM_P2.png?rect=0%2C0%2C1280%2C720&w=600&fit=clip&s=3fcda549f333a7fe08068394143a47ab)
+![](/img/seedrs/uploads/startup/section_image/image/13117/b25b6o6o6nwpnl90x50im9ct20xadjp/NHM_P2.png?rect=0%2C0%2C1280%2C720&w=600&fit=clip&s=3fcda549f333a7fe08068394143a47ab)
 
 ### Marketing strategy
 
@@ -107,7 +107,7 @@ Going forward, we plan to balance our marketing focus between a) actively sourci
 
 We also intend to start marketing ourselves directly to consumers so that our “Tap to Give” trademark becomes a well known and trusted brand. We will invest in growing our social media presence through a combination of original content, interaction with followers and paid ads, including promoting ourselves on Google Ads.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13118/61wt87d6wssbpgb1c3bsgjetzv5ajjy/London_Bridge3.jpg?rect=0%2C0%2C1328%2C747&w=600&fit=clip&s=01140fcb864e8a5349e30428d5d47433)
+![](/img/seedrs/uploads/startup/section_image/image/13118/61wt87d6wssbpgb1c3bsgjetzv5ajjy/London_Bridge3.jpg?rect=0%2C0%2C1328%2C747&w=600&fit=clip&s=01140fcb864e8a5349e30428d5d47433)
 
 ### Competition strategy
 

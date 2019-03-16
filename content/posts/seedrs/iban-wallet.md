@@ -75,19 +75,19 @@ iBAN Wallet is ready to tap into the already large number of people in the UK an
 
 Technology available for consumer and business banking is archaic: transactions are simple lists without any insight into where your money's going, it takes days for your balance to update, and you sometimes you even have to call your bank to replace a lost or stolen card. Applying for finance is time-consuming and expensive, while the interest charged never comes close to the interest paid to savers. <br> <br>In the UK alone, savers hold over £700bn in their bank accounts earning very little interest, not including the 13 million people who invest in an ISA (either Cash or Stocks and Shares). Crowdlending presents an opportunity for these savers to earn more interest, while providing a more cost-effective alternative for borrowers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15107/m27tb8ngmnsdpx85844kmrfbxsa0gty/iBAN_Seedrs_Images_V01_Image01__1_.jpg?rect=0%2C0%2C600%2C651&w=600&fit=clip&s=72baa67af38b4c75996b8fc93b759971)
+![](/img/seedrs/uploads/startup/section_image/image/15107/m27tb8ngmnsdpx85844kmrfbxsa0gty/iBAN_Seedrs_Images_V01_Image01__1_.jpg?rect=0%2C0%2C600%2C651&w=600&fit=clip&s=72baa67af38b4c75996b8fc93b759971)
 
 ### Characteristics of target market
 
 Banking and finance is one of the world's largest industries, accounting for $17 billion in sales in 2016 alone, up from $14.5 billion in 2015.However, traditional banks are losing market share because of their tendency to be expensive, slow, and cumbersome, using outdated technology.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15110/lpioqsg85yx662csevdpdqbgnbbkwko/iBAN_Seedrs_Images_V01_Image09.jpg?rect=0%2C0%2C600%2C190&w=600&fit=clip&s=85b7cf4b574a682a9526f24991320b9a)
+![](/img/seedrs/uploads/startup/section_image/image/15110/lpioqsg85yx662csevdpdqbgnbbkwko/iBAN_Seedrs_Images_V01_Image09.jpg?rect=0%2C0%2C600%2C190&w=600&fit=clip&s=85b7cf4b574a682a9526f24991320b9a)
 
 Acceptance of alternative finance was first demonstrated by the likes of Zopa in the UK 13 years ago, which has since lent more than £3.14bn to UK customers and have an estimated valuation greater than £500m. Zopa is now approaching its launch as a bank.
 
 And the sector will surely only continue to grow. A Morgan Stanley study estimates that the global marketplace for crowdlending will reach $290Bn by 2020, with a CAGR (Compound Annual Growth Rate) of 51% from 2014-2020.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15108/tdppc8zg8935r6b8zgevk0vp3nh2zy0/iBAN_Seedrs_Images_V01_Image07.jpg?rect=0%2C0%2C600%2C190&w=600&fit=clip&s=366432994fd8ce05b3b735703a95a284)
+![](/img/seedrs/uploads/startup/section_image/image/15108/tdppc8zg8935r6b8zgevk0vp3nh2zy0/iBAN_Seedrs_Images_V01_Image07.jpg?rect=0%2C0%2C600%2C190&w=600&fit=clip&s=366432994fd8ce05b3b735703a95a284)
 
 ### Marketing strategy
 
@@ -97,7 +97,7 @@ To reach a critical mass of users, we intend to focus the bulk of our marketing 
 
 We will also use promotional partnerships and social media to promote ourselves via an outbound strategy, growing brand awareness within our target markets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15109/ci82kmufczbturhf0nv9zhqaxud1fie/iBAN_Seedrs_Images_V01_Image08.jpg?rect=0%2C0%2C595%2C190&w=600&fit=clip&s=032a04b2d4312c5707f664e9ac767c50)
+![](/img/seedrs/uploads/startup/section_image/image/15109/ci82kmufczbturhf0nv9zhqaxud1fie/iBAN_Seedrs_Images_V01_Image08.jpg?rect=0%2C0%2C595%2C190&w=600&fit=clip&s=032a04b2d4312c5707f664e9ac767c50)
 
 ### Competition strategy
 

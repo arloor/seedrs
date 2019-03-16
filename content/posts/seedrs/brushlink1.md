@@ -107,7 +107,7 @@ Served available market - 480 million smartphone users in Western Europe, UK and
 
 Target Market - 39 million users who use their smartphones in the bathroom in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12900/pow36aadrm38v7vx5cwcrd3kuzmr7dy/New_market__1___1_.png?rect=0%2C0%2C640%2C494&w=600&fit=clip&s=d818af70e4f7f07c1c0dcfd6a8f5be30)
+![](/img/seedrs/uploads/startup/section_image/image/12900/pow36aadrm38v7vx5cwcrd3kuzmr7dy/New_market__1___1_.png?rect=0%2C0%2C640%2C494&w=600&fit=clip&s=d818af70e4f7f07c1c0dcfd6a8f5be30)
 
 ### Marketing strategy
 
@@ -121,7 +121,7 @@ We will use dental networks and a reputable marketing firm with experience in he
 
 We plan to leverage PR to generate news coverage and position Brushlink as the pioneer/market leader in this exciting new space. Finally, we intend to help educate the consumer about the broad health impacts available through oral hygiene.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12902/b51opfhd9l609nyodl97jra0jjne7ou/IMAGE_11.png?rect=0%2C125%2C2560%2C1348&w=600&fit=clip&s=2a7a474da03668e4ec61258d5871b629)
+![](/img/seedrs/uploads/startup/section_image/image/12902/b51opfhd9l609nyodl97jra0jjne7ou/IMAGE_11.png?rect=0%2C125%2C2560%2C1348&w=600&fit=clip&s=2a7a474da03668e4ec61258d5871b629)
 
 ### Competition strategy
 

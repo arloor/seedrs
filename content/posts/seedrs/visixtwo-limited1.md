@@ -99,7 +99,7 @@ The end-user and potential audience is a typical messaging app and smartphone us
 
 The client of Visixtwo is a business or the agency of a business, which targets an affinity group or team, such as sports clubs or an FMCG product.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5382/qj37ctksw0ye0gxt351drobsr0pahkt/Infographic_page_6.png?rect=0%2C0%2C1946%2C1027&w=600&fit=clip&s=bc99440cdc337f619c751667d93c4be5)
+![](/img/seedrs/uploads/startup/section_image/image/5382/qj37ctksw0ye0gxt351drobsr0pahkt/Infographic_page_6.png?rect=0%2C0%2C1946%2C1027&w=600&fit=clip&s=bc99440cdc337f619c751667d93c4be5)
 
 ### Characteristics of target market
 

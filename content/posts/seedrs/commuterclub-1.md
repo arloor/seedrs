@@ -87,7 +87,7 @@ CommuterClub’s immediate target market is Weekly and Monthly users who already
 
 CommuterClub’s platform works with any smartcard ticketing infrastructure (e.g. contactless, NFC) and the company is in discussions to expand its offering across the South East to include longer commutes where tickets can cost as much as £5,000 as well as other urban areas in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3252/ax719m0j53wwguip33m6s68v7xtgcm2/4.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=91093c7285e1b2694923e1d156a417c7)
+![](/img/seedrs/uploads/startup/section_image/image/3252/ax719m0j53wwguip33m6s68v7xtgcm2/4.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=91093c7285e1b2694923e1d156a417c7)
 
 ### Characteristics of target market
 

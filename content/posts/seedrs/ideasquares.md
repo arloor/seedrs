@@ -109,7 +109,7 @@ Due to the social nature of the platform and the nature of the majority of the c
 
 - Referrals to IdeaSquares via affiliate partners.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1202/h1qyyxqay0dr155ebyc4qsckj68jyrd/Twitter_feedback.jpg?w=600&fit=clip&s=a286ca97236f955e97201f0713792adf)
+![](/img/seedrs/uploads/startup/section_image/image/1202/h1qyyxqay0dr155ebyc4qsckj68jyrd/Twitter_feedback.jpg?w=600&fit=clip&s=a286ca97236f955e97201f0713792adf)
 
 ### Competition strategy
 
@@ -119,5 +119,5 @@ One main competitor in the USA, which develops landing pages for people to acqui
 
 It is recognised that new competitors will emerge that provide early stage idea validation, however IdeaSquares will prevail by constantly increasing value and building a strong network of support from it's users. IdeaSquares has potential for high, fast growth and beyond this iteration and improvement period (6 months) a much larger round will be sought to reach the market more quickly.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1203/t0rmpb54t8nugy4qxe7v5vbu1sjx7yz/Pens_and_mugs.jpg?w=600&fit=clip&s=537ec018d7e44b0db8c5e1e43564cd2b)
+![](/img/seedrs/uploads/startup/section_image/image/1203/t0rmpb54t8nugy4qxe7v5vbu1sjx7yz/Pens_and_mugs.jpg?w=600&fit=clip&s=537ec018d7e44b0db8c5e1e43564cd2b)
 

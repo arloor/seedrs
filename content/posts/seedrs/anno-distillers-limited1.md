@@ -75,7 +75,7 @@ Please note that the Company has directors' loans of £266,100 outstanding. The 
 
 The target market for Anno is the successful 25-50 age group who are attracted to quality and uniqueness in the lifestyle choices they make. They are highly social both at home and in bars and restaurants. Importantly, they are extremely brand conscious and are becoming more and more aware of craft brands and the point of difference to commercial brands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13794/go0zvqmt1enmwwep1rp7iac8tnw079n/fig_8_-_bar_scene_with_face.png?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=e5e0a8331158e13ff38e81e5981efb8e)
+![](/img/seedrs/uploads/startup/section_image/image/13794/go0zvqmt1enmwwep1rp7iac8tnw079n/fig_8_-_bar_scene_with_face.png?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=e5e0a8331158e13ff38e81e5981efb8e)
 
 Sale to target consumers is either direct or indirect.
 
@@ -83,7 +83,7 @@ Direct sales offer the highest margin and involve retailing from the distillery,
 
 However indirect sales, from the distillery to other businesses, account for the majority of revenue and we see this as offering the greatest potential for future growth. We have a network of distributors, wholesalers, on- and off-trade retailers and online retailers and will focus on developing sales with these and on developing new relationships. <br>Key to significant growth will be development of international sales guided by appointment at Anno Board level.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13795/mzowrw872ubtjcs795f9uh1m3iz967p/fig_6_replacement_-_botanicals.png?rect=0%2C0%2C585%2C585&w=600&fit=clip&s=b92cb65f72557a93274d4ac0e3897d8c)
+![](/img/seedrs/uploads/startup/section_image/image/13795/mzowrw872ubtjcs795f9uh1m3iz967p/fig_6_replacement_-_botanicals.png?rect=0%2C0%2C585%2C585&w=600&fit=clip&s=b92cb65f72557a93274d4ac0e3897d8c)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ UK drinking habits have dramatically changed in the last five years with the pre
 
 In the crowded UK gin market, we believe it has been a very successful marketing strategy for Anno to position itself as a luxury British product, full of refinement and technical precision. This not only serves to create a point of difference over other brands but also plays to the founder’s strengths as studious craftsmen.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13796/emgpdzacptifkrnglmhp8ndgnm512px/fig_9_-_Bar_scene_close_up.png?rect=0%2C0%2C600%2C361&w=600&fit=clip&s=7d8edaad12e70e97cee1428567a526a3)
+![](/img/seedrs/uploads/startup/section_image/image/13796/emgpdzacptifkrnglmhp8ndgnm512px/fig_9_-_Bar_scene_close_up.png?rect=0%2C0%2C600%2C361&w=600&fit=clip&s=7d8edaad12e70e97cee1428567a526a3)
 
 We will to continue to employ this approach but with enhanced vigor post successful funding: <br>• Invest in key sales and marketing staff to increase the number of stockists, distributors and national retailers. <br>• Generate additional brand awareness through more trade and consumer shows, PR, social media, and print. <br>• Maximise sales and brand awareness through the recently updated e-commerce web-site and distillery tours. <br>• One market sector that has not been pursued to date is export. We believe that there remains huge potential and we intend to exhibit at two important international trade shows in 2018 to meet possible stockists and distributors. In 2019, we intend to expand this to four trade shows.
 
@@ -107,5 +107,5 @@ What makes Anno spirits so much better than other craft gins and vodkas? Believi
 
 By positioning the distillery in the Garden of England they draw on the wide array of luscious botanicals on their doorstep including samphire, hops and exotic florals, crafting a super-smooth gin that has an utterly unique and complex flavor. Spending time with their 300-litre pot still, affectionately known as “Patience”, they experiment with a plethora of earthy and floral, fragrant notes, producing exciting new flavours. It is this handcrafted approach that has created a new British luxury classic, the beautifully presented Anno Kent Dry Gin.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13797/f46hm1snubme1l9k3ep54euonn80tns/fig_4_-_Patience_collage.png?rect=0%2C0%2C600%2C471&w=600&fit=clip&s=c0c39b2c7a2921e74602186568760cfd)
+![](/img/seedrs/uploads/startup/section_image/image/13797/f46hm1snubme1l9k3ep54euonn80tns/fig_4_-_Patience_collage.png?rect=0%2C0%2C600%2C471&w=600&fit=clip&s=c0c39b2c7a2921e74602186568760cfd)
 

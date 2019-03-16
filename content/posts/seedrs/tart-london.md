@@ -99,7 +99,7 @@ With three years of trade under our belts, we understand our target audience and
 
 ► Lastly, we've observed that our tertiary customer is the 'Coffee Fan'. They seem to be largely takeaway customers and are looking for consistently high standards of gourmet coffee / coffee preparation.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14609/kfmx0hudn3es7ku3pn9ph0yzovzs24f/ED_Conservatory_ED.jpg?rect=0%2C0%2C2700%2C1800&w=600&fit=clip&s=db1a6c9c8b81bf99e45eca161d20d1e5)
+![](/img/seedrs/uploads/startup/section_image/image/14609/kfmx0hudn3es7ku3pn9ph0yzovzs24f/ED_Conservatory_ED.jpg?rect=0%2C0%2C2700%2C1800&w=600&fit=clip&s=db1a6c9c8b81bf99e45eca161d20d1e5)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ The pastries and quiche sector in the UK grew from £655m in 2007 to £1bn in 20
 
 While the perception of the quiche is one of an unhealthy dish, we believe it also represents an opportunity to showcase our healthier and more-nourishing alternative based on high-quality ingredients and artisan baking techniques.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14610/lwc5si165slgh8bkt9b28yn8nonvjch/Tart_Product1.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=c232ed5d874f05aea4ef6d5388e2deee)
+![](/img/seedrs/uploads/startup/section_image/image/14610/lwc5si165slgh8bkt9b28yn8nonvjch/Tart_Product1.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=c232ed5d874f05aea4ef6d5388e2deee)
 
 Additionally, the sales context for our tarts is one of an upmarket bakery &amp; coffee shop, with the flexibility of sit-down or grab-and-go sales. Hence, the key market drivers on which Tart aims to capitalise are as follows:
 
@@ -117,7 +117,7 @@ Additionally, the sales context for our tarts is one of an upmarket bakery &amp;
 
 ◆ The rise of singularly-focused food businesses, e.g. burger joints, burrito bars and wrap chains.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14611/1xrh2fxovt1wtz8fb8w0vnb2bsd3w90/ED_Shop_Front.JPG?rect=324%2C0%2C2611%2C2448&w=600&fit=clip&s=a8b6d8e9e12389d4e930fa90279e6d3c)
+![](/img/seedrs/uploads/startup/section_image/image/14611/1xrh2fxovt1wtz8fb8w0vnb2bsd3w90/ED_Shop_Front.JPG?rect=324%2C0%2C2611%2C2448&w=600&fit=clip&s=a8b6d8e9e12389d4e930fa90279e6d3c)
 
 ### Marketing strategy
 
@@ -129,7 +129,7 @@ Additionally, the sales context for our tarts is one of an upmarket bakery &amp;
 
 2) New customer acquisition: resulting from brand awareness activity, plus local offers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14612/1qlrvw2xs4hkluao5oxqo41x7cakw0x/Royale_Brunch.jpg?rect=0%2C0%2C6000%2C4000&w=600&fit=clip&s=deb5ebe646b5ab9fd38f2835e54cc7c3)
+![](/img/seedrs/uploads/startup/section_image/image/14612/1qlrvw2xs4hkluao5oxqo41x7cakw0x/Royale_Brunch.jpg?rect=0%2C0%2C6000%2C4000&w=600&fit=clip&s=deb5ebe646b5ab9fd38f2835e54cc7c3)
 
 ### Competition strategy
 
@@ -141,5 +141,5 @@ Our long-term vision is to be the leading retailer of tarts in the UK. As our re
 
 ► Favourable market trends: we think the trends in the market are playing in our favour: the popularity of home-baking, preference for independent retailers plus healthier eating. Overall, we believe it is our inventive menu, smart stores and top ingredients that create our long-term success.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14613/gprfiqi3c2taq655vw4mwckcdsafley/TeamTart.jpg?rect=0%2C0%2C600%2C475&w=600&fit=clip&s=0732935901f0662cd635ccb2e0eb9634)
+![](/img/seedrs/uploads/startup/section_image/image/14613/gprfiqi3c2taq655vw4mwckcdsafley/TeamTart.jpg?rect=0%2C0%2C600%2C475&w=600&fit=clip&s=0732935901f0662cd635ccb2e0eb9634)
 

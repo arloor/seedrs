@@ -103,7 +103,7 @@ She enjoys playing a part in the creative process, feels the buzz of anticipatio
 
 • Predominantly focused on UK market, but secondary business in the US following the acquisition of competitor Milk &amp; Honey Shoes in 2014.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2969/6bvm50ychzcx0o9k0htdkvm8st8t5a/In-Her-Shoes.jpg?w=600&fit=clip&s=2c871521476c58bbf742aef82c5e4eeb)
+![](/img/seedrs/uploads/startup/section_image/image/2969/6bvm50ychzcx0o9k0htdkvm8st8t5a/In-Her-Shoes.jpg?w=600&fit=clip&s=2c871521476c58bbf742aef82c5e4eeb)
 
 ### Characteristics of target market
 
@@ -119,7 +119,7 @@ Upper Street operates in the global luxury footwear market, specifically online,
 
 • With nearly 5 years of trading, and no known competitors in the UK, Upper Street has a significant head-start in this market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2970/q10iepp9vm6cp744jc02d3r1adpjk26/White-shoes.jpg?w=600&fit=clip&s=dcc1647885a737f395c9d298132954d5)
+![](/img/seedrs/uploads/startup/section_image/image/2970/q10iepp9vm6cp744jc02d3r1adpjk26/White-shoes.jpg?w=600&fit=clip&s=dcc1647885a737f395c9d298132954d5)
 
 ### Marketing strategy
 
@@ -137,7 +137,7 @@ Social Media – Twitter, Facebook and Pinterest have been used to good effect i
 
 eMail Marketing – Sophisticated email marketing campaigns work to convert prospective customers through targeted content and promotions. A more sophisticated programme is planned for 2015, to include an online loyalty scheme.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2971/84099mf2a5zueb8ahtishvcou65p0p0/Catwalk.jpeg?w=600&fit=clip&s=6fa9211d74bab86957c855059df00689)
+![](/img/seedrs/uploads/startup/section_image/image/2971/84099mf2a5zueb8ahtishvcou65p0p0/Catwalk.jpeg?w=600&fit=clip&s=6fa9211d74bab86957c855059df00689)
 
 ### Competition strategy
 
@@ -151,5 +151,5 @@ Entry level ready-to-wear designer shoe brands like Charlotte Olympia and Sophia
 
 Leading high street brands like Kurt Geiger, Dune, Office, Reiss and TopShop offer no customisation, lower levels of service, with mid-quality product quality and price.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2972/1j92ha9ujaue37wsogu5qswevvh0pyh/Shoe-on-side.jpg?w=600&fit=clip&s=19657ed49887356ebf5fae15f03b99d3)
+![](/img/seedrs/uploads/startup/section_image/image/2972/1j92ha9ujaue37wsogu5qswevvh0pyh/Shoe-on-side.jpg?w=600&fit=clip&s=19657ed49887356ebf5fae15f03b99d3)
 

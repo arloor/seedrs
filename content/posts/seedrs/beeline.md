@@ -79,7 +79,7 @@ The funds raised through Seedrs will be used in 3 key areas:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8309/jc2e7fsxzc68lt2bgvzwrtic6z2skjx/Beeline_Photos_Presspack_010_Carrying.jpg?rect=0%2C0%2C5760%2C3840&w=600&fit=clip&s=1d1817bce7b38602b76cc9ce9c69311b)
+![](/img/seedrs/uploads/startup/section_image/image/8309/jc2e7fsxzc68lt2bgvzwrtic6z2skjx/Beeline_Photos_Presspack_010_Carrying.jpg?rect=0%2C0%2C5760%2C3840&w=600&fit=clip&s=1d1817bce7b38602b76cc9ce9c69311b)
 
 ### Target market
 
@@ -93,7 +93,7 @@ Initially, while BeeLine will be available to buy anywhere in the world, we will
 
 As we develop our products we will expand beyond urban cycling into all kinds of cycling, and from there into more activities. We believe that BeeLine navigation will be applicable to a multitude of activities outside of driving, but we don't want to dilute our focus on cycling for now.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8307/fsg5dvo7rrb7pq4y4642yjyov0srohb/Beeline_Photos_Presspack_002_Packshot.jpg?rect=0%2C0%2C3749%2C2499&w=600&fit=clip&s=2118ff877c19ac504ac3f2b832e2eda7)
+![](/img/seedrs/uploads/startup/section_image/image/8307/fsg5dvo7rrb7pq4y4642yjyov0srohb/Beeline_Photos_Presspack_002_Packshot.jpg?rect=0%2C0%2C3749%2C2499&w=600&fit=clip&s=2118ff877c19ac504ac3f2b832e2eda7)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Cycling is growing at an enormous rate and is being pushed hard by government (L
 
 In our opinion this growth is driving a shift towards cycling being a lifestyle choice, not a sport, with more focus on design and affordability.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8306/4zm0hzopo1rbvqskh99i4p7pyzzqywj/Beeline_Photos_Presspack_006_Putting_On_Alternative.jpg?rect=0%2C0%2C5632%2C3755&w=600&fit=clip&s=faf4a1f77777da50ca89bc498ad56bd1)
+![](/img/seedrs/uploads/startup/section_image/image/8306/4zm0hzopo1rbvqskh99i4p7pyzzqywj/Beeline_Photos_Presspack_006_Putting_On_Alternative.jpg?rect=0%2C0%2C5632%2C3755&w=600&fit=clip&s=faf4a1f77777da50ca89bc498ad56bd1)
 
 ### Marketing strategy
 
@@ -135,7 +135,7 @@ As well as BeeLine device sales, we will push for:
 
 - Partnerships: Hardware collaborations with city cycle hire schemes, bike manufacturers, sportswear companies etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8308/lqx18sj2ugcx5um40fynqv5u3f5thfy/Beeline_Photos_Presspack_007_On_Handlebars.jpg?rect=0%2C0%2C5550%2C3700&w=600&fit=clip&s=5b8600ca9cc511414b7a86616049a870)
+![](/img/seedrs/uploads/startup/section_image/image/8308/lqx18sj2ugcx5um40fynqv5u3f5thfy/Beeline_Photos_Presspack_007_On_Handlebars.jpg?rect=0%2C0%2C5550%2C3700&w=600&fit=clip&s=5b8600ca9cc511414b7a86616049a870)
 
 ### Competition strategy
 

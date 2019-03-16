@@ -109,7 +109,7 @@ Charlie &amp; Wolf has 2 main target markets:
 
 • Children who want to help Mum and Dad in the kitchen.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1288/33le0l8lrbt8712vi3e4jfww4borifc/Fact_Bubbles_C_W.png?w=600&fit=clip&s=78542f6f3cc5721dd1bfe7857b936d2a)
+![](/img/seedrs/uploads/startup/section_image/image/1288/33le0l8lrbt8712vi3e4jfww4borifc/Fact_Bubbles_C_W.png?w=600&fit=clip&s=78542f6f3cc5721dd1bfe7857b936d2a)
 
 ### Characteristics of target market
 

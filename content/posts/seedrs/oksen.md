@@ -71,7 +71,7 @@ Our route to market should focus on access to our demographic via wholesale dist
 
 We are considering exploring the luxury hospitality sector with a view to direct supply, potentially offering some level of exclusivity, into up-market hotels and cocktail bars.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12971/gox89yc9c9e9catcj9t13st6aiwjmlb/Market_1_.jpg?rect=0%2C0%2C2448%2C3263&w=600&fit=clip&s=6120120d37513f5068f269a2c8533d6d)
+![](/img/seedrs/uploads/startup/section_image/image/12971/gox89yc9c9e9catcj9t13st6aiwjmlb/Market_1_.jpg?rect=0%2C0%2C2448%2C3263&w=600&fit=clip&s=6120120d37513f5068f269a2c8533d6d)
 
 ### Characteristics of target market
 
@@ -81,7 +81,7 @@ The size of the spirits market in the UK is £5.8bn with a population 66 million
 
 The Premiumisation strategy of lots of brand responds to consumers' desire to "drink less, but drink better". We think this trend is getting stronger in the spirits industries and we feel we are more closely aligned with this market trend.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12972/21kqr1dxhoyp3an1aqi4sutv2yzeu5y/Market_2.jpg?rect=0%2C0%2C1500%2C1000&w=600&fit=clip&s=eef799d12d7145ca389744dc5bda6d00)
+![](/img/seedrs/uploads/startup/section_image/image/12972/21kqr1dxhoyp3an1aqi4sutv2yzeu5y/Market_2.jpg?rect=0%2C0%2C1500%2C1000&w=600&fit=clip&s=eef799d12d7145ca389744dc5bda6d00)
 
 ### Marketing strategy
 
@@ -99,5 +99,5 @@ Being a family business with full control over the entire supply chain we believ
 
 Whiskey, Gin, Tequila and more recently Vodka have until now led the way in the growth of premium spirits. We believe the time is right for ultra-premium spiced rum to take its place, giving connoisseurs around the world the opportunity to relax with an Oksen.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12973/ej4x15qh9x4lzq29muynia0l2on7c3a/Market_3.JPG?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=1e3493aa868bb33ec4bc2773597271c4)
+![](/img/seedrs/uploads/startup/section_image/image/12973/ej4x15qh9x4lzq29muynia0l2on7c3a/Market_3.JPG?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=1e3493aa868bb33ec4bc2773597271c4)
 

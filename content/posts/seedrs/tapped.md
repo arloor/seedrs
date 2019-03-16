@@ -83,7 +83,7 @@ The company currently has an outstanding director's loan of £80,000 (interest f
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11819/3zlh4xqrdlhb8x4sljhr254r73lfi97/Tansy.jpg?rect=0%2C0%2C1280%2C720&w=600&fit=clip&s=5ecf660b850f38d459c779e6e03895e9)
+![](/img/seedrs/uploads/startup/section_image/image/11819/3zlh4xqrdlhb8x4sljhr254r73lfi97/Tansy.jpg?rect=0%2C0%2C1280%2C720&w=600&fit=clip&s=5ecf660b850f38d459c779e6e03895e9)
 
 TAPPED is targeted at people who are interested in health &amp; food. Broadly our target consumer is 25-45 years old, predominantly female (but not solely), who can invest in their health through their food and lifestyle choices.
 
@@ -93,7 +93,7 @@ They care about what they eat and drink and want products which enable them to s
 
 Such consumers also tend to enjoy organic foods so we make sure we use organic birch water.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11820/nlvbnookxcla3xnjadz1rhzbcvupwri/150720_Ethos_6.jpg?rect=0%2C0%2C2048%2C1536&w=600&fit=clip&s=fef0b1d7141c826f01ca077108be9a2a)
+![](/img/seedrs/uploads/startup/section_image/image/11820/nlvbnookxcla3xnjadz1rhzbcvupwri/150720_Ethos_6.jpg?rect=0%2C0%2C2048%2C1536&w=600&fit=clip&s=fef0b1d7141c826f01ca077108be9a2a)
 
 In the longer term, we expect the awareness and appeal of birch water to increase so the customer base should widen. We’ve seen this trend happen before with smoothies and more recently coconut water.
 
@@ -109,7 +109,7 @@ Consumers also appear to be seeking drinks which have some added functionality, 
 
 Birch water similarly meets these needs, being natural, low in sugar, not sweet, refreshing, and having health benefits through naturally occurring vitamins and minerals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11821/l6hv22283dqu0gwde5gzsueem94xhtf/150518_WFM_HSM_pillar_display_polished.jpg?rect=0%2C0%2C1534%2C2003&w=600&fit=clip&s=4c6f69ef87833d11fe51e1bc6816b0de)
+![](/img/seedrs/uploads/startup/section_image/image/11821/l6hv22283dqu0gwde5gzsueem94xhtf/150518_WFM_HSM_pillar_display_polished.jpg?rect=0%2C0%2C1534%2C2003&w=600&fit=clip&s=4c6f69ef87833d11fe51e1bc6816b0de)
 
 ### Marketing strategy
 
@@ -117,11 +117,11 @@ IN-STORE: Since day 1 when we launched in WholeFoodsMarket High St Kensington, t
 
 SAMPLINGS: We believe people need to try birch water and we have undertaken over 300 in-store samplings. We also support events with drinks and sample at selected consumer shows (such as OM Yoga Show and Scandinavian Mid-Summer markets). This May we attended the Balance Festival which is one of the UK's largest celebrations of the thriving fitness scene and wellness movement.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11822/95xik32k5q3u2yq43njwam9srq6z52l/sampling.png?rect=0%2C0%2C854%2C1125&w=600&fit=clip&s=d4be6162a2a30a1668db543609391afa)
+![](/img/seedrs/uploads/startup/section_image/image/11822/95xik32k5q3u2yq43njwam9srq6z52l/sampling.png?rect=0%2C0%2C854%2C1125&w=600&fit=clip&s=d4be6162a2a30a1668db543609391afa)
 
 YOGA BY TAPPED/TAPPED TRAINING <br>We also run our own events, working with up &amp; coming yoga teachers and personal trainers, plus retailers in the healthy food, fitness and clothing sectors (e.g. Sweaty Betty and lululemon).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11823/a4vy63d1znamm1l1r14s82y227ombol/marketing.png?rect=0%2C0%2C1255%2C520&w=600&fit=clip&s=cb1c15b07f8607c21ba439b8967624fe)
+![](/img/seedrs/uploads/startup/section_image/image/11823/a4vy63d1znamm1l1r14s82y227ombol/marketing.png?rect=0%2C0%2C1255%2C520&w=600&fit=clip&s=cb1c15b07f8607c21ba439b8967624fe)
 
 SOCIAL MEDIA: We tell people what we’re up to, sharing information about the tree tapping process and traditions, including using short video clips from the birch forest. Birch water is intriguingly different, so we need to make sure TAPPED is interesting and can delight and engage its followers.
 
@@ -139,5 +139,5 @@ Within the birch space we believe we have the best tasting products and have cre
 
 Our range of 3 products widens appeal. Our Pure Organic appeals to consumers who want the pure experience of organic birch water straight from the tree. Our 2 flavoured products extend the appeal to those who want a solid dose of flavour from a clean refreshing and hydrating drink, but who don’t want the sugar or calories or that cloying sensation on the teeth. We believe this makes our flavoured products somewhat unique in the UK market: we’ve struggled to find any other fully flavoured products which are made with natural ingredients and not with sugar and/or artificial sweeteners. We think there’s a real opportunity to develop this market further with more flavours, especially for the lunch/with food market, as well as general on the go consumption.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11824/9ue0dsdk0l1ti9yg2zf9bp8n2wp2k1t/TA_PPED_Photo_Forest_Snow_Dark_MASTER.jpg?rect=0%2C0%2C3744%2C5616&w=600&fit=clip&s=c8678d3e746d2a24607274edda2aa5e7)
+![](/img/seedrs/uploads/startup/section_image/image/11824/9ue0dsdk0l1ti9yg2zf9bp8n2wp2k1t/TA_PPED_Photo_Forest_Snow_Dark_MASTER.jpg?rect=0%2C0%2C3744%2C5616&w=600&fit=clip&s=c8678d3e746d2a24607274edda2aa5e7)
 

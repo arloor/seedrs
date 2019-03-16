@@ -97,7 +97,7 @@ Our other sales channel is the consumer market. We believe that the customers fr
 
 *Based on unaudited management accounts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14312/kjxz15mhz84g6umpknchlbvx0ijz801/Copy_of_NI_top.jpg?rect=0%2C219%2C1501%2C1102&w=600&fit=clip&s=51a26ca93f200f0734ef0d30c8147d78)
+![](/img/seedrs/uploads/startup/section_image/image/14312/kjxz15mhz84g6umpknchlbvx0ijz801/Copy_of_NI_top.jpg?rect=0%2C219%2C1501%2C1102&w=600&fit=clip&s=51a26ca93f200f0734ef0d30c8147d78)
 
 ### Characteristics of target market
 
@@ -117,7 +117,7 @@ Our social media should have a bump with more time being devoted to it once we h
 
 Our main marketing strategy will however be direct communication by management with prospective trade clients, pushing the products with national and multi-national retailers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14313/89aynkljj5kw5r14h6sez5qpothrxvv/Copy_of_IMG_5650.JPG?rect=0%2C0%2C3024%2C3024&w=600&fit=clip&s=b6492b646648860965472ad9ab6a48bd)
+![](/img/seedrs/uploads/startup/section_image/image/14313/89aynkljj5kw5r14h6sez5qpothrxvv/Copy_of_IMG_5650.JPG?rect=0%2C0%2C3024%2C3024&w=600&fit=clip&s=b6492b646648860965472ad9ab6a48bd)
 
 ### Competition strategy
 

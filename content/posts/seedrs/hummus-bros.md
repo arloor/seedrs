@@ -71,7 +71,7 @@ The maximum we will seek is £500,000 in which case we will open 4 more branches
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3558/okt3iebcxpwyhhuwo24f18vrm1kylfo/4.jpg?rect=0%2C0%2C822%2C370&w=600&fit=clip&s=42e73f8675e4cf7b5287740b8d1d7c72)
+![](/img/seedrs/uploads/startup/section_image/image/3558/okt3iebcxpwyhhuwo24f18vrm1kylfo/4.jpg?rect=0%2C0%2C822%2C370&w=600&fit=clip&s=42e73f8675e4cf7b5287740b8d1d7c72)
 
 ### Target market
 
@@ -79,7 +79,7 @@ For our restaurants, we have observed that our target market is urban profession
 
 For our corporate popups and corporate deliveries our target market is large companies based in central London predominantly in technology and financial services.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3559/t65w0vs0tb65qar9s1ryn9ldgy4aptt/meeting_0680.jpg?rect=0%2C430%2C2485%2C2252&w=600&fit=clip&s=d650e24bfbe0dcedb12e95b0f7242d98)
+![](/img/seedrs/uploads/startup/section_image/image/3559/t65w0vs0tb65qar9s1ryn9ldgy4aptt/meeting_0680.jpg?rect=0%2C430%2C2485%2C2252&w=600&fit=clip&s=d650e24bfbe0dcedb12e95b0f7242d98)
 
 ### Characteristics of target market
 
@@ -87,7 +87,7 @@ The eating out market in the UK is valued in excess of £82.5bn and growing at 3
 
 Finally another trend has been emerging: flexegetarianism which refers to people looking to reduce the amount of meat they consume.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3531/slzfz3l2z6ln6nxj96b2kj620cxmial/Screen_Shot_2015-04-08_at_14.58.03.png?rect=0%2C177%2C922%2C931&w=600&fit=clip&s=6f3ca8cc4435fbcaa2bb310529c95bbb)
+![](/img/seedrs/uploads/startup/section_image/image/3531/slzfz3l2z6ln6nxj96b2kj620cxmial/Screen_Shot_2015-04-08_at_14.58.03.png?rect=0%2C177%2C922%2C931&w=600&fit=clip&s=6f3ca8cc4435fbcaa2bb310529c95bbb)
 
 ### Marketing strategy
 
@@ -95,7 +95,7 @@ We currently have three channels to bring our products to market: <br>1. High st
 
 We are looking to develop all three as well as explore two other channels which include: <br>1. Supermarket retail products <br>2. Franchising - we have been in talks with two large franchise operators in the UK and abroad.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3530/a3fhur3zcf8nozb3vj195itzfgifink/Screen_Shot_2015-04-08_at_15.04.35.png?rect=0%2C0%2C866%2C703&w=600&fit=clip&s=413ae2367287f64ae2e84b903c313849)
+![](/img/seedrs/uploads/startup/section_image/image/3530/a3fhur3zcf8nozb3vj195itzfgifink/Screen_Shot_2015-04-08_at_15.04.35.png?rect=0%2C0%2C866%2C703&w=600&fit=clip&s=413ae2367287f64ae2e84b903c313849)
 
 ### Competition strategy
 
@@ -105,5 +105,5 @@ We also encourage customers to give us feedback so that we can constantly improv
 
 Examples of innovation over the past 10 years include: <br>- Offering a product that was different from anything served on the high street. <br>- Being one of the first quick service restaurants to offer a pre-ordering app and soon self-checkout tills which allow users to jump the long queue that forms between 12noon and 2pm on a daily basis. <br>- Training our staff to know what all our products contain in order to advise customers who have food intolerances on what they can eat. <br>- Publish the nutritional information regarding all our dishes several years ago. <br>- One of the first businesses in Europe to be on Four Square.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3532/dypko2jmu9adoyk7bmcn2gx1hpxtmxp/Screen_Shot_2015-04-08_at_14.56.57.png?rect=0%2C0%2C823%2C1117&w=600&fit=clip&s=ccfa8bc5122e6bff9a8f5a7ed0850e7e)
+![](/img/seedrs/uploads/startup/section_image/image/3532/dypko2jmu9adoyk7bmcn2gx1hpxtmxp/Screen_Shot_2015-04-08_at_14.56.57.png?rect=0%2C0%2C823%2C1117&w=600&fit=clip&s=ccfa8bc5122e6bff9a8f5a7ed0850e7e)
 

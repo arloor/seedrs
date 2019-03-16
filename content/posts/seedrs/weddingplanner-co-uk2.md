@@ -81,7 +81,7 @@ The UK wedding market is estimated at £10bn per annum and growing. The market c
 
 Weddings are increasingly permeating popular culture as demonstrated by the increased coverage of celebrity weddings via mainstream publications such as OK! and Hello!. The rise in popularity too of wedding focused reality TV shows such as Don't Tell The Bride and Four Weddings firmly entrenches weddings in public consciousness.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10274/8ra43x0eemmzwqom3xf1cn7eqlg0f04/Local_Suppliers.png?rect=0%2C0%2C1024%2C512&w=600&fit=clip&s=7b37988bb175587998067f136bc6bd78)
+![](/img/seedrs/uploads/startup/section_image/image/10274/8ra43x0eemmzwqom3xf1cn7eqlg0f04/Local_Suppliers.png?rect=0%2C0%2C1024%2C512&w=600&fit=clip&s=7b37988bb175587998067f136bc6bd78)
 
 ### Characteristics of target market
 
@@ -91,7 +91,7 @@ According to MoneySavingExpert, the average UK wedding spend (by the wedding cou
 
 We estimate that a typical wedding couple may contract with between 10-20 suppliers across varying categories.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10275/bfaqzdcluj4if4pr3a66uoskuvqwcyu/Tools_Coming_Soon.jpg?rect=0%2C-2%2C538%2C304&w=600&fit=clip&s=e19ef1d684718429d5a1513ca10fef83)
+![](/img/seedrs/uploads/startup/section_image/image/10275/bfaqzdcluj4if4pr3a66uoskuvqwcyu/Tools_Coming_Soon.jpg?rect=0%2C-2%2C538%2C304&w=600&fit=clip&s=e19ef1d684718429d5a1513ca10fef83)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ We also acquire new users through focused Google Adwords campaigns, by building 
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10276/prv4q1axfv8zjomx5f5qcm8dmcimeub/Couple_budgeting_together.jpg?rect=0%2C0%2C1000%2C667&w=600&fit=clip&s=b346fd8e6a39d268cc26cf23ce387a03)
+![](/img/seedrs/uploads/startup/section_image/image/10276/prv4q1axfv8zjomx5f5qcm8dmcimeub/Couple_budgeting_together.jpg?rect=0%2C0%2C1000%2C667&w=600&fit=clip&s=b346fd8e6a39d268cc26cf23ce387a03)
 
 Unique search capability based on price and availability, in addition to the recommendation engine and leading planning tools, differentiates Wedding Planner from traditional wedding directories in our opinion.
 

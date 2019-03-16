@@ -99,13 +99,13 @@ Advance Assurance for SEIS and EIS was applied for on the 27th of June 2018.
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15389/2c0iz33wuda7dsrhm2588fhi5ihv6sp/seedrs_page2_1.png?rect=0%2C0%2C600%2C433&w=600&fit=clip&s=8de72fd1a4daa2e7b81ca7f2e46bb839)
+![](/img/seedrs/uploads/startup/section_image/image/15389/2c0iz33wuda7dsrhm2588fhi5ihv6sp/seedrs_page2_1.png?rect=0%2C0%2C600%2C433&w=600&fit=clip&s=8de72fd1a4daa2e7b81ca7f2e46bb839)
 
 ARION has potential in a wide variety of markets. To ensure focus we initially targeted more dedicated and experienced runners, establishing common touch points through which we can efficiently reach them, e.g. presence at marathon expos, running clubs and in running focused press, media, and distribution channels.
 
 We expect this niche to be the influencers of the running community, thereby creating a gateway to the broader consumer running market. To leverage this opportunity we are introducing a lower price point product, ARION Lite, a more affordable option intended to appeal to this broader segment. To validate this approach, we plan to launch ARION Lite in September 2018. We feel this will create 3 product price points for the various market segments;
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15390/a1o96kys3lakrtwux07popcturp6dik/seedrs_page2_2.png?rect=0%2C0%2C600%2C954&w=600&fit=clip&s=2270d4a0532c82d967021b30f8004791)
+![](/img/seedrs/uploads/startup/section_image/image/15390/a1o96kys3lakrtwux07popcturp6dik/seedrs_page2_2.png?rect=0%2C0%2C600%2C954&w=600&fit=clip&s=2270d4a0532c82d967021b30f8004791)
 
 Geographically, our marketing efforts are currently focused on Europe, especially in the UK and the Netherlands. We aim to grow more internationally through engaging distributors and strategic partners, including US and Asian markets.
 
@@ -123,7 +123,7 @@ Based on our own market research, runners in this group identify technique advic
 
 We see this focus helps us efficiently target marketing and product development efforts. We think runners in this niche are influencers in the broader recreational market, helping us access a larger market as we scale.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15393/qdtfcbo9j9qhbmsvhmuco30u8ft9685/seedrs_page2_3.jpg?rect=6%2C0%2C593%2C913&w=600&fit=clip&s=551dc8852b5e0b69ab3b9b4c882be33a)
+![](/img/seedrs/uploads/startup/section_image/image/15393/qdtfcbo9j9qhbmsvhmuco30u8ft9685/seedrs_page2_3.jpg?rect=6%2C0%2C593%2C913&w=600&fit=clip&s=551dc8852b5e0b69ab3b9b4c882be33a)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ To attract leads at scale we use a push strategy driven by powerful marketing au
 
 4. LOYALTY. <br>We track product usage, provide users with appropriate content, and achieve consistently high customer care ratings. This helps customers remain active, become brand ambassadors and recommend ARION.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15391/ln8vv1wxeiwsx3irj1cbbhbpjs5p1jd/seedrs_page2_4.png?rect=0%2C0%2C600%2C472&w=600&fit=clip&s=c513ff507ea49eaebc0755d535ae6a30)
+![](/img/seedrs/uploads/startup/section_image/image/15391/ln8vv1wxeiwsx3irj1cbbhbpjs5p1jd/seedrs_page2_4.png?rect=0%2C0%2C600%2C472&w=600&fit=clip&s=c513ff507ea49eaebc0755d535ae6a30)
 
 ### Competition strategy
 
@@ -151,7 +151,7 @@ Key differentiators include:.
 
 • 7+ years of research and 7 patents. <br>• Ultra-thin printed electronic insoles so ARION fits in any shoe, under a runner’s own insole. <br>• Real-time feedback and AI coaching engine that helps address *how* you run, guiding technique and adapting training every session. <br>• The freedom to run without your phone and sync data after each session. <br>• Comprehensive, ever-growing database creating a platform for future algorithm, service and product development. <br>• Future proofed, feature-rich hardware, upgradeable remotely, which can be adapted towards multiple applications.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15392/aq1vk62ioqbr97ptyp1nuy9icalhqbs/seedrs_page2_5.png?rect=0%2C0%2C600%2C410&w=600&fit=clip&s=e0bdf028a5cc3e73b7fde63109e10ff7)
+![](/img/seedrs/uploads/startup/section_image/image/15392/aq1vk62ioqbr97ptyp1nuy9icalhqbs/seedrs_page2_5.png?rect=0%2C0%2C600%2C410&w=600&fit=clip&s=e0bdf028a5cc3e73b7fde63109e10ff7)
 
 Please note that any discounts, rewards and/or offers listed by a company in its campaign are subject to the terms and conditions applied by that company and listed above. It is the company’s responsibility to honour such discounts, rewards and/or offers and Seedrs does not take any responsibility for them.
 

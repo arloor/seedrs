@@ -61,7 +61,7 @@ In this frame, building a strong brand equity and ensuring best after-sales serv
 
 Up to 10% unavailability upon demand and 30% annual inventory depreciation; these are some of the difficulties faced by home appliance manufacturers on spares.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16090/74zz6pbvh4g0xpxec2mg79e9nwjekf4/Inventory.jpg?rect=0%2C0%2C1200%2C799&w=600&fit=clip&s=46a157202d2b2edc88888864ea0a90c0)
+![](/img/seedrs/uploads/startup/section_image/image/16090/74zz6pbvh4g0xpxec2mg79e9nwjekf4/Inventory.jpg?rect=0%2C0%2C1200%2C799&w=600&fit=clip&s=46a157202d2b2edc88888864ea0a90c0)
 
 ### Characteristics of target market
 
@@ -69,7 +69,7 @@ We estimate the home appliance 3D printable parts market size to be valued at 45
 
 Assumptions taken: <br>-After-sales services and spare parts revenues represent 7% of home appliance global sales (Electrolux annual report 2009), spare parts are 4% of it, equivalent to 9 B$ annually. <br>-5% of the value of these spare parts is estimated to be suitable for 3D Printing within the coming 3 years, taking into account available 3D printing technologies both in term of cost and technical requirements. This has been demonstrated through analysis of over 100K parts of inventories for several large home appliance manufacturers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16088/qp4wwc5p91g10w4ttqn5m2jxs60rogd/fdm-1.jpg?rect=0%2C0%2C613%2C613&w=600&fit=clip&s=ebd69d0c3823a86fad7f3a6d2328009d)
+![](/img/seedrs/uploads/startup/section_image/image/16088/qp4wwc5p91g10w4ttqn5m2jxs60rogd/fdm-1.jpg?rect=0%2C0%2C613%2C613&w=600&fit=clip&s=ebd69d0c3823a86fad7f3a6d2328009d)
 
 ### Marketing strategy
 
@@ -81,7 +81,7 @@ We have a list of 30 top priority customers with over 400 people targetted. We'v
 
 For each pilot project that we launch, we request our customers to allow us to write about our collaboration in a press release.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16089/onw9cvbff6vzcxok2atchwtouz1lcbm/modern-3d-printer-printing-figure-close-up-macro-automatic-three-dimensional-3d-printer-performs-plastic-pink-and-blue-colors-modeling-in-laboratory-3d-printing-processing-with-white-background_.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=cb49eeb662c7d2c607b41e747be6a62d)
+![](/img/seedrs/uploads/startup/section_image/image/16089/onw9cvbff6vzcxok2atchwtouz1lcbm/modern-3d-printer-printing-figure-close-up-macro-automatic-three-dimensional-3d-printer-performs-plastic-pink-and-blue-colors-modeling-in-laboratory-3d-printing-processing-with-white-background_.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=cb49eeb662c7d2c607b41e747be6a62d)
 
 ### Competition strategy
 

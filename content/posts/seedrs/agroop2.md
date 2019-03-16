@@ -129,7 +129,7 @@ Our marketing strategy is based in the following main channels/activities:
 
 Apart from that, we are continually testing other inbound and outbound channels in order to increase our conversion rate and our revenue.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12191/6c45b67038mkl1y9ybfouvphtm97ii0/Marketing_strategy_image.jpg?rect=0%2C0%2C2130%2C1171&w=600&fit=clip&s=b9117eb13f21f8b532c2f5ca3b797778)
+![](/img/seedrs/uploads/startup/section_image/image/12191/6c45b67038mkl1y9ybfouvphtm97ii0/Marketing_strategy_image.jpg?rect=0%2C0%2C2130%2C1171&w=600&fit=clip&s=b9117eb13f21f8b532c2f5ca3b797778)
 
 ### Competition strategy
 
@@ -151,7 +151,7 @@ Management companies like Isagri (+15.000 users) aren't SaaS model based and the
 
 Another important point is related with the user interface and usability. Our team has a strong background in design and man-machine interface development which allows us to differentiate ourselves in user-friendliness. It's important to understand that we are still working in a conservative market and we believe that having the ability to build something intuitive and simple can be highly differentiating.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12192/bo1kublltovrtywupwl3nrygk8yq44k/Competition_strategy_image.jpg?rect=0%2C0%2C2130%2C1172&w=600&fit=clip&s=fc77e79c6f5e0da01637e0eaa46d343d)
+![](/img/seedrs/uploads/startup/section_image/image/12192/bo1kublltovrtywupwl3nrygk8yq44k/Competition_strategy_image.jpg?rect=0%2C0%2C2130%2C1172&w=600&fit=clip&s=fc77e79c6f5e0da01637e0eaa46d343d)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12194/lfla7otaa8eo1y3wy994owzf7eposgs/End_image.png?rect=0%2C-1%2C2130%2C644&w=600&fit=clip&s=8c3a729663279525ef76f8432b3a6093)
+![](/img/seedrs/uploads/startup/section_image/image/12194/lfla7otaa8eo1y3wy994owzf7eposgs/End_image.png?rect=0%2C-1%2C2130%2C644&w=600&fit=clip&s=8c3a729663279525ef76f8432b3a6093)
 

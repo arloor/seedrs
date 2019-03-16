@@ -73,7 +73,7 @@ Our medium-term goal is to raise £200K angel investment in early 2015, and expa
 
 We target socially active Londoners, aged between 21 and 55, working and/or living within zones 1-3, owners of iOS phones, and with an active Facebook account.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/776/i2wd0qa999opn6l5dqb30bl0t0eir7z/CUSTOMER_JOURNEY_PHOTO.jpg?rect=150%2C50%2C2755%2C2171&w=600&fit=clip&s=45ad01dd761f698f2a0fc6e7ba0c1646)
+![](/img/seedrs/uploads/startup/section_image/image/776/i2wd0qa999opn6l5dqb30bl0t0eir7z/CUSTOMER_JOURNEY_PHOTO.jpg?rect=150%2C50%2C2755%2C2171&w=600&fit=clip&s=45ad01dd761f698f2a0fc6e7ba0c1646)
 
 ### Characteristics of target market
 
@@ -97,7 +97,7 @@ In the real world we are targeting expat communities and postgrad students throu
 
 Our intention is to maintain a low-profile and avoid ‘loud’ messages. The ecosystem we belong to is socially vibrant and can make a brand like ours known to the mass market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/777/pue3omy8afu8b1nl6lmurloe7dq1xlc/MARKETING_FUNNEL_PHOTO.jpg?w=600&fit=clip&s=b8eb327750cb3d6663a243847bb1904a)
+![](/img/seedrs/uploads/startup/section_image/image/777/pue3omy8afu8b1nl6lmurloe7dq1xlc/MARKETING_FUNNEL_PHOTO.jpg?w=600&fit=clip&s=b8eb327750cb3d6663a243847bb1904a)
 
 ### Competition strategy
 
@@ -109,5 +109,5 @@ In London, lovestruck.com enjoys a good presence and has similar users with our 
 
 We anticipate the emergence of competition in our business from new apps, with the same business model as ours. We will defend our position by securing the best bars in town and of course through our solid marketing efforts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/778/6q1rng3puu98j3wi2uohm2m0z6j29q1/COMPETITVE_EDGE_PHOTO.jpg?rect=478%2C0%2C1683%2C1492&w=600&fit=clip&s=8d2f624fc185e1882347fed86c016f6f)
+![](/img/seedrs/uploads/startup/section_image/image/778/6q1rng3puu98j3wi2uohm2m0z6j29q1/COMPETITVE_EDGE_PHOTO.jpg?rect=478%2C0%2C1683%2C1492&w=600&fit=clip&s=8d2f624fc185e1882347fed86c016f6f)
 

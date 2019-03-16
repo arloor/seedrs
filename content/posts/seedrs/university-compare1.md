@@ -79,7 +79,7 @@ Any additional employees will be placed predominately into sale-based roles and 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13951/4ma43hhr0h96cvhd998h1hqbkgsfyzb/target-market-img.jpg?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=102cc1e0de0017ae6b8dc35c72973b81)
+![](/img/seedrs/uploads/startup/section_image/image/13951/4ma43hhr0h96cvhd998h1hqbkgsfyzb/target-market-img.jpg?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=102cc1e0de0017ae6b8dc35c72973b81)
 
 ### Target market
 
@@ -103,7 +103,7 @@ A portion of this market will move into postgraduate study. Students are increas
 
 The management team is strategically placed via existing investors to make this opportunity a smooth transition and also open up a series of revenue streams through the characteristics of this target market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14023/l8mrdwy689j9pme7149k7s4g3b15mdm/image1__6_.jpg?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=ff8aad0012b4cb057bf7c8b03971322d)
+![](/img/seedrs/uploads/startup/section_image/image/14023/l8mrdwy689j9pme7149k7s4g3b15mdm/image1__6_.jpg?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=ff8aad0012b4cb057bf7c8b03971322d)
 
 ### Marketing strategy
 

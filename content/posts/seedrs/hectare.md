@@ -107,7 +107,7 @@ Our platforms enable farmers to trade direct with one another and direct with so
 
 Our target market is over 200,000 farmers in the UK, and potentially millions more overseas, who want to drive efficiency and retain value in the face of globally depressed commodity values. We do this by simplifying markets and cutting out intermediaries who erode value and obscure market signals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8685/9gd4f1wf7pth57zy12yoodnwrbhhc4b/cow.jpg?w=600&fit=clip&s=2be3e8c3c14033e78717fa98caac7ef5)
+![](/img/seedrs/uploads/startup/section_image/image/8685/9gd4f1wf7pth57zy12yoodnwrbhhc4b/cow.jpg?w=600&fit=clip&s=2be3e8c3c14033e78717fa98caac7ef5)
 
 ### Characteristics of target market
 
@@ -119,7 +119,7 @@ Livestock - 150,000 farmers sell 43.6m animals, with a total value of £5bn. <br
 
 All figures are AHDB/DEFRA, latest available.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8686/sbyhoscvkp7ipt5v8kk4343seaivk1c/grain.jpg?w=600&fit=clip&s=4a97091049a4b5a2ee23eacb162b0481)
+![](/img/seedrs/uploads/startup/section_image/image/8686/sbyhoscvkp7ipt5v8kk4343seaivk1c/grain.jpg?w=600&fit=clip&s=4a97091049a4b5a2ee23eacb162b0481)
 
 ### Marketing strategy
 

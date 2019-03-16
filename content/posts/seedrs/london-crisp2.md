@@ -91,7 +91,7 @@ We intend to grow our sales team in order to continue to drive the business forw
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9588/3k0uoe81pn6tje2ugxbe14lk4j7ejb8/boris_005.JPG?rect=0%2C-4%2C4363%2C3376&w=600&fit=clip&s=cc248d1d4dc8237b75e68effc5aa3b2e)
+![](/img/seedrs/uploads/startup/section_image/image/9588/3k0uoe81pn6tje2ugxbe14lk4j7ejb8/boris_005.JPG?rect=0%2C-4%2C4363%2C3376&w=600&fit=clip&s=cc248d1d4dc8237b75e68effc5aa3b2e)
 
 ### Target market
 
@@ -113,7 +113,7 @@ Since our last fundraise, we have significantly grown our product range by addin
 
 We couldn't be launching popcorn at a better time. The popcorn market is currently growing at an astounding 38% YOY. The average UK consumer now consumes nearly 5kg of popcorn every year.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9594/k6grukfcn0ejquzjj3ppp2q8y3whwap/LCCdetail.jpg?rect=0%2C0%2C1400%2C990&w=600&fit=clip&s=2db46f37cb27b0255e9d92197add1c21)
+![](/img/seedrs/uploads/startup/section_image/image/9594/k6grukfcn0ejquzjj3ppp2q8y3whwap/LCCdetail.jpg?rect=0%2C0%2C1400%2C990&w=600&fit=clip&s=2db46f37cb27b0255e9d92197add1c21)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ Since our last fundraise, our routes to market remain the same:
 
 ► 4. Travel Sector: <br>We have developed a 20g single serve bag of crisps, and are developing a small single serve bag of popcorn with which we intend to strongly target the travel sector, in particular airlines.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9589/kx6k1l8pvph7jd7r6t0c2pxmxwct8hl/Airline_pack.png?rect=0%2C0%2C797%2C889&w=600&fit=clip&s=dcf5d4334d3b4c75b114fb88d75f0eb5)
+![](/img/seedrs/uploads/startup/section_image/image/9589/kx6k1l8pvph7jd7r6t0c2pxmxwct8hl/Airline_pack.png?rect=0%2C0%2C797%2C889&w=600&fit=clip&s=dcf5d4334d3b4c75b114fb88d75f0eb5)
 
 ### Competition strategy
 
@@ -149,5 +149,5 @@ Since our last fundraise, our routes to market remain the same:
 
 ◆ We use bold colours and simple iconography to ensure our products have an excellent shelf edge presence.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8190/9qvzr70qd33fmgkjzwin858jh8ccxtx/1896948_1624284897783464_1095950956848272762_n.jpg?rect=0%2C0%2C960%2C540&w=600&fit=clip&s=785ce4636c1c4b7874a5af464630bff5)
+![](/img/seedrs/uploads/startup/section_image/image/8190/9qvzr70qd33fmgkjzwin858jh8ccxtx/1896948_1624284897783464_1095950956848272762_n.jpg?rect=0%2C0%2C960%2C540&w=600&fit=clip&s=785ce4636c1c4b7874a5af464630bff5)
 

@@ -77,7 +77,7 @@ The main purpose of the technology is to be a showroom for the virtual fleet, al
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4826/12t1h1itnygch17945hxwk5uwehu135/3.png?rect=0%2C0%2C1755%2C1170&w=600&fit=clip&s=eb1c3cce62a11e2b3145a8e950da8016)
+![](/img/seedrs/uploads/startup/section_image/image/4826/12t1h1itnygch17945hxwk5uwehu135/3.png?rect=0%2C0%2C1755%2C1170&w=600&fit=clip&s=eb1c3cce62a11e2b3145a8e950da8016)
 
 ### Target market
 
@@ -93,7 +93,7 @@ Members will also join the HiyaCar community to list their vehicles and be part 
 
 *From research carried out, cost of ownership (per hour), based on a £20,000 Audi A5 or BMW 3 series, 2 years old and driven 10,000 miles a year = £26.62 per hour driven!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4832/q2c33mo1ft21xhmjscnoe1b5vlp70io/8.png?rect=0%2C0%2C1757%2C1175&w=600&fit=clip&s=0751cac4b571c26bc66f9e5652766ece)
+![](/img/seedrs/uploads/startup/section_image/image/4832/q2c33mo1ft21xhmjscnoe1b5vlp70io/8.png?rect=0%2C0%2C1757%2C1175&w=600&fit=clip&s=0751cac4b571c26bc66f9e5652766ece)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ Presently there are 32.4 million ‘sharers’ in the UK and 28% of mainstream c
 
 Last year there were 10 million car rental transactions in the UK which is part of a £14 billion industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4834/p2cctjw1y6lz1lbxpg11dh4v701f93h/4.png?rect=0%2C0%2C1735%2C1161&w=600&fit=clip&s=918b50d0a92a7c806945e70c209d1be3)
+![](/img/seedrs/uploads/startup/section_image/image/4834/p2cctjw1y6lz1lbxpg11dh4v701f93h/4.png?rect=0%2C0%2C1735%2C1161&w=600&fit=clip&s=918b50d0a92a7c806945e70c209d1be3)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ An on-site map will show all the territories with a percentage that will indicat
 
 The above will be achieved via working closely with a marketing agency to provide relevant and consumable content, positive and encouraged engagement that will make a deeper connection to loyal fans, paid media / SEM campaigns plus audience and community building.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4831/crz806j61kwdtvoynget438wz7xrgq1/5.png?rect=0%2C0%2C1758%2C1170&w=600&fit=clip&s=734b04c3fb9fe9ddf5b10dc372f57372)
+![](/img/seedrs/uploads/startup/section_image/image/4831/crz806j61kwdtvoynget438wz7xrgq1/5.png?rect=0%2C0%2C1758%2C1170&w=600&fit=clip&s=734b04c3fb9fe9ddf5b10dc372f57372)
 
 ### Competition strategy
 

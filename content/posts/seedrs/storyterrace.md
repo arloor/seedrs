@@ -79,7 +79,7 @@ Our current focus is on the more affluent segment.
 
 According to research 35% of 40+ year old Americans earning over $75K are willing to spend on average $2,288 on a service like ours. That means a $28 billion opportunity amongst 12 million Americans. And if you extrapolate that to other English speaking countries (the UK, Ireland, Australia, New Zealand, Canada and South Africa), the opportunity grows to 17 million users and more than $39 billion.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14766/e4abxz531qxf3srfatwlke9wt0eiclz/7._Your_books_delivered600px.jpg?rect=0%2C0%2C598%2C314&w=600&fit=clip&s=9b6da8f679eb759db1ac2b44ca25d02d)
+![](/img/seedrs/uploads/startup/section_image/image/14766/e4abxz531qxf3srfatwlke9wt0eiclz/7._Your_books_delivered600px.jpg?rect=0%2C0%2C598%2C314&w=600&fit=clip&s=9b6da8f679eb759db1ac2b44ca25d02d)
 
 ### Marketing strategy
 
@@ -89,7 +89,7 @@ Furthermore we will be investing in broadening our marketing mix to include sust
 
 In a later stage we expect to be testing radio, podcasts and potentially TV ads.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14763/lw1pim6wpkfaz588esrojlcza9u6k04/4._Interviews600px.jpg?rect=0%2C0%2C600%2C418&w=600&fit=clip&s=8520a10cb622373e6f4582548898e61a)
+![](/img/seedrs/uploads/startup/section_image/image/14763/lw1pim6wpkfaz588esrojlcza9u6k04/4._Interviews600px.jpg?rect=0%2C0%2C600%2C418&w=600&fit=clip&s=8520a10cb622373e6f4582548898e61a)
 
 ### Competition strategy
 

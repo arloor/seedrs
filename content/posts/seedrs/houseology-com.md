@@ -81,7 +81,7 @@ Funds will be used to:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6398/h6aon42c9kju7ctzorequvh3ywj7jkr/chic-slide.jpg?rect=0%2C0%2C600%2C496&w=600&fit=clip&s=4b2750c729ec76f8713e306e241c6a38)
+![](/img/seedrs/uploads/startup/section_image/image/6398/h6aon42c9kju7ctzorequvh3ywj7jkr/chic-slide.jpg?rect=0%2C0%2C600%2C496&w=600&fit=clip&s=4b2750c729ec76f8713e306e241c6a38)
 
 ### Target market
 
@@ -89,7 +89,7 @@ The market for interior design products and services in the UK alone is huge and
 
 Our proven target market already consists of retail consumers, independent interior designers, architects and developers as well as hotel and leisure clients, global hotel groups and their franchisees.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6410/cb1wq9y7uqnejo6y9vrz8yb17wrzvoa/international-homewares-slide.jpg?rect=0%2C0%2C600%2C694&w=600&fit=clip&s=1103e51fdde2d7a602a549b2d56d4dca)
+![](/img/seedrs/uploads/startup/section_image/image/6410/cb1wq9y7uqnejo6y9vrz8yb17wrzvoa/international-homewares-slide.jpg?rect=0%2C0%2C600%2C694&w=600&fit=clip&s=1103e51fdde2d7a602a549b2d56d4dca)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ Mintel forecast that the online share of this UK market, excluding click and col
 
 The European homewares market is worth £69.3 billion with the UK making up 20% of that figure. <br>The international homewares market is currently worth £201 billion and is forecast to have an increase of 16.3% and a value of £235 billion by 2019. [Marketline 2014]
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6411/mte432hg6qex7ejhhtw2n10w27i0pp5/eu-homewares-slide.jpg?rect=0%2C0%2C600%2C694&w=600&fit=clip&s=38df20927c3dd25085dc67bef3a80ece)
+![](/img/seedrs/uploads/startup/section_image/image/6411/mte432hg6qex7ejhhtw2n10w27i0pp5/eu-homewares-slide.jpg?rect=0%2C0%2C600%2C694&w=600&fit=clip&s=38df20927c3dd25085dc67bef3a80ece)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ While our heritage is firmly rooted in the design and retail world, our future i
 
 Our marketing plans and strategies focus on targeting key channels both on and offline, at home and abroad, working to bring our customers all the advantages and benefits of the Houseology.com platform.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6399/bwz1t1ri3dyoe321sbw0cem5yi0h7hb/Homepage.jpg?rect=0%2C0%2C600%2C405&w=600&fit=clip&s=7d324ebda7c4ad6b555ada8f70224392)
+![](/img/seedrs/uploads/startup/section_image/image/6399/bwz1t1ri3dyoe321sbw0cem5yi0h7hb/Homepage.jpg?rect=0%2C0%2C600%2C405&w=600&fit=clip&s=7d324ebda7c4ad6b555ada8f70224392)
 
 Previous investment has resulted in a highly optimised, responsive website build, making the Houseology.com experience every bit as good on desktop, tablet and mobile. With the breadth of our offer, ease of use and the convenience of the platform, we’ve become our customer’s preferred way of shopping for the home.
 
@@ -121,7 +121,7 @@ Harnessing technology and taking time to get to know and understand our customer
 
 With a 95% customer satisfaction rating on product and service on independent review platform Feefo, we are dedicated to providing the best customer service and experience in the industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6413/7d3vw7pjvktsthnp9083nqfmoinzag9/Device-Table.jpg?rect=0%2C0%2C600%2C405&w=600&fit=clip&s=5b1c3f5e4147b156c36d1e47ecd37e45)
+![](/img/seedrs/uploads/startup/section_image/image/6413/7d3vw7pjvktsthnp9083nqfmoinzag9/Device-Table.jpg?rect=0%2C0%2C600%2C405&w=600&fit=clip&s=5b1c3f5e4147b156c36d1e47ecd37e45)
 
 ### Competition strategy
 
@@ -131,11 +131,11 @@ Our proprietary technology and unique background creates a digital platform that
 
 With this dynamic platform, we’ve become the UK’s largest retailer of key designer brands such as Eichholtz, Andrew Martin, Heathfield &amp; Co and many more. As a professional interior design practice and specifier of similar brands and products to the hotel and leisure industry too, we believe that we have developed a differentiated and defendable model, creating supplier loyalty and a significant barrier to entry for any potential new competitors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6400/mmqups20sdigfyl686q1znepba4zi5z/eichholtz-_498.jpg?rect=0%2C0%2C497%2C389&w=600&fit=clip&s=be9713384789ccc9ea8df0b7f21da951)
+![](/img/seedrs/uploads/startup/section_image/image/6400/mmqups20sdigfyl686q1znepba4zi5z/eichholtz-_498.jpg?rect=0%2C0%2C497%2C389&w=600&fit=clip&s=be9713384789ccc9ea8df0b7f21da951)
 
 Our customer centric approach, our design passion and focus on differentiation in the product and service mix, evolves from our culture of always innovating and never imitating - Houseology is committed to staying fresh, relevant and being the superior option for consumers in this space.
 
 As Net-a-Porter and ASOS are leaders in the online fashion space, we believe that Houseology.com, with its experienced Board, knowledgeable &amp; passionate team and unique design heritage, are better positioned than anyone to own the homewares space online.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6376/qy3hy2d76octt3xv1ijyzi655lnvyc6/houseology_logo_498.jpg?rect=0%2C0%2C497%2C215&w=600&fit=clip&s=de57fca06ef2a064dc3a88796ce8e42e)
+![](/img/seedrs/uploads/startup/section_image/image/6376/qy3hy2d76octt3xv1ijyzi655lnvyc6/houseology_logo_498.jpg?rect=0%2C0%2C497%2C215&w=600&fit=clip&s=de57fca06ef2a064dc3a88796ce8e42e)
 

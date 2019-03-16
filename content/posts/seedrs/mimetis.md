@@ -111,7 +111,7 @@ Subsequently, the amount raised in the campaign would allow for continuing devel
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15784/9v6t9m26mz2cmml2ncr9ie6gfjphq71/Cover_Seedrs_Mimetis_Biomaterials__1_.jpg?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=ccb6787d5d0a607c374632f648099670)
+![](/img/seedrs/uploads/startup/section_image/image/15784/9v6t9m26mz2cmml2ncr9ie6gfjphq71/Cover_Seedrs_Mimetis_Biomaterials__1_.jpg?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=ccb6787d5d0a607c374632f648099670)
 
 Our users are technical buyers, with deep understanding and knowledge of bone regenerative solutions:
 
@@ -127,13 +127,13 @@ The promising results in the dental sector support our vision to introduce a dis
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15786/rzsorw7h96lpx6avgfobfyjrpbph726/MimetikOss_injerto_o_seo_sinte_tico_caja.jpg?rect=5%2C34%2C594%2C552&w=600&fit=clip&s=af9b3ea3da65f8af9fb3cdf9cf199757)
+![](/img/seedrs/uploads/startup/section_image/image/15786/rzsorw7h96lpx6avgfobfyjrpbph726/MimetikOss_injerto_o_seo_sinte_tico_caja.jpg?rect=5%2C34%2C594%2C552&w=600&fit=clip&s=af9b3ea3da65f8af9fb3cdf9cf199757)
 
 Mimetis commercializes its products in Spain through both direct sales and 15 external sales representatives. Our goal is to reach commercial agreements with medical devices distributors in the orthopaedic field (cost-effectiveness of the sales process, access to public calls...). <br>Our go-to-market strategy for patient-specific and standard products is the following: <br>• Lead generation through social media, website, newsletters and conferences. <br>• Technical adoption: using exceptional clinical and objective validation of the products and support from Key Opinion Leaders. <br>• Commercial adoption: price/volume negotiations to make the most of the direct manufacturer-distributor relationship. <br>• Loyalty: Tight follow-up of the customers and maintenance of high-quality standards (Mimetis is ISO 13485 Certified by BSI).
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15785/686lpx1fpv3hph444kbzxbi8wy0de9f/sources_seedrs_2.jpg?rect=0%2C0%2C600%2C471&w=600&fit=clip&s=4106c118741845384c831630bb61df66)
+![](/img/seedrs/uploads/startup/section_image/image/15785/686lpx1fpv3hph444kbzxbi8wy0de9f/sources_seedrs_2.jpg?rect=0%2C0%2C600%2C471&w=600&fit=clip&s=4106c118741845384c831630bb61df66)
 
 As of today, the market is dominated by allografts (human-derived, preferred option in the US) and xenografts (animal-derived, preferred option in the EU). Our company differentiates using a biomimetic technological basis. It seeks to support it with exceptional clinical evidence.
 

@@ -69,7 +69,7 @@ In 2015, the number of smartphones in Africa reached 226 million, and this numbe
 
 Our aim is to deliver integral financial services to an increasingly growing (size and sophistication) base. In order to capitalise on this growth, we are building Zazu to provide the payment ‘rails’ on which a broad range of financial services can be delivered cheaply and conveniently to all. We see comparables as DfID funded MPesa who continue to be the poster child for mobile money around the world. Similarly, Monzo in Europe have demonstrated that a well developed challenger bank with customer centricity at its heart can succeed.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12798/92iy7saaaagpykvysjp54id8rh962lu/Market_1.png?rect=0%2C0%2C1480%2C831&w=600&fit=clip&s=00a96f2eda09e9efe287ab0ae7439241)
+![](/img/seedrs/uploads/startup/section_image/image/12798/92iy7saaaagpykvysjp54id8rh962lu/Market_1.png?rect=0%2C0%2C1480%2C831&w=600&fit=clip&s=00a96f2eda09e9efe287ab0ae7439241)
 
 ### Characteristics of target market
 
@@ -77,7 +77,7 @@ The value of mobile money transactions in Sub Saharan Africa surged to $656m in 
 
 Banks by nature have products targeting a very large segment, albeit a few products and services can be niche targeting. In wanting to provide a bank account, Zazu is targeting young professionals who: <br>- Yearn for better control of their financial health. <br>- Want easier and improved access to financial management services. <br>- Are keen for a change and to move away from traditional banks. <br>- Who use their phones for everything, news, browsing etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12799/61arum0ivypdrca2hvzo8l6pmcb11ui/Market_2.png?rect=0%2C0%2C674%2C341&w=600&fit=clip&s=43d422fd5f3a97be1d805d51f837a841)
+![](/img/seedrs/uploads/startup/section_image/image/12799/61arum0ivypdrca2hvzo8l6pmcb11ui/Market_2.png?rect=0%2C0%2C674%2C341&w=600&fit=clip&s=43d422fd5f3a97be1d805d51f837a841)
 
 ### Marketing strategy
 
@@ -85,7 +85,7 @@ Zazu seeks to develop a community and as such, in order to cultivate trust and b
 
 We believe that as an early mover to digital banking in Africa, customers will initially try our product out of curiosity and will stay for our customer centricity and simplified proposition. In addition, we have been featured (as Zazu e-commerce) on Bloomberg and Financial Times ‘This is Africa’ portal.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12800/xfeqhjxeqzz1ap4fftrtj8mcklrp5o/Market_3.png?rect=72%2C27%2C645%2C858&w=600&fit=clip&s=f3dbdbf222cabaeac6552d4559a4ff9b)
+![](/img/seedrs/uploads/startup/section_image/image/12800/xfeqhjxeqzz1ap4fftrtj8mcklrp5o/Market_3.png?rect=72%2C27%2C645%2C858&w=600&fit=clip&s=f3dbdbf222cabaeac6552d4559a4ff9b)
 
 Outreach: <br>Social: Early ALPHA users are people who have signed up on our waiting list. As we only have 1500 cards and accounts to give away, these early users have to refer friends if they want to secure their account.
 
@@ -111,5 +111,5 @@ As an early mover into digital banking within Sub Saharan Africa, we have compet
 
 This powerful combination of innovation, obsessing over customers and ethical finance, means Zazu can become a respectable and trusted brand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12801/mlv07g2fp0qz7huudrmssr442uk0sfv/Screen_Shot_2017-09-18_at_09.17.25.png?rect=0%2C0%2C1273%2C849&w=600&fit=clip&s=58e09a2e26ce085db6b10f8c83d8f9ad)
+![](/img/seedrs/uploads/startup/section_image/image/12801/mlv07g2fp0qz7huudrmssr442uk0sfv/Screen_Shot_2017-09-18_at_09.17.25.png?rect=0%2C0%2C1273%2C849&w=600&fit=clip&s=58e09a2e26ce085db6b10f8c83d8f9ad)
 

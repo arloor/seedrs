@@ -95,7 +95,7 @@ Satellite powered terrain status insights can address the needs for terrain stat
 
 Local businesses are the local tourism offices (also known as DMO - Destination Marketing Organizations), promoting local tourism, developing activities, and informing visitors. DeFROST for DMOs is a centralized platform for terrain condition information sharing, including snow cover, avalanche, snow depth data but also any issue logged by the local teams. Information from the field will also feed DeFROST global database becoming a holistic source of information on terrain conditions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16338/41lwqerhjobljgv158xcuytx4bh39oz/product_screenshot_1__1_.png?rect=0%2C117%2C1920%2C962&w=600&fit=clip&s=111904c49dcbcff7a6f3eaf2800eaae9)
+![](/img/seedrs/uploads/startup/section_image/image/16338/41lwqerhjobljgv158xcuytx4bh39oz/product_screenshot_1__1_.png?rect=0%2C117%2C1920%2C962&w=600&fit=clip&s=111904c49dcbcff7a6f3eaf2800eaae9)
 
 ### Characteristics of target market
 

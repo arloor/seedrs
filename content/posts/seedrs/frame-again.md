@@ -79,7 +79,7 @@ We have done polling and found that people in this demographic, across the count
 
 Our frames have also sold particularly well with young families and people with pets!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1654/iabzs01gsp8t7bebzzy4syoa2ffuxcr/Get-Framing.-950x547.jpg?w=600&fit=clip&s=bd1d560735f7e4a9acebbb6b58c9e76a)
+![](/img/seedrs/uploads/startup/section_image/image/1654/iabzs01gsp8t7bebzzy4syoa2ffuxcr/Get-Framing.-950x547.jpg?w=600&fit=clip&s=bd1d560735f7e4a9acebbb6b58c9e76a)
 
 ### Characteristics of target market
 
@@ -87,7 +87,7 @@ Our starting target marketing is young people using Instagram in the UK and our 
 
 Our price point is competitive with other comparative products and we know that our target market like to shop online, particularly in the evenings, particularly using tablets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1658/5kfnkc6slqe46zqifqfwrdjexfxfd8i/FRAME_AGAIN_packaging_boxes_30_Project_image.jpg?rect=132%2C10%2C543%2C483&w=600&fit=clip&s=6058a979ba497014560ca327a35486ec)
+![](/img/seedrs/uploads/startup/section_image/image/1658/5kfnkc6slqe46zqifqfwrdjexfxfd8i/FRAME_AGAIN_packaging_boxes_30_Project_image.jpg?rect=132%2C10%2C543%2C483&w=600&fit=clip&s=6058a979ba497014560ca327a35486ec)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ Achieving scale quickly is a key part of building the value in the company. Our 
 
 5. Social media and direct communications - we have a strong social media presence through Twitter, Facebook, Instagram and Pinterest and we are also building up our direct mail mailing list of customers and future customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1655/qv3nn1jl347ctsmwiq85yae5v7cuhpl/545731813.jpg?w=600&fit=clip&s=4417059f7927c8e612d3bb1f0d133d3a)
+![](/img/seedrs/uploads/startup/section_image/image/1655/qv3nn1jl347ctsmwiq85yae5v7cuhpl/545731813.jpg?w=600&fit=clip&s=4417059f7927c8e612d3bb1f0d133d3a)
 
 ### Competition strategy
 
@@ -121,5 +121,5 @@ We need to stay ahead of our competitors in terms of our marketing, products and
 
 Most of our high street competitors can't offer the service we do. Most of our online competition simply don't speak to our market - they want to sell you family photos on mousemats. Our customers don't use mousemats.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1657/d71zfb8aly5sv0ncjq7q66dy152gwbj/Get-Framing...-950x1427.jpg?rect=0%2C318%2C950%2C975&w=600&fit=clip&s=7f753426dd8bc5ab783815ef7c9c6f8a)
+![](/img/seedrs/uploads/startup/section_image/image/1657/d71zfb8aly5sv0ncjq7q66dy152gwbj/Get-Framing...-950x1427.jpg?rect=0%2C318%2C950%2C975&w=600&fit=clip&s=7f753426dd8bc5ab783815ef7c9c6f8a)
 

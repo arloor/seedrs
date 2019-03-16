@@ -91,7 +91,7 @@ We would love you to join us.
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10737/b8gnuc94qmvxzjqbpw1ytgks7o7rtes/Oppo-Icecream-Whole-Foods-Window-Front-2.jpg?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=f30835c4cd27e05ab1102600d1de93d3)
+![](/img/seedrs/uploads/startup/section_image/image/10737/b8gnuc94qmvxzjqbpw1ytgks7o7rtes/Oppo-Icecream-Whole-Foods-Window-Front-2.jpg?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=f30835c4cd27e05ab1102600d1de93d3)
 
 ### Target market
 
@@ -101,7 +101,7 @@ Oppo appeals to people who don’t want to compromise on taste and quality, and 
 
 Demographically, our core consumer is a 25-50 year old professional urban / family female. She exercises every week. Together with her partner and children she loves ice cream, but worries about the sugar and calories. Oppo looks amazing because it offers the indulgence of luxury ice cream, with less than half the sugar of one of her child’s smoothies.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10738/26ljqjrden5b8mwtj06mwzwx6r7ko9g/Oppo_vs_ice_cream_and_froyo.png?rect=0%2C0%2C866%2C495&w=600&fit=clip&s=15beaaae1126b85e64a8298b0cb44cf7)
+![](/img/seedrs/uploads/startup/section_image/image/10738/26ljqjrden5b8mwtj06mwzwx6r7ko9g/Oppo_vs_ice_cream_and_froyo.png?rect=0%2C0%2C866%2C495&w=600&fit=clip&s=15beaaae1126b85e64a8298b0cb44cf7)
 
 ### Characteristics of target market
 
@@ -109,13 +109,13 @@ The premium category is up 5% in value since October 2013, and is worth £275m. 
 
 But Oppo doesn’t just target existing frozen yoghurt and ice cream consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10740/axxgxnv9mkm593vhegflbp2fiugnkcf/Oppo_marketing.png?rect=0%2C0%2C995%2C630&w=600&fit=clip&s=04e5587096e02f73b5faccaae9fb66b0)
+![](/img/seedrs/uploads/startup/section_image/image/10740/axxgxnv9mkm593vhegflbp2fiugnkcf/Oppo_marketing.png?rect=0%2C0%2C995%2C630&w=600&fit=clip&s=04e5587096e02f73b5faccaae9fb66b0)
 
 We also target more health conscious ‘ice cream avoiders’ – which is why supermarket buyers like Oppo: we grow their category.
 
 Oppo is the best of both worlds. Proper dairy ice cream just without the calories and sugar. Oppo gives retailers a way to reach this growing number of consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10739/5vjws1x6f610altdih5dz0e6eaqz482/Oppo_Bike.png?rect=0%2C0%2C1066%2C441&w=600&fit=clip&s=7eb78d5064477d8c0a39e37484e17390)
+![](/img/seedrs/uploads/startup/section_image/image/10739/5vjws1x6f610altdih5dz0e6eaqz482/Oppo_Bike.png?rect=0%2C0%2C1066%2C441&w=600&fit=clip&s=7eb78d5064477d8c0a39e37484e17390)
 
 ### Marketing strategy
 
@@ -123,13 +123,13 @@ Oppo is the best of both worlds. Proper dairy ice cream just without the calorie
 
 • PR: we have reached an estimated 15.9 million people over the last 7 months via national news features, food and lifestyle consumer print and digital press. Generating press remains a focus. January 2017 begins with #DontTaxHealthy, a piece of research launched to the national press, together with a signed petition to the government to cut VAT on lower sugar food and drink. We see Oppo as leading the charge for healthy indulgence in the UK and in doing so are generating press attention and driving awareness for the brand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10741/izc6tprgeoehrpqugxoh0mobfkb8v7q/Press_Quotes_marketing_strategy_with_border.jpeg?rect=0%2C0%2C600%2C187&w=600&fit=clip&s=ee679d9a1822d9af9b7b44f475404f3d)
+![](/img/seedrs/uploads/startup/section_image/image/10741/izc6tprgeoehrpqugxoh0mobfkb8v7q/Press_Quotes_marketing_strategy_with_border.jpeg?rect=0%2C0%2C600%2C187&w=600&fit=clip&s=ee679d9a1822d9af9b7b44f475404f3d)
 
 • Social media: our following has increased by 4x in a year, with nearly 35,000 fans, health and food bloggers following Oppo on instagram, facebook and twitter. We are now using targeted facebook adverts to reach more shoppers.
 
 • Email marketing: the newsletter has grown by 4.5x in a year to 37,000+ subscribers and is a key channel for distributing our vouchers. We aim for this audience to surpass 100,000 in 2017.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10742/1qqb6rnu43fplrcr5uqyrtrdeum8re6/GoodFood_Event__1_.JPG?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=0306abcee424814e4c27a4f91c78bbf6)
+![](/img/seedrs/uploads/startup/section_image/image/10742/1qqb6rnu43fplrcr5uqyrtrdeum8re6/GoodFood_Event__1_.JPG?rect=0%2C0%2C3840%2C2160&w=600&fit=clip&s=0306abcee424814e4c27a4f91c78bbf6)
 
 2. GIVING CONSUMERS A TASTE OF OPPO AT EVENTS.
 
@@ -141,7 +141,7 @@ Oppo is the best of both worlds. Proper dairy ice cream just without the calorie
 
 • We run promotions across retailers to attract new shoppers, and see an increase in baseline sales after each promotion has ended.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10743/m4am9arntyooiepcxb04vb79tmvmol2/ambassador-photo.jpg?rect=0%2C0%2C2448%2C1605&w=600&fit=clip&s=7e0ce7dda9458b155fa2b22c6e62734a)
+![](/img/seedrs/uploads/startup/section_image/image/10743/m4am9arntyooiepcxb04vb79tmvmol2/ambassador-photo.jpg?rect=0%2C0%2C2448%2C1605&w=600&fit=clip&s=7e0ce7dda9458b155fa2b22c6e62734a)
 
 ### Competition strategy
 
@@ -151,5 +151,5 @@ We have won awards and achieved good distribution. So far we feel that we have h
 
 Our competitors are traditional ice cream companies like Haagan Dazs, frozen yoghurt companies like Yoo Moo, and non-ice cream desserts. We consider ourselves to be a better option all-round, the ultimate un-compromise.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10744/m2yfa07hp77w6m2msdk6esxgx73t2si/oppo_salted_caramel_jan_16_small.jpg?rect=0%2C-4%2C1000%2C751&w=600&fit=clip&s=772beaa4f2c5ab6496b19111c2a4e235)
+![](/img/seedrs/uploads/startup/section_image/image/10744/m2yfa07hp77w6m2msdk6esxgx73t2si/oppo_salted_caramel_jan_16_small.jpg?rect=0%2C-4%2C1000%2C751&w=600&fit=clip&s=772beaa4f2c5ab6496b19111c2a4e235)
 

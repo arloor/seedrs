@@ -61,13 +61,13 @@ The company has a director's loan of £25,000 taken out in March 2018, which acc
 
 Our core target is affluent, well-groomed men who know what it takes to look stylish, and those who aspire to improve their style. Millenials are becoming more image conscious, so we're looking to target this population alongside the over-thirties, many of who have likely grown up knowing about Adee through his television work.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15710/2fbe1fbx6s9lugbhuiz5kagt2l8vius/SKNHEAD_ROUND2_Seedrs_Images_V01_Image03.jpg?rect=0%2C0%2C1251%2C1251&w=600&fit=clip&s=dfba24efcab28234fad9748dcc9aed79)
+![](/img/seedrs/uploads/startup/section_image/image/15710/2fbe1fbx6s9lugbhuiz5kagt2l8vius/SKNHEAD_ROUND2_Seedrs_Images_V01_Image03.jpg?rect=0%2C0%2C1251%2C1251&w=600&fit=clip&s=dfba24efcab28234fad9748dcc9aed79)
 
 ### Characteristics of target market
 
 There is evidence this is a growing market, both here in Europe and in the US. The global male grooming market is worth $21bn and is set to grow at CAGR of 8.4% from 2016-2024. Additionally, the global men's skincare market is set to reach $5bn by 2020, achieving a CAGR of just over 7%. Around 40% of men in the UK now use facial moisturisers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15708/svd28g2h3ae7im7gykjim1nddhhadsi/SKNHEAD_ROUND2_Seedrs_Images_V01_Image08.jpg?rect=1%2C0%2C1251%2C2341&w=600&fit=clip&s=e614b595fce7f7319ed9d5c2efa57f0e)
+![](/img/seedrs/uploads/startup/section_image/image/15708/svd28g2h3ae7im7gykjim1nddhhadsi/SKNHEAD_ROUND2_Seedrs_Images_V01_Image08.jpg?rect=1%2C0%2C1251%2C2341&w=600&fit=clip&s=e614b595fce7f7319ed9d5c2efa57f0e)
 
 ### Marketing strategy
 
@@ -77,7 +77,7 @@ Ordinarily, a new grooming brand would need a sizeable budget to pay influencers
 
 The only other cost for marketing is to attend major haircare events and conferences such as Salon International in October. The plan is to take some of our celebrities along to these events where fans can receive photographs when they buy SKNHEAD products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15709/cgqf2evgglm40kkchw26ksdudpgxptg/SKNHEAD_ROUND2_Seedrs_Images_V01_Image07.jpg?rect=99%2C78%2C1151%2C1063&w=600&fit=clip&s=8f643dbe27f295a1dde689dc822cb568)
+![](/img/seedrs/uploads/startup/section_image/image/15709/cgqf2evgglm40kkchw26ksdudpgxptg/SKNHEAD_ROUND2_Seedrs_Images_V01_Image07.jpg?rect=99%2C78%2C1151%2C1063&w=600&fit=clip&s=8f643dbe27f295a1dde689dc822cb568)
 
 ### Competition strategy
 

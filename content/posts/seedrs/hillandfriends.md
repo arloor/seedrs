@@ -73,7 +73,7 @@ Investing in digital marketing for optimised ROI to accelerate brand awareness a
 
 The Hill and Friends brand has broad appeal amongst its female demographic. Data sourced from Google analytics demonstrates the brands customers are female and diverse in age with a high % of customers aged between 25 and 44 years old, with highest volume of transactions in the 25-35 age group and highest transactional spend coming from the 45-54 age group. 80% of the brands customers are UK based with the next largest market being the USA.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15828/zapou2v0hk0rdmy5nd2ko182eew5z8/E2_HILL_FRIENDS_08_197.jpeg?rect=0%2C0%2C640%2C421&w=600&fit=clip&s=1f6459ccd2c253de6873b05b98881ad0)
+![](/img/seedrs/uploads/startup/section_image/image/15828/zapou2v0hk0rdmy5nd2ko182eew5z8/E2_HILL_FRIENDS_08_197.jpeg?rect=0%2C0%2C640%2C421&w=600&fit=clip&s=1f6459ccd2c253de6873b05b98881ad0)
 
 ### Characteristics of target market
 
@@ -85,7 +85,7 @@ Luxury goods FY2015 Luxury goods saw sales growth of 13.4% with Bags and Accesso
 
 Global personal luxury goods market returns to healthy growth, reaching a fresh high of €262bn in 2017. Europe grew 6% reaching €87 billion of retail sales to regain its place as the top region for luxury sales by value. 85% of luxury growth in 2017 was fuelled by Gen Y and Gen Z (Bain &amp; Company 2017). <br> <br>The UK market - Hill and Friends primary market. 31% of Brits have bought a handbag or manbag in the past 12 months. 59% of women aged 16-24 have bought a bag in the last 12 months, 33% of which preferring to buy a designer bag (Mintel 2016).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15826/lcei97gi0c0du0zhdn3658ln09x0t1v/Hill_and_Friends_Quotes_Customers__1_.jpg?rect=266%2C164%2C2133%2C1986&w=600&fit=clip&s=cb042ac47d45308101a7ee6f7e02505a)
+![](/img/seedrs/uploads/startup/section_image/image/15826/lcei97gi0c0du0zhdn3658ln09x0t1v/Hill_and_Friends_Quotes_Customers__1_.jpg?rect=266%2C164%2C2133%2C1986&w=600&fit=clip&s=cb042ac47d45308101a7ee6f7e02505a)
 
 ### Marketing strategy
 

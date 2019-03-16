@@ -73,7 +73,7 @@ There are 59k pubs in the UK, and 88k premises with a full licence. We believe t
 
 We target pubs nationwide, as due to our innovative model, there is no area of the UK which is easier or cheaper for us to fulfil. We are able to work with all manner of business from pop-up events / small market stalls to large established chains, because we have a simple online user experience, flexible deliveries and crucially no minimum order size.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6582/6cpqp4mwkyi85ze363ju8cbcvyljkdg/marketsize__2_.png?w=600&fit=clip&s=eb03d3c49546de3297c1afe3cc6808a5)
+![](/img/seedrs/uploads/startup/section_image/image/6582/6cpqp4mwkyi85ze363ju8cbcvyljkdg/marketsize__2_.png?w=600&fit=clip&s=eb03d3c49546de3297c1afe3cc6808a5)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ We feel it's obvious for all to see that beer distribution hasn't developed with
 
 Nationwide distributors don't have the setup to be able to handle the relatively small, and regularly changing range of beers from smaller breweries. Whilst regional distributors struggle to offer a wide range of breweries or a varied range of stock.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6583/ki5zjnlxmti4cnjxzem3fo85mml1tva/Brewery_and_Pub_Map_Cluster.png?w=600&fit=clip&s=18d70b661020ce91de70af711d82641c)
+![](/img/seedrs/uploads/startup/section_image/image/6583/ki5zjnlxmti4cnjxzem3fo85mml1tva/Brewery_and_Pub_Map_Cluster.png?w=600&fit=clip&s=18d70b661020ce91de70af711d82641c)
 
 ### Marketing strategy
 
@@ -97,7 +97,7 @@ Further to the sales team, we access pubs through a variety of other means inclu
 
 By having a large nationwide network of breweries, we are also able to easily reach pubs all over the UK, through association, search and referrals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6584/75sczfqprr5ug5yt9nrxewm3d8zd1t3/screenshot.png?w=600&fit=clip&s=02f7f06cbc713e54ec8e3be4d8c93228)
+![](/img/seedrs/uploads/startup/section_image/image/6584/75sczfqprr5ug5yt9nrxewm3d8zd1t3/screenshot.png?w=600&fit=clip&s=02f7f06cbc713e54ec8e3be4d8c93228)
 
 ### Competition strategy
 
@@ -105,5 +105,5 @@ EeBriaTrade is a completely different approach to the beer distribution market, 
 
 Existing distributors are scared about how our approach will change the industry, to the extent that the founder of a small regional distributor even applied to work for us (with the intention of closing his business) as he saw our approach as an important shift in the market, which in the long term would make it very difficult for him to compete. Further to this a national distributor is known to regard us as "potential serious competition". Distributors are seeing what we're doing as a threat to their way of working.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6585/fo8mhkvxbayr4xz0sq9o9mp0h9yetqf/ticks.png?w=600&fit=clip&s=66b11d1eb56bcee106275585542ac8b8)
+![](/img/seedrs/uploads/startup/section_image/image/6585/fo8mhkvxbayr4xz0sq9o9mp0h9yetqf/ticks.png?w=600&fit=clip&s=66b11d1eb56bcee106275585542ac8b8)
 

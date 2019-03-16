@@ -157,7 +157,7 @@ IF YOU INVEST £100,000: <br>– 80% Discount. We’ll send you one each of all 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7357/9uwvc70osegz8bgqdz6zgrd820kvx90/5-_Under_Market_-_above__Target_market_.png?rect=0%2C-2%2C600%2C448&w=600&fit=clip&s=e7b83f689ecdea14bf5feb70c1c81bf1)
+![](/img/seedrs/uploads/startup/section_image/image/7357/9uwvc70osegz8bgqdz6zgrd820kvx90/5-_Under_Market_-_above__Target_market_.png?rect=0%2C-2%2C600%2C448&w=600&fit=clip&s=e7b83f689ecdea14bf5feb70c1c81bf1)
 
 ### Target market
 
@@ -169,7 +169,7 @@ We surveyed our users to ask which genre of music they listen to primarily on th
 
 There were 21 genres of music to choose from and the results from the 259 people who responded varied from Dance / Electronic music (21%) through Rock (13%), Pop (9%) through to Jazz (5%) and Opera (1%).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7366/31h7czgv461t1swbj00rhg4k4zqfi23/Pie_graphic_fixed.png?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=97a085bb7106f980ba21e6d5ebcc9266)
+![](/img/seedrs/uploads/startup/section_image/image/7366/31h7czgv461t1swbj00rhg4k4zqfi23/Pie_graphic_fixed.png?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=97a085bb7106f980ba21e6d5ebcc9266)
 
 The results show that even when targeting a specific segment of the headphone market, we can expect to pick up music lovers from right across the musical spectrum along the way, broadening our market potential.
 
@@ -179,7 +179,7 @@ According to the IMS Business Report 2015, the Electronic Dance Music (EDM) busi
 
 Analysts at Sandler Research (sandlerresearch.org) forecast the Global Headphone market will grow at a compound annual growth rate of 12.70% from 2014-2019.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7356/2lr00wjfo7bnkpr2mde7k9qitgmjuyx/Worldwide_Headphones_Market_By_Region_4.png?rect=-3%2C0%2C600%2C832&w=600&fit=clip&s=611cd7fa53bfd7ac6750f78544ef07df)
+![](/img/seedrs/uploads/startup/section_image/image/7356/2lr00wjfo7bnkpr2mde7k9qitgmjuyx/Worldwide_Headphones_Market_By_Region_4.png?rect=-3%2C0%2C600%2C832&w=600&fit=clip&s=611cd7fa53bfd7ac6750f78544ef07df)
 
 What we are very confident of is that both the market for Headphones and the market for Dance Music are both huge, and both growing.
 
@@ -205,7 +205,7 @@ Each distribution partner will have their own ideas on what marketing we need to
 
 ◆ We only make headphones that we LOVE and use ourselves;
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7386/fqs3wb86kuzs24rchss2ii9cfa8bd6h/PUMP_Zeus.png?rect=0%2C0%2C604%2C228&w=600&fit=clip&s=e2728c01ce5441c7659bca895e301b83)
+![](/img/seedrs/uploads/startup/section_image/image/7386/fqs3wb86kuzs24rchss2ii9cfa8bd6h/PUMP_Zeus.png?rect=0%2C0%2C604%2C228&w=600&fit=clip&s=e2728c01ce5441c7659bca895e301b83)
 
 ◆ We try to always do things differently; <br>◆ We try to be better than the competition in EVERY way from a customers standpoint; <br>◆ We continually improve; <br>◆ We listen to our Friends (customers); <br>◆ We make sure that EVERY Customer walks away from every contact with us with a *good feeling*.
 

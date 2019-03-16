@@ -137,7 +137,7 @@ Our target categories include, but are not limited to:
 
 95% of UK businesses are classified as micro-businesses - while most will not be candidate guests, many will.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4134/gloa8wyv5uyeiq0363ni6x41wbq5hn4/IMG_4965.jpg?rect=0%2C0%2C3456%2C2304&w=600&fit=clip&s=e8b6d8e1d32dc9c35abdf7626c71621a)
+![](/img/seedrs/uploads/startup/section_image/image/4134/gloa8wyv5uyeiq0363ni6x41wbq5hn4/IMG_4965.jpg?rect=0%2C0%2C3456%2C2304&w=600&fit=clip&s=e8b6d8e1d32dc9c35abdf7626c71621a)
 
 ### Characteristics of target market
 
@@ -171,7 +171,7 @@ Testimonials:
 
 We have strong testimonials from existing users verifying how Vrumi has positively impacted their working life.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4121/k6itty1zt3d6mcf6chi08p3teszxpxh/_MG_1039__1_.jpg?rect=0%2C0%2C3444%2C2304&w=600&fit=clip&s=b61fea02f40117e1b7b159295252110f)
+![](/img/seedrs/uploads/startup/section_image/image/4121/k6itty1zt3d6mcf6chi08p3teszxpxh/_MG_1039__1_.jpg?rect=0%2C0%2C3444%2C2304&w=600&fit=clip&s=b61fea02f40117e1b7b159295252110f)
 
 ### Competition strategy
 

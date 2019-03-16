@@ -81,11 +81,11 @@ Over 10 billion pounds are spent annually on car rental in Europe alone, and thi
 
 Nevertheless, traditional car rental can be inconvenient and frustrating. To pick up a vehicle, renters need to travel to a centralized lot, likely far from their home or work, and these same offices are usually closed on Sundays and after 6pm on weekdays, when most people want to pick up a vehicle. In our experience, even when they do make it to the office, renters never know what specific vehicle they will receive, and regularly have to contend with long rental lines and last minute fees.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11211/r54gkn1liittixebaeuj0o9oncu025j/traditional_car_rental_experience.png?rect=0%2C0%2C600%2C347&w=600&fit=clip&s=30656cd265e5d64c3c8420d1822a01f3)
+![](/img/seedrs/uploads/startup/section_image/image/11211/r54gkn1liittixebaeuj0o9oncu025j/traditional_car_rental_experience.png?rect=0%2C0%2C600%2C347&w=600&fit=clip&s=30656cd265e5d64c3c8420d1822a01f3)
 
 RideLink addresses this market by allowing the vehicles already idle and available throughout cities to be rented to fulfill this demand. We believe that by letting car owners share the car they already own, this market can be disrupted in a similar way to how AirBnb has used peer-to-peer sharing to enter the hotel industry, or indeed, how Uber has disrupted the traditional taxi model. Much has been written on the ability of sharing-economy models to disrupt traditionally asset-heavy businesses, and we think car rental will be next.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11191/4w1xzcd3bgijgexe86h0ym6vxuyjlss/owners_collage_photoshop_seedrs_LP.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=babc2749978c013f3d912a325dcc06dd)
+![](/img/seedrs/uploads/startup/section_image/image/11191/4w1xzcd3bgijgexe86h0ym6vxuyjlss/owners_collage_photoshop_seedrs_LP.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=babc2749978c013f3d912a325dcc06dd)
 
 With respect to geographic markets, though the UK is our primary market, we believe any successful mobility player has to be multinational, and so we have planned to expand efficiently since Day 1. We already operate in 3 countries using a lean, shared infrastructure, and are well positioned to expand to additional countries quickly, and at low cost.
 
@@ -101,7 +101,7 @@ Next, our focus on rentals longer than a day ensures that we are targeting the h
 
 Lastly, in our view these rentals are also the best trade off between vehicle owner time and earning potential. We think this is one of the reasons we see very low attrition of our fleet, with organic growth of vehicles outpacing attrition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11212/24oycb4blfk25pxt86ixjly46x2l1ua/Key_exchange_RideLink.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=5b5e98e13542f0aca7fec7ecf5fff407)
+![](/img/seedrs/uploads/startup/section_image/image/11212/24oycb4blfk25pxt86ixjly46x2l1ua/Key_exchange_RideLink.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=5b5e98e13542f0aca7fec7ecf5fff407)
 
 ### Marketing strategy
 
@@ -115,11 +115,11 @@ Because, as our research suggests, no peer-to-peer car sharing player globally h
 
 With that in mind, we believe that we're fortunate to have substantial advantages over both traditional car rental, as well as traditional car sharing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11192/ij32ejfg3ggk6h37vqbf61gjl9est36/YourMoney_quote.png?rect=0%2C0%2C600%2C200&w=600&fit=clip&s=f6b7524007b5691becab3c54b21bce16)
+![](/img/seedrs/uploads/startup/section_image/image/11192/ij32ejfg3ggk6h37vqbf61gjl9est36/YourMoney_quote.png?rect=0%2C0%2C600%2C200&w=600&fit=clip&s=f6b7524007b5691becab3c54b21bce16)
 
 When compared to car rental, in our view the key advantages of our offering include: <br>- No fixed hours. Renters are free to pick up after work, or return Sundays, or whenever is mutually convenient. <br>- Less traveling to find a vehicle. With thousands of vehicles throughout cities, we can have vehicles much closer than even the largest rental car companies, who are limited by the number of rental lots. Many of our owners even offer delivery! <br>- Better selection. By pulling from the set of cars real people actually buy, instead of needing to buy large numbers of standardised fleet vehicles, we offer a greater diversity and range of makes and models than any rental agency.
 
 When compared to car sharing: <br>- We believe we have a cost advantage, with no need to buy vehicles, maintain a distributed fleet, and arrange parking. All these costs are sunk costs for our owners, and so our fleet is self maintaining in this way. <br>- Better pricing for renters, with no need to monetize by the minute. With the high costs of maintaining their fleet, traditional car sharing services typically require both a monthly or annual subscription fee, as well as charging drivers by the minute or hour. Not so on RideLink: RideLink has no fee to join, and offers simple, daily pricing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11190/ntm2j0us70fmhy31jqp2firwgx0xhww/renters_collage_photoshop_seedrs_LP.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=6867694045ce0fd74ea85f0eb4d94621)
+![](/img/seedrs/uploads/startup/section_image/image/11190/ntm2j0us70fmhy31jqp2firwgx0xhww/renters_collage_photoshop_seedrs_LP.png?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=6867694045ce0fd74ea85f0eb4d94621)
 

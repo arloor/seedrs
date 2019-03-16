@@ -151,7 +151,7 @@ There are 5700 schools teaching secondary education in the UK. We will initially
 
 We also plan to target school associations and academies to see if we can sell our school licences across their networks.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7552/l93hpud5jkzswa9pqcmntc5rmn91qfd/shutterstock_217795726.jpg?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=ebf39356e02a258267199134bf526462)
+![](/img/seedrs/uploads/startup/section_image/image/7552/l93hpud5jkzswa9pqcmntc5rmn91qfd/shutterstock_217795726.jpg?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=ebf39356e02a258267199134bf526462)
 
 ### Characteristics of target market
 
@@ -213,7 +213,7 @@ We plan to build relationships with relevant associations to promote our product
 
 PR <br>We intend to promote news via our PR network of educational journalists.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7551/21hc3fniz4tw8lbtyua7aozzaipb24b/shutterstock_275091224.jpg?rect=0%2C0%2C842%2C595&w=600&fit=clip&s=c2b264851ae3a4a14caeab177cfef3dd)
+![](/img/seedrs/uploads/startup/section_image/image/7551/21hc3fniz4tw8lbtyua7aozzaipb24b/shutterstock_275091224.jpg?rect=0%2C0%2C842%2C595&w=600&fit=clip&s=c2b264851ae3a4a14caeab177cfef3dd)
 
 ### Competition strategy
 
@@ -231,5 +231,5 @@ Our academics come from the Universities of Oxford, London, Exeter and Kent amon
 
 5) Our tutorials are available worldwide - there are significant markets both within the UK but also globally.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7553/1ikimm72w4borep7fmvzkooa7ilh59w/shutterstock_282157565.jpg?rect=0%2C0%2C2930%2C2152&w=600&fit=clip&s=f6d9001ad4323bbdb79cadb707ce5096)
+![](/img/seedrs/uploads/startup/section_image/image/7553/1ikimm72w4borep7fmvzkooa7ilh59w/shutterstock_282157565.jpg?rect=0%2C0%2C2930%2C2152&w=600&fit=clip&s=f6d9001ad4323bbdb79cadb707ce5096)
 

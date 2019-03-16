@@ -139,7 +139,7 @@ We’ll build more awareness of the MILK Beauty brand across London through cont
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6479/e10pyt0bay971gr8hnh80mqn9nkdxrc/LD_Nails.jpg?rect=0%2C0%2C497%2C331&w=600&fit=clip&s=2945772c502ccbc2e6314d6ffa8b782c)
+![](/img/seedrs/uploads/startup/section_image/image/6479/e10pyt0bay971gr8hnh80mqn9nkdxrc/LD_Nails.jpg?rect=0%2C0%2C497%2C331&w=600&fit=clip&s=2945772c502ccbc2e6314d6ffa8b782c)
 
 ### Target market
 
@@ -167,13 +167,13 @@ British women spend more annually on beauty services than dry cleaning or their 
 
 Through our commitment to professional high standards and the very best in client care we’ve won regular corporate accounts. These clients choose MILK Beauty as their in-office beauty service provider.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6508/o06iahcqofl3d4j2dm8m07yd7nbipt0/Corporate_Clients.jpg?rect=0%2C9%2C497%2C363&w=600&fit=clip&s=aa51dc9fb1f23b3dc8dfe138a6b7caa9)
+![](/img/seedrs/uploads/startup/section_image/image/6508/o06iahcqofl3d4j2dm8m07yd7nbipt0/Corporate_Clients.jpg?rect=0%2C9%2C497%2C363&w=600&fit=clip&s=aa51dc9fb1f23b3dc8dfe138a6b7caa9)
 
 3. Event clients
 
 We're seen at the very best events across London. Product launches, press days, retail events and parties are all about creating a sense of theatre and fun. Our pop-up and event services create are a readymade sociable atmosphere for our clients, where we’re removing the organisational hassle.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6480/lnvcama8de7dr73eicp1edaztryajg8/corporate_event.jpg?rect=0%2C0%2C496%2C483&w=600&fit=clip&s=bb4b66bb1f73855f3821c2f5952274cd)
+![](/img/seedrs/uploads/startup/section_image/image/6480/lnvcama8de7dr73eicp1edaztryajg8/corporate_event.jpg?rect=0%2C0%2C496%2C483&w=600&fit=clip&s=bb4b66bb1f73855f3821c2f5952274cd)
 
 ### Characteristics of target market
 
@@ -187,7 +187,7 @@ Beauty is a beast
 
 • High street beauty salons are suffering from online shopping growth. Footfall fell 5.3% y-o-y in February 2013/14 — highlighting a shift in consumer behaviour in favour of ordering online using home delivery services.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6481/3175fto1c6zkxt63kwqgxgf3h7sy464/Christmas_Gift.jpg?rect=1%2C-2%2C496%2C361&w=600&fit=clip&s=637a2a81f069f6dd1fe5bc2ad6ec0537)
+![](/img/seedrs/uploads/startup/section_image/image/6481/3175fto1c6zkxt63kwqgxgf3h7sy464/Christmas_Gift.jpg?rect=1%2C-2%2C496%2C361&w=600&fit=clip&s=637a2a81f069f6dd1fe5bc2ad6ec0537)
 
 ### Marketing strategy
 

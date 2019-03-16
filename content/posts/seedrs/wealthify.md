@@ -73,7 +73,7 @@ Cash - £700bn is held in cash savings accounts in the UK earning tiny interest 
 
 Existing Investors - DIY investors who use an online trading platform, or who hold money in a Stocks and Shares ISA. We expect to persuade a small but increasing share of these customers to shift to Wealthify, driven by recognition that having a trusted third party make the decisions is better than DIY investing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9561/72nbwq8pn0k40tf7cr4c291cs5etzmh/image012.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=09b4c8df499eac0448b7321031390124)
+![](/img/seedrs/uploads/startup/section_image/image/9561/72nbwq8pn0k40tf7cr4c291cs5etzmh/image012.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=09b4c8df499eac0448b7321031390124)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ The concept of Robo-advice originated in the USA about eight years ago when serv
 
 Although Wealthify falls under the Robo-advice heading, it offers its service on a non-advised basis. We make no recommendations to our customers and we do not offer them advice. This means that our business has a lower risk of mis-selling to customers and has lower operating costs, due to not needing to charge for customer-facing advisers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9562/hed5dnug6i9yyxdkx3hkjbmwjr0oxep/image013.jpg?rect=0%2C0%2C600%2C439&w=600&fit=clip&s=3e65a9305f8b8055f96547585527f814)
+![](/img/seedrs/uploads/startup/section_image/image/9562/hed5dnug6i9yyxdkx3hkjbmwjr0oxep/image013.jpg?rect=0%2C0%2C600%2C439&w=600&fit=clip&s=3e65a9305f8b8055f96547585527f814)
 
 ### Marketing strategy
 
@@ -95,7 +95,7 @@ We have already conducted a successful public relations campaign since launch, g
 
 As trust in our brand and awareness of Robo-advice grows amongst consumers, the company will also consider above-the-line marketing strategies, so long as a low average cost of acquisition can be maintained.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9563/qzk88iw330knh9dnyoyjmqhf4z45at/image014.jpg?rect=0%2C0%2C600%2C425&w=600&fit=clip&s=14929b03fda0f3543b85e7f851840547)
+![](/img/seedrs/uploads/startup/section_image/image/9563/qzk88iw330knh9dnyoyjmqhf4z45at/image014.jpg?rect=0%2C0%2C600%2C425&w=600&fit=clip&s=14929b03fda0f3543b85e7f851840547)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ We recognise that trust, reputation and performance will be paramount to our con
 
 Our competition will consist of new entrants and incumbents. We believe that incumbents are not driven to push Robo-advice because it undermines existing revenue streams and they have a wide array of services amongst which their Robo-advice offering gets lost. The key opportunity for Robo-advice is the mass-market, expanding the market for investing. We believe the leader will be a single-purpose brand that establishes itself as the go-to name for British consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9564/64o4hwfd8aasix3xrb5t7ceecsl0ujl/image015.jpg?rect=0%2C0%2C600%2C378&w=600&fit=clip&s=b2f30cbfdf0b6714185b85c3dce4f921)
+![](/img/seedrs/uploads/startup/section_image/image/9564/64o4hwfd8aasix3xrb5t7ceecsl0ujl/image015.jpg?rect=0%2C0%2C600%2C378&w=600&fit=clip&s=b2f30cbfdf0b6714185b85c3dce4f921)
 

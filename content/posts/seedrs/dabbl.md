@@ -93,7 +93,7 @@ Almost two million investment-minded women want to invest, but are often put off
 
 Research has shown that such audiences feel they are alienated by jargon-filled marketing campaigns they assume are designed to appeal to wealthy men.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15092/tg3x0d425zgqp4tl6qf5k98rhcj375s/iPhone_with_shadow__1_.jpg?rect=0%2C-8%2C876%2C702&w=600&fit=clip&s=650646901016bec2fdcb206ce762abae)
+![](/img/seedrs/uploads/startup/section_image/image/15092/tg3x0d425zgqp4tl6qf5k98rhcj375s/iPhone_with_shadow__1_.jpg?rect=0%2C-8%2C876%2C702&w=600&fit=clip&s=650646901016bec2fdcb206ce762abae)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Almost two million investment-minded women want to invest, but are often put off
 
 Yet research has traditionally shown that women aren’t as likely to invest money as men. They are holding funds in cash (and sometimes property), but very few are investing in stocks and shares - despite women being responsible for owning over 45% of the UK’s wealth, only 14% of angel investors in the UK are women.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15091/2zbmtowo3u91pzhb8aoavsoyyojckaq/4__of_millenials_self_invest.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=1e3de9d1b6e9c7444b4ed905be255d45)
+![](/img/seedrs/uploads/startup/section_image/image/15091/2zbmtowo3u91pzhb8aoavsoyyojckaq/4__of_millenials_self_invest.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=1e3de9d1b6e9c7444b4ed905be255d45)
 
 ### Marketing strategy
 
@@ -115,7 +115,7 @@ We will start with growth tactics designed to launch the dabbl brand and capture
 
 Following this, we will use our raised capital to invest significantly into the brand awareness and investment education to grow the market. This includes above the line activity as well as more grass root student activation and community building tactics.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15090/r5bfmvast3aas8n19sxbf7uu96we4vg/app_reviews.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=810d9ea8552f0710f23f2379b94b663f)
+![](/img/seedrs/uploads/startup/section_image/image/15090/r5bfmvast3aas8n19sxbf7uu96we4vg/app_reviews.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=810d9ea8552f0710f23f2379b94b663f)
 
 ### Competition strategy
 
@@ -125,5 +125,5 @@ We see that people are increasingly looking to self advise and self invest as ma
 
 To our knowledge, we are more affordable than all existing stockbrokers and banks, allowing our users to start with small investments and grow. We feel that our user experience is much more intuitive and engaging akin to Uber and Shazam. We intend to grow the self investment market, significantly changing the behaviour of everyday people to take control and manage their investments.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15093/1492c2nko4vzkemdonhsf0q3gwe2vs5/fairshare-revolution.png?rect=0%2C0%2C560%2C315&w=600&fit=clip&s=2082e96e5465b81294848a850235b32c)
+![](/img/seedrs/uploads/startup/section_image/image/15093/1492c2nko4vzkemdonhsf0q3gwe2vs5/fairshare-revolution.png?rect=0%2C0%2C560%2C315&w=600&fit=clip&s=2082e96e5465b81294848a850235b32c)
 

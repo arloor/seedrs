@@ -63,11 +63,11 @@ Having launched in London with growth that surpassed expectations we are raising
 
 Primary target audience of 25-35 year olds in London who are early adopters of the Sharing Economy who either don’t own a car or aspire to use different vehicles for different occasions. Such people who use ZipCar or Uber for shorter journeys and use HiyaCar for day trips or long weekends away. In total, 39% of adults in inner London have a licence and access to a car, whilst 24% have a licence but no car. There are 2.56 million cars registered in London with around 54% of London households owning at least one car. <br> <br>Secondary target audience will be the tourism market, by creating partnerships with airports and other peer-to-peer travel platforms. <br> <br>HiyaCar has identified the below reasons for why the above target audience hire vehicles via the platform. <br> <br>1. Drivers can access a car without the hassle of owning a vehicle. <br>2. Travellers can hire cars appropriate to location while travelling - the right car for the right terrain. <br>3. 24/7 customer support and opening times. <br>4. Join a community and get to know your car owner. <br>5. Contribute to a person rather than a corporate brand. <br>6. Drivers get a luxury driving experience not previously affordable. <br>7. Customers access cars fit for the occasion - a first date, a wedding, a birthday weekend. <br>8. City dwellers, who normally don’t have the space for parking, can drive cars.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7940/jxrtsnmerr61ob6t41txqfwyuhf2i21/shutterstock_168215081__1_.jpg?rect=0%2C0%2C3900%2C2600&w=600&fit=clip&s=7ac49f529d44ea8f6cbb6d92715a9255)
+![](/img/seedrs/uploads/startup/section_image/image/7940/jxrtsnmerr61ob6t41txqfwyuhf2i21/shutterstock_168215081__1_.jpg?rect=0%2C0%2C3900%2C2600&w=600&fit=clip&s=7ac49f529d44ea8f6cbb6d92715a9255)
 
 Members also join the HiyaCar community to list their vehicles and become a part of our virtual fleet. The below reasons highlight a small selection of why people hire out their own vehicle. <br> <br>1. They have purchased a car they cannot quite afford so require the additional income. <br>2. Lets owners hire out their car so it doesn’t just sit on the driveway costing money. <br>3. The dream car just became affordable with the help of added HiyaCar income. <br>4. Lets you give something to the community and join the growing sharing economy. <br>5. Owners meet drivers and make friends, forming new, community-driven relationships. <br>6. Lets owners achieve a lifestyle not previously possible through additional income. <br>7. Members who appreciate the cost of ownership.* <br> <br>*From research carried out, cost of ownership (per hour), based on a £20,000 Audi A5 or BMW 3 series, 2 years old and driven 10,000 miles a year = £26.62 per hour driven!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7955/29z6svhqlhe5lrnh49qqje4wzmhee7y/CarJarMoney_354310835.jpg?rect=0%2C0%2C1000%2C667&w=600&fit=clip&s=6c858e758a4d04b0c235232800cfccc7)
+![](/img/seedrs/uploads/startup/section_image/image/7955/29z6svhqlhe5lrnh49qqje4wzmhee7y/CarJarMoney_354310835.jpg?rect=0%2C0%2C1000%2C667&w=600&fit=clip&s=6c858e758a4d04b0c235232800cfccc7)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ In Q2 we launch our referral programme, designed to generate new Drivers and car
 
 Finally London PR will be used for brand awareness and education. HiyaCar will be working with an expert who specialises in new, disruptive transportation PR.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7941/88cam6tgskck6u82rkse0xqi0a9m999/PRv2.jpg?rect=0%2C0%2C1024%2C768&w=600&fit=clip&s=c759f351ac38849c0c9950ac712f5d9e)
+![](/img/seedrs/uploads/startup/section_image/image/7941/88cam6tgskck6u82rkse0xqi0a9m999/PRv2.jpg?rect=0%2C0%2C1024%2C768&w=600&fit=clip&s=c759f351ac38849c0c9950ac712f5d9e)
 
 ### Competition strategy
 
@@ -91,5 +91,5 @@ We believe we have a product and technology advantage over our competitors. For 
 
 HiyaCar’s goal is to move quickly and extend our current position in London while we continue to pursue ways of integrating different forms of technology to allow for frictionless and instant car ‘hiyas’ between members. We will then look to scale this model nationwide and overseas very quickly. <br> <br>We passed many milestones since seed funding in August 2015, UK peer-to-peer car hire came to market behind the U.S. where insurance policies enabled the proposition sooner. Despite this U.S companies like Turo and Getaround, both of which have been trading for longer than HiyaCar and raised more investment are not significantly ahead. This was identified and seen first hand when CEO Graeme Risby visited San Francisco on a UK trade Investment assisted trip and met up with the founders. He learned of the areas where they used capital inefficiently and benefited from their extended period of learning. HiyaCar intends on being the last peer-to-peer car hire company to market globally, very much like Google (Yahoo &amp; Ask Jeeves being a few of the first) were the last search engine to market. <br> <br>Our London fleet is already 40% of the size of our biggest competitors’ cars listed for hiya in London and we aim to have more cars listed in London than all of our competitors (traditional car hire, car clubs and peer-to-peer companies) by May 2017.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7942/rt93kltngq6vio3ztantike4xjzis6u/product_seedrs.png?rect=0%2C0%2C800%2C600&w=600&fit=clip&s=cfff97377c6f58f26cd783fdf3cd0054)
+![](/img/seedrs/uploads/startup/section_image/image/7942/rt93kltngq6vio3ztantike4xjzis6u/product_seedrs.png?rect=0%2C0%2C800%2C600&w=600&fit=clip&s=cfff97377c6f58f26cd783fdf3cd0054)
 

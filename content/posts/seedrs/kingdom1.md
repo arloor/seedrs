@@ -87,7 +87,7 @@ Please note that there is an outstanding loan of £1,825,000 from the original p
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10174/os2egcszd9rlre7620x8u15vvsveb98/Kingdom_9.png?rect=0%2C0%2C1427%2C952&w=600&fit=clip&s=d072df5a6eb5a436971702058368a595)
+![](/img/seedrs/uploads/startup/section_image/image/10174/os2egcszd9rlre7620x8u15vvsveb98/Kingdom_9.png?rect=0%2C0%2C1427%2C952&w=600&fit=clip&s=d072df5a6eb5a436971702058368a595)
 
 We aim to attract the affluent leisure focussed people of West Kent, East Sussex, and South London. We also aim to target mid to large scale corporate event sector for away day and social events. We intend to build a loyal local membership community reinforced with visiting occasional users.
 
@@ -101,13 +101,13 @@ Individuals <br>Those aspiring to ride for social and health benefits. A key mar
 
 Events Market: <br>Corporate event space for conference, training, and team building days. <br>Families/couples/friends looking for a unique venue for celebration (weddings, birthdays, parties) and social gatherings - also looking for accommodation on site. <br>Club events for AGMS, regular club meetings, local community social groups.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10175/j4442tm0b1790nn4e5e6kq9tadjfi6d/Kingdom_10.png?rect=0%2C0%2C631%2C945&w=600&fit=clip&s=c08c897a2d6ff82553e273b2fbd5ca5e)
+![](/img/seedrs/uploads/startup/section_image/image/10175/j4442tm0b1790nn4e5e6kq9tadjfi6d/Kingdom_10.png?rect=0%2C0%2C631%2C945&w=600&fit=clip&s=c08c897a2d6ff82553e273b2fbd5ca5e)
 
 ### Characteristics of target market
 
 OUR CUSTOMER AREA <br>Population of c.3.8M within 45-minute drive time catchment. <br>Assuming c.10% of 16+ population cycle for leisure at least once a month (so customer base in 45 minutes’ drive time is 380k). <br>Forecast of 100,000 visitors per annum pre phase 2 (based on similar cycle centre market comparators in south east England). <br>75 British Cycling registered clubs within 20-mile radius. <br>279 clubs within 30-mile radius (captures SE London data) 18,000 BC members in south east. <br>Close to Regional Cycle Route 12 linking Tonbridge and Penshurts within 1/2 mile of Kingdom (60,000 user’s pa). <br>UK bike sales rise 8% 2015 (Bike biz). <br>UK sales represent at 18 per cent of EU bike market (Bike Biz). <br>4% cycled every day, or nearly every day (about 2 million people of 18+) (Cycling UK). <br>43% of people aged five+ own or have access to a bicycle (Cycling UK). <br>The proportion of active cyclists increases with household income (Cycling UK).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10176/mm21zxi2iz6p9tkdpushfdowpcr4uyf/DSC_4090.jpg?rect=0%2C0%2C1600%2C987&w=600&fit=clip&s=63532c747ed12a8c153843cc51b41cde)
+![](/img/seedrs/uploads/startup/section_image/image/10176/mm21zxi2iz6p9tkdpushfdowpcr4uyf/DSC_4090.jpg?rect=0%2C0%2C1600%2C987&w=600&fit=clip&s=63532c747ed12a8c153843cc51b41cde)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ Media Relations: <br>- Proactive news release schedule – Content driven and pr
 
 Onsite: <br>- Advertising for upcoming events, venue hire options, programme sessions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10177/jwt8ktrisv5i9p6qsiy0ucpwhn30ee1/Kingdom_8.png?rect=0%2C6%2C1428%2C947&w=600&fit=clip&s=76cdc99d2c59bd74ff8117b08936b952)
+![](/img/seedrs/uploads/startup/section_image/image/10177/jwt8ktrisv5i9p6qsiy0ucpwhn30ee1/Kingdom_8.png?rect=0%2C6%2C1428%2C947&w=600&fit=clip&s=76cdc99d2c59bd74ff8117b08936b952)
 
 ### Competition strategy
 
@@ -137,5 +137,5 @@ Kingdom aims to provide visitors a place for safe adventures and a chance to esc
 
 Kingdom intends, in its first phase, to provide a highly technical cycle circuit, a striking club house with cafe, bar and event space set deep in the Kent countryside yet close to its affluent customer base (Population 3,772,445 within 45-minute drive time catchment). Kingdom will provide on-site retail (sales, service, and hire) in partnership with Wyndymilla our onsite concession who will also provide group and individual coaching. Kingdom aims to offer great food in partnership with Basil our on-site concession for visitors, parties, weddings and corporate hire. Kingdom plans to work with British Cycling the national governing body of cycling to develop a programme of events (including training and coaching). Our own Kingdom Cycle Club will help identify future talent and potential podium winners. <br>The Kingdom team, using its experience in sports development / operations, hospitality, and event management will create a holistic experience for its customers to refresh, recharge, and reconnect with the natural environment whilst participating in sport &amp; leisure.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10178/hp4sfg1vw36agm1s54yc8ml2d5poek6/DSC_4262.jpg?rect=0%2C0%2C1600%2C982&w=600&fit=clip&s=7d2f3d047507b513896be8a9c3f0c946)
+![](/img/seedrs/uploads/startup/section_image/image/10178/hp4sfg1vw36agm1s54yc8ml2d5poek6/DSC_4262.jpg?rect=0%2C0%2C1600%2C982&w=600&fit=clip&s=7d2f3d047507b513896be8a9c3f0c946)
 

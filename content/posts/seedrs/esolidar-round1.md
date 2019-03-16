@@ -103,7 +103,7 @@ The key to survival for many small charities is to successfully diversify their 
 
 By making use of these new tools and technologies, and simultaneously playing to their individual strengths, small charities can maximise the impact of their messaging, grow their supporter base and start to generate more donations that help to fund their future work. Now that really is a big deal.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8153/qpyy72vn2npvf2oz4awwrqmrq0ftefi/Screen_Shot_2016-06-20_at_18.27.17.png?rect=0%2C0%2C1628%2C906&w=600&fit=clip&s=b2b6e7826497301f1d8f2c927382a4e4)
+![](/img/seedrs/uploads/startup/section_image/image/8153/qpyy72vn2npvf2oz4awwrqmrq0ftefi/Screen_Shot_2016-06-20_at_18.27.17.png?rect=0%2C0%2C1628%2C906&w=600&fit=clip&s=b2b6e7826497301f1d8f2c927382a4e4)
 
 ### Characteristics of target market
 
@@ -119,7 +119,7 @@ Why use e-commerce to empower fundraising for charities?
 
 - 79% of consumers would like to see retailers doing more charity.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8155/mpsimwiz4w2p5doq7t6d58dzfkrnm2i/eSolidar-images-seedrs.compressed__dragged__7_copy.jpg?rect=0%2C0%2C4000%2C2250&w=600&fit=clip&s=5f168ee9b700a3a2ab66545217449d77)
+![](/img/seedrs/uploads/startup/section_image/image/8155/mpsimwiz4w2p5doq7t6d58dzfkrnm2i/eSolidar-images-seedrs.compressed__dragged__7_copy.jpg?rect=0%2C0%2C4000%2C2250&w=600&fit=clip&s=5f168ee9b700a3a2ab66545217449d77)
 
 ### Marketing strategy
 
@@ -135,7 +135,7 @@ Our user base comes mainly from charity communication channels and celebrities e
 
 After that, we intend to establish key partnerships with brands in the corporate sector. We will do this in order to develop their social responsibility, raise more money and awareness for charities, and get more involved with charitable causes. Traditional growth hacking strategies, online advertising and PR also apply.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8154/dgfiybh3wskutvsacr1jphp7cyadufo/Screen_Shot_2016-06-20_at_18.27.50.png?rect=0%2C0%2C1634%2C908&w=600&fit=clip&s=7ed16cfe848eb288c4e9061fec118e09)
+![](/img/seedrs/uploads/startup/section_image/image/8154/dgfiybh3wskutvsacr1jphp7cyadufo/Screen_Shot_2016-06-20_at_18.27.50.png?rect=0%2C0%2C1634%2C908&w=600&fit=clip&s=7ed16cfe848eb288c4e9061fec118e09)
 
 ### Competition strategy
 

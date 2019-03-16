@@ -95,7 +95,7 @@ HEALTH FOOD LOVERS Consumers are actively seeking healthier food options. 29% of
 
 ADVENTUROUS, FOODIES LOOKING FOR NEW IDEAS Our customers are excited to try our new products and cooking ideas. In our brand update, we will provide plenty more cooking inspiration on pack, supported by our media channels.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14376/snu3oqqtcyze5bqwmp1r2lawo6klufz/Miso_Pastes_on_green_beans.jpg?rect=0%2C0%2C5760%2C2129&w=600&fit=clip&s=af0fe45daf364c31fd182c64cb9a48b5)
+![](/img/seedrs/uploads/startup/section_image/image/14376/snu3oqqtcyze5bqwmp1r2lawo6klufz/Miso_Pastes_on_green_beans.jpg?rect=0%2C0%2C5760%2C2129&w=600&fit=clip&s=af0fe45daf364c31fd182c64cb9a48b5)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ To support bringing the brand to life and connecting with customers post-purchas
 
 To support retail customers, we will target impactful in-house media such as Waitrose Food, Ocadolife and Tesco Clubcard. Furthermore, we plan to have regular on-shelf theatre and offers to attract trial of our new products and gain new customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14377/3evqe31foijioubjykhj9lxwg28qdmj/takeatastetrip-08.jpg?rect=0%2C0%2C5000%2C3333&w=600&fit=clip&s=8c5c9ea888d7de5a5f1f9b3a07cc8b96)
+![](/img/seedrs/uploads/startup/section_image/image/14377/3evqe31foijioubjykhj9lxwg28qdmj/takeatastetrip-08.jpg?rect=0%2C0%2C5000%2C3333&w=600&fit=clip&s=8c5c9ea888d7de5a5f1f9b3a07cc8b96)
 
 ### Competition strategy
 
@@ -125,5 +125,5 @@ As we extend our range of Ramen Noodle Kits to Udon and Glass Noodle kits, we be
 
 Our brand update will also drive our USPs harder to help consumers understand our points of differences better; we are the more authentic, accessible and fun choice for those interested in Japanese-inspired food.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14378/2ynzj2rmwntz292oxsy0rl94hymouw1/Glutenfreegoodness-07.jpg?rect=0%2C0%2C5000%2C3750&w=600&fit=clip&s=e21171e093d4af51f923cd28b8e0fb1a)
+![](/img/seedrs/uploads/startup/section_image/image/14378/2ynzj2rmwntz292oxsy0rl94hymouw1/Glutenfreegoodness-07.jpg?rect=0%2C0%2C5000%2C3750&w=600&fit=clip&s=e21171e093d4af51f923cd28b8e0fb1a)
 

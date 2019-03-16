@@ -83,7 +83,7 @@ Combined, this equates to six GP appointments per person, per year in the UK. A 
 
 While top-down addressable-wallet calculations can often be overly optimistic, they can serve to give context for the total market opportunity: with Qure’s projected average appointment value of £88, taking 0.1% of 410 million met and unmet appointments would equate to gross revenues of £36.1 million.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13274/sfeofmb4k25vxh524ap83eaft6vcvuw/Image_8.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=ca030a762a2fff512311d5843b52a0d0)
+![](/img/seedrs/uploads/startup/section_image/image/13274/sfeofmb4k25vxh524ap83eaft6vcvuw/Image_8.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=ca030a762a2fff512311d5843b52a0d0)
 
 ### Characteristics of target market
 
@@ -95,13 +95,13 @@ Qure also believe the B2B opportunity to be significant. Health insurance compan
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13273/kowhivlqkdocytxwbn47axkkcohizgw/image3.PNG?rect=0%2C237%2C484%2C382&w=600&fit=clip&s=5648af8506a76a2259e252a252fcc66a)
+![](/img/seedrs/uploads/startup/section_image/image/13273/kowhivlqkdocytxwbn47axkkcohizgw/image3.PNG?rect=0%2C237%2C484%2C382&w=600&fit=clip&s=5648af8506a76a2259e252a252fcc66a)
 
 For the soft launch in Clapham, Qure followed a localised, multi-channel approach with a focus on digital, including Facebook and Pay Per Click (PPC) advertising. Online channels allowed a highly-targeted investment, ensuring that Qure’s test phase was as cost-effective as possible. This was complemented by PR activity with a London focus, as well as offline activity, including direct mail door drops using branded plaster packs and a pop-up clinic to drive brand awareness.
 
 Using the learnings from the soft launch phase activity, we plan to extend the marketing efforts for the wider London expansion. Not only will we increase the budget for those successful channels that have been validated, but we also plan to employ more marketing channels that are wider in reach, including press inserts, experiential activity and out-of-home (OOH) advertising. Qure will also be reaching out to partner brands and ambassadors to ensure engagement with high volumes of relevant consumers within London.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13272/8z7gf8qpgu51oehhh08gf41cjodl5ox/Image_12.jpg?rect=0%2C0%2C600%2C394&w=600&fit=clip&s=6b074f2954e73e4a46c8a1f6fce24a73)
+![](/img/seedrs/uploads/startup/section_image/image/13272/8z7gf8qpgu51oehhh08gf41cjodl5ox/Image_12.jpg?rect=0%2C0%2C600%2C394&w=600&fit=clip&s=6b074f2954e73e4a46c8a1f6fce24a73)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ We see GPDQ as our main competitor. They have been around for more than two year
 
 How is Qure different? <br>24/7 FACE-TO-FACE. <br>PRACTITIONER SUPPLY: As well as GP’s, we also use appropriately-qualified GP Registrars (GPR’s), Hospital Doctors &amp; Advanced Nurse Practitioners (ANP’s). <br>INSURANCE: We have our own bespoke product that covers our practitioners indemnity. <br>VALUE: The above allows us to offer appointments at prices that are up to 40% cheaper than our closest competitor. <br>FLEXIBILITY: Our practitioners are free to choose when they work &amp; for how long.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13276/2xtsa43f1cd4dnob4u0jycpzp5oo58s/Image_10.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=023db05a5096e00cf1950daff90e712a)
+![](/img/seedrs/uploads/startup/section_image/image/13276/2xtsa43f1cd4dnob4u0jycpzp5oo58s/Image_10.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=023db05a5096e00cf1950daff90e712a)
 

@@ -97,7 +97,7 @@ These customers usually know they are looking for a custom jeweller. By offering
 
 We cater for these customers too. Instead of a full custom-made experience, we offer a complete collection of jewellery and rings that are already designed and in fashion, but still fully customisable. These options meet the customer’s requirements and price point, while still having a unique element.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/624/oysgqqq7brgz5qy93hjjw04gl5yk36c/image__3_.png?w=600&fit=clip&s=c2c9c083ee8f140fc5489ab2b1ce94fc)
+![](/img/seedrs/uploads/startup/section_image/image/624/oysgqqq7brgz5qy93hjjw04gl5yk36c/image__3_.png?w=600&fit=clip&s=c2c9c083ee8f140fc5489ab2b1ce94fc)
 
 ### Characteristics of target market
 
@@ -109,7 +109,7 @@ Our focus will begin on the UK and US markets but we plan to quickly expand into
 
 “Online” jewellery sales have grown from almost no share of the market in the 2000’s to 6% in 2011. We believe this to be closer to 10% as of 2013 based on the growth data of our competitors. The market share of online sales is expected to grow even faster in the years to come as the industry replicates the brick and mortar to e-commerce transformations so many other industries have seen in the past 10 years.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/621/i20h63i5e8t99ohv1qljcazok1vwe4y/Market_Size_-_Resized.png?rect=52%2C68%2C456%2C464&w=600&fit=clip&s=091a0500733f3d6104955ef489053478)
+![](/img/seedrs/uploads/startup/section_image/image/621/i20h63i5e8t99ohv1qljcazok1vwe4y/Market_Size_-_Resized.png?rect=52%2C68%2C456%2C464&w=600&fit=clip&s=091a0500733f3d6104955ef489053478)
 
 ### Marketing strategy
 
@@ -165,5 +165,5 @@ Many of the offerings of our competitors are too similar for any one company to 
 
 The challenge we will face is not for us to establish this competitive edge or validate our market; as we believe we have already proven a very strong customer interest in our bespoke offering. The challenge is to scale this offering so that many people can take advantage of it all around the world.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/620/2072s3pppq0rlgmfh3r5atu4a7azymb/Matrix.png?w=600&fit=clip&s=4c87a488358793206eed9837e8b6f01d)
+![](/img/seedrs/uploads/startup/section_image/image/620/2072s3pppq0rlgmfh3r5atu4a7azymb/Matrix.png?w=600&fit=clip&s=4c87a488358793206eed9837e8b6f01d)
 

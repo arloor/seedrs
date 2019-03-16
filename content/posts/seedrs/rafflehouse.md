@@ -85,7 +85,7 @@ Please note, due to the company's terms and conditions, investors and shareholde
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14948/6tvogxrfoi6oml2zc4drxvs3bbd79yv/target_market.png?rect=0%2C-3%2C805%2C648&w=600&fit=clip&s=4298ff154df238b73a40adc5823ec235)
+![](/img/seedrs/uploads/startup/section_image/image/14948/6tvogxrfoi6oml2zc4drxvs3bbd79yv/target_market.png?rect=0%2C-3%2C805%2C648&w=600&fit=clip&s=4298ff154df238b73a40adc5823ec235)
 
 Raffle House's market is composed of two normally discrete industries: housing and gambling.
 
@@ -101,7 +101,7 @@ This demographic is comprised of 9.6 million individuals in the UK and the age g
 
 Raffle House needs to capture just 2% or 1% respectively in order to hit its sales target for any given competition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14949/8c5im9i6kr720jkiy4wfnfje4lpzim4/chara_market.png?rect=0%2C0%2C865%2C689&w=600&fit=clip&s=62ebe1a518c6789f492f596083de190f)
+![](/img/seedrs/uploads/startup/section_image/image/14949/8c5im9i6kr720jkiy4wfnfje4lpzim4/chara_market.png?rect=0%2C0%2C865%2C689&w=600&fit=clip&s=62ebe1a518c6789f492f596083de190f)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Raffle House already has an active marketing strategy, with paid Facebook and In
 
 Supported by a high-end media agency, Facebook will be the primary paid advertising platform. However, in time we will move into other affiliate marketing channels and platforms.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14950/oxkafx2m7irehkgdvvqmko1cxygr00v/marketing_strategy.png?rect=0%2C0%2C671%2C723&w=600&fit=clip&s=5913a1e44f657c951d8c941c273ba984)
+![](/img/seedrs/uploads/startup/section_image/image/14950/oxkafx2m7irehkgdvvqmko1cxygr00v/marketing_strategy.png?rect=0%2C0%2C671%2C723&w=600&fit=clip&s=5913a1e44f657c951d8c941c273ba984)
 
 ### Competition strategy
 
@@ -119,5 +119,5 @@ At the moment, Raffle House identifies three main competitors. Their models are 
 
 We have designed Raffle House to overcome the shortcomings of our competitors and improve upon their successes. To our knowledge, no single property prize competition company has awarded a property as a prize. Therefore, we intend for Raffle House to be the first in UK history.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14951/qn36zi9jgq1wtk0vqplzpt9rfz4el1r/comp.png?rect=0%2C0%2C865%2C579&w=600&fit=clip&s=19299227d7124b840c2546cf9498231a)
+![](/img/seedrs/uploads/startup/section_image/image/14951/qn36zi9jgq1wtk0vqplzpt9rfz4el1r/comp.png?rect=0%2C0%2C865%2C579&w=600&fit=clip&s=19299227d7124b840c2546cf9498231a)
 

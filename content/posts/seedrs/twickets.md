@@ -105,7 +105,7 @@ There is an outstanding directors’ loan amounting to £177,132. The money rais
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10189/gjzp2gj73p6v1fhwh2wzs5dvi2jk1dm/twickets_app.jpg?rect=0%2C0%2C2500%2C2000&w=600&fit=clip&s=199cacb8de2768ed240f5de6e98c4641)
+![](/img/seedrs/uploads/startup/section_image/image/10189/gjzp2gj73p6v1fhwh2wzs5dvi2jk1dm/twickets_app.jpg?rect=0%2C0%2C2500%2C2000&w=600&fit=clip&s=199cacb8de2768ed240f5de6e98c4641)
 
 ### Target market
 
@@ -123,7 +123,7 @@ Another key marketing focus is to the event owners, where partnerships will be k
 
 A full list of current partners is in the marketing section, but as an example, QPR have provided extensive match day perimeter advertising in the “TV arc”, and behind each of the goals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10190/hy07m1tbfj0wwlv4uq33ustbk34p34d/MusicWeek.jpg?rect=0%2C0%2C752%2C744&w=600&fit=clip&s=0fd1263c3f3a3d936d0fbfaba02fbec1)
+![](/img/seedrs/uploads/startup/section_image/image/10190/hy07m1tbfj0wwlv4uq33ustbk34p34d/MusicWeek.jpg?rect=0%2C0%2C752%2C744&w=600&fit=clip&s=0fd1263c3f3a3d936d0fbfaba02fbec1)
 
 ### Characteristics of target market
 
@@ -143,7 +143,7 @@ Doctor Music Concerts in Spain has filed official complaints against a number of
 
 The same story is true of all markets with an active event scene, and the big four secondary platforms have expanded rapidly into these territories.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10191/28t6d624sa39bg5kji3soip4zgx9y7k/Main_listing.jpg?rect=0%2C-7%2C1598%2C770&w=600&fit=clip&s=bd8cdbaf543658f935947ac533e78159)
+![](/img/seedrs/uploads/startup/section_image/image/10191/28t6d624sa39bg5kji3soip4zgx9y7k/Main_listing.jpg?rect=0%2C-7%2C1598%2C770&w=600&fit=clip&s=bd8cdbaf543658f935947ac533e78159)
 
 ### Marketing strategy
 
@@ -163,7 +163,7 @@ The plan has been, and continues to be, to strike more deals of this nature. The
 
 Achievement of the second objective will be reliant on the implementation of a CRM programme, as well as the continued optimisation of the platform’s usability. Online retail success is dependent on getting users to move from initial trial (i.e. their first purchase) to a second transaction. <br>On a predominantly P2P service such as Twickets, it’s also important to recognise that a “transaction” could just as easily mean offering a ticket for sale as it is to mean buying one.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10192/4cc4f1gglc3w13wiitsv05l1sczqjzr/Fair_To_Fans.jpg?rect=0%2C0%2C1709%2C2336&w=600&fit=clip&s=3ff4f375650fc5cae37b44a842f7e961)
+![](/img/seedrs/uploads/startup/section_image/image/10192/4cc4f1gglc3w13wiitsv05l1sczqjzr/Fair_To_Fans.jpg?rect=0%2C0%2C1709%2C2336&w=600&fit=clip&s=3ff4f375650fc5cae37b44a842f7e961)
 
 ### Competition strategy
 
@@ -187,5 +187,5 @@ Offering the same resale function as the competition, with the key differentiato
 
 And for the fan we not only enable them a second chance to buy at face value but also charge standard booking fees whilst offering them protection against fraud. <br> <br>No other resale platform is able to satisfy both industry and fan.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10193/jdnx0y3koovqjf88vkkmg6ffru6aasy/BBC.jpg?rect=0%2C4%2C496%2C725&w=600&fit=clip&s=70decc007035657ef99ef3145d5f2bb4)
+![](/img/seedrs/uploads/startup/section_image/image/10193/jdnx0y3koovqjf88vkkmg6ffru6aasy/BBC.jpg?rect=0%2C4%2C496%2C725&w=600&fit=clip&s=70decc007035657ef99ef3145d5f2bb4)
 

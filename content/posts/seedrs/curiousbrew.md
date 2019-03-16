@@ -109,7 +109,7 @@ Craft beer grew 34% in the UK last year (CGA MAT P11 2014), with growth of 62% i
 
 …AND WOMEN… <br>The beer gender split is increasing - nearly 1 in 5 beer drinkers are women - 82% men and 18% women (Mintel 2014).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5853/b8adcyzs5smw81y8rqlbgbaznldsts0/CHA_9448__1_.jpg?rect=0%2C0%2C1853%2C2800&w=600&fit=clip&s=55d03cac01902a528eea01f93ee02a0c)
+![](/img/seedrs/uploads/startup/section_image/image/5853/b8adcyzs5smw81y8rqlbgbaznldsts0/CHA_9448__1_.jpg?rect=0%2C0%2C1853%2C2800&w=600&fit=clip&s=55d03cac01902a528eea01f93ee02a0c)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ The average pint of craft beer commands an additional 75-90p per pint (CGA 2014)
 
 Craft beer now features in the CPI basket of goods (ONS 2015) The Small Brewers relief of June 2002 for smaller producers has helped improve margins to enable competition with bigger brands. Curious Drinks should benefit from this relief, if available, when the Curious Brewery becomes operational.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5852/mxpbsy5c0jzqzz07o3rgy3rr7z4s9kn/CHA_8481__1_.jpg?rect=0%2C0%2C1863%2C2800&w=600&fit=clip&s=e4203967f61436f330813d29049ce639)
+![](/img/seedrs/uploads/startup/section_image/image/5852/mxpbsy5c0jzqzz07o3rgy3rr7z4s9kn/CHA_8481__1_.jpg?rect=0%2C0%2C1863%2C2800&w=600&fit=clip&s=e4203967f61436f330813d29049ce639)
 
 ### Marketing strategy
 
@@ -135,5 +135,5 @@ Our brand is the most important asset we have. We are fastidiously careful about
 
 We believe in trying to create things that others can’t. Our products are different. We only create beer and cider where we can add unique value as winemakers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5836/6hv6qi96mxs3eokp7dsfm38hfignvk9/Screen_Shot_2015-10-20_at_10.38.41.png?rect=0%2C0%2C657%2C986&w=600&fit=clip&s=c815a2f54509a44e0b692d60e0afaf1f)
+![](/img/seedrs/uploads/startup/section_image/image/5836/6hv6qi96mxs3eokp7dsfm38hfignvk9/Screen_Shot_2015-10-20_at_10.38.41.png?rect=0%2C0%2C657%2C986&w=600&fit=clip&s=c815a2f54509a44e0b692d60e0afaf1f)
 

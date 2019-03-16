@@ -81,17 +81,17 @@ Regarding the actual users, we are targeting the group of modern travellers from
 
 Business travel generates over 1 trillion dollars. According to the UNWTO, 14% of total international arrivals (1.1 billion in 2014) were made for business and professional purposes, which is approximately 154 million international business arrivals. Big cities host big businesses, big conferences, and big fairs. Business travel is a vital part of the travel market in cities. Working habits are changing. More and more people work remotely; they work on weekends and during holidays, many saying they take time to play when on business trips.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10558/9i3g5eofcvkwo3njguwb0fbs6s7t06k/FullSizeRender_1.jpg?rect=17%2C9%2C524%2C522&w=600&fit=clip&s=760ce98f533e3a3238b7040cf099b0a8)
+![](/img/seedrs/uploads/startup/section_image/image/10558/9i3g5eofcvkwo3njguwb0fbs6s7t06k/FullSizeRender_1.jpg?rect=17%2C9%2C524%2C522&w=600&fit=clip&s=760ce98f533e3a3238b7040cf099b0a8)
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10559/3kbm0da4fnx7nhkgusslwgn601b0tlh/FullSizeRender_5.jpg?rect=24%2C34%2C1579%2C801&w=600&fit=clip&s=f1a14ba5a6cc0a47a2369d54928b7d02)
+![](/img/seedrs/uploads/startup/section_image/image/10559/3kbm0da4fnx7nhkgusslwgn601b0tlh/FullSizeRender_5.jpg?rect=24%2C34%2C1579%2C801&w=600&fit=clip&s=f1a14ba5a6cc0a47a2369d54928b7d02)
 
 We intend to facilitate a smarter, richer experience for bleisure travellers, widening their business and personal circles and turning down time into good time: finding the right restaurant/hotel, new things to see and do, and meeting other guests staying at the same hotel. Travellers have limited time to investigate what a city has to offer. Targeted information via mobile phone specifically designed to inspire, inform, and guide in a highly efficient manner: that's Mesmo's goal.
 
 Our beta users have shown us that people are looking for a good social experience coupled with great local content and services. By combining our solution with hotel partners we intend to revolutionise the whole hotel experience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10560/okki0s1h4plxnf89hvk00juypyygy9u/FullSizeRender_2.jpg?rect=0%2C-1%2C1823%2C1481&w=600&fit=clip&s=09b1ae91e847076b2bc6428267a604d3)
+![](/img/seedrs/uploads/startup/section_image/image/10560/okki0s1h4plxnf89hvk00juypyygy9u/FullSizeRender_2.jpg?rect=0%2C-1%2C1823%2C1481&w=600&fit=clip&s=09b1ae91e847076b2bc6428267a604d3)
 
 ### Marketing strategy
 
@@ -105,7 +105,7 @@ Once we reach our critical mass, which we expect to happen by March 2017, we int
 
 We aim to optimise our marketing strategy to include influencers and live events held at hotels in our main markets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10561/7o1yws4m8wcbvbvgi7sts3jlb6673va/FullSizeRender_8.jpg?rect=0%2C-6%2C1371%2C364&w=600&fit=clip&s=6d4b61c851e9fac288f53d9dac651328)
+![](/img/seedrs/uploads/startup/section_image/image/10561/7o1yws4m8wcbvbvgi7sts3jlb6673va/FullSizeRender_8.jpg?rect=0%2C-6%2C1371%2C364&w=600&fit=clip&s=6d4b61c851e9fac288f53d9dac651328)
 
 ### Competition strategy
 
@@ -115,5 +115,5 @@ To stay ahead of the game, Mesmo intends to add new features such as gamificatio
 
 We have a strong relationship with our technology partner, Lisbon-based Bliss Applications, which we believe ensures that we can constantly raise our game and stay ahead of the competition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10562/k6umqijz1anx3ismrdcojv28vvacdcx/FullSizeRender_7.jpg?rect=6%2C-1%2C1670%2C1389&w=600&fit=clip&s=ddbf290077953a42940bde02f234559a)
+![](/img/seedrs/uploads/startup/section_image/image/10562/k6umqijz1anx3ismrdcojv28vvacdcx/FullSizeRender_7.jpg?rect=6%2C-1%2C1670%2C1389&w=600&fit=clip&s=ddbf290077953a42940bde02f234559a)
 

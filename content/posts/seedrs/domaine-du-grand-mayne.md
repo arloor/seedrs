@@ -93,7 +93,7 @@ In short, a key component of our marketing is to build up a community of individ
 
 We also plan to sell our wine through more conventional sales channels, including local retailers and restaurants, and to high quality restaurants throughout the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3129/sv884nikkf1um8uqvt76oq5jj9bt84p/green_vines.jpg?rect=0%2C0%2C498%2C249&w=600&fit=clip&s=bff6bc578d745384ba4a823bcccaba99)
+![](/img/seedrs/uploads/startup/section_image/image/3129/sv884nikkf1um8uqvt76oq5jj9bt84p/green_vines.jpg?rect=0%2C0%2C498%2C249&w=600&fit=clip&s=bff6bc578d745384ba4a823bcccaba99)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ Wine buying tastes change slowly over time. Yet our grape varieties and wine sty
 
 Our board also benefits from the experience of Andrew Gordon and Philip Addis, who both ran successful wine companies in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3130/pksdst3w4mwaaopojtb7a6rjere35pf/4.png?rect=0%2C0%2C1006%2C254&w=600&fit=clip&s=4d62efdbe07808e48df596977d629bfa)
+![](/img/seedrs/uploads/startup/section_image/image/3130/pksdst3w4mwaaopojtb7a6rjere35pf/4.png?rect=0%2C0%2C1006%2C254&w=600&fit=clip&s=4d62efdbe07808e48df596977d629bfa)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ Local restaurant sales will form an important part of the brand building process
 
 Our directors have good contacts in the UK industry to help achieve good listings in the UK restaurant sector both through distributors and on a direct basis.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3132/h0x4ma1h7grjx386cniwzvlir29rh09/5.png?rect=0%2C0%2C1046%2C264&w=600&fit=clip&s=94f4c7cf9e7b90f23cb00d299f42f3cc)
+![](/img/seedrs/uploads/startup/section_image/image/3132/h0x4ma1h7grjx386cniwzvlir29rh09/5.png?rect=0%2C0%2C1046%2C264&w=600&fit=clip&s=94f4c7cf9e7b90f23cb00d299f42f3cc)
 
 ### Competition strategy
 
@@ -133,5 +133,5 @@ Further investment is required in the vineyard to ensure optimum quality is main
 
 This is key to the future financial success of the vineyard. We are also planning a number of events designed to add value and enjoyment to the wine buying experience and build sustainable relationships with our shareholders and customers. These may include UK based winemaker dinners, a grape harvest festival and blending and winemaking experiences.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3133/furj6iivvoq47oae0rlf09zxj79rlxm/driveway.jpg?rect=0%2C0%2C498%2C249&w=600&fit=clip&s=d04f0af4d13458e539d5e2a3fd1c5f21)
+![](/img/seedrs/uploads/startup/section_image/image/3133/furj6iivvoq47oae0rlf09zxj79rlxm/driveway.jpg?rect=0%2C0%2C498%2C249&w=600&fit=clip&s=d04f0af4d13458e539d5e2a3fd1c5f21)
 

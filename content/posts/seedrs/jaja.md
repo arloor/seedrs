@@ -69,7 +69,7 @@ Busy Lives. <br>9%, 4.5 mill of UK population. <br>These individuals are in the 
 
 In addition, Jaja has built a core infrastructure that can deliver flexible lending directly to the consumer or via point of sale retailer websites. Our first B2B customer is Asda (part of Walmart).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16082/7xdddbvey6cjcvek7brx1bxg4z941pi/Picture1.png?rect=0%2C0%2C864%2C864&w=600&fit=clip&s=cf7eff235af4336828de29c6ed089508)
+![](/img/seedrs/uploads/startup/section_image/image/16082/7xdddbvey6cjcvek7brx1bxg4z941pi/Picture1.png?rect=0%2C0%2C864%2C864&w=600&fit=clip&s=cf7eff235af4336828de29c6ed089508)
 
 ### Characteristics of target market
 
@@ -79,7 +79,7 @@ These are confident users of financial services products with experience with cr
 
 They are also united in their combined desire to try new and exciting things, early adopters of tech and comfortable taking calculated risks in doing so. This is carefully balanced however with the need to always be in control and 'on top of things' financially.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16067/6itha3v994piaxj7rrhkv3z5x5o1gxx/Screen_Shot_2018-10-25_at_19.57.55.png?rect=0%2C0%2C2340%2C1560&w=600&fit=clip&s=7f3dca6d43cfc9eeaf12c877ad099394)
+![](/img/seedrs/uploads/startup/section_image/image/16067/6itha3v994piaxj7rrhkv3z5x5o1gxx/Screen_Shot_2018-10-25_at_19.57.55.png?rect=0%2C0%2C2340%2C1560&w=600&fit=clip&s=7f3dca6d43cfc9eeaf12c877ad099394)
 
 ### Marketing strategy
 
@@ -89,7 +89,7 @@ We understand that our audience responds best to peer recommendations and word o
 
 In terms of media strategy, we will be focusing on the accurate and targeted use of the research data. Using channels like programatic display and paid social to deliver relevant messages at the right time to the right people.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16068/2uui3124cjl0qvtxruzx79kp3jjkdzk/image__2_.png?rect=0%2C0%2C1718%2C916&w=600&fit=clip&s=a816b7a39282871ffc13de50774262d6)
+![](/img/seedrs/uploads/startup/section_image/image/16068/2uui3124cjl0qvtxruzx79kp3jjkdzk/image__2_.png?rect=0%2C0%2C1718%2C916&w=600&fit=clip&s=a816b7a39282871ffc13de50774262d6)
 
 ### Competition strategy
 

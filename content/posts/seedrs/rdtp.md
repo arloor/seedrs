@@ -121,7 +121,7 @@ Our reputation, marketing strength and endorsement from partners has led to a si
 
 We feel we understand our market, have the credibility of time, a history of innovation, rigorous testing and are able to move fast into the mass market. Our partnership approach ensures a high presence and influence in the market at very low cost to the business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2913/riwzcc7yk0z5wsb2ct76bt5y2tz3wv0/image_targetmarket.png?w=600&fit=clip&s=44e3eda776f44511b9359c53df8262f1)
+![](/img/seedrs/uploads/startup/section_image/image/2913/riwzcc7yk0z5wsb2ct76bt5y2tz3wv0/image_targetmarket.png?w=600&fit=clip&s=44e3eda776f44511b9359c53df8262f1)
 
 ### Characteristics of target market
 
@@ -135,7 +135,7 @@ Keeping a dog fit and healthy is a challenge with inadequate food labelling and 
 
 Nano aims to meet these needs through a single device and a powerful app that combines activity data with self-entered information to calculate ideal weight, exercise and nutrition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2914/anlalpjfubfler7mrqw5n8qjcykdnbq/image_characteristics.png?w=600&fit=clip&s=845445754865e96f1fb898725646800a)
+![](/img/seedrs/uploads/startup/section_image/image/2914/anlalpjfubfler7mrqw5n8qjcykdnbq/image_characteristics.png?w=600&fit=clip&s=845445754865e96f1fb898725646800a)
 
 ### Marketing strategy
 
@@ -163,7 +163,7 @@ Petlog - The UK’s largest database of microchipped pets with 7m pet owners reg
 
 Pets Corner - The UK’s largest premium pet retailer with over 90 stores.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2921/m6qm04q73ef4waq1lt3u5k0bfldl2v7/image_marketingstrat.png?w=600&fit=clip&s=6fa6780c9b9941e6145ead6325a75bd5)
+![](/img/seedrs/uploads/startup/section_image/image/2921/m6qm04q73ef4waq1lt3u5k0bfldl2v7/image_marketingstrat.png?w=600&fit=clip&s=6fa6780c9b9941e6145ead6325a75bd5)
 
 ### Competition strategy
 
@@ -185,5 +185,5 @@ Show as graphic <br>Pet Travel <br>Pet Welfare <br>Pet Retail <br>Pet insurance 
 
 4. Secure exclusive licensing, wholesale and distribution agreements throughout the EU.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2915/5pu4c2fwy1yj1mk296s0uuyzn6147pa/image_success.png?w=600&fit=clip&s=284b681a5b0ca190ac661e1cbb407a42)
+![](/img/seedrs/uploads/startup/section_image/image/2915/5pu4c2fwy1yj1mk296s0uuyzn6147pa/image_success.png?w=600&fit=clip&s=284b681a5b0ca190ac661e1cbb407a42)
 

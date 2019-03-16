@@ -79,7 +79,7 @@ For the new service, online retailers will pay us a commission on sales in retur
 
 Most of our customers are in - and our business focus is currently on - the UK although we receive a growing number of overseas enquiries (over 30% for the last two months).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15289/bv39bng4i3ot2zxmyw0maffzxzr10r7/Target_Market.jpg?rect=0%2C-9%2C2084%2C880&w=600&fit=clip&s=ee95a27d23a0b419bd84c32239003019)
+![](/img/seedrs/uploads/startup/section_image/image/15289/bv39bng4i3ot2zxmyw0maffzxzr10r7/Target_Market.jpg?rect=0%2C-9%2C2084%2C880&w=600&fit=clip&s=ee95a27d23a0b419bd84c32239003019)
 
 ### Characteristics of target market
 
@@ -89,7 +89,7 @@ We believe it now faces significant change, creating challenges and opportunitie
 
 In the UK the online market is largely fuelled by primary works from the artist community, the size of which is very hard to quantify but is generally reported at being between 30,000 and 40,000: a more conservative estimate would suggest around 7,500 fine artists (as opposed to illustrators and graphic designers) actively making and selling work.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15290/god19qwe1ygpn3uo2n06v6030ai5n5w/Charesteristics_of_Target_Market.jpg?rect=0%2C-9%2C2084%2C835&w=600&fit=clip&s=ce7b19a0d61bf9931594ec32038f6ac8)
+![](/img/seedrs/uploads/startup/section_image/image/15290/god19qwe1ygpn3uo2n06v6030ai5n5w/Charesteristics_of_Target_Market.jpg?rect=0%2C-9%2C2084%2C835&w=600&fit=clip&s=ce7b19a0d61bf9931594ec32038f6ac8)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ We give regular presentations at industry events and venues, from traditional ar
 
 Where appropriate, we amplify the above on social media and via mail newsletters.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15291/9rbdnqleudafs3h2v6tuo30earris4k/Marketing_Stratergy.jpg?rect=1%2C0%2C2084%2C2911&w=600&fit=clip&s=e4168c9340ab2523000ef24887fd4cd9)
+![](/img/seedrs/uploads/startup/section_image/image/15291/9rbdnqleudafs3h2v6tuo30earris4k/Marketing_Stratergy.jpg?rect=1%2C0%2C2084%2C2911&w=600&fit=clip&s=e4168c9340ab2523000ef24887fd4cd9)
 
 ### Competition strategy
 

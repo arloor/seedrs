@@ -81,17 +81,17 @@ Of the nearly 900 people who have offered to ‘Beta test’ the Rasa, at least 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13880/l3ol1tvi69758tf6xen8wdodob5hinl/RS_Photo9.jpg?rect=0%2C0%2C3890%2C2594&w=600&fit=clip&s=e0995e8021de14ace364f29ca18979ce)
+![](/img/seedrs/uploads/startup/section_image/image/13880/l3ol1tvi69758tf6xen8wdodob5hinl/RS_Photo9.jpg?rect=0%2C0%2C3890%2C2594&w=600&fit=clip&s=e0995e8021de14ace364f29ca18979ce)
 
 ### Target market
 
 The Rasa is an everyday vehicle for everyday people. We believe it will make an ideal second car, for commuting or popping into town. 300 miles is a good week’s worth of fuel for most people, so the Rasa is convenient to refuel if you have occasion to come into town once a week or so.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13887/hwgbgrnly7qvqclwylap5kowv4yldoe/RS_Story14.png?rect=0%2C0%2C700%2C450&w=600&fit=clip&s=a1dedd99430e5d63684e65500f2b0a62)
+![](/img/seedrs/uploads/startup/section_image/image/13887/hwgbgrnly7qvqclwylap5kowv4yldoe/RS_Story14.png?rect=0%2C0%2C700%2C450&w=600&fit=clip&s=a1dedd99430e5d63684e65500f2b0a62)
 
 Riversimple’s next vehicle, which we intend to launch shortly after the Rasa in 2021, will be a light commercial van, designed for last mile delivery.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13881/rs71xt89xg5t7ylx5r6py5ogjnp11kv/RS_Photo6.jpg?rect=0%2C0%2C6016%2C4016&w=600&fit=clip&s=1d411ff4ea59649601648d6162e4cd5a)
+![](/img/seedrs/uploads/startup/section_image/image/13881/rs71xt89xg5t7ylx5r6py5ogjnp11kv/RS_Photo6.jpg?rect=0%2C0%2C6016%2C4016&w=600&fit=clip&s=1d411ff4ea59649601648d6162e4cd5a)
 
 ### Characteristics of target market
 
@@ -101,7 +101,7 @@ There are over 34 million cars on the road in the UK. This enormous market is di
 
 We are starting in a niche with a two seater designed primarily for local use, but we believe that niche offers substantial market opportunity for an initially low volume manufacturer. Our target volume is 5,000 cars per annum, which we estimate to be the optimal throughput of one set of carbon fibre tooling.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13882/9or1ojaxn9mcp0ui1a43web9w26z1ov/RS_Photo7.jpg?rect=0%2C-3%2C650%2C366&w=600&fit=clip&s=fc0c954aea4e3a06889931299749a62b)
+![](/img/seedrs/uploads/startup/section_image/image/13882/9or1ojaxn9mcp0ui1a43web9w26z1ov/RS_Photo7.jpg?rect=0%2C-3%2C650%2C366&w=600&fit=clip&s=fc0c954aea4e3a06889931299749a62b)
 
 Potential for 2 seater: <br>- 33% of households have 2 cars or more, rising to 42% in rural town/ fringe, and 59% in rural areas in 2014/15. <br>- In 2012, 86% of commuting and 87% of business trips were single occupancy.
 
@@ -111,17 +111,17 @@ Mobility as a service potential: <br>- Less than a quarter of new car buyers in 
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13883/rkmbzdij3ghdrjiu7m3jvc62g70b4b6/RS_Photo8.JPG?rect=0%2C0%2C4032%2C2555&w=600&fit=clip&s=0a857643de8b91512fd080274fd52b67)
+![](/img/seedrs/uploads/startup/section_image/image/13883/rkmbzdij3ghdrjiu7m3jvc62g70b4b6/RS_Photo8.JPG?rect=0%2C0%2C4032%2C2555&w=600&fit=clip&s=0a857643de8b91512fd080274fd52b67)
 
 We intend to bring the Rasa to market in 2020/1 region by region, in line with the roll-out of hydrogen infrastructure. We are in active conversation with County and City Councils about launch locations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13884/evlvo5hy9dgw46n35552vyakh2hl62k/RS_Story16.png?rect=0%2C10%2C700%2C458&w=600&fit=clip&s=8a6bfc1fa281659d07729920866ff6f4)
+![](/img/seedrs/uploads/startup/section_image/image/13884/evlvo5hy9dgw46n35552vyakh2hl62k/RS_Story16.png?rect=0%2C10%2C700%2C458&w=600&fit=clip&s=8a6bfc1fa281659d07729920866ff6f4)
 
 Such a launch strategy calls predominantly for local marketing, which will comprise a mixture of active roadshows, socialising the Rasa and inviting test drives, and online fulfilment. We will automatically contact all investors to invite them to register on the priority waiting list for a Rasa.
 
 The company is called Riversimple Movement, dedicated to delivering sustainable mobility and the circular economy without sacrificing the pleasure of independent driving and it is a movement that has attracted significant media attention already.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13885/5avt4d7wlg51egfgjdojm26a9my2xek/RS_Story17.png?rect=64%2C37%2C565%2C202&w=600&fit=clip&s=1bb66c8a0828cdda4ff374c310cd2916)
+![](/img/seedrs/uploads/startup/section_image/image/13885/5avt4d7wlg51egfgjdojm26a9my2xek/RS_Story17.png?rect=64%2C37%2C565%2C202&w=600&fit=clip&s=1bb66c8a0828cdda4ff374c310cd2916)
 
 We have been approached by mainstream TV shows interested in covering the Beta test and seeing how the community embraces 20 hydrogen cars over the 12 months.
 
@@ -133,5 +133,5 @@ The most notable hydrogen fuel cell car on the roads in the UK is the Toyota Mir
 
 We intend to match the current cost of ownership of a mid-sized diesel hatchback while offering a hassle-free, all inclusive service, pre-empting maintenance requirements, for instance, and giving you the satisfaction of filling up with fuel and simply driving away – no payment.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13886/l4ylvgawhym0masoatiwgkzb084yhro/Chris_Evans.png?rect=0%2C0%2C700%2C450&w=600&fit=clip&s=999a56da089cdec2831e1ee355b04061)
+![](/img/seedrs/uploads/startup/section_image/image/13886/l4ylvgawhym0masoatiwgkzb084yhro/Chris_Evans.png?rect=0%2C0%2C700%2C450&w=600&fit=clip&s=999a56da089cdec2831e1ee355b04061)
 

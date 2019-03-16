@@ -85,7 +85,7 @@ In our opinion Loyalzoo is a particularly appealing acquisition target for payme
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4324/c8ahgip1x03tvaql72uiq2784kcwgpd/Loyalzoo_Team.jpg?rect=64%2C0%2C432%2C160&w=600&fit=clip&s=b945e29583279dbc36437a3d25dc6a5d)
+![](/img/seedrs/uploads/startup/section_image/image/4324/c8ahgip1x03tvaql72uiq2784kcwgpd/Loyalzoo_Team.jpg?rect=64%2C0%2C432%2C160&w=600&fit=clip&s=b945e29583279dbc36437a3d25dc6a5d)
 
 ### Target market
 
@@ -103,7 +103,7 @@ In our experience the independent retail/hospitality sector is very diverse and 
 
 We estimate that by 2018 a total of at least 120,000 independent businesses in the UK will use mobile apps to manage customer loyalty, and we are targeting a 50% market share.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3711/32toeop8aeja5h7a01i7y898n0pi2sy/Admin_area_screenshot_cropped.png?rect=0%2C0%2C1240%2C668&w=600&fit=clip&s=5171db7328882b3b44f023d8050be206)
+![](/img/seedrs/uploads/startup/section_image/image/3711/32toeop8aeja5h7a01i7y898n0pi2sy/Admin_area_screenshot_cropped.png?rect=0%2C0%2C1240%2C668&w=600&fit=clip&s=5171db7328882b3b44f023d8050be206)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ We now want to focus on increasing our growth rate and to create the density of 
 
 We are close to launching partnerships with 3 merchant services companies and one POS provider, giving us exposure to nearly 130,000 merchants in the UK, USA and Ireland. And we intend to setup many more partnerships in future, which will help us scale towards a highly profitable business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3709/68nrl122zgjr7r8y763ivl59zd33njr/Chart_signups.png?rect=0%2C0%2C1077%2C541&w=600&fit=clip&s=0e73243aa2dbf54d42b54460dccc4dbf)
+![](/img/seedrs/uploads/startup/section_image/image/3709/68nrl122zgjr7r8y763ivl59zd33njr/Chart_signups.png?rect=0%2C0%2C1077%2C541&w=600&fit=clip&s=0e73243aa2dbf54d42b54460dccc4dbf)
 
 ### Competition strategy
 

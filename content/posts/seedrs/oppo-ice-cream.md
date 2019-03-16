@@ -83,7 +83,7 @@ We aim to make ice cream relevant again and back into growth - which is why buye
 
 Oppo is the best of both worlds. With just 80 kcals per 100ml against traditional ice cream which has over three times this amount - Oppo gives retailers a way to reach this growing number of consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2757/9r8vb0l6a5b7z7be5vmlc8e2fqtmayd/positioning.png?w=600&fit=clip&s=de91d7e30603cf1a7d289d9a8bb93af6)
+![](/img/seedrs/uploads/startup/section_image/image/2757/9r8vb0l6a5b7z7be5vmlc8e2fqtmayd/positioning.png?w=600&fit=clip&s=de91d7e30603cf1a7d289d9a8bb93af6)
 
 ### Marketing strategy
 
@@ -109,5 +109,5 @@ Frozen yoghurt has stormed the market in the last 6 years, and ice cream has tak
 
 Check out nutritional info vs competitors here.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2766/trppjn5qa174ddjfkw0yva7o7lbpnrg/Vs_Competitors.png?w=600&fit=clip&s=6d133511b28bbe5e37cffac71df50a27)
+![](/img/seedrs/uploads/startup/section_image/image/2766/trppjn5qa174ddjfkw0yva7o7lbpnrg/Vs_Competitors.png?w=600&fit=clip&s=6d133511b28bbe5e37cffac71df50a27)
 

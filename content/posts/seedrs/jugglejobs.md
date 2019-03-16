@@ -101,7 +101,7 @@ The last 3 months of user testing has given us clear findings for our go-to-mark
 
 We are solving an immediate problem for SME business customers by giving access to and placing high-quality professionals into CFO (chief financial officer), FD (finance director) and FC (financial controller) roles. Many existing services are largely offline and service levels are poor so we are able to get traction by simplifying simple tasks and being customer oriented. Many traditional recruitment agencies are incentivised to place but not manage the ongoing relationship.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11466/l7eev3p5z7su0b2wfjuubxldxpjmkqr/Untitled11.png?rect=0%2C0%2C975%2C302&w=600&fit=clip&s=5a1115686417b78922f60d8c064088db)
+![](/img/seedrs/uploads/startup/section_image/image/11466/l7eev3p5z7su0b2wfjuubxldxpjmkqr/Untitled11.png?rect=0%2C0%2C975%2C302&w=600&fit=clip&s=5a1115686417b78922f60d8c064088db)
 
 On the professionals side, we have attracted very high-quality, educated and motivated professionals in the "finance" function. The majority of placements to date have been women and this will be our dominant customer base on the professionals side of the marketplace. We believe that female professionals at this level are currently underpresented and no talent service exists to service their needs in this way.
 
@@ -147,5 +147,5 @@ Talent Marketplaces focusing on flexible/diverse jobs without curated shortlists
 
 Talent Marketplaces with saas/management components - not "white collar": <br>- Upwork.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11467/1wbjd81nqnhinh9l0xio6gm4ox013hm/Untitled12.png?rect=0%2C0%2C865%2C492&w=600&fit=clip&s=2a298d4ccea6cf84607068280f8341b3)
+![](/img/seedrs/uploads/startup/section_image/image/11467/1wbjd81nqnhinh9l0xio6gm4ox013hm/Untitled12.png?rect=0%2C0%2C865%2C492&w=600&fit=clip&s=2a298d4ccea6cf84607068280f8341b3)
 

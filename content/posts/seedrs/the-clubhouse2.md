@@ -77,7 +77,7 @@ HOMEWORKERS: <br>They want to get out of the home environment into a professiona
 
 MONEY SAVERS: <br>These are people who are looking to save money by closing or down-sizing their London office but still want a central London presence, or don’t have sufficient meeting room space at their current offices. <br> <br>STOP-GAPPERS: <br>Start-ups and early stage companies who want an office base whilst in the early stages of growth, and who will move on to take their own offices.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14328/ds7p80l7hxwbrrrjb7ac2d8sjara11v/6.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=774efe7f457f83b25f752115e0066ede)
+![](/img/seedrs/uploads/startup/section_image/image/14328/ds7p80l7hxwbrrrjb7ac2d8sjara11v/6.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=774efe7f457f83b25f752115e0066ede)
 
 ### Characteristics of target market
 
@@ -85,7 +85,7 @@ The market opportunity is significant:
 
 - Many fast growing businesses do not want to tie themselves in to 5, 10 or 15 year office leases and do not want to commit capital to a central London office. <br>- There are 4.5m self-employed people in the UK. <br>- Circa 550,000 new business started up last year <br>- Mobile technology and cloud computing have changed the way people work, allowing for much more mobile and flexible working: 'cappuccino commerce' <br>- In The City of London, the amount of serviced office space has quadrupled since 1995 and is set to double again over the next 10 years. <br>- c.Over 2,250 businesses employing an average of 8 people are currently based in serviced offices in The City – with many more using coffee shops and hotel lobbies: our core target market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14329/koo9bgomose40n7hll6scveqa05mwvr/7.jpg?rect=0%2C0%2C600%2C371&w=600&fit=clip&s=2761df85754dc865dfc82af0ec57a342)
+![](/img/seedrs/uploads/startup/section_image/image/14329/koo9bgomose40n7hll6scveqa05mwvr/7.jpg?rect=0%2C0%2C600%2C371&w=600&fit=clip&s=2761df85754dc865dfc82af0ec57a342)
 
 ### Marketing strategy
 
@@ -101,7 +101,7 @@ Two thirds of our members come via word of mouth and referrals. Outside of this,
 
 - We have sponsored prestigious awards such as the UK Private Business Awards and have aligned ourselves with a number of business networks.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14330/99cxi9szg1isqh9esnnu31e6wje2kak/8.jpg?rect=0%2C0%2C600%2C354&w=600&fit=clip&s=a3babbf7fca072ae5505defd96ebb973)
+![](/img/seedrs/uploads/startup/section_image/image/14330/99cxi9szg1isqh9esnnu31e6wje2kak/8.jpg?rect=0%2C0%2C600%2C354&w=600&fit=clip&s=a3babbf7fca072ae5505defd96ebb973)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ In providing a network of innovative, design led flexible meeting and workspaces
 
 With our focus on providing the best possible service to our members and with one core aim of making our members and their businesses more successful, put simply: no one does WHAT we do, HOW we do it.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14331/6u7t7uv8yq0ky1stzglua6uxvow55x2/9.png?rect=0%2C0%2C600%2C376&w=600&fit=clip&s=a2e52ed6d23bbe6e97d1918dfbf6d220)
+![](/img/seedrs/uploads/startup/section_image/image/14331/6u7t7uv8yq0ky1stzglua6uxvow55x2/9.png?rect=0%2C0%2C600%2C376&w=600&fit=clip&s=a2e52ed6d23bbe6e97d1918dfbf6d220)
 

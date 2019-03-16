@@ -119,15 +119,15 @@ TruRating has 3 main stakeholder groups:
 
 1. Payment Partners - Creating a broad 'enabled' market – instore via payment devices and online - is key to everything we do. We've secured hard won partnerships across our target markets, which means our merchants can access TruRating without needing hardware or capital budgets. To reach large volumes of merchants, we continue to work with partners as a sales and marketing channel once 'enabled'.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15378/q4d59kfywsi7fw8f4z4vw5mefozyujj/New_Payment_Partners_Image.png?rect=0%2C0%2C1066%2C579&w=600&fit=clip&s=ff2effd06b81a323b278d4132997beb1)
+![](/img/seedrs/uploads/startup/section_image/image/15378/q4d59kfywsi7fw8f4z4vw5mefozyujj/New_Payment_Partners_Image.png?rect=0%2C0%2C1066%2C579&w=600&fit=clip&s=ff2effd06b81a323b278d4132997beb1)
 
 2. Businesses - Our key initial targets are merchants who benefit from our insights and our ability to drive customer awareness / traffic. We've built a scaleable solution that delivers simple, actionable insights to all types of merchant - large or small. In the future we intend to provide transaction &amp; product insight, and polling solutions to consumer goods companies and other 3rd parties.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15445/1ltjj13rdrticreyv0j9f00ynvpaniq/TR_Image_10.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=7ec8fac18709bf98d989e4c257ece7d9)
+![](/img/seedrs/uploads/startup/section_image/image/15445/1ltjj13rdrticreyv0j9f00ynvpaniq/TR_Image_10.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=7ec8fac18709bf98d989e4c257ece7d9)
 
 3. Consumers - The consumer is the lifeblood of TruRating. It is key that as we grow they understand we help them find the best businesses, improve their experiences and each rating adds to a charitable donation. <br>
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15379/i7ljpdo10jozo25dluxnqyxgfg5433x/TR_Image_11.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=ab626a0d9eef35a8eb2294d2b9b6bcb4)
+![](/img/seedrs/uploads/startup/section_image/image/15379/i7ljpdo10jozo25dluxnqyxgfg5433x/TR_Image_11.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=ab626a0d9eef35a8eb2294d2b9b6bcb4)
 
 ### Characteristics of target market
 
@@ -135,7 +135,7 @@ The market for our core 'merchant insights' business really is incredibly broad.
 
 We are live with Tier 1 international brands through to local single outlet SMEs in-store and and online
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15380/g9wg37p2v176q3xjcpu1rsjhvoewdr5/TR_Image_12.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=481f618831913f3597d7f951b38e23c0)
+![](/img/seedrs/uploads/startup/section_image/image/15380/g9wg37p2v176q3xjcpu1rsjhvoewdr5/TR_Image_12.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=481f618831913f3597d7f951b38e23c0)
 
 Our relevance extends across verticals and we have proven value / ROI in grocery, fashion, speciality retail, restaurants, pubs, QSR, salons and leisure.
 
@@ -143,13 +143,13 @@ Ultimately, our market is any retail or service business which offers an experie
 
 This allows us to grow across platforms and react to changing payment methods – even frictionless payment solutions such as Amazon Go will continue to provide a form of digital receipt and this provides the opportunity to collect a rating.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15381/cfea1xcuillbysn49gj0w6ajcv2aimg/TR_Image_13.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=4659ccf97b9d0853c21cac2b67a9755c)
+![](/img/seedrs/uploads/startup/section_image/image/15381/cfea1xcuillbysn49gj0w6ajcv2aimg/TR_Image_13.png?rect=0%2C0%2C1214%2C820&w=600&fit=clip&s=4659ccf97b9d0853c21cac2b67a9755c)
 
 ### Marketing strategy
 
 Key to our short-term focus is ‘going live’ with high profile, high volume merchants. Delivering huge ratings volumes every day in itself becomes a powerful marketing tool – we will be prominent in the customer journey, gaining a high profile amongst other merchants whilst creating brand awareness amongst consumers and confidence with SMEs.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15382/i5ysuy6w6dd0t44jb26l2ozrpgh8ogh/TR_Image_14.png?rect=0%2C0%2C1214%2C530&w=600&fit=clip&s=96904122e27fbc1e79d3156f41d13600)
+![](/img/seedrs/uploads/startup/section_image/image/15382/i5ysuy6w6dd0t44jb26l2ozrpgh8ogh/TR_Image_14.png?rect=0%2C0%2C1214%2C530&w=600&fit=clip&s=96904122e27fbc1e79d3156f41d13600)
 
 Securing major brands draws on direct sales process and creating profile and awareness in the retail / customer experience markets. <br>To do so we combine sales prospecting with event presence, PR, thought leadership and partnerships with the likes of Microsoft (we are alumni of Microsoft Ventures) and leading professional services and consultancy businesses.
 
@@ -161,7 +161,7 @@ We believe that we have no direct competitors – we understand that no existing
 
 The barriers to entry are high – it has taken years to overcome the complexities of delivering a 3rd party application on payment devices - and we've created additional barriers through our pending patents and exclusivity provisions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15384/1guomqlauzzhxt1f0qnpo1fu420xq4k/TR_Image_15.png?rect=0%2C0%2C1214%2C901&w=600&fit=clip&s=f2de14087c439235b50d8939dbad9f64)
+![](/img/seedrs/uploads/startup/section_image/image/15384/1guomqlauzzhxt1f0qnpo1fu420xq4k/TR_Image_15.png?rect=0%2C0%2C1214%2C901&w=600&fit=clip&s=f2de14087c439235b50d8939dbad9f64)
 
 The nearest competitors for our ‘merchant insights’ business are mystery visitors, exit survey or receipt-driven survey solutions. We provide a level of detail, timeliness and ability to take action that we believe cannot be matched by existing solutions.
 

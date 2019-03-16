@@ -99,7 +99,7 @@ Fiinu will also target the wealthier part of society with our savings accounts a
 
 The target market opportunity across Europe and North America are challenging to quantify, but we believe that the opportunity is vast.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13822/2jbl52jyvngoveah0g2qnmcd9vxb9v3/After_Target_Market.png?rect=0%2C0%2C3080%2C1580&w=600&fit=clip&s=b87cd308fb312f197a1f14ac3a659b46)
+![](/img/seedrs/uploads/startup/section_image/image/13822/2jbl52jyvngoveah0g2qnmcd9vxb9v3/After_Target_Market.png?rect=0%2C0%2C3080%2C1580&w=600&fit=clip&s=b87cd308fb312f197a1f14ac3a659b46)
 
 ### Characteristics of target market
 
@@ -115,7 +115,7 @@ Fiinu's cryptocurrency and blockchain business opportunities are growing fast as
 
 The most popular individual reason in the UK to switch banks is a better return on savings (39%). We expect to be able to offer these customers competitive interest rates.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13823/pqq5basbqocbqn7j11canasymipglly/After_Characteristics_of_the_Target_Market.png?rect=973%2C545%2C1346%2C1653&w=600&fit=clip&s=692901549dbd422d7b76dad9bfee5b61)
+![](/img/seedrs/uploads/startup/section_image/image/13823/pqq5basbqocbqn7j11canasymipglly/After_Characteristics_of_the_Target_Market.png?rect=973%2C545%2C1346%2C1653&w=600&fit=clip&s=692901549dbd422d7b76dad9bfee5b61)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ Adverts are targeted by user profiling, so they are likely to be viewed by a hig
 
 We expect that Fiinu’s customer acquisition costs will be significantly less than that of the traditional banks. In general, these banks do not target the lower-end customers per se, but typically concentrate on the most profitable customers and products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13824/ch54oixlegrt75ksc0q0kasn6sb15e6/After_Marketing_strategy.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=68582d7d9736873e97a4e3f2ced25845)
+![](/img/seedrs/uploads/startup/section_image/image/13824/ch54oixlegrt75ksc0q0kasn6sb15e6/After_Marketing_strategy.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=68582d7d9736873e97a4e3f2ced25845)
 
 ### Competition strategy
 
@@ -137,5 +137,5 @@ We expect that Fiinu will be able to acquire customers at a significant discount
 
 Fiinu plans to utilise artificial intelligence, machine learning, automation, robotics and PSD2, Open Banking and blockchain technologies in order to be more efficient and cost-effective than any other traditional bank in the world today.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13825/nel0o4emumxunxfkvmus2by6lbpvcmt/After_competition_strategy.png?rect=0%2C0%2C1920%2C1580&w=600&fit=clip&s=4f77963e93b0bac4b10235f570a2637f)
+![](/img/seedrs/uploads/startup/section_image/image/13825/nel0o4emumxunxfkvmus2by6lbpvcmt/After_competition_strategy.png?rect=0%2C0%2C1920%2C1580&w=600&fit=clip&s=4f77963e93b0bac4b10235f570a2637f)
 

@@ -79,7 +79,7 @@ We need to act fast and be the first to market in as many locations as we can ma
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15488/mk1wr7ytzsem84wb6p7ks25y7knlsdh/accomplishments.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=f90045d477cb9f28c1ef3e89e0a7ee68)
+![](/img/seedrs/uploads/startup/section_image/image/15488/mk1wr7ytzsem84wb6p7ks25y7knlsdh/accomplishments.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=f90045d477cb9f28c1ef3e89e0a7ee68)
 
 ### Target market
 
@@ -93,7 +93,7 @@ We now have roads down across the globe, including Australia, Bahrain, New Zeala
 
 We stimulate the growth through local authority and at government level, whilst selling our products into the asphalt manufacturers across the world.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15494/4dhtnqp75ybykhgytnumpre48nvu05f/Screen_Shot_2018-08-24_at_16.07.37.png?rect=0%2C-4%2C967%2C420&w=600&fit=clip&s=1bb6218161db6d7beac4313bf53bc0eb)
+![](/img/seedrs/uploads/startup/section_image/image/15494/4dhtnqp75ybykhgytnumpre48nvu05f/Screen_Shot_2018-08-24_at_16.07.37.png?rect=0%2C-4%2C967%2C420&w=600&fit=clip&s=1bb6218161db6d7beac4313bf53bc0eb)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ Looking ahead, the Department for Transport’s capital budget is forecast to in
 
 Worldwide demand for bitumen is projected to expand 2.8 percent per annum to 122.5 million metric tons (742.5 million barrels) in 2019. The Asia/Pacific region and USA is expected to see the most rapid growth in demand during this time and MacRebur have already begun establishing our relationships in these areas to be part of this growth in demand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15493/1zc3y3p5dtyv7b9epc8uqcvdjnh756/Road_2.jpg?rect=0%2C0%2C960%2C720&w=600&fit=clip&s=3230e112cd12ed2f2ff44ebc5b6d85f1)
+![](/img/seedrs/uploads/startup/section_image/image/15493/1zc3y3p5dtyv7b9epc8uqcvdjnh756/Road_2.jpg?rect=0%2C0%2C960%2C720&w=600&fit=clip&s=3230e112cd12ed2f2ff44ebc5b6d85f1)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ Our marketing strategy starts online, using social media sites to publicise that
 
 We have produced a press and media pack which is then sent to local newspapers, TV and radio stations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15496/dhac9ejudtalgd60ibrtugxyqktrd9/DSCF2387.JPG?rect=0%2C0%2C4566%2C3455&w=600&fit=clip&s=da91bc164571da42f83442a86cae425d)
+![](/img/seedrs/uploads/startup/section_image/image/15496/dhac9ejudtalgd60ibrtugxyqktrd9/DSCF2387.JPG?rect=0%2C0%2C4566%2C3455&w=600&fit=clip&s=da91bc164571da42f83442a86cae425d)
 
 ### Competition strategy
 
@@ -123,5 +123,5 @@ There are asphalt additives on the market that do strengthen roads. However, the
 
 By comparison, our products come in pellet, flake or a sand form, they have no 'use by date', can be ordered in any quantity, can be used by every asphalt plant in the world without any plant modifications, are environmentally friendly, replace some of the fossil fuel bitumen in the asphalt mix and are more cost-effective than other additives.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15487/7nnkmbialhfbn06wplrdyyc3u59pgfr/MacRebur-Penrith.jpg?rect=0%2C0%2C787%2C539&w=600&fit=clip&s=18e05e53a1d102a5efcc7b0279243f16)
+![](/img/seedrs/uploads/startup/section_image/image/15487/7nnkmbialhfbn06wplrdyyc3u59pgfr/MacRebur-Penrith.jpg?rect=0%2C0%2C787%2C539&w=600&fit=clip&s=18e05e53a1d102a5efcc7b0279243f16)
 

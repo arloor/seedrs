@@ -75,7 +75,7 @@ Our primary target market is anything sport related, from athletes /teams / club
 
 In the last 12 months, we have launched high-profile, successful campaigns in the UK, US, and Ireland. In the next 12 months we will be focused on increasing our reach and brand awareness across the US and expanding into the rest of Europe.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3057/py5kw5te88efs4cztcwbrvdche026ua/Screenshot_2015-01-26_15.30.28.png?w=600&fit=clip&s=402cfc8b322b292981d39730d5440bae)
+![](/img/seedrs/uploads/startup/section_image/image/3057/py5kw5te88efs4cztcwbrvdche026ua/Screenshot_2015-01-26_15.30.28.png?w=600&fit=clip&s=402cfc8b322b292981d39730d5440bae)
 
 ### Characteristics of target market
 
@@ -87,7 +87,7 @@ We have a technology platform that is running cross-platform, integrated marketi
 
 We have also engaged regularly through traditional media, such as sports-related magazines and websites, and employed some traditional PR campaigns. <br>We have also seen great success through guerrilla marketing and word of mouth.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3056/rybzopsizkqiuqhjtc87n8c8g1pz8uz/Screenshot_2015-01-26_15.24.03.png?w=600&fit=clip&s=7f23f31ebf7f35c549ff753e4ab1d3f5)
+![](/img/seedrs/uploads/startup/section_image/image/3056/rybzopsizkqiuqhjtc87n8c8g1pz8uz/Screenshot_2015-01-26_15.24.03.png?w=600&fit=clip&s=7f23f31ebf7f35c549ff753e4ab1d3f5)
 
 ### Competition strategy
 

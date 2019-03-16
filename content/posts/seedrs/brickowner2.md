@@ -103,7 +103,7 @@ Another target is property asset managers wanting new sources of funding, benefi
 
 Asset managers will also benefit from our secondary market, offering liquidity to their investors and ours rather than a 3-7 year lock-in. We provide a technology platform with on-boarding and investment management facilities that allow investment managers to work with new investors, and to manage their own more easily.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12758/6bjq8b5nem18c8bf6ixvz3axf51n72w/Screen_Shot_2017-09-13_at_10.18.31.png?rect=0%2C8%2C1707%2C950&w=600&fit=clip&s=ceb273ccf9275935352c3642441b1f36)
+![](/img/seedrs/uploads/startup/section_image/image/12758/6bjq8b5nem18c8bf6ixvz3axf51n72w/Screen_Shot_2017-09-13_at_10.18.31.png?rect=0%2C8%2C1707%2C950&w=600&fit=clip&s=ceb273ccf9275935352c3642441b1f36)
 
 ### Characteristics of target market
 
@@ -115,7 +115,7 @@ There are 2 million Buy-to-Let landlords in the UK, many of whom may have been n
 
 Since 2007 we believe investors want more control and transparency when it comes to investing, and we believe this is offered by an online platform like Brickowner.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12763/ai6bkgdzxppu7i52m6acpinnjogzy9p/Screen_Shot_2017-09-13_at_10.23.34.png?rect=0%2C0%2C1703%2C951&w=600&fit=clip&s=8b4fd5a14b4368fe74b88a56417b90cf)
+![](/img/seedrs/uploads/startup/section_image/image/12763/ai6bkgdzxppu7i52m6acpinnjogzy9p/Screen_Shot_2017-09-13_at_10.23.34.png?rect=0%2C0%2C1703%2C951&w=600&fit=clip&s=8b4fd5a14b4368fe74b88a56417b90cf)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ Direct investors are customers that join Brickowner directly. So far we have dev
 
 We also now intend to implement an online marketing, media and PR program.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12771/rtis1q5wwcl4lo3cjgu8zt7xwfts3mh/Screen_Shot_2017-09-13_at_10.27.22.png?rect=110%2C13%2C1580%2C932&w=600&fit=clip&s=6b770554a1f0efb14040836d3a3ac260)
+![](/img/seedrs/uploads/startup/section_image/image/12771/rtis1q5wwcl4lo3cjgu8zt7xwfts3mh/Screen_Shot_2017-09-13_at_10.27.22.png?rect=110%2C13%2C1580%2C932&w=600&fit=clip&s=6b770554a1f0efb14040836d3a3ac260)
 
 ### Competition strategy
 

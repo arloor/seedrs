@@ -53,7 +53,7 @@ Moreover, users always have the possibility to immediately buy the offer by clic
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8232/fuis3yaj1jtyf9g5zrr8g54uyc9fcy2/2.jpg?rect=0%2C0%2C1939%2C1276&w=600&fit=clip&s=2e3985f4ef00ace2c00ebe3331cf7bc3)
+![](/img/seedrs/uploads/startup/section_image/image/8232/fuis3yaj1jtyf9g5zrr8g54uyc9fcy2/2.jpg?rect=0%2C0%2C1939%2C1276&w=600&fit=clip&s=2e3985f4ef00ace2c00ebe3331cf7bc3)
 
 ### Target market
 
@@ -63,17 +63,17 @@ Bidtotrip’s reference target is women between 25-45 years old with an annual i
 
 The travel industry in Europe counts a total addressable market with a turnover of more than £200 billion. STR Global estimates that there are 187,000 hotels (with more than 20 rooms) offering 17.5 million guest rooms around the globe. In Europe alone, 1 billion trips are sold every year and 6 million have a duration of 1 to 3 nights. Concurrently, more than 1 million rooms remain unsold every day in hotels across Europe. Bidtotrip aims to fill this large amount of empty rooms. With regards to travel e-commerce trends, almost half of total travel sales in Europe are generated online, covering 26% of total e-commerce revenue, and positioning as the main online industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8234/1nbo7q6qjj5ad92wm60gcn7selqsyq9/5.jpg?rect=0%2C0%2C1939%2C1276&w=600&fit=clip&s=f29fbb2851e5ffefedee02ead3063a9a)
+![](/img/seedrs/uploads/startup/section_image/image/8234/1nbo7q6qjj5ad92wm60gcn7selqsyq9/5.jpg?rect=0%2C0%2C1939%2C1276&w=600&fit=clip&s=f29fbb2851e5ffefedee02ead3063a9a)
 
 ### Marketing strategy
 
 Moreover, the innovation of auctions in the luxury travel industry and the offer of auctions with a starting price of £1 make us able to count on a generation of a big WOW effect. We think the best way to reach the market is the combination of DEM, social media marketing, AdWords marketing and guerrilla marketing. So the best way to reach the market is to invest in social networks and to build solid strategic partnerships in order to increase engagement and interest around this new travel solution. The creation of viral content is another option to pursue, increasing spreading also by the activation of strong guerrilla actions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8235/rgv13hoiv9a3g58egby8yn3nhb0bwst/cover.jpg?rect=0%2C0%2C1480%2C831&w=600&fit=clip&s=43d1f8aedbdaa1a5fca98bf4e4b5bab7)
+![](/img/seedrs/uploads/startup/section_image/image/8235/rgv13hoiv9a3g58egby8yn3nhb0bwst/cover.jpg?rect=0%2C0%2C1480%2C831&w=600&fit=clip&s=43d1f8aedbdaa1a5fca98bf4e4b5bab7)
 
 ### Competition strategy
 
 Our differentiation strategy is focused on the creation of an interesting offer in terms of products quality, price and purchase modalities: combining a top selection of hotels and a mix of buying possibilities (auction, flash-sale, buy now). Bidtotrip is able to propose an innovative offer with a high quality/price. In fact, winning a luxury holiday by participating in auctions whose starting price is just £1 means that the final auction prices can be reduced by up to 90%. This model definitely brings a disruptive element to the auction system in general as well as the online travel sector: nobody we know of in the travel market presents such an intriguing mix between quality and price.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8236/3ij4ko1qvabwwqlqr9th39mur6zb1sr/11109670_1611200439127972_6997770143588280433_o.jpg?rect=0%2C0%2C1266%2C682&w=600&fit=clip&s=b6aaab72982742cc4b32570093c26854)
+![](/img/seedrs/uploads/startup/section_image/image/8236/3ij4ko1qvabwwqlqr9th39mur6zb1sr/11109670_1611200439127972_6997770143588280433_o.jpg?rect=0%2C0%2C1266%2C682&w=600&fit=clip&s=b6aaab72982742cc4b32570093c26854)
 

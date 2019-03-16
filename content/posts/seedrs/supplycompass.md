@@ -81,7 +81,7 @@ Please note that whilst the campaign is labelled as EIS eligible, the company ha
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10988/34yutiv4q8qz4on9xonncufepba6cxr/Market_Size.jpg?rect=0%2C0%2C1915%2C1102&w=600&fit=clip&s=c7a54323ed02e980f1e90505358af5fd)
+![](/img/seedrs/uploads/startup/section_image/image/10988/34yutiv4q8qz4on9xonncufepba6cxr/Market_Size.jpg?rect=0%2C0%2C1915%2C1102&w=600&fit=clip&s=c7a54323ed02e980f1e90505358af5fd)
 
 Our customers include any brands who are looking to find international manufacturers. <br>This may include those that:
 
@@ -107,13 +107,13 @@ Using a top down approach: <br>UK imports in relevant sectors total £56bn. If w
 
 These numbers are for the UK only. As we expand into Europe and the US, these numbers dramatically increase. For the above numbers, we have assumed revenue is ten percent of order size. This is consistent with current sourcing agents.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10989/t2ekvslxtma4wljwhgtar0mu6tzu2hr/What_are_the_benefits.jpg?rect=0%2C0%2C1870%2C1254&w=600&fit=clip&s=1ffe7de0ae568b4455f5572d123a2fc9)
+![](/img/seedrs/uploads/startup/section_image/image/10989/t2ekvslxtma4wljwhgtar0mu6tzu2hr/What_are_the_benefits.jpg?rect=0%2C0%2C1870%2C1254&w=600&fit=clip&s=1ffe7de0ae568b4455f5572d123a2fc9)
 
 Our current target market either has to go it alone which rarely results in favourable outcomes or has to approach the large sourcing agents who do not cater well for this end of the market. This is because they have an entirely manual (people-based) infrastructure.
 
 We believe there are currently a huge number of products that are not reaching the market because they fail to find a suitable manufacturer at an affordable price. If we can create an opportunity for these businesses to succeed, we will open up a whole new sector of the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10990/p11ctb1ycdkl1au5ycxroy4c7d76mz2/Smiling_Lady.jpg?rect=0%2C0%2C1883%2C895&w=600&fit=clip&s=9ca26df818799fba2b036221884782d2)
+![](/img/seedrs/uploads/startup/section_image/image/10990/p11ctb1ycdkl1au5ycxroy4c7d76mz2/Smiling_Lady.jpg?rect=0%2C0%2C1883%2C895&w=600&fit=clip&s=9ca26df818799fba2b036221884782d2)
 
 ### Marketing strategy
 
@@ -131,7 +131,7 @@ Logo placement. <br>• We will put a Supplycompass ‘C’ label in all our cli
 
 Targeted collaborations with complimentary businesses. <br>• NFP influencers in promoting transparency in the supply chain <br>• Crowdfunding platforms and angel investor collaboration - become the trusted development partner
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10991/oitxlejjp7zcp9vov47082oyhozd4yf/Finger.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=0d126b14928897ee2f6944fe2b9b3f2a)
+![](/img/seedrs/uploads/startup/section_image/image/10991/oitxlejjp7zcp9vov47082oyhozd4yf/Finger.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=0d126b14928897ee2f6944fe2b9b3f2a)
 
 ### Competition strategy
 
@@ -147,5 +147,5 @@ There are significant barriers to entry listed below.
 
 Key to our offering is being able to help small businesses who do not have the contacts, knowledge or set-up to be able to do many of the things that we can.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10992/k3nhsme95sklpbhd4qulyc8ju0zvtvv/Example_Profile.jpg?rect=-1%2C0%2C1889%2C3593&w=600&fit=clip&s=2548a2e7ead89dc9322128b47c4a1246)
+![](/img/seedrs/uploads/startup/section_image/image/10992/k3nhsme95sklpbhd4qulyc8ju0zvtvv/Example_Profile.jpg?rect=-1%2C0%2C1889%2C3593&w=600&fit=clip&s=2548a2e7ead89dc9322128b47c4a1246)
 

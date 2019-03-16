@@ -91,7 +91,7 @@ Our target market is large, with 4,913 stadiums worldwide. We also have the pote
 
 - Arenas. <br>- Live Music Venues. <br>- Festivals. <br>- Conference Centres. <br>- Sporting Venues. <br>- Theatres. <br>- Bars &amp; Clubs.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14118/gh2thqwo892by6of6v3mca5ohgjusri/invest__1_.PNG?rect=0%2C0%2C1126%2C602&w=600&fit=clip&s=11b2aad58692b5ebc7748d56d618f7dc)
+![](/img/seedrs/uploads/startup/section_image/image/14118/gh2thqwo892by6of6v3mca5ohgjusri/invest__1_.PNG?rect=0%2C0%2C1126%2C602&w=600&fit=clip&s=11b2aad58692b5ebc7748d56d618f7dc)
 
 ### Characteristics of target market
 
@@ -113,13 +113,13 @@ Our target market is large, with 4,913 stadiums worldwide. We also have the pote
 
 - UK stadiums are unlikely to have functioning wifi for fans in the near future due to the costs involved. However, as and when connectivity arrives, we will be in a position to offer extra products and services
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14183/gt84ilydzupbi9lgcxsnxefmtmupvg4/Screen_Shot_2018-03-07_at_15.01.25.png?rect=0%2C0%2C600%2C334&w=600&fit=clip&s=fcfe9bb8f4da0623d934479dadeae822)
+![](/img/seedrs/uploads/startup/section_image/image/14183/gt84ilydzupbi9lgcxsnxefmtmupvg4/Screen_Shot_2018-03-07_at_15.01.25.png?rect=0%2C0%2C600%2C334&w=600&fit=clip&s=fcfe9bb8f4da0623d934479dadeae822)
 
 ### Marketing strategy
 
 - Traditional outbound sales. <br>We are already in talks with many of the UK's largest stadiums, especially through our relationship with our existing client, Centerplate. With this investment, we can better convert and service these clients.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14189/rf7rczhegdrl3u96rzrrxlanfxsvsl0/Twitter_Banner__2_.jpg?rect=0%2C0%2C1500%2C500&w=600&fit=clip&s=ad689b1012e3eebe2a2e22a12af465f0)
+![](/img/seedrs/uploads/startup/section_image/image/14189/rf7rczhegdrl3u96rzrrxlanfxsvsl0/Twitter_Banner__2_.jpg?rect=0%2C0%2C1500%2C500&w=600&fit=clip&s=ad689b1012e3eebe2a2e22a12af465f0)
 
 ### Competition strategy
 

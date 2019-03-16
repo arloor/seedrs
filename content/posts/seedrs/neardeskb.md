@@ -103,7 +103,7 @@ We believe the mass market will come from employees of larger companies working 
 
 Commuting is not a purely London centric problem - with the national average commute being 50 minutes each way (8.5 hours per week) - most of it in cars.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1256/1fvx27j2qyr2cclddp2dkhib4c3kyhi/10.CBRE.jpg?rect=0%2C0%2C736%2C531&w=600&fit=clip&s=fcabed45b44a6a177f41976299a5334b)
+![](/img/seedrs/uploads/startup/section_image/image/1256/1fvx27j2qyr2cclddp2dkhib4c3kyhi/10.CBRE.jpg?rect=0%2C0%2C736%2C531&w=600&fit=clip&s=fcabed45b44a6a177f41976299a5334b)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ There are now 2,000 business centres and at least 129 UK work hubs (up from 24 i
 
 In our opinion property is one of the largest costs for many companies – and the cost and stress of commuting artificially increase salaries commanded by talented staff. Technology now allows flexible working – combining time in the office with home, coffee-shops and flexible work hubs. With 100 million square feet empty in the UK, we believe the trend to shift from 25 year to 3 month to hourly leases will continue. UK Government plans to start hot-desking to reduce their £25bn/year property costs with an “8 desks for 10 staff” guideline.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1257/sbmcj94x19qmevyc3f6kflwa1ghpe1o/9.WhosHereNow.png?rect=0%2C0%2C1210%2C850&w=600&fit=clip&s=c526f8743b709145ed07ea6e19bfdebe)
+![](/img/seedrs/uploads/startup/section_image/image/1257/sbmcj94x19qmevyc3f6kflwa1ghpe1o/9.WhosHereNow.png?rect=0%2C0%2C1210%2C850&w=600&fit=clip&s=c526f8743b709145ed07ea6e19bfdebe)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ We plan to target large corporate accounts. Our partnership model allows partner
 
 We expect to increase these activities by promoting viral (refer a friend) behaviours.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1258/rld8gqihsfoiyfrot2jus1ug934espf/4.Cards.PNG?rect=0%2C0%2C556%2C431&w=600&fit=clip&s=d5b24bd836c634fc331980038cc9253a)
+![](/img/seedrs/uploads/startup/section_image/image/1258/rld8gqihsfoiyfrot2jus1ug934espf/4.Cards.PNG?rect=0%2C0%2C556%2C431&w=600&fit=clip&s=d5b24bd836c634fc331980038cc9253a)
 
 ### Competition strategy
 
@@ -145,5 +145,5 @@ We hope to beat our current and future competitors through a combination of:
 
 &gt; Using our revenue sharing business model to partner with networks, locations and search sites <br>&gt; Building better technology to give a better user experience and create loyalty <br>&gt; Focusing on the UK market initially – expanding overseas from a strong base Our own experience suggests that a "pay as you go" service which does not require pre-booking or paying only for full days would be very useful - and we hope you do too.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1259/78kjvygakm9i6pt2fcvbtpuou14805m/3.CardInAction.PNG?rect=0%2C0%2C1894%2C1013&w=600&fit=clip&s=f21b24a92c35ede44a75795fa1b6d0d6)
+![](/img/seedrs/uploads/startup/section_image/image/1259/78kjvygakm9i6pt2fcvbtpuou14805m/3.CardInAction.PNG?rect=0%2C0%2C1894%2C1013&w=600&fit=clip&s=f21b24a92c35ede44a75795fa1b6d0d6)
 

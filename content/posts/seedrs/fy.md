@@ -127,7 +127,7 @@ We expect that this round will take us to August 2016, after this point we will 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5343/fhgzqtdq89j62dejt0529gbe4lc4xvu/Market_page_top.jpg?rect=0%2C0%2C1480%2C503&w=600&fit=clip&s=0ea11995e9481fd71af2db7ec4d7ae27)
+![](/img/seedrs/uploads/startup/section_image/image/5343/fhgzqtdq89j62dejt0529gbe4lc4xvu/Market_page_top.jpg?rect=0%2C0%2C1480%2C503&w=600&fit=clip&s=0ea11995e9481fd71af2db7ec4d7ae27)
 
 ### Target market
 
@@ -159,7 +159,7 @@ They sell their products through boutiques and direct, but are frustrated by sel
 
 They want to grow a brand and create a connection with their audience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5345/kna46ib4fqopqgm7q38aq3mrmypgou5/TARGET_MARKET.jpg?rect=0%2C0%2C1480%2C504&w=600&fit=clip&s=82b331312199e5b84b1ae4e35c9a6cec)
+![](/img/seedrs/uploads/startup/section_image/image/5345/kna46ib4fqopqgm7q38aq3mrmypgou5/TARGET_MARKET.jpg?rect=0%2C0%2C1480%2C504&w=600&fit=clip&s=82b331312199e5b84b1ae4e35c9a6cec)
 
 ### Characteristics of target market
 
@@ -177,7 +177,7 @@ We're also planning to target emerging markets where we see an enticing opportun
 
 Finally, based on competitors, retail sales across all eventual target categories and markets are estimated to represent a €1.2tn addressable market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5342/o9rjol04ia3kue5t40i25n3fhxh8ndu/Characteristics_of_market_bottom.jpg?rect=0%2C0%2C1480%2C504&w=600&fit=clip&s=0ea66fca4570d54b06f9de2f29e42e91)
+![](/img/seedrs/uploads/startup/section_image/image/5342/o9rjol04ia3kue5t40i25n3fhxh8ndu/Characteristics_of_market_bottom.jpg?rect=0%2C0%2C1480%2C504&w=600&fit=clip&s=0ea66fca4570d54b06f9de2f29e42e91)
 
 ### Marketing strategy
 
@@ -203,7 +203,7 @@ Our mobile marketing strategy will comprise;
 
 Our acquisition marketing is followed up by relevant retention marketing to drive engagement, conversion and repeat purchasers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5344/mcdxkjufeleeuj2wg4sf5t4bzpaoho8/Marketing_strategy_bottom.jpg?rect=0%2C0%2C1475%2C500&w=600&fit=clip&s=56ba0ea009b319a31b95c6cbddb3fc60)
+![](/img/seedrs/uploads/startup/section_image/image/5344/mcdxkjufeleeuj2wg4sf5t4bzpaoho8/Marketing_strategy_bottom.jpg?rect=0%2C0%2C1475%2C500&w=600&fit=clip&s=56ba0ea009b319a31b95c6cbddb3fc60)
 
 ### Competition strategy
 
@@ -235,5 +235,5 @@ Since founding the business, we've accumulated a group of advisors and investors
 
 We'd love you to join them!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5351/3uslkv0jmozgjud0rwomksr6go83dk4/image.png?rect=28%2C0%2C911%2C539&w=600&fit=clip&s=aef58cc1effc4c9490129e87f9093edd)
+![](/img/seedrs/uploads/startup/section_image/image/5351/3uslkv0jmozgjud0rwomksr6go83dk4/image.png?rect=28%2C0%2C911%2C539&w=600&fit=clip&s=aef58cc1effc4c9490129e87f9093edd)
 

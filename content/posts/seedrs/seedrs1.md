@@ -109,7 +109,7 @@ Our core investor base is made up of two types of self-directed investor:
 
 In addition to this core, we are increasingly attracting investment from advised investors and institutions, and this is an area of the business we intend to continue to grow significantly.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5009/g9z4dc6z8mazswqitgmtcyvdd1h2s1j/Investor_typeswhite111.jpg?rect=0%2C0%2C945%2C767&w=600&fit=clip&s=837b162699e46582783a628886bc7774)
+![](/img/seedrs/uploads/startup/section_image/image/5009/g9z4dc6z8mazswqitgmtcyvdd1h2s1j/Investor_typeswhite111.jpg?rect=0%2C0%2C945%2C767&w=600&fit=clip&s=837b162699e46582783a628886bc7774)
 
 ### Characteristics of target market
 

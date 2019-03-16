@@ -99,7 +99,7 @@ We want to invest in people - to secure the current team then augment it by recr
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8000/trok0q2rgtjtit6fwglgcva9a8ccbdl/banner5.jpg?rect=0%2C0%2C600%2C566&w=600&fit=clip&s=bb3c34362d0c2cb17f698fb5dc276697)
+![](/img/seedrs/uploads/startup/section_image/image/8000/trok0q2rgtjtit6fwglgcva9a8ccbdl/banner5.jpg?rect=0%2C0%2C600%2C566&w=600&fit=clip&s=bb3c34362d0c2cb17f698fb5dc276697)
 
 Initial target users are the following two groups:
 
@@ -115,7 +115,7 @@ Those with hiring power may have to find last-minute solutions when sick calls o
 
 In Hong Kong, (where we will launch our proof of concept), the food and beverage industry is constantly short-staffed by 20,000 people. This presents a perfect canvas on which to launch and test Canyudo.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8001/g83g803ynkpi8zut9q8gfcb10pq57t1/banner8.jpg?rect=0%2C0%2C600%2C386&w=600&fit=clip&s=ee29f8c489e68a719d001fed05cd9af7)
+![](/img/seedrs/uploads/startup/section_image/image/8001/g83g803ynkpi8zut9q8gfcb10pq57t1/banner8.jpg?rect=0%2C0%2C600%2C386&w=600&fit=clip&s=ee29f8c489e68a719d001fed05cd9af7)
 
 ### Characteristics of target market
 
@@ -123,7 +123,7 @@ As the sharing economy continues to grow and adopt flexible working practices, s
 
 • 10% of UK workers are looking for additional hours. <br>• 260,000 employment agencies worldwide. <br>• Worldwide growth in temp jobs. <br>• An estimated 75 million 'Dispatch Workers' in China (2011) although some estimates are higher. <br>• The sector grew from $130 bn in 2014 to $151bn in 2015 in the USA alone!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8002/2b4nikb5phg16givgk0eosg25quqwnn/Screenshot_2016-04-19_12.44.35.png?rect=0%2C-5%2C632%2C492&w=600&fit=clip&s=f42243e1d1575f011a464d1da115ef1f)
+![](/img/seedrs/uploads/startup/section_image/image/8002/2b4nikb5phg16givgk0eosg25quqwnn/Screenshot_2016-04-19_12.44.35.png?rect=0%2C-5%2C632%2C492&w=600&fit=clip&s=f42243e1d1575f011a464d1da115ef1f)
 
 ### Marketing strategy
 
@@ -147,7 +147,7 @@ Further marketing activities should amplify early growth.
 
 Once a blueprint is established, we’ll plan to launch in further locations: London and other major markets in UK, eventually “crossing the chasm” to major cities in Europe and USA.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8003/132ccdgb0zb7rigqeb0g8o70pbkncmw/banner-6---testimonial-2.jpg?rect=0%2C0%2C600%2C113&w=600&fit=clip&s=652453ab97ceada6180f1a2c6307bc28)
+![](/img/seedrs/uploads/startup/section_image/image/8003/132ccdgb0zb7rigqeb0g8o70pbkncmw/banner-6---testimonial-2.jpg?rect=0%2C0%2C600%2C113&w=600&fit=clip&s=652453ab97ceada6180f1a2c6307bc28)
 
 ### Competition strategy
 
@@ -177,7 +177,7 @@ Social Networks are great at delivering visual content and connecting friends or
 
 Taking advantage social networks, we aim to empower social connectors to make things happen. In a time when Social networks are concerned about ‘contextual collapse’ - we are all about context.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8004/6p9ho5hualhf42a7y8ycgqog062muo5/banner-6---testimonial5__1_.jpg?rect=0%2C0%2C600%2C211&w=600&fit=clip&s=fafb0d057551a29204c72d99d9d2158e)
+![](/img/seedrs/uploads/startup/section_image/image/8004/6p9ho5hualhf42a7y8ycgqog062muo5/banner-6---testimonial5__1_.jpg?rect=0%2C0%2C600%2C211&w=600&fit=clip&s=fafb0d057551a29204c72d99d9d2158e)
 
 Make work play.
 
@@ -187,7 +187,7 @@ The company mission is to use game-design to:-
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8005/r4ns8vgdjehpxs8rce9z4n9pdn0n8cs/banner-6---testimonial-4.jpg?rect=0%2C0%2C600%2C189&w=600&fit=clip&s=54aa618cc1dee91db4e5b319d2d87049)
+![](/img/seedrs/uploads/startup/section_image/image/8005/r4ns8vgdjehpxs8rce9z4n9pdn0n8cs/banner-6---testimonial-4.jpg?rect=0%2C0%2C600%2C189&w=600&fit=clip&s=54aa618cc1dee91db4e5b319d2d87049)
 
 Please help to make work play by investing in Canyudo.
 

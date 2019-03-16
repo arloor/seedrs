@@ -69,7 +69,7 @@ Cash - £700bn is held in cash savings accounts in the UK earning tiny interest 
 
 Existing Investors - DIY investors who use an online trading platform, or who hold money in a Stocks and Shares ISA. We expect to persuade a small but increasing share of these customers to shift to Wealthify, driven by recognition that having a trusted third party make the decisions is better than DIY investing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11982/3aiwbqjd15ly1sgdvu2h9xbxhjv42zz/image012.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=8a4b15592f736b465ce6b7711fc0881d)
+![](/img/seedrs/uploads/startup/section_image/image/11982/3aiwbqjd15ly1sgdvu2h9xbxhjv42zz/image012.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=8a4b15592f736b465ce6b7711fc0881d)
 
 ### Characteristics of target market
 
@@ -79,11 +79,11 @@ The concept of Robo-advice originated in the USA about eight years ago when serv
 
 Although Wealthify falls under the Robo-advice heading, it offers its service on a non-advised basis. We make no recommendations to our customers and we do not offer them advice. This means that our business has lower regulatory and lower operating costs, due to not needing to charge for customer-facing advisers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11983/kcufu1l3k2c3xmq10j08jp5wofqtw69/image013.jpg?rect=0%2C0%2C600%2C439&w=600&fit=clip&s=d82c8d8e750f706d1dd5bba9bacc4ff1)
+![](/img/seedrs/uploads/startup/section_image/image/11983/kcufu1l3k2c3xmq10j08jp5wofqtw69/image013.jpg?rect=0%2C0%2C600%2C439&w=600&fit=clip&s=d82c8d8e750f706d1dd5bba9bacc4ff1)
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11984/z2hukbp3paqfv4af6mtnm4ksvdlw9m/image014.jpg?rect=0%2C0%2C600%2C425&w=600&fit=clip&s=fa37ca1b794cfed5279b31243bc3d0a9)
+![](/img/seedrs/uploads/startup/section_image/image/11984/z2hukbp3paqfv4af6mtnm4ksvdlw9m/image014.jpg?rect=0%2C0%2C600%2C425&w=600&fit=clip&s=fa37ca1b794cfed5279b31243bc3d0a9)
 
 Wealthify expects to acquire customers primarily through B2C channels but also using B2B and B2B2C channels to accelerate early customer acquisition. <br>The founders and team at Wealthify have considerable experience of digital marketing and we intend to leverage this expertise to bring to bear online marketing to acquire customers. The strategy includes use of SEO, PPC, social media, affiliation, email marketing &amp; online display advertising.
 
@@ -107,5 +107,5 @@ We recognise that trust, reputation and performance will be paramount to our con
 
 Our competition will consist of new entrants and incumbents. We believe that incumbents are not driven to push Robo-advice because it undermines existing revenue streams and they have a wide array of services amongst which their Robo-advice offering gets lost. The key opportunity for Robo-advice is the mass-market, expanding the market for investing. We believe the leader will be a single-purpose brand that establishes itself as the go-to name for British consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11985/1zjr5f9cqn8c9nez26is5m1m9rog6ms/image015.jpg?rect=0%2C0%2C600%2C378&w=600&fit=clip&s=868b70dc0abe0b7bd2df82875b4ffff3)
+![](/img/seedrs/uploads/startup/section_image/image/11985/1zjr5f9cqn8c9nez26is5m1m9rog6ms/image015.jpg?rect=0%2C0%2C600%2C378&w=600&fit=clip&s=868b70dc0abe0b7bd2df82875b4ffff3)
 

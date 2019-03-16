@@ -63,7 +63,7 @@ Welendus has two target markets:
 
 2. Short-term borrowers. <br>Our refreshed thinking and innovative approach, Welendus brings and all new affordable short-term credit alternative to those in short-term financial needs. Our aim is to revolutionize the consumer short-term credit market from being just a transaction to a relationship.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15265/t27ls5hkvgujvax9uyfw7wucvnkinzp/Welendus_-_Seedrs_Disruption_Image.png?rect=0%2C0%2C600%2C256&w=600&fit=clip&s=34164ad81607ff91d22e00c00052321d)
+![](/img/seedrs/uploads/startup/section_image/image/15265/t27ls5hkvgujvax9uyfw7wucvnkinzp/Welendus_-_Seedrs_Disruption_Image.png?rect=0%2C0%2C600%2C256&w=600&fit=clip&s=34164ad81607ff91d22e00c00052321d)
 
 ### Characteristics of target market
 
@@ -73,7 +73,7 @@ Since Welendus offers a service to two target markets, this section is divided i
 
 2. Peer-to-peer lending market: <br>* UK Market Size: Expected to exceed &gt;$13 billion this year (2018) and up to $24 billion by 2020. <br>* Market status: Booming market with very promising growth rate. <br>* Potential: Introduce a peer-to-peer short-term lending platform.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15264/kfzilx0dcy97uz4fe2pxtlbgrx5hmpx/Welendus_-_Seedrs_New_Product_Image.png?rect=0%2C0%2C935%2C433&w=600&fit=clip&s=38937fcf3200dc4656fb443726bac613)
+![](/img/seedrs/uploads/startup/section_image/image/15264/kfzilx0dcy97uz4fe2pxtlbgrx5hmpx/Welendus_-_Seedrs_New_Product_Image.png?rect=0%2C0%2C935%2C433&w=600&fit=clip&s=38937fcf3200dc4656fb443726bac613)
 
 ### Marketing strategy
 
@@ -83,7 +83,7 @@ We are looking to end the soft-launch very soon and will increase our marketing 
 
 Our routes to market are as follow: <br>* Targeted marketing through paid ads (including search engine, social media and display). <br>* Promotional Partnerships. <br>* Innovative above the line customer acquisition product. <br>* Network effects. <br>* Virality. <br>* SEO- organic. <br>* Price comparison.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15263/rdrsxynqdkj9z7ml1ej0434uyges4dd/Welendus_image_7.png?rect=0%2C0%2C1200%2C675&w=600&fit=clip&s=e14118b0ad815651b6ce015ee0c0ba2e)
+![](/img/seedrs/uploads/startup/section_image/image/15263/rdrsxynqdkj9z7ml1ej0434uyges4dd/Welendus_image_7.png?rect=0%2C0%2C1200%2C675&w=600&fit=clip&s=e14118b0ad815651b6ce015ee0c0ba2e)
 
 ### Competition strategy
 

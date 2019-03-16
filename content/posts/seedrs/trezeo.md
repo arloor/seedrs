@@ -77,27 +77,27 @@ Please note that this will have a diluting effect on the shareholders equity hol
 
 Our target market is self-employed individuals, of which there are 4.8M in the UK alone.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15031/12te7xj73bkdglnlswge3j26ti8r9fh/Image_6_Stats__1_.png?rect=26%2C35%2C1818%2C1275&w=600&fit=clip&s=22574a01205a009e2738a2f52a3dd52d)
+![](/img/seedrs/uploads/startup/section_image/image/15031/12te7xj73bkdglnlswge3j26ti8r9fh/Image_6_Stats__1_.png?rect=26%2C35%2C1818%2C1275&w=600&fit=clip&s=22574a01205a009e2738a2f52a3dd52d)
 
 We are currently targeting the estimated 390,000 self-employed professional drivers and riders in the UK, while continuing to grow our waitlist of interest across other sectors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15007/g25y0ytcnyevsfoj4bcpeu1wrahs8i9/Image_5_Drivers.png?rect=13%2C19%2C1745%2C672&w=600&fit=clip&s=eb3850c2b3886ad47b83cfaf55bc168b)
+![](/img/seedrs/uploads/startup/section_image/image/15007/g25y0ytcnyevsfoj4bcpeu1wrahs8i9/Image_5_Drivers.png?rect=13%2C19%2C1745%2C672&w=600&fit=clip&s=eb3850c2b3886ad47b83cfaf55bc168b)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15033/k19s20fwg9djxbfzo39yky0x89lxtl9/Driver_Trezeo_Image__1_.png?rect=31%2C27%2C1501%2C654&w=600&fit=clip&s=58b4efae0befbf9f6e49cb950ce48959)
+![](/img/seedrs/uploads/startup/section_image/image/15033/k19s20fwg9djxbfzo39yky0x89lxtl9/Driver_Trezeo_Image__1_.png?rect=31%2C27%2C1501%2C654&w=600&fit=clip&s=58b4efae0befbf9f6e49cb950ce48959)
 
 ### Characteristics of target market
 
 There are currently 43 million self-employed individuals in Europe and North America, giving a current market opportunity of £13.6 billion, based on Trezeo’s projected subscription revenue of £25 per customer, per month.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15009/5gjavn59ozniqwiy52938mqrtgo9xkr/Image_7_Quotes.png?rect=359%2C301%2C1430%2C1184&w=600&fit=clip&s=f445923b1df089b553634af8c2dc866e)
+![](/img/seedrs/uploads/startup/section_image/image/15009/5gjavn59ozniqwiy52938mqrtgo9xkr/Image_7_Quotes.png?rect=359%2C301%2C1430%2C1184&w=600&fit=clip&s=f445923b1df089b553634af8c2dc866e)
 
 The number of self-employed is growing rapidly. If current growth rates hold steady, freelancers are expected to makeup the majority of the US workforce by 2027.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15010/4htbejedfiefoekqo7wewcl5kvova1p/Image_8_Freelance.png?rect=0%2C0%2C1854%2C1235&w=600&fit=clip&s=1fbf05c283891067ffb8851bf531e2ef)
+![](/img/seedrs/uploads/startup/section_image/image/15010/4htbejedfiefoekqo7wewcl5kvova1p/Image_8_Freelance.png?rect=0%2C0%2C1854%2C1235&w=600&fit=clip&s=1fbf05c283891067ffb8851bf531e2ef)
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15032/bqd9el0aepxqv59vigd6a51vv2u1pzr/Image_9_Marketing__1_.png?w=600&fit=clip&s=0338e31967ad686ac35211fc854c1766)
+![](/img/seedrs/uploads/startup/section_image/image/15032/bqd9el0aepxqv59vigd6a51vv2u1pzr/Image_9_Marketing__1_.png?w=600&fit=clip&s=0338e31967ad686ac35211fc854c1766)
 
 DIRECT
 
@@ -109,7 +109,7 @@ We see partnerships as an important source of customers to scale. In fact, we've
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15012/853b7sheymy0iwndkvxqhrlv6dmqz8p/Image_10_Comp.png?rect=0%2C-9%2C1995%2C1141&w=600&fit=clip&s=fb8d5be849d4869a6e2f566068e8a2de)
+![](/img/seedrs/uploads/startup/section_image/image/15012/853b7sheymy0iwndkvxqhrlv6dmqz8p/Image_10_Comp.png?rect=0%2C-9%2C1995%2C1141&w=600&fit=clip&s=fb8d5be849d4869a6e2f566068e8a2de)
 
 TRADITIONAL FINANCIAL SERVICES
 

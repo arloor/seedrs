@@ -67,7 +67,7 @@ Please note that any discounts, rewards and/or offers listed by a company in its
 
 Our target market is 16-25 year olds. This younger age group is the most active demographic on social media and they like to build strong relationships with a brand via social. Our marketing activity is mainly targeted towards hockey players. These individuals tend to be from an ABC1 demographic, meaning that they have the disposable income to spend on Y1 products (£100 average spend per order on Y1Hockey.com across 2017). We also have a strong focus on the student market and we do lots of activation activity and player sponsorships within this demographic. We believe that students like our clothing due to its casual campus feel and the affordable price point. Our first ever product was 'the onesie' which was a real hit with students. Ever since the launch of this back in 2012, we've continued to create a marketing strategy targeted towards students. We believe this is the most influential demographic and they can set trends for the younger/older age groups.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15251/9xdwfnsysylz90zxzg5nav93e0mok6d/FFU_5500__1_.jpg?rect=0%2C-1%2C3363%2C1945&w=600&fit=clip&s=4e73b219a7a70ee1578e1561ab626906)
+![](/img/seedrs/uploads/startup/section_image/image/15251/9xdwfnsysylz90zxzg5nav93e0mok6d/FFU_5500__1_.jpg?rect=0%2C-1%2C3363%2C1945&w=600&fit=clip&s=4e73b219a7a70ee1578e1561ab626906)
 
 ### Characteristics of target market
 
@@ -75,7 +75,7 @@ Hockey is the 2nd most participated sport at British Universities. Research also
 
 A recent study found that 72% of millennials' user purchase decisions are influenced by Instagram. This was in comparison to only 54% of baby boomers decision making. According to Hubspot data, 71% of people are more likely to make a purchase online if the product or service comes recommended by others. This may be driven by millennials inherent distrust of brands and traditional advertising. They simply tend to believe what their peers say, seek their opinions and often validation.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15253/r3tfl6suzdcnvihh7dsorcxdi0umi3h/DSC09304__1_.jpg?rect=0%2C0%2C2048%2C1366&w=600&fit=clip&s=f807ff82aa85baf84eff3fb865c47f6c)
+![](/img/seedrs/uploads/startup/section_image/image/15253/r3tfl6suzdcnvihh7dsorcxdi0umi3h/DSC09304__1_.jpg?rect=0%2C0%2C2048%2C1366&w=600&fit=clip&s=f807ff82aa85baf84eff3fb865c47f6c)
 
 ### Marketing strategy
 
@@ -87,15 +87,15 @@ Our sponsored athletes play a key role in our social media strategy. We enable t
 
 Post-funding we aim to create more video content to further engage the hockey community. We also plan to do a physical marketing tour, whereby our international athletes will give coaching sessions at clubs around the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15252/fqcqij41xmcex25p2iq7or7ko2js7zv/FFU_4455__1_.jpg?rect=-1%2C0%2C2801%2C3317&w=600&fit=clip&s=daafd30c316b7eede501165e3a6c548d)
+![](/img/seedrs/uploads/startup/section_image/image/15252/fqcqij41xmcex25p2iq7or7ko2js7zv/FFU_4455__1_.jpg?rect=-1%2C0%2C2801%2C3317&w=600&fit=clip&s=daafd30c316b7eede501165e3a6c548d)
 
 ### Competition strategy
 
 Our typical competitors have a similar strategy year-on-year. We find that their marketing campaigns lack creativity and it's not particularly engaging for the end consumer. To us, their social media channels appear to be an afterthought which means we have been able to surpass many of the well established brands already. We believe that the more established brands in the market have a significantly higher budget for sponsored athletes than us, however we also believe they fail to convert this into loyal following towards their brand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15254/azlh7pm5r0jlatj9ohxh1wku9xo2dw4/aki_yng___1_.jpg?rect=0%2C0%2C1200%2C799&w=600&fit=clip&s=82e57cd9baf9389a133b9dc12a59fd04)
+![](/img/seedrs/uploads/startup/section_image/image/15254/azlh7pm5r0jlatj9ohxh1wku9xo2dw4/aki_yng___1_.jpg?rect=0%2C0%2C1200%2C799&w=600&fit=clip&s=82e57cd9baf9389a133b9dc12a59fd04)
 
 One of the key examples is STX Field Hockey, they sponsor a large roster of the world’s top international players, that have a combined Instagram following of hundreds of thousands, yet STX have a similar social following to us and a lower engagement rate. We believe this is evidence that our sponsored players love being part of the ‘Y1Nation’ and therefore they are likely to go above and beyond to promote our brand, and we have built a stronger social engagement rate than that of many of the larger brands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15255/qb6ml5cy0r1ih3g223xn884a2gei65r/DSC09222__1_.jpg?rect=0%2C0%2C2048%2C1366&w=600&fit=clip&s=996e88f7c2926f202cc2ed17172c1819)
+![](/img/seedrs/uploads/startup/section_image/image/15255/qb6ml5cy0r1ih3g223xn884a2gei65r/DSC09222__1_.jpg?rect=0%2C0%2C2048%2C1366&w=600&fit=clip&s=996e88f7c2926f202cc2ed17172c1819)
 

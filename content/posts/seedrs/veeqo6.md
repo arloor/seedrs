@@ -93,7 +93,7 @@ Small and medium businesses around the world that sell online.
 
 Our focus will be UK and Germany, but we already have clients in the United States, Switzerland, Australia and more.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9058/px1d3j247o8sp56wj6nodlsjop6ypwx/Screen_Shot_2016-07-15_at_09.25.54.png?rect=0%2C0%2C1624%2C780&w=600&fit=clip&s=f24a643c8ef9ddbeb421f88b16e95970)
+![](/img/seedrs/uploads/startup/section_image/image/9058/px1d3j247o8sp56wj6nodlsjop6ypwx/Screen_Shot_2016-07-15_at_09.25.54.png?rect=0%2C0%2C1624%2C780&w=600&fit=clip&s=f24a643c8ef9ddbeb421f88b16e95970)
 
 ### Characteristics of target market
 
@@ -121,5 +121,5 @@ Be amazing at one thing <br>---------------------------- <br>Veeqo will connect 
 
 UK courier integrations <br>--------------------------- <br>Our US competitors have virtually no support for UK market, especially not having integrations with UK couriers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9061/79opd9t9bll9m2sggjgq5ae8ng8ob91/12068591_1224232337602685_1113114908035265361_o.png?rect=0%2C0%2C1024%2C682&w=600&fit=clip&s=797ac1938c2a5696e22f55bac17cb8e3)
+![](/img/seedrs/uploads/startup/section_image/image/9061/79opd9t9bll9m2sggjgq5ae8ng8ob91/12068591_1224232337602685_1113114908035265361_o.png?rect=0%2C0%2C1024%2C682&w=600&fit=clip&s=797ac1938c2a5696e22f55bac17cb8e3)
 

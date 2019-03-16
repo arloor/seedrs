@@ -93,7 +93,7 @@ Optimum recovery from exercise is shown scientifically to come from consumption 
 
 Secondly, we use an experiential marketing strategy to engage with the consumer. This requires relationship building with the gym fitness staff that, if successful, would result in them buying-in to the quality of MiTonics and wishing to see their clients get improved results so implicitly become our ambassadors. We couple this with the presence of MiTonics staff onsite to undertake experiential marketing directly engaging with the customer.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1823/5r6otwcf29hab1yq5dcz6im20cvc6oc/onsite_beau.jpg?rect=13%2C10%2C573%2C410&w=600&fit=clip&s=ea34bb8960676c921ef4224ffe1311aa)
+![](/img/seedrs/uploads/startup/section_image/image/1823/5r6otwcf29hab1yq5dcz6im20cvc6oc/onsite_beau.jpg?rect=13%2C10%2C573%2C410&w=600&fit=clip&s=ea34bb8960676c921ef4224ffe1311aa)
 
 ### Characteristics of target market
 
@@ -115,7 +115,7 @@ On the consumer side, we plan to use primarily an 'experiential marketing' strat
 
 Underpinning this, we want to develop an onsite experiential marketing team, that would visit sites on a regular basis, talking face-to-face with members and staff alike, answering questions, offering taster sessions and generally keep us at the forefront of the consumers' minds. We have developed various tools that can be used to help strengthen these relationships - reloadable loyalty cards that can be redeemed against the machine, promotional tokens that can be handed out at events, co-branded brochures and posters for different chains highlighting the results of "members of the month" and so on. Only later, would we consider the consumer press due to the expense involved.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1824/ikcbbfq3bpyvtqi1oite03l6wg1d6dj/mid_session_LIW.jpg?rect=0%2C0%2C960%2C540&w=600&fit=clip&s=11c7591f6184a5d9511aeb236152b775)
+![](/img/seedrs/uploads/startup/section_image/image/1824/ikcbbfq3bpyvtqi1oite03l6wg1d6dj/mid_session_LIW.jpg?rect=0%2C0%2C960%2C540&w=600&fit=clip&s=11c7591f6184a5d9511aeb236152b775)
 
 ### Competition strategy
 
@@ -129,5 +129,5 @@ We have been awarded our patent on the personalisation algorithms we use in the 
 
 We also know, that developing the whole system is not easy. Protein and vending machines do not sit easily together and we have been told, for example, one of the largest sports nutrition brands in the world tried something similar several years ago but failed to produce a successful result. More recently, we have been actively developing a communication channel with some of the largest existing brands in Europe who may look at partnering with us. This could present a potential exit opportunity and drastically accelerate our growth and profit potential.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1825/g1av95s37z0bn793xqkt6djetg0rlt2/Workout_Magazine_Advert_3-page-001.jpg?rect=142%2C199%2C2872%2C3983&w=600&fit=clip&s=3e9f63d6d1841795421582504419fd9e)
+![](/img/seedrs/uploads/startup/section_image/image/1825/g1av95s37z0bn793xqkt6djetg0rlt2/Workout_Magazine_Advert_3-page-001.jpg?rect=142%2C199%2C2872%2C3983&w=600&fit=clip&s=3e9f63d6d1841795421582504419fd9e)
 

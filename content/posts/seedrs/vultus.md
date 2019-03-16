@@ -79,7 +79,7 @@ We are targeting medium (100+ hectares) and larger farms (500+ hectares) across 
 
 Our ambition is to diversify our key offering, by combating waste of other inputs, such as pesticides, phosphorus and potassium. An increase in analysis services will allow us to target additional market segments and reach an even larger market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15453/24el5odk4lrwx28d7x2txmqdumisurx/Vultus_Vegetation_Index.jpeg?rect=0%2C0%2C1452%2C867&w=600&fit=clip&s=3b83f2a519a9fad7972ca3de24fc2bcc)
+![](/img/seedrs/uploads/startup/section_image/image/15453/24el5odk4lrwx28d7x2txmqdumisurx/Vultus_Vegetation_Index.jpeg?rect=0%2C0%2C1452%2C867&w=600&fit=clip&s=3b83f2a519a9fad7972ca3de24fc2bcc)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ Farm Management Systems (FMS) reach out to thousands of technologically proficie
 
 We feel that the incentive for the FMS companies to distribute our product is threefold. Firstly, our analysis is a way for them to differentiate their offering in the highly competitive FMS space. Secondly, the royalty they receive should improve their ability to monetise their system. Thirdly, by coupling the FMS with additional analysis, the platform may gain heavier usage and higher retention. For these reasons, there is interest from the FMS to integrate our analysis, as well as distribute it towards its client base.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15452/pn6iqk65hq42q5mtygsqi4v367m718a/23658649_1977084389244193_3353789910933156939_n.jpg?rect=0%2C0%2C960%2C919&w=600&fit=clip&s=a5e59456b703995534febf18a177fa79)
+![](/img/seedrs/uploads/startup/section_image/image/15452/pn6iqk65hq42q5mtygsqi4v367m718a/23658649_1977084389244193_3353789910933156939_n.jpg?rect=0%2C0%2C960%2C919&w=600&fit=clip&s=a5e59456b703995534febf18a177fa79)
 
 ### Competition strategy
 

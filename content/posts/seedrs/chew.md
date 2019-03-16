@@ -67,7 +67,7 @@ We'll use the funds to continue to scale the platform: bringing in new features,
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6516/3rqlz0lsr2aw186zcfb9k4480a3xv1w/6-page-watch.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=6d523078e1dc4e240e7ea0e3098ab4a8)
+![](/img/seedrs/uploads/startup/section_image/image/6516/3rqlz0lsr2aw186zcfb9k4480a3xv1w/6-page-watch.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=6d523078e1dc4e240e7ea0e3098ab4a8)
 
 ### Target market
 
@@ -83,7 +83,7 @@ Think of Chew as the “Twitch for DJs”. It’s a platform where DJs can learn
 
 People who love electronic music love Chew; they can listen to artists they already know, and discover the next big thing, too.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6515/hgymtflku3z7us86px85ke5jws3l3uf/7-explore.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=29306e75963d7990fc97668415cecd7f)
+![](/img/seedrs/uploads/startup/section_image/image/6515/hgymtflku3z7us86px85ke5jws3l3uf/7-explore.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=29306e75963d7990fc97668415cecd7f)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ Electronic music is now the fourth most popular genre of all music streamed in t
 
 Sales of DJ equipment increased 15% over the last year, whilst sales of more traditional music equipment (stringed instruments and percussion) fell by 4%. We believe this market growth doesn’t come from industry-leading talent (professional DJs often have sponsorship deals); the amateurs are driving this revenue growth. DJ product sales have grown over 60% in the USA, with DJ controllers accounting for 38% of this growth.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6517/5hq3x77u6j2vsk1isugrke3o1t38m25/8-thumbs.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=ca3bf380e4e3e20b4c14a4880cbeb5a9)
+![](/img/seedrs/uploads/startup/section_image/image/6517/5hq3x77u6j2vsk1isugrke3o1t38m25/8-thumbs.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=ca3bf380e4e3e20b4c14a4880cbeb5a9)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Our goal is, therefore, to recruit as many DJs as possible.
 
 So far, we have demonstrated early success in: <br>- Community referrals. Our DJs often refer other DJs to Chew during registration process. <br>- Artist-led partnerships. We partner with established DJs (with pre-existing, large-scale fanbases) to create content on Chew; bringing new viewers to the platform who go on to discover other content. <br>- Educational partnerships. Working with educational facilities, we help the newest DJ talent build their audiences online as they start their career in the music industry. <br>- Digital marketing. We market Chew to both DJs and viewers on existing internet communities (Reddit, Facebook, Twitter, forums, PPC etc). <br>- Event marketing. We partner with (or host) events - DJ tradeshows, conferences, club nights, festivals etc - to build brand awareness while creating content for our audience on the platform. <br>- Physical marketing. We work with a DJ equipment retailer etc to distribute marketing material to new DJs and viewers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6518/1k7k7ef0jm4u0lycpahyu3p6z2hq2m5/9-image.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=fb8069dc8d8449659a701b840f75fba3)
+![](/img/seedrs/uploads/startup/section_image/image/6518/1k7k7ef0jm4u0lycpahyu3p6z2hq2m5/9-image.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=fb8069dc8d8449659a701b840f75fba3)
 
 ### Competition strategy
 
@@ -117,5 +117,5 @@ We have a number of features that we believe sets us apart from our competition.
 
 1) Chew is an open platform, available to anyone, anywhere. We see value across the global DJ community and think everyone - at any stage in their career - should be able to use Chew. <br>2) Chew is free to use. We see no need in charging our DJs a fee to broadcast their performances. We can't achieve the growth or scale we want by doing so - it presents an unnecessary barrier to entry. <br>3) We also think charging our audience to watch Chew content is unnecessary. We want to monetise in ways that don't impact the content creation or consumption experience. <br>4) Chew is built mobile-first; allowing our users and viewers to experience the platform via any browser on any device. <br>5) Chew is a specialist audiovisual live streaming platform. Unlike generalist live streaming platforms, we are dedicated to building the world's first DJ- and music-focused live streaming community. <br>6) As a small team of DJs and record label managers, we feel we are able to learn, develop and test updates quickly. We can move fast and deploy new features based on user feedback and community data.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6519/ec0ze8i22oqbftl8epw3p5b4ycyymgh/10-image.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=045fd6a46c5893b4a3156e22d913850d)
+![](/img/seedrs/uploads/startup/section_image/image/6519/ec0ze8i22oqbftl8epw3p5b4ycyymgh/10-image.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=045fd6a46c5893b4a3156e22d913850d)
 

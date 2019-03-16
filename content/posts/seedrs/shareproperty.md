@@ -113,7 +113,7 @@ Despite government initiatives such as Help to Buy, property remains out of reac
 
 ShareProperty will enable investors to participate, through fractional ownership, in a market which, in the opinion of the Directors, will continue to show positive medium term growth. We believe the P2P and Crowdfunding markets represent a beginning in a structural market shift.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8351/jz67ckucocgd1dnvrzxw3twjyt92u1v/Screen_Shot_2016-05-26_at_13.37.59.png?rect=0%2C-5%2C1092%2C691&w=600&fit=clip&s=185a92b4877f99475b97cf95793a64f0)
+![](/img/seedrs/uploads/startup/section_image/image/8351/jz67ckucocgd1dnvrzxw3twjyt92u1v/Screen_Shot_2016-05-26_at_13.37.59.png?rect=0%2C-5%2C1092%2C691&w=600&fit=clip&s=185a92b4877f99475b97cf95793a64f0)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ The Company has an integrated marketing strategy which will enable it to build o
 
 4.Traditional Media Channels: Abigail Moses, Business Development Executive, has strong contacts with a substantial number of local and national media channels having experience working in B2C e-commerce marketing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8352/294gc2hjd04wombqrwqjghx7holab3c/iphone6mockup_vw89sz.jpg?rect=0%2C0%2C5000%2C3539&w=600&fit=clip&s=e1dc3f5338d6d3dc9b11a95f4e6d739c)
+![](/img/seedrs/uploads/startup/section_image/image/8352/294gc2hjd04wombqrwqjghx7holab3c/iphone6mockup_vw89sz.jpg?rect=0%2C0%2C5000%2C3539&w=600&fit=clip&s=e1dc3f5338d6d3dc9b11a95f4e6d739c)
 
 Market awareness for real estate equity crowdfunding continues to increase. Nesta reports that equity crowdfunding volume in 2015 was £87m, a YOY increase in excess of 150%. The market lags behind the more mature P2P real estate market which saw volumes in the equivalent period of c.£600m (Source: Nesta, University of Cambridge). Equity "risk" normally demands a higher return on investment (ROI), though to the extent that the Single Purpose Vehicle retains title over the asset, this risk is to some extent mitigated.
 
@@ -137,7 +137,7 @@ The management team believe that one of the critical success factors is liquidit
 
 Combined platform volumes in 2015 for P2P and equity real estate crowdfunding were £687m (Source: Nesta, University of Cambridge). This represents &lt;0.1% of the value of residential housing stock in the UK. A 1% transference from traditional channels to the P2P/Equity markets for real estate investment would suggest an increase in the total available market (TAM) of around £9bn. Accordingly, the Directors see the growth dynamic of the sector as allowing for multiple market participants, much the same as the e-commerce technology cycle which began in earnest at the turn of the millennium.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8353/mewmryxiyi0898velzt1ptmfjzy91sk/Screen_Shot_2016-05-26_at_13.42.55.png?rect=0%2C19%2C850%2C798&w=600&fit=clip&s=a5d7fd174b3e37ddd29b062f7ab24289)
+![](/img/seedrs/uploads/startup/section_image/image/8353/mewmryxiyi0898velzt1ptmfjzy91sk/Screen_Shot_2016-05-26_at_13.42.55.png?rect=0%2C19%2C850%2C798&w=600&fit=clip&s=a5d7fd174b3e37ddd29b062f7ab24289)
 
 <br>The unique selling points of ShareProperty can be characterised as follows:
 

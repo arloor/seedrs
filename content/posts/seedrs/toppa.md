@@ -73,7 +73,7 @@ Businesses truly appreciate the value of experienced, knowledgeable and engaged 
 
 As Steve Case, the former CEO of AOL, put it, “The exciting part about living today is that anyone can be an entrepreneur”. We’re living in a world where information is not just readily available but, in many cases, overwhelming and with a huge lack of accountability on the standard of content. Building a business is not easy; that’s why we’re here: to help people cut through some of the noise and provide a solution in one place.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16299/5e6uuucvrc650trn07r1bpt2ay86n6f/economy-forecast.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=fc273668fb235e89cf02aaa43148db09)
+![](/img/seedrs/uploads/startup/section_image/image/16299/5e6uuucvrc650trn07r1bpt2ay86n6f/economy-forecast.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=fc273668fb235e89cf02aaa43148db09)
 
 ### Marketing strategy
 
@@ -91,5 +91,5 @@ In our opinion, most e-learning platforms do not offer a one-stop shop to enable
 
 Our main goal is for Toppa to be an EdTech platform that offers high-quality courses that not only improves performance but offers true experience over theory.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16300/ed3td27lr41m0chwf5qmm80z7axgewp/bitesized-learning.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=10e98ab59479896a79bbc063d3a5ad56)
+![](/img/seedrs/uploads/startup/section_image/image/16300/ed3td27lr41m0chwf5qmm80z7axgewp/bitesized-learning.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=10e98ab59479896a79bbc063d3a5ad56)
 

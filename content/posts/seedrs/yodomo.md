@@ -65,7 +65,7 @@ Our long-term goal is to enable tutors and partners to produce their own content
 
 Our target customers are influential ‘creative upskillers’. Innovation research and trends firm, Stylus describes this group as ‘learning-loving, impatient upskillers (who) want to acquire new knowledge and engage in creative pursuits through instant, fuss-free formats.’ The report highlights the online market is booming, with more than 35 million people worldwide enrolled in digital courses in the past 4 years, and as previously mentioned 53% of UK consumers have used the internet to develop 3 new skills. We think that consumer brands and media companies alike are all keen to reach this influential group of ‘skilful socialites, no-timers, next-gen onliners and DIY crafters’.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14893/ao5qdlklndxvme0dmf8yjzdew4xw9c7/Yodomo_Target_Market.png?rect=0%2C103%2C2880%2C1593&w=600&fit=clip&s=f21f6fcad86e62b41befadf2ac2bdbeb)
+![](/img/seedrs/uploads/startup/section_image/image/14893/ao5qdlklndxvme0dmf8yjzdew4xw9c7/Yodomo_Target_Market.png?rect=0%2C103%2C2880%2C1593&w=600&fit=clip&s=f21f6fcad86e62b41befadf2ac2bdbeb)
 
 ### Characteristics of target market
 
@@ -81,7 +81,7 @@ Our monthly email newsletter is already building in traction and we are running 
 
 The focus for Phase One will be earned media and as the site matures, and in particular as Yodomo adds commerce functionality, paid media (predominantly digital) will be added to the media mix.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14894/q0vsbh3yhttjf94z7fisrghp0s0pqpq/Marketing_Strategy.png?rect=0%2C105%2C2880%2C1608&w=600&fit=clip&s=cbde46fcc801ba724178fc28fe1c05f5)
+![](/img/seedrs/uploads/startup/section_image/image/14894/q0vsbh3yhttjf94z7fisrghp0s0pqpq/Marketing_Strategy.png?rect=0%2C105%2C2880%2C1608&w=600&fit=clip&s=cbde46fcc801ba724178fc28fe1c05f5)
 
 ### Competition strategy
 

@@ -65,7 +65,7 @@ Production Parts and Tooling: 40% <br>Human Resources: 50% <br>HQ and workshop: 
 
 Over 3,000 aircrafts are sold annually, and commonly aircraft in this price range (200-260K USD) are co-owned by a group of people.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14996/mmd4dtt94el7vcerv47lssxce8722f8/diff.jpg?rect=0%2C0%2C1600%2C771&w=600&fit=clip&s=0276992f5227b6b2e28dfd4d8372af5c)
+![](/img/seedrs/uploads/startup/section_image/image/14996/mmd4dtt94el7vcerv47lssxce8722f8/diff.jpg?rect=0%2C0%2C1600%2C771&w=600&fit=clip&s=0276992f5227b6b2e28dfd4d8372af5c)
 
 Equator believes in a long term shift in demand, moving from “hobby” to “mobility” and improving overall user experiences will without doubt create new market opportunities, where other individuals will see the need for such transportation systems. However it is a common belief that any new aerospace company must succeed in existing markets initially to be profitable. The new European microlight rules that may come to fruition pushes the weight up to 650 kg, making it easier for Equator to reach certification, and the LSA rules in the US are already appropriate for us.
 
@@ -75,7 +75,7 @@ We believe that the entire light aircraft market can be reached with the Xcursio
 
 We intend for The Xcursion to also fit into the European ELA1 class or the updated UL category being worked on by EASA now, where a similar number of aircraft are sold. The light aircraft market of the USA and Europe alone is therefore around 5000 aircraft sold annually. However, we believe the highest 'potential' markets lie in the Chinese market in particular, and Asian markets in general. And one can assume that with lack of airport infrastructure, the amphibious solutions are attractive propositions for people in these regions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14999/sx3ys82tcoad2sjnb89h60qqipkrwqt/Screen_Shot_2018-06-18_at_18.13.30.png?rect=0%2C-8%2C1862%2C1051&w=600&fit=clip&s=953dd99e67752c1b06962c289806c402)
+![](/img/seedrs/uploads/startup/section_image/image/14999/sx3ys82tcoad2sjnb89h60qqipkrwqt/Screen_Shot_2018-06-18_at_18.13.30.png?rect=0%2C-8%2C1862%2C1051&w=600&fit=clip&s=953dd99e67752c1b06962c289806c402)
 
 ### Marketing strategy
 

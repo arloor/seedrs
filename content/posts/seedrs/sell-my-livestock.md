@@ -67,7 +67,7 @@ Systems development:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5572/bbc8uq2qzqbrf61oy342s3ofl13epmk/Dan.jpg?rect=0%2C10%2C3000%2C1980&w=600&fit=clip&s=a4090285192c412c9bd94d841e3d9732)
+![](/img/seedrs/uploads/startup/section_image/image/5572/bbc8uq2qzqbrf61oy342s3ofl13epmk/Dan.jpg?rect=0%2C10%2C3000%2C1980&w=600&fit=clip&s=a4090285192c412c9bd94d841e3d9732)
 
 ### Target market
 
@@ -89,7 +89,7 @@ SML's aspiration is to complete the above stages in around two to three years. B
 
 - Livestock transport and load consolidation. <br>- Livestock bi-products and export opportunities. <br>- Genetic data. <br>- Export opportunities. <br>- International franchising of the system.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5575/kamygzur1pj7ww5yaa1pgp7jcxn45sp/Jamie.jpg?rect=0%2C0%2C3000%2C1970&w=600&fit=clip&s=53526cec223c1469425ac27fce928aee)
+![](/img/seedrs/uploads/startup/section_image/image/5575/kamygzur1pj7ww5yaa1pgp7jcxn45sp/Jamie.jpg?rect=0%2C0%2C3000%2C1970&w=600&fit=clip&s=53526cec223c1469425ac27fce928aee)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ Whether you are buying or selling, the key messages are: <br>- It’s simple to 
 
 SML is not a ‘leave alone’ revenue generator. A help desk is manned 16 hours a day and all help requests are responded to within an hour. It is a combination of personal touch and technology business – which we believe is appropriate for the sector.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5576/t327bpdhd5kncyfd9hbthcav2kwveo6/Max_Prangnell.jpg?rect=0%2C0%2C1800%2C1200&w=600&fit=clip&s=0123afec50309a11e4c178bd7915902e)
+![](/img/seedrs/uploads/startup/section_image/image/5576/t327bpdhd5kncyfd9hbthcav2kwveo6/Max_Prangnell.jpg?rect=0%2C0%2C1800%2C1200&w=600&fit=clip&s=0123afec50309a11e4c178bd7915902e)
 
 ### Competition strategy
 

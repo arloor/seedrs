@@ -69,11 +69,11 @@ Enthusiasts: <br>Active multi-sport individuals who are very likely to participa
 
 Each will have a high level of interest in two or more of the following:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9533/6nrkk5wi010gce8a8fus80vy8mp6heg/2_Above_Winter_Sports.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=55c708fc6129c84ba905958166948a26)
+![](/img/seedrs/uploads/startup/section_image/image/9533/6nrkk5wi010gce8a8fus80vy8mp6heg/2_Above_Winter_Sports.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=55c708fc6129c84ba905958166948a26)
 
 Winter: <br>Climbing <br>Ice climbing <br>Mountaineering <br>Ski Mountaineering <br>Backcountry skiing &amp; snowboarding <br>Heli &amp; Cat Skiing &amp; Boarding
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9534/m3epha0jbkm6yqdbqnjw7z66jbjrknu/3_Above_summer_sports.jpg?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=3dd70b3c5139b41c076a07620598c1d0)
+![](/img/seedrs/uploads/startup/section_image/image/9534/m3epha0jbkm6yqdbqnjw7z66jbjrknu/3_Above_summer_sports.jpg?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=3dd70b3c5139b41c076a07620598c1d0)
 
 Summer: <br>Mountain Biking <br>Hiking/Trekking <br>Endurance Running <br>Parapenting <br>Climbing <br>Mountaineering.
 
@@ -81,7 +81,7 @@ Phase 1 regions: High Alpine, multi season, multi sports resorts recognised for 
 
 A third audience would also be enabled to provide value added, paid content: <br>Insurance, sports equipment, accommodation &amp; transfer companies with an interest in the above demographic and an association to relevant sports.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9535/pboshatp4ljr9ak6hxh6d5rts60o7l1/1_By_Target_Market.jpg?rect=0%2C-2%2C600%2C501&w=600&fit=clip&s=ccce7e365096f25d044d5c062591799f)
+![](/img/seedrs/uploads/startup/section_image/image/9535/pboshatp4ljr9ak6hxh6d5rts60o7l1/1_By_Target_Market.jpg?rect=0%2C-2%2C600%2C501&w=600&fit=clip&s=ccce7e365096f25d044d5c062591799f)
 
 ### Characteristics of target market
 
@@ -119,7 +119,7 @@ PR: £12,500 <br>Targeted Online 'Performance' advertising: £16,000 <br>Sponsor
 
 Further breakdown of budgets and sales forecast available on request.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9532/sidbcoem02uiokl7h78owkd3wmzp6t3/5_Above_Competition_.png?rect=0%2C0%2C600%2C417&w=600&fit=clip&s=1dcafef23cd61d87979b5c4fa55ad607)
+![](/img/seedrs/uploads/startup/section_image/image/9532/sidbcoem02uiokl7h78owkd3wmzp6t3/5_Above_Competition_.png?rect=0%2C0%2C600%2C417&w=600&fit=clip&s=1dcafef23cd61d87979b5c4fa55ad607)
 
 ### Competition strategy
 

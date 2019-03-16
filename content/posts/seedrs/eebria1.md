@@ -89,7 +89,7 @@ The EeBria branding is trendier than the typical online alcohol and beer offerin
 
 There has been a big increase within the craft beer industry with people seeking out the small producer, choosing carefully made drinks over and above the mass produced supermarket offering and EeBria will capitalise on the online share of this market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/552/ts03qdqqdyscez7wwp9hlcxbsiy8r9n/Screenshot.JPG?w=600&fit=clip&s=b6fad6c542568dce2b567c19b3a189fb)
+![](/img/seedrs/uploads/startup/section_image/image/552/ts03qdqqdyscez7wwp9hlcxbsiy8r9n/Screenshot.JPG?w=600&fit=clip&s=b6fad6c542568dce2b567c19b3a189fb)
 
 ### Characteristics of target market
 
@@ -123,7 +123,7 @@ There has been a big increase within the craft beer industry with people seeking
 
 - Discount offers to members of specific organisations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/554/bhiao8nc1lgbe02r51xtwa958dtu6pk/Website_capture.JPG?w=600&fit=clip&s=8617ab9587a685d93a0f52753d11d55d)
+![](/img/seedrs/uploads/startup/section_image/image/554/bhiao8nc1lgbe02r51xtwa958dtu6pk/Website_capture.JPG?w=600&fit=clip&s=8617ab9587a685d93a0f52753d11d55d)
 
 ### Competition strategy
 

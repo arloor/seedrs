@@ -119,23 +119,23 @@ We have identified several key customer segments that are particularly receptive
 
 All of these customer segments are strongly reflected in our current active subscribers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7426/3chb4zmrn8mnvjvefmzhgc4wodpfjxy/Reviews.png?rect=0%2C68%2C372%2C502&w=600&fit=clip&s=972a0bf4099a46bec93d6096153f90ef)
+![](/img/seedrs/uploads/startup/section_image/image/7426/3chb4zmrn8mnvjvefmzhgc4wodpfjxy/Reviews.png?rect=0%2C68%2C372%2C502&w=600&fit=clip&s=972a0bf4099a46bec93d6096153f90ef)
 
 ### Characteristics of target market
 
 The UK shaving and hair removal market is currently valued at £650 million a year (Mintel), with 92% of women and 70% of men removing hair from their body.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7410/31va2mdk57b7l47f2vuynf1xgy9rlxq/3.png?rect=0%2C0%2C813%2C524&w=600&fit=clip&s=f13fa170af17adbb87d5ba44680b3c41)
+![](/img/seedrs/uploads/startup/section_image/image/7410/31va2mdk57b7l47f2vuynf1xgy9rlxq/3.png?rect=0%2C0%2C813%2C524&w=600&fit=clip&s=f13fa170af17adbb87d5ba44680b3c41)
 
 Wet shaving is the most commonly used method for hair removers, with three quarters of those who remove hair choosing wet shaving. Of those, 77% conduct this activity at home.
 
 This shows that there is a significant market for women’s razors and replacement blades and supports our business model of sending them directly to customer’s homes. The same report shows that Gillette “Venus” alone had a 12% market share of all razors and sales of £42.6 million in 2014.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7412/f2js5r4ehuh3mhu541mk0v1viz61qen/5.png?rect=0%2C0%2C940%2C446&w=600&fit=clip&s=3049a5a718d2ab57d0a8e01d89f356dd)
+![](/img/seedrs/uploads/startup/section_image/image/7412/f2js5r4ehuh3mhu541mk0v1viz61qen/5.png?rect=0%2C0%2C940%2C446&w=600&fit=clip&s=3049a5a718d2ab57d0a8e01d89f356dd)
 
 The subscription box model is now well established, with brand leaders such as Graze and Birchbox. Some of the most successful businesses are marketed at women, with boxes such as Pink Parcel having an exclusively female customer base. All this shows that the subscription model is something that the market is already very familiar with and has adopted widely.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7486/b8dgtvp9gvevj8ay1vzmr3p7xvo25am/image__4_.png?rect=0%2C0%2C360%2C450&w=600&fit=clip&s=0afc28b534c3d63d7e0ebedda9f26420)
+![](/img/seedrs/uploads/startup/section_image/image/7486/b8dgtvp9gvevj8ay1vzmr3p7xvo25am/image__4_.png?rect=0%2C0%2C360%2C450&w=600&fit=clip&s=0afc28b534c3d63d7e0ebedda9f26420)
 
 ### Marketing strategy
 
@@ -143,13 +143,13 @@ At Friction Free Shaving we want to grow our social media presence quickly and w
 
 1) Creating awareness through PR, sponsored social media activity such as paid for adverts on Facebook, Instagram and Snapchat to a carefully selected female audience, and experiential entertainment (events that use entertainment to engage with consumers). Our PR focus will be on product placement in women’s magazines and websites, as well as business profiling with national news, beauty and fashion print and digital publications. We are also actively pursuing, beauty blogger engagement and sponsored YouTube channel reviews.Our first attempt at this was with a YouTube beauty blogger with 12,000 monthly viewers – we felt it was so professionally produced that we put it on the front page of our website to help boost sales even further.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7432/fgild5qwntglr9x6slh2tnaww8lodvu/Revie1.png?rect=0%2C0%2C363%2C443&w=600&fit=clip&s=68b175d995eb93196dafd8daa52574ad)
+![](/img/seedrs/uploads/startup/section_image/image/7432/fgild5qwntglr9x6slh2tnaww8lodvu/Revie1.png?rect=0%2C0%2C363%2C443&w=600&fit=clip&s=68b175d995eb93196dafd8daa52574ad)
 
 2) We are also actively pursuing a Joint Venture with another female monthly subscription box. They have already sent samples of our products to 100 of their customers selected at random to gain feedback on both the product and closeness of the two brands. The initial results have been extremely positive and we are expecting this will lead to future joint marketing and advertising to new customers, as well as sponsored offers and discounts in their boxes to existing customers.
 
 3) A number of women’s magazines have approached us looking to run a special ‘reader offer’ to profile FFS to their readership, and we are looking to select several key publications to exponentially grow the brand with over the summer months.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7428/a8z0o1smrvw0ldjv769h83pht511xky/12265608_981025075269693_8807748432256582029_o.jpg?rect=0%2C0%2C1076%2C1080&w=600&fit=clip&s=47992aaf3e647d379a2043ca52f1b552)
+![](/img/seedrs/uploads/startup/section_image/image/7428/a8z0o1smrvw0ldjv769h83pht511xky/12265608_981025075269693_8807748432256582029_o.jpg?rect=0%2C0%2C1076%2C1080&w=600&fit=clip&s=47992aaf3e647d379a2043ca52f1b552)
 
 ### Competition strategy
 
@@ -161,7 +161,7 @@ There are other razor subscription boxes in the UK but to our knowledge they are
 
 Our main high street competitor is Gillette's "Venus" which is available in high street stores. They are much more expensive than ours, sometimes double the price of our comparable razors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7459/3gjmaks6pgfn6ny6f8heqvk8kruq0rj/image__1_.png?rect=0%2C0%2C744%2C410&w=600&fit=clip&s=32c4ea620cbe8dbb83d8c9563303c1dd)
+![](/img/seedrs/uploads/startup/section_image/image/7459/3gjmaks6pgfn6ny6f8heqvk8kruq0rj/image__1_.png?rect=0%2C0%2C744%2C410&w=600&fit=clip&s=32c4ea620cbe8dbb83d8c9563303c1dd)
 
 An online competitor would be the Close Shave Society, a men's razor subscription box that has one razor targeted at women called The Brazilian. It is a 5 blade, blue and green razor that they provide for £6 a month. It sits midway between our £5 and £7 model, but it is made of plastic and seems an afterthought on a website otherwise entirely dedicated to men.
 
@@ -169,5 +169,5 @@ Due to the overwhelming success of subscription services for women in the UK and
 
 Our customers also tend to be loyal and love our brand, and we want to capitilise on this goodwill by implementing a strong referrals programme to encourage (and reward) them for recommending us to their friends.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7487/b422qn28nut2zc8yxgo8joijqus81jd/image__5_.png?rect=0%2C0%2C360%2C450&w=600&fit=clip&s=e76cbbe6a3f51ab8b9f79967794ad182)
+![](/img/seedrs/uploads/startup/section_image/image/7487/b422qn28nut2zc8yxgo8joijqus81jd/image__5_.png?rect=0%2C0%2C360%2C450&w=600&fit=clip&s=e76cbbe6a3f51ab8b9f79967794ad182)
 

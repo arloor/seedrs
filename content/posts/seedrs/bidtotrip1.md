@@ -79,7 +79,7 @@ Bidtotrip plans to invest the proceeds raised through Seedrs:
 
 Bidtotrip’s reference target is couple between 30-55 years old with an annual income higher than £40,00, and with a high school education. <br>These people are well disposed to purchasing online and are often in search of a deal. <br>They frequently use websites such as flahsales, or like cashback.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13500/9avpzdnplxxze8f1rgzl0p7pop4h4i8/6.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=59aa53d6f7563538a7e0ad031993823f)
+![](/img/seedrs/uploads/startup/section_image/image/13500/9avpzdnplxxze8f1rgzl0p7pop4h4i8/6.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=59aa53d6f7563538a7e0ad031993823f)
 
 ### Characteristics of target market
 
@@ -89,7 +89,7 @@ The travel industry in Europe counts a total addressable market with a turnover 
 
 Moreover, the innovation of auctions in the luxury travel industry and the offer of auctions with a starting price of £1 make us able to count on a generation of a big WOW effect. We think the best way to reach the market is the combination of DEM, social media marketing, AdWords marketing, guerrilla marketing and PR. So the best way to reach the market is to invest in social networks and to build solid strategic partnerships in order to increase engagement and interest around this new travel solution. The creation of viral content is another option to pursue, increasing spreading also by the activation of strong guerrilla actions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13499/2cnewvv3ae80sebwzlss3j4rct81aak/1.jpg?rect=0%2C-1%2C2540%2C1694&w=600&fit=clip&s=fe9e0c6f882ee798fdabe3d02e70b122)
+![](/img/seedrs/uploads/startup/section_image/image/13499/2cnewvv3ae80sebwzlss3j4rct81aak/1.jpg?rect=0%2C-1%2C2540%2C1694&w=600&fit=clip&s=fe9e0c6f882ee798fdabe3d02e70b122)
 
 ### Competition strategy
 

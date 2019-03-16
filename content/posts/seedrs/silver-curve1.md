@@ -119,7 +119,7 @@ Looking to put screens in their merchandising stands to be supplied to stores th
 
 Each of these opportunities has the potential to deliver revenues in excess of a million pounds to the company if they were to be secured and fulfilled by us.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1505/9tr461bbomhdkcvl8nliyme5gdj3sx5/window.gif?w=600&fit=clip&s=7b24e9565ddf2ddb37b72234b03345d9)
+![](/img/seedrs/uploads/startup/section_image/image/1505/9tr461bbomhdkcvl8nliyme5gdj3sx5/window.gif?w=600&fit=clip&s=7b24e9565ddf2ddb37b72234b03345d9)
 
 ### Characteristics of target market
 

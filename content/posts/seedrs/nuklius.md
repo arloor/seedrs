@@ -79,7 +79,7 @@ The rollout is planned to be on a geographic priority basis with the following b
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5216/4zgxtgxms7akofxrnj7mawykdb00ha7/hanadi.jpg?rect=0%2C0%2C1200%2C400&w=600&fit=clip&s=cea9d408e4dfcb4170dbe1614a51f666)
+![](/img/seedrs/uploads/startup/section_image/image/5216/4zgxtgxms7akofxrnj7mawykdb00ha7/hanadi.jpg?rect=0%2C0%2C1200%2C400&w=600&fit=clip&s=cea9d408e4dfcb4170dbe1614a51f666)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ For Nuklius Platform, the reason we have decided to focus on accelerators is bec
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5222/q7o49mqzcokjf6988j1s0pwkjh5zzlb/platform.png?rect=0%2C0%2C1891%2C901&w=600&fit=clip&s=4503134e462fd7a88023e7192e28be7c)
+![](/img/seedrs/uploads/startup/section_image/image/5222/q7o49mqzcokjf6988j1s0pwkjh5zzlb/platform.png?rect=0%2C0%2C1891%2C901&w=600&fit=clip&s=4503134e462fd7a88023e7192e28be7c)
 
 ### Competition strategy
 
@@ -121,5 +121,5 @@ Nuklius has already been successful in helping two entrepreneurs meet through th
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5209/g28u97nx5kt6d8o0hhzt6wfypiv8oaf/team_photo.jpg?rect=0%2C0%2C2592%2C1728&w=600&fit=clip&s=c3e11fabd3047ffe577199b2ff1b1b61)
+![](/img/seedrs/uploads/startup/section_image/image/5209/g28u97nx5kt6d8o0hhzt6wfypiv8oaf/team_photo.jpg?rect=0%2C0%2C2592%2C1728&w=600&fit=clip&s=c3e11fabd3047ffe577199b2ff1b1b61)
 

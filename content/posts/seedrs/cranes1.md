@@ -99,13 +99,13 @@ Group 3 – Young Parents. 30-35 years old, live in own property, commute into c
 
 Despite the excitement around craft beers and gin, the cider market is a huge market worth £3.2bn in 2016 and is expected to be worth £3.6bn by 2021. Fruit ciders have been a big success and now evidence suggests they account for a 29% share of the cider market – up from 15% in 2015 and 2% in 2005. The Grocer recently reported that cider was up 4.8% YOY.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14426/4j82wkrh6fkobhm9vk9lijfdadt9m2f/Photo_6.jpg?rect=0%2C0%2C2240%2C1252&w=600&fit=clip&s=852dc84ebcbfad81ae33eebc6291a1f8)
+![](/img/seedrs/uploads/startup/section_image/image/14426/4j82wkrh6fkobhm9vk9lijfdadt9m2f/Photo_6.jpg?rect=0%2C0%2C2240%2C1252&w=600&fit=clip&s=852dc84ebcbfad81ae33eebc6291a1f8)
 
 <br>There continues to be a desire for more crafted products with consumers willing to spend on drinks with clear provenance that offer higher quality. Furthermore, we believe that consumers are seeking lower calorie products that still retain natural taste – in line with what we have seen are general trends in food and drink.
 
 The value of the UK spirits market is c.£9.8bn. Flavoured spirits account for 18% of the UK Spirits Sales in 2015. Over the 12 months to 5 November 2016, 28 million litres of liqueurs were sold in the UK market, with an up-lift of liqueurs in the on-trade due to an increased demand for innovative cocktails.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14427/hjdnrjxbaof7c214b3n72m9wf1w2lil/Photo_7.jpg?rect=0%2C0%2C2268%2C1134&w=600&fit=clip&s=0fb7297f8e63c1b086e673893d6a7d65)
+![](/img/seedrs/uploads/startup/section_image/image/14427/hjdnrjxbaof7c214b3n72m9wf1w2lil/Photo_7.jpg?rect=0%2C0%2C2268%2C1134&w=600&fit=clip&s=0fb7297f8e63c1b086e673893d6a7d65)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ Our marketing strategy will raise awareness using PR, social media, bloggers, ev
 
 PR – featured in national &amp; local titles (including Vogue; Evening Standard; BBC Good Food Magazine; Bella; Cambridge Magazine and Student Pages) as well as trade publications (including Imbibe, Pub &amp; Bar, Bar Magazine and The Spirits Business).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14428/a58nawgqhywgc2na8tmq2ucmk0l58so/Photo_8.jpg?rect=0%2C0%2C935%2C442&w=600&fit=clip&s=08fd875c7495178dc604228d41be7bda)
+![](/img/seedrs/uploads/startup/section_image/image/14428/a58nawgqhywgc2na8tmq2ucmk0l58so/Photo_8.jpg?rect=0%2C0%2C935%2C442&w=600&fit=clip&s=08fd875c7495178dc604228d41be7bda)
 
 <br>Social media – 13,000+ followers across social channels and growing.
 
@@ -127,7 +127,7 @@ Student ambassadors – This planned expansion route will be focussing on distri
 
 In-Store sampling – consumers try the product next to the point of purchase.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14429/80b5rm5urfn1zafacj2pjll77jqyg8/Photo_9.jpg?rect=0%2C0%2C1696%2C732&w=600&fit=clip&s=726b6dc7e981c3366b16c7b16a0bb8d9)
+![](/img/seedrs/uploads/startup/section_image/image/14429/80b5rm5urfn1zafacj2pjll77jqyg8/Photo_9.jpg?rect=0%2C0%2C1696%2C732&w=600&fit=clip&s=726b6dc7e981c3366b16c7b16a0bb8d9)
 
 ### Competition strategy
 

@@ -93,7 +93,7 @@ It is possible to apply gamification strategies to almost any industry. Second s
 
 Examples: <br>- A brand wanting to communicate particular features or new uses of its product to its existing customers. <br>- A loyalty program wanting to reward its customers, increase interaction and visits to its points of sale, website or m-commerce solution. <br>- A marketing manager wants additional data on how customers perceive its brand or on the performance of his campaigns. <br>- A TV channel wants to increase audience participation. <br>- An advertiser wants to push new content or increase social media engagement.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2697/dk7cwzylb73sd1lxbovgbamy9s66goo/statistics-SECOND-SCREEN.png?rect=190%2C24%2C691%2C807&w=600&fit=clip&s=cde6c521976f13de13d6835aabdcaad9)
+![](/img/seedrs/uploads/startup/section_image/image/2697/dk7cwzylb73sd1lxbovgbamy9s66goo/statistics-SECOND-SCREEN.png?rect=190%2C24%2C691%2C807&w=600&fit=clip&s=cde6c521976f13de13d6835aabdcaad9)
 
 ### Characteristics of target market
 
@@ -125,5 +125,5 @@ We believe that Hooptap offers its clients the best value proposition available 
 
 - Launching new products <br>- Building loyalty <br>- Attracting new consumers <br>- Tracking information about users <br>- Increasing brand awareness <br>- Communicating new relevant information <br>- Increasing visits to points of sale or e/m-commerce sites <br>- Sampling <br>- Hyper-segmenting an audience
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2699/ndywnjvhfpmlb4o1xk2wcfa81futf1e/achievegoals.jpg?rect=165%2C0%2C718%2C693&w=600&fit=clip&s=d437151ffe7b352bc3182676306eed82)
+![](/img/seedrs/uploads/startup/section_image/image/2699/ndywnjvhfpmlb4o1xk2wcfa81futf1e/achievegoals.jpg?rect=165%2C0%2C718%2C693&w=600&fit=clip&s=d437151ffe7b352bc3182676306eed82)
 

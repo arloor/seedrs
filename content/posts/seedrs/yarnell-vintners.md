@@ -87,7 +87,7 @@ Bordeaux wines account for around 80% of the fine wine market, and in 2012 the w
 
 1–United Kingdom, 2–China, 3–Hong Kong, 4–United States, 5–Switzerland, 6–Belgium, 7-Germany, 8-Japan, 9-Canada, 10–Netherlands
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4006/g3p44gakmveaf7eg4j4dmjuloyqjgr6/7._LIntendent.jpeg?rect=0%2C0%2C1532%2C840&w=600&fit=clip&s=4a50ecd15b939210a272977e28752c1c)
+![](/img/seedrs/uploads/startup/section_image/image/4006/g3p44gakmveaf7eg4j4dmjuloyqjgr6/7._LIntendent.jpeg?rect=0%2C0%2C1532%2C840&w=600&fit=clip&s=4a50ecd15b939210a272977e28752c1c)
 
 ### Characteristics of target market
 
@@ -99,7 +99,7 @@ The world's super-rich are regular buyers of fine wine, spending an average of U
 
 Wine consumers in Europe are becoming increasingly sophisticated, spending more per bottle. Nearly 40% of regular wine drinkers in the UK now say they will spend over £8 per bottle, up from 29% a year ago.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3996/nnh8rfkodx3j9oza0n4957kkmdt8rdr/8._Pichon_Baron.jpeg?rect=0%2C0%2C1428%2C749&w=600&fit=clip&s=c3552e751b6922842249ad1397be7c37)
+![](/img/seedrs/uploads/startup/section_image/image/3996/nnh8rfkodx3j9oza0n4957kkmdt8rdr/8._Pichon_Baron.jpeg?rect=0%2C0%2C1428%2C749&w=600&fit=clip&s=c3552e751b6922842249ad1397be7c37)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ Presentations would be arranged through Wealth Managers and Investment Consultan
 
 We intend to start using wine trading platforms such as Liv-ex and Cavex to sell larger parcels of stock, and increase broking through larger merchants giving us access to their customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3991/jkgprdnuzvaa86k4ur8jtwx81s6l71a/9._Barrels.jpeg?rect=0%2C0%2C1013%2C567&w=600&fit=clip&s=b85a35b690627ca272a829cc2337e360)
+![](/img/seedrs/uploads/startup/section_image/image/3991/jkgprdnuzvaa86k4ur8jtwx81s6l71a/9._Barrels.jpeg?rect=0%2C0%2C1013%2C567&w=600&fit=clip&s=b85a35b690627ca272a829cc2337e360)
 
 ### Competition strategy
 
@@ -127,5 +127,5 @@ While we are not able to compete with the size and prestige of these companies, 
 
 At present Yarnell Vintners is one of many small companies operating on a small amount of capital in a very competitive market sector. Following investment we will be in an advantageous position and we believe our development plan will enable us to grow rapidly, to become one of the UK's larger fine wine merchants within four years.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3990/tpfbasrl7t0pbjfjouy6nx3mylvxpsi/10._Cheval_Blanc.jpeg?rect=0%2C0%2C1541%2C866&w=600&fit=clip&s=45397c412f2d502799d823941a51525a)
+![](/img/seedrs/uploads/startup/section_image/image/3990/tpfbasrl7t0pbjfjouy6nx3mylvxpsi/10._Cheval_Blanc.jpeg?rect=0%2C0%2C1541%2C866&w=600&fit=clip&s=45397c412f2d502799d823941a51525a)
 

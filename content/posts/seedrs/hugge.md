@@ -103,7 +103,7 @@ Although margin to HÜGGE is lower when sold through retailers it helps build aw
 
 For the retailer, it allows them to show a contemporary side to their offer as well as improving their own customer service via speedy delivery and the risk free trial.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12107/e9askghapcytsnmoyfkjzzu4wd1gus0/HUGGEMATTRESS0053_copy.jpg?rect=0%2C0%2C5616%2C3744&w=600&fit=clip&s=5f5ea543b54ca66eacdc2a3dc7af7682)
+![](/img/seedrs/uploads/startup/section_image/image/12107/e9askghapcytsnmoyfkjzzu4wd1gus0/HUGGEMATTRESS0053_copy.jpg?rect=0%2C0%2C5616%2C3744&w=600&fit=clip&s=5f5ea543b54ca66eacdc2a3dc7af7682)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ In addition, where HÜGGE has had success in selling through retailers, such as 
 
 The common characteristics that we believe our target market to hold in common include: <br>- pride in the appearance of their home (in so far as it indicates social status). <br>- appreciation of the importance of health and wellness. <br>- limited free time such that they highly value convenience. <br>- enjoy time socialising with friends and family and often in their own home. <br>- conscious of and sensitive to the importance of environmental conservation.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12097/gt0cn7973qxixyfdxj0kgo2598a5p1t/Idea_2_copy.jpg?rect=128%2C0%2C1514%2C1061&w=600&fit=clip&s=35cdcde991ff10566dd341af56dddbbd)
+![](/img/seedrs/uploads/startup/section_image/image/12097/gt0cn7973qxixyfdxj0kgo2598a5p1t/Idea_2_copy.jpg?rect=128%2C0%2C1514%2C1061&w=600&fit=clip&s=35cdcde991ff10566dd341af56dddbbd)
 
 ### Marketing strategy
 
@@ -135,7 +135,7 @@ Roll out to retailers will be based on identifying targets using our extensive k
 
 The financial forecast provides for point of sale support for these retailers, point of sale similar to that already in place at Harrods, so as to convey the brand image and story in a consistent manner. We will partner to raise awareness of HÜGGE within their customer base.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12109/pvcj8a1v6xf7mn7fowqhcyk7027gh8y/Screen_Shot_2017-06-21_at_09.17.02.png?rect=148%2C137%2C670%2C637&w=600&fit=clip&s=e9c90261fc04fabf79a2b053649a7b6a)
+![](/img/seedrs/uploads/startup/section_image/image/12109/pvcj8a1v6xf7mn7fowqhcyk7027gh8y/Screen_Shot_2017-06-21_at_09.17.02.png?rect=148%2C137%2C670%2C637&w=600&fit=clip&s=e9c90261fc04fabf79a2b053649a7b6a)
 
 ### Competition strategy
 

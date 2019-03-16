@@ -87,7 +87,7 @@ The higher risk portion of each deal (ie C) is expected to yield annual returns 
 
 We believe this significantly increases the appeal of our offering and the potential size of our lender catchment. People are increasingly becoming accustomed to lending on P2P platforms, and now that the sector is regulated and the rates available on other platforms drop, we believe that a significant opportunity exists for new entrants with straightforward and secure yet differentiated product offerings.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1151/gc65wbpr3yv857zmn06u524z95to0dg/image5.png?w=600&fit=clip&s=69684fdf9b0e0d0d1211297fa787e825)
+![](/img/seedrs/uploads/startup/section_image/image/1151/gc65wbpr3yv857zmn06u524z95to0dg/image5.png?w=600&fit=clip&s=69684fdf9b0e0d0d1211297fa787e825)
 
 ### Characteristics of target market
 

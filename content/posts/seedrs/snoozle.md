@@ -71,7 +71,7 @@ Snoozle is a free download, and for the 1st year after funding the focus will be
 
 B2C: Born after the mid-90s, Gen Z have grown up with social media and smart phones. They are the most familiar generation with creating and sharing voice notes in favour of text, as it saves them time.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12767/2alrf38xa6jgljsxikyf50sm1iqjarg/7.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=8e18881fd5e2e006e1a35cc3b642142e)
+![](/img/seedrs/uploads/startup/section_image/image/12767/2alrf38xa6jgljsxikyf50sm1iqjarg/7.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=8e18881fd5e2e006e1a35cc3b642142e)
 
 We will target secondary schools and universities in the UK for year 1, and then plan to to target USA colleges.
 
@@ -79,13 +79,13 @@ B2B: For influencers, media and brands, being one of the first things your audie
 
 We plan to give influencers the benefit of ‘Verified Wake Up Artist’ status (like 'Verified' on Twitter) and they will also be promoted through the app in a ‘discover’ section. We expect that these Wake Up Artists will not only bring with them an existing engaged audience, but also will deliver good quality content for users who want to wake up to more than just their friends.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12768/3pzalbiy3iel2144yy5q02rh1mtsko/8.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=be88eb5d8a63d79a8dfc5c4f1a3c4389)
+![](/img/seedrs/uploads/startup/section_image/image/12768/3pzalbiy3iel2144yy5q02rh1mtsko/8.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=be88eb5d8a63d79a8dfc5c4f1a3c4389)
 
 ### Characteristics of target market
 
 B2C: <br>- Close to 50% are connected online for over 10 hours per day. <br>By 2020, Gen Z will account for 40% of all consumers, with 96% owning a smartphone. <br>- Over 85% of Generation Z will learn about new products through social platforms and 69% will visit a store based on a retailer’s social post. <br>- 8 out of 10 Gen-Z individuals are influenced by opinions they get on social media.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12769/d9lbwvgvqu49bohj8n3a64iph1nul04/10.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=5e7cdbca8c1c71eafd132bc055ac1882)
+![](/img/seedrs/uploads/startup/section_image/image/12769/d9lbwvgvqu49bohj8n3a64iph1nul04/10.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=5e7cdbca8c1c71eafd132bc055ac1882)
 
 B2B, Influencers: <br>- 84% of marketers utilise Influencer Marketing campaign tactics, demonstrating its widespread adoption. <br>- Over 80% of marketers finding such tactics effective. <br>- When surveyed in 2015, 60% of marketers intended to increase their spend on influencer marketing the next year.
 
@@ -109,7 +109,7 @@ Audio Content: <br>Anchor is still relatively small, but gaining traction within
 
 User Generated Content: <br>We believe Snapchat is the closest competitor in this space as like Snapchats, Snoozles also delete themselves (after 24 hours of being heard). The Snoozle UI is designed to be intuitive to a Snapchat user.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12770/nmz7wk9fctf7iv9mbd1v9g5oqar8ece/11.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=e6416c3ef5cf14e13855de0da59eb24d)
+![](/img/seedrs/uploads/startup/section_image/image/12770/nmz7wk9fctf7iv9mbd1v9g5oqar8ece/11.png?rect=0%2C0%2C941%2C492&w=600&fit=clip&s=e6416c3ef5cf14e13855de0da59eb24d)
 
 Meditation Content: <br>Headspace (£9,95 pcm) delivers audio guided meditation that promises to help users live happier/ reduce stress etc. We plan to make Snoozle subscriptions a third of the price. YouTube also has many videos containing audio content that users can leave on all night to help them sleep.
 

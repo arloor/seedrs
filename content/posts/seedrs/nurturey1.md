@@ -93,7 +93,7 @@ We estimate our market size is £25 billion for UK, US and India. <br>This is an
 
 Our calculations are based on the following assumptions: <br>- 30% spend is done online, of all non-school spend by parents. <br>- 30% average commission opportunity, on each transaction, as sales agents.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4937/5wl7cvkw8ofhjzp4vydx3sf8i3drkuu/Marketing_strategy.jpg?rect=0%2C0%2C1792%2C2230&w=600&fit=clip&s=5157bd318890c478eb65b7d772b41142)
+![](/img/seedrs/uploads/startup/section_image/image/4937/5wl7cvkw8ofhjzp4vydx3sf8i3drkuu/Marketing_strategy.jpg?rect=0%2C0%2C1792%2C2230&w=600&fit=clip&s=5157bd318890c478eb65b7d772b41142)
 
 ### Marketing strategy
 

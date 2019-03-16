@@ -87,7 +87,7 @@ Our goal in 2018 is to establish Fairafric as a premium, sustainable brand in th
 
 Next on our road-map are the Scandinavian countries, the UK and the Netherlands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13576/8i67j642rnlhs4gg0r7juzvqndd0wjo/stay_curious_fairafric.png?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=10a83dcc1d5ef159f93873e996e95dd0)
+![](/img/seedrs/uploads/startup/section_image/image/13576/8i67j642rnlhs4gg0r7juzvqndd0wjo/stay_curious_fairafric.png?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=10a83dcc1d5ef159f93873e996e95dd0)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ German consumers alone spent more than 32 Million Euros on Fairtrade chocolate i
 
 In Germany, 70% of the Fairtrade chocolate is also organically grown. Most of these sales occur in organic shops of which there are more than 2,000 in Germany. Our experience is that these shops rarely buy directly from producers and source their products through one or more distributors. We are currently talking to many of the major distributors and have several verbal interests for listings. We have reached an agreement with a large chain to be listed by the end of this year.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13577/2536rlodxe1xc63de6o5wazm789h6vp/colour_your_life__fairafric.png?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=694e0eed5c26fe331997f14019570ecc)
+![](/img/seedrs/uploads/startup/section_image/image/13577/2536rlodxe1xc63de6o5wazm789h6vp/colour_your_life__fairafric.png?rect=0%2C0%2C600%2C337&w=600&fit=clip&s=694e0eed5c26fe331997f14019570ecc)
 
 ### Marketing strategy
 

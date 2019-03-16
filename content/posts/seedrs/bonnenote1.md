@@ -57,7 +57,7 @@ Another outstanding director's loan of £34,000 (no maturity, no interest) is to
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13507/24l7ci9ifuzgar6ev9zxsl8bn8gpxdr/target2.png?rect=0%2C6%2C660%2C599&w=600&fit=clip&s=723441c84b82724a25750e6b31e05f03)
+![](/img/seedrs/uploads/startup/section_image/image/13507/24l7ci9ifuzgar6ev9zxsl8bn8gpxdr/target2.png?rect=0%2C6%2C660%2C599&w=600&fit=clip&s=723441c84b82724a25750e6b31e05f03)
 
 ### Characteristics of target market
 
@@ -69,11 +69,11 @@ Parents who are not able to help their children with their homework assignments 
 
 We have identified two distinct deployment channels for our marketing campaign to maximize customer impact. We intend to allocate most of our marketing resources to digital marketing at first, and then the remaining funds to direct marketing, which will allow us to have individualized face-to-face interactions with our customers (students and parents).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13508/d2fjdqwlg85uwiu7pmxyyhmhhwst8hp/Marketing_campaign2.png?rect=0%2C0%2C660%2C956&w=600&fit=clip&s=d90cd3162167ed36e1425025af5f6e39)
+![](/img/seedrs/uploads/startup/section_image/image/13508/d2fjdqwlg85uwiu7pmxyyhmhhwst8hp/Marketing_campaign2.png?rect=0%2C0%2C660%2C956&w=600&fit=clip&s=d90cd3162167ed36e1425025af5f6e39)
 
 ### Competition strategy
 
 Our strategy is to expand at a rapid pace and mainly in countries with little or no direct competition at the local level.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13509/207h0j3wi5h9k24p400xx96dvjwfk3n/ExpansionStrategy.png?rect=0%2C0%2C660%2C770&w=600&fit=clip&s=b48c9215c869e942087682124b38720f)
+![](/img/seedrs/uploads/startup/section_image/image/13509/207h0j3wi5h9k24p400xx96dvjwfk3n/ExpansionStrategy.png?rect=0%2C0%2C660%2C770&w=600&fit=clip&s=b48c9215c869e942087682124b38720f)
 

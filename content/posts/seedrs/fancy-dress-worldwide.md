@@ -67,7 +67,7 @@ We cater for many markets with both cost effective smaller accessories and premi
 
 Future plans are in place to create sub-brands for particular demographics.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15304/plaz267kmauoubayrli0b0f2dshyqno/22893963_10155998023561929_5253809600144554263_n__1_.jpg?rect=0%2C0%2C960%2C640&w=600&fit=clip&s=4f2bbdd5ad0328206be8977e03e7072e)
+![](/img/seedrs/uploads/startup/section_image/image/15304/plaz267kmauoubayrli0b0f2dshyqno/22893963_10155998023561929_5253809600144554263_n__1_.jpg?rect=0%2C0%2C960%2C640&w=600&fit=clip&s=4f2bbdd5ad0328206be8977e03e7072e)
 
 ### Characteristics of target market
 
@@ -87,7 +87,7 @@ We connect to many retail sales channels via API's and build detailed software w
 
 We are also building traffic to our own website, having partnered with various sites such as TopCashback and Quidco, who offer rewards to those visiting our website. By building these quality links to reputable companies slowly over the next few years, we aim to build brand trust and bump up googles rankings as our site becomes more optimised for search engines.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15305/21dq3zjeds13q77wj7r9rx1ewnf4fpv/28378038_1638903119526870_965838445795091495_n.jpg?rect=79%2C70%2C600%2C731&w=600&fit=clip&s=89f9bc60cafd9f2e6d376895730d3011)
+![](/img/seedrs/uploads/startup/section_image/image/15305/21dq3zjeds13q77wj7r9rx1ewnf4fpv/28378038_1638903119526870_965838445795091495_n.jpg?rect=79%2C70%2C600%2C731&w=600&fit=clip&s=89f9bc60cafd9f2e6d376895730d3011)
 
 ### Competition strategy
 

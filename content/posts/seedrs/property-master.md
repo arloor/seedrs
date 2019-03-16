@@ -91,7 +91,7 @@ We believe that Property Master’s capability to run “what if” scenarios an
 
 There are other factors at play. The combination of the tighter lending standards, tax changes and government action to improve standards generally in the private rental sector is forcing landlords to approach running their properties in a much more professional manner. We believe this creates a gap for a player such as Property Master that can not only provide landlords with access to good mortgage finance deals but also overall general support in the form of a range of landlord-friendly products and online business tools.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13597/jkbjv8cdcfygvweb7rrehgxmg8fva1i/Growth_in_rental_properties_-_revised.png?rect=0%2C0%2C2667%2C1733&w=600&fit=clip&s=187fbd0aeffdaf51201f1033d34a5beb)
+![](/img/seedrs/uploads/startup/section_image/image/13597/jkbjv8cdcfygvweb7rrehgxmg8fva1i/Growth_in_rental_properties_-_revised.png?rect=0%2C0%2C2667%2C1733&w=600&fit=clip&s=187fbd0aeffdaf51201f1033d34a5beb)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ Almost half of all private rented properties are purchased using a buy-to-let mo
 
 This is where Property Master comes in – we provide a simple, clear, and smart digital mortgage platform that answers the question “what is my best property finance solution?” with a one-click purchase.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13584/3j7pga7rixylmmihgn22is32cjj6s0c/Seedrs_demographic_graphic.png?rect=0%2C0%2C2667%2C1733&w=600&fit=clip&s=ac42c713991e8232dc35f3360965bb28)
+![](/img/seedrs/uploads/startup/section_image/image/13584/3j7pga7rixylmmihgn22is32cjj6s0c/Seedrs_demographic_graphic.png?rect=0%2C0%2C2667%2C1733&w=600&fit=clip&s=ac42c713991e8232dc35f3360965bb28)
 
 ### Marketing strategy
 

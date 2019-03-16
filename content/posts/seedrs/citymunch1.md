@@ -59,25 +59,25 @@ Proceeds will be primarily used for growth and team-building.
 
 As platform business, we have two target markets - restaurants and customers. To grow, we must focus on use cases: pairing types of restaurant and customer types that we can connect at that point in our development. <br> <br>Early Adopters <br>Our early adopters vary from city to city. In Bristol and Manchester, students are a key target demographic - they’re tech-savvy, time-rich, cash-strapped and social. In London, the main initial pairing is grab-and-go lunches for young professionals. Concentrating on this high volume trade allows us to form a daily habit and build our brand. <br> <br>Majority <br>A regular customer base allows us to move on from the early adopter use case. For example, our City lunch trade is helping us initiate a presence in dinners, breakfasts, more “sit-down” lunches and end-of-day stock clearance. 20-35 year old professionals in city centres still form the majority of our target market, but local residents, shoppers, young families and tourists are longer term targets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14233/nxgphvf4vnx7aml09ff05t56nf5n4w7/6__1_.png?rect=0%2C0%2C600%2C346&w=600&fit=clip&s=835704f1f79fa502dac75b9428007527)
+![](/img/seedrs/uploads/startup/section_image/image/14233/nxgphvf4vnx7aml09ff05t56nf5n4w7/6__1_.png?rect=0%2C0%2C600%2C346&w=600&fit=clip&s=835704f1f79fa502dac75b9428007527)
 
 ### Characteristics of target market
 
 The UK restaurant market has grown in recent years - from £48bn in 2014 to an estimated £52bn in 2017. Across all Restaurants, Quick Service Restaurants and Pubs, 3.7 billion meals were eaten in 107,000 outlets in 2015. <br> <br>British diners are price sensitive. The number one reason why people cut down on restaurant trips is that they’re trying to save money*. For people that are eating out more, 35% cite the availability of deals and discounts as one of their reasons. <br> <br>In addition, there is a trend towards behaviours less constrained by social and economic norms. People in search of new experiences will happily switch between casual and fine dining. According to Sacla*, people now expect to eat out “any time, any place, anywhere”, in a trend they call the “deregulation of life”. CityMunch provides a way for the on-demand generation to eat out when it suits them, with deals which don’t restrict the restaurant experience. <br> <br>*Sacla Report 2015 (“Eating Out Today and Tomorrow”).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14234/7moj84mml88citcpilgy9gbxucykqku/TwoPhoneScreenshot-resized__1_.png?rect=-2%2C0%2C2263%2C2553&w=600&fit=clip&s=46bf74dcc97ddd781eaf858f42c6e742)
+![](/img/seedrs/uploads/startup/section_image/image/14234/7moj84mml88citcpilgy9gbxucykqku/TwoPhoneScreenshot-resized__1_.png?rect=-2%2C0%2C2263%2C2553&w=600&fit=clip&s=46bf74dcc97ddd781eaf858f42c6e742)
 
 ### Marketing strategy
 
 Reaching new customers cheaply has been essential for us. We focus on word-of-mouth referrals to drive our growth - we have a zero-cost in-app referral scheme which has helped us reduce our overall signed-up user acquisition cost to £2. The most important aspect of this is proving our value to customers and thus winning evangelists, as shown by the email we were proud to receive below.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14332/2i62kpny14ksbh82ekl8my98lhcrd41/pasted_image_0__1_.png?rect=0%2C0%2C665%2C276&w=600&fit=clip&s=695c5972a37b2a1d455253b5cb4bc0a5)
+![](/img/seedrs/uploads/startup/section_image/image/14332/2i62kpny14ksbh82ekl8my98lhcrd41/pasted_image_0__1_.png?rect=0%2C0%2C665%2C276&w=600&fit=clip&s=695c5972a37b2a1d455253b5cb4bc0a5)
 
 Other channels to market include:
 
 Events: Through organizing themed campaigns, we aim to energize local influencers, restaurants and press to spread the word. As an example, in December 2017 we ran a “Food Waste Week” in Manchester, drawing attention to the wider issue of food waste, especially around Christmas. <br> <br>Restaurant partnerships: Through working directly with key restaurant partners, we acquire customers through digital marketing and on-site collateral - including posters, stickers and cards. <br> <br>Other: We team up with influencers, use digital marketing including social media, email campaigns and PPC advertising as support for our initiatives.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14235/lhkb2cc0lhywyi0dcuqz7e9jyh4x5q8/good_yard_new.png?rect=0%2C0%2C440%2C440&w=600&fit=clip&s=fbf9ab7a62f220a185114a7e57a8d6b3)
+![](/img/seedrs/uploads/startup/section_image/image/14235/lhkb2cc0lhywyi0dcuqz7e9jyh4x5q8/good_yard_new.png?rect=0%2C0%2C440%2C440&w=600&fit=clip&s=fbf9ab7a62f220a185114a7e57a8d6b3)
 
 ### Competition strategy
 

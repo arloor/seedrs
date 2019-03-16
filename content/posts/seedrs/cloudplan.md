@@ -85,7 +85,7 @@ We expect that the lack of high internet bandwidth for data transfer will also d
 
 Companies from different industries like biotech, consulting, marketing, law firms, real estate etc. are already using cloudplan.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12658/9r8s1jqjqiwe7e59we81rokemh8a5l3/DSC02651-mod-kl.jpg?rect=0%2C0%2C6000%2C4000&w=600&fit=clip&s=9f5ac46df4845705d67f6767f57a5cc5)
+![](/img/seedrs/uploads/startup/section_image/image/12658/9r8s1jqjqiwe7e59we81rokemh8a5l3/DSC02651-mod-kl.jpg?rect=0%2C0%2C6000%2C4000&w=600&fit=clip&s=9f5ac46df4845705d67f6767f57a5cc5)
 
 ### Characteristics of target market
 
@@ -97,7 +97,7 @@ The key forces driving the cloud storage market include the increasing adoption 
 
 With the increase in the adoption rate of cloud storage among Small and Medium Enterprises (SMEs) due to benefits such as reliability, accessibility, disaster recovery and reduced IT administrative tasks, the cloud storage market is expected to gain major traction.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12660/z0ct2jyfor0t32mzgjzfj4s7waupc3/ASO.PNG?rect=0%2C0%2C691%2C772&w=600&fit=clip&s=3f36e32b165405478d7969114c994c61)
+![](/img/seedrs/uploads/startup/section_image/image/12660/z0ct2jyfor0t32mzgjzfj4s7waupc3/ASO.PNG?rect=0%2C0%2C691%2C772&w=600&fit=clip&s=3f36e32b165405478d7969114c994c61)
 
 ### Marketing strategy
 
@@ -123,7 +123,7 @@ Pre-installation.
 
 In the future we would look at pre-installing cloudplan on NAS devices and SME servers. The vendors would supplement the functional package of the product and this would open up additional groups of buyers for cloudplan.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12659/cmojx86x07cbd7jhzvpz2pugmjfimye/graphic5.jpg?rect=0%2C0%2C1280%2C1024&w=600&fit=clip&s=a0132523235cf2c1e918c87ba1bb09fd)
+![](/img/seedrs/uploads/startup/section_image/image/12659/cmojx86x07cbd7jhzvpz2pugmjfimye/graphic5.jpg?rect=0%2C0%2C1280%2C1024&w=600&fit=clip&s=a0132523235cf2c1e918c87ba1bb09fd)
 
 ### Competition strategy
 

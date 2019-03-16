@@ -109,7 +109,7 @@ In terms of sports venues we are looking for any facilities which are not curren
 
 Finally we'll be targeting sports clubs and governing bodies to help them increase participation in their sport by identifying and giving them access to potential new members. This might also drive content and users onto our system.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4927/qj02ewx7hbr5002nwo89oa16ojmk8hr/iStock_000004208392Small.jpg?rect=0%2C147%2C817%2C405&w=600&fit=clip&s=b5dc621c1e1d18b2166563065f7d7a60)
+![](/img/seedrs/uploads/startup/section_image/image/4927/qj02ewx7hbr5002nwo89oa16ojmk8hr/iStock_000004208392Small.jpg?rect=0%2C147%2C817%2C405&w=600&fit=clip&s=b5dc621c1e1d18b2166563065f7d7a60)
 
 ### Characteristics of target market
 
@@ -117,7 +117,7 @@ In the UK alone around 15m people take part in sporting activity at least once a
 
 Again there are no statistics available for number of sports facilities worldwide but with the assumption that the rest of the world has the same population to venue ratio as the UK, we have estimated there to be around 9m worldwide. <br>We found that large sports companies are very active in the sports tech industry (especially in apps) and Under Armour recently stated it's intention to spend $700m in this sector in the coming years.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4930/641t9yai47v2nq6ovqdanz9jz9l3pj0/GYm.png?rect=0%2C0%2C555%2C262&w=600&fit=clip&s=105c080042746d1493f537f01c4b2e54)
+![](/img/seedrs/uploads/startup/section_image/image/4930/641t9yai47v2nq6ovqdanz9jz9l3pj0/GYm.png?rect=0%2C0%2C555%2C262&w=600&fit=clip&s=105c080042746d1493f537f01c4b2e54)
 
 ### Marketing strategy
 
@@ -133,7 +133,7 @@ In order to target vendors we will undertake several different sales approaches.
 
 • Direct Sales. <br>• In-app/website sign up. <br>• Targeted marketing campaigns
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4926/pxmtfr2hq0vugk3vi5l875ur5co0x7b/Shutterstock.jpg?rect=0%2C789%2C3466%2C2672&w=600&fit=clip&s=8c49b1bec08615a96661f101c63a121e)
+![](/img/seedrs/uploads/startup/section_image/image/4926/pxmtfr2hq0vugk3vi5l875ur5co0x7b/Shutterstock.jpg?rect=0%2C789%2C3466%2C2672&w=600&fit=clip&s=8c49b1bec08615a96661f101c63a121e)
 
 ### Competition strategy
 
@@ -141,5 +141,5 @@ At present our main competition comes from 2 game-organisation apps called Teams
 
 As far as we know neither company currently offers our key functionality matching up teams and players. Thus, we feel this gives us a strong product advantage at launch.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4923/5rmyt19ihj5dxz2skpjiwfmlm9r50fw/iStock_000014641969XLarge.jpg?rect=0%2C0%2C4200%2C2814&w=600&fit=clip&s=62e8b856c6d80609cbdc490ec9f7b00d)
+![](/img/seedrs/uploads/startup/section_image/image/4923/5rmyt19ihj5dxz2skpjiwfmlm9r50fw/iStock_000014641969XLarge.jpg?rect=0%2C0%2C4200%2C2814&w=600&fit=clip&s=62e8b856c6d80609cbdc490ec9f7b00d)
 

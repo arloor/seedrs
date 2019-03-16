@@ -91,7 +91,7 @@ Spare Fruit targets health conscious consumers that fall into the Acorn 'Affluen
 
 Meet Esme. She is a busy communications professional, aged 35, married with two young children. She is concerned about both healthy eating and wider environmental issues. She reads The Guardian Online, Cosmopolitan Magazine and BBC Good Food Magazine.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13379/l4jo93l9bpak5sovslwb9r1sqn3tfid/fam.png?rect=0%2C0%2C844%2C981&w=600&fit=clip&s=611a19e3e36f4dcc8a38101ad3c6f3f3)
+![](/img/seedrs/uploads/startup/section_image/image/13379/l4jo93l9bpak5sovslwb9r1sqn3tfid/fam.png?rect=0%2C0%2C844%2C981&w=600&fit=clip&s=611a19e3e36f4dcc8a38101ad3c6f3f3)
 
 Esme wants to enjoy natural and delicious snacks on her own and with the family, and is keen to avoid 'snaccidents', where she picks up an unhealthy snack when in a rush!
 
@@ -105,7 +105,7 @@ The latest Euromonitor Health and Wellness Report highlights that the overall va
 
 The fruit snack market is currently valued at over £300 million growing 33% over the past five years, and is projected to grow steadily, as people continue to move towards healthier snacking.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13380/lfdyip8u2fkop5btvb6iea65i2yuu6r/graph.png?rect=0%2C0%2C981%2C673&w=600&fit=clip&s=5bf4ca665303be91557d6baa4638ca52)
+![](/img/seedrs/uploads/startup/section_image/image/13380/lfdyip8u2fkop5btvb6iea65i2yuu6r/graph.png?rect=0%2C0%2C981%2C673&w=600&fit=clip&s=5bf4ca665303be91557d6baa4638ca52)
 
 ### Marketing strategy
 
@@ -127,13 +127,13 @@ Our marketing budget is set at 28% of sales in year 1 reducing to 6.5% in Year 5
 
 * Listings in wholesaler catalogues.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13382/b0y87iearsx2t9iskfapzogps5pd4z/shop.png?rect=0%2C0%2C780%2C905&w=600&fit=clip&s=6b5eb208ae8d6f42ba7b7709ad20151c)
+![](/img/seedrs/uploads/startup/section_image/image/13382/b0y87iearsx2t9iskfapzogps5pd4z/shop.png?rect=0%2C0%2C780%2C905&w=600&fit=clip&s=6b5eb208ae8d6f42ba7b7709ad20151c)
 
 ### Competition strategy
 
 To our knowledge, Spare Fruit is the only sustainable fruit crisp on the UK market. We plan to offer healthy snackers a high-quality, British sustainable fruit crisp range to compete with fried, imported products that use palm oil and accumulate significant food miles.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13383/s4vknexh5ea84wrq7yz5wq7fvlmg1oz/mis.png?rect=0%2C0%2C1300%2C657&w=600&fit=clip&s=0dcead73f03239e5be821b2210406bdc)
+![](/img/seedrs/uploads/startup/section_image/image/13383/s4vknexh5ea84wrq7yz5wq7fvlmg1oz/mis.png?rect=0%2C0%2C1300%2C657&w=600&fit=clip&s=0dcead73f03239e5be821b2210406bdc)
 
 A small number of competitors sell internationally across Europe, which shows good market demand. Only half use British produce and none of these brands utilise fruit that would otherwise be wasted.
 
@@ -145,5 +145,5 @@ Zero waste production <br>We use 100% of the fruit - skin, core and stalk and al
 
 Healthier alternative <br>We air-dry which maintains all the goodness, enhances the flavour and adds a naturally crisp texture, removing the need to add anything or fry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13384/ec0u7zgr9mly2g1sfioeor9gwkm6rbb/end.png?rect=0%2C-6%2C1300%2C836&w=600&fit=clip&s=bd582f0cbd0eb229a86bc184525a46ed)
+![](/img/seedrs/uploads/startup/section_image/image/13384/ec0u7zgr9mly2g1sfioeor9gwkm6rbb/end.png?rect=0%2C-6%2C1300%2C836&w=600&fit=clip&s=bd582f0cbd0eb229a86bc184525a46ed)
 

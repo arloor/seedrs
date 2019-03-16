@@ -117,7 +117,7 @@ The focus will be to complete the development of our product range. British Gas,
 
 - Industry experts predict around 11% of the 25 million UK homes will be ‘smart’ in some capacity by the turn of 2015. There is currently a huge demand for smart home tech.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3735/pcmcv5c205j9rl6c02mcjqo3c6u0cra/seedrs-assets-market-graph__2_.png?rect=0%2C0%2C747%2C410&w=600&fit=clip&s=37482e5dd16374ea379b52881c849a08)
+![](/img/seedrs/uploads/startup/section_image/image/3735/pcmcv5c205j9rl6c02mcjqo3c6u0cra/seedrs-assets-market-graph__2_.png?rect=0%2C0%2C747%2C410&w=600&fit=clip&s=37482e5dd16374ea379b52881c849a08)
 
 ### Marketing strategy
 
@@ -151,5 +151,5 @@ Our Products - At Den we have a range of products perfectly suited for the mass 
 
 - Our products won’t require any complicated installation, you could have swapped your switch, synced with a remote, and be controlling in just a few minutes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3736/5z6156qrcmnrvk14p1i5aegrbe6lts6/yasser-quote-padding.png?rect=0%2C0%2C1200%2C600&w=600&fit=clip&s=b238d252d4fee705bbfec586ee03eb4d)
+![](/img/seedrs/uploads/startup/section_image/image/3736/5z6156qrcmnrvk14p1i5aegrbe6lts6/yasser-quote-padding.png?rect=0%2C0%2C1200%2C600&w=600&fit=clip&s=b238d252d4fee705bbfec586ee03eb4d)
 

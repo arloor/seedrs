@@ -79,7 +79,7 @@ We have further been approached by two top-tier consulting firms that wish to us
 
 me@mybest stands at the core of two enormous and growing markets — HR analytics and workplace wellness. The HR Analytics market is worth USD $14bn and workplace wellness is a $43bn industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13214/2ycdivq2kz6ncrwvz9yl37kaps3xgea/market_size_copy.jpg?rect=0%2C0%2C1024%2C530&w=600&fit=clip&s=fe08bd0955381e1cebbfee3c5d2c434e)
+![](/img/seedrs/uploads/startup/section_image/image/13214/2ycdivq2kz6ncrwvz9yl37kaps3xgea/market_size_copy.jpg?rect=0%2C0%2C1024%2C530&w=600&fit=clip&s=fe08bd0955381e1cebbfee3c5d2c434e)
 
 The time to capitalise on wellbeing is now.
 
@@ -93,7 +93,7 @@ The average spend of those with a wellbeing strategy is £51–75 per employee p
 
 We receive numerous inbound requests due to the significant media coverage Mappiness creates. We have been featured on Sky News this year already, as well as other coverage in the UK and globally. We expect Mappiness 2.0 to generate significantly more interest.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13215/6wokwdx7fdtq1wsxukcvrieqlbk3l3d/george.png?rect=0%2C0%2C1024%2C640&w=600&fit=clip&s=f246d91e7ec06e0ddc9ee2b56fbec8b9)
+![](/img/seedrs/uploads/startup/section_image/image/13215/6wokwdx7fdtq1wsxukcvrieqlbk3l3d/george.png?rect=0%2C0%2C1024%2C640&w=600&fit=clip&s=f246d91e7ec06e0ddc9ee2b56fbec8b9)
 
 We are also working with one of the largest media &amp; broadcasting companies in the US who has an audience of over 100m viewers each month. They will be using me@mybest in a documentary due to launch this January in which PSYT's CEO will personally appear.
 

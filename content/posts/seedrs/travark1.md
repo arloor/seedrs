@@ -97,7 +97,7 @@ There is one very important aspect to remember. We do not have to appeal to ever
 
 Given all the above considerations, Travark will focus its initial efforts on appealing to the individual, or The Initiator, who is responsible for coordinating a group booking.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/879/hdyvu9pwcsbdfei7dyejt6gxvf2xyqq/TRAVARKSeedrsListingVisual6.jpg?w=600&fit=clip&s=f23e789c42dc4697df1ea758dabc64d5)
+![](/img/seedrs/uploads/startup/section_image/image/879/hdyvu9pwcsbdfei7dyejt6gxvf2xyqq/TRAVARKSeedrsListingVisual6.jpg?w=600&fit=clip&s=f23e789c42dc4697df1ea758dabc64d5)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ With retail dominance in this sector increasingly in decline, we feel there is a
 
 Remember, this is just the present market estimate for people booking online and online bookings are growing with exponential speed, year on year, helped along by mobile devices and a more web-savvy, value-hungry audience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/880/6r5s8p2dudjwebeqfw72wh1nxuvt2vz/TRAVARKSeedrsListingVisual7.jpg?w=600&fit=clip&s=8364bc5f8d74d392d89ed2a8e771ba6b)
+![](/img/seedrs/uploads/startup/section_image/image/880/6r5s8p2dudjwebeqfw72wh1nxuvt2vz/TRAVARKSeedrsListingVisual7.jpg?w=600&fit=clip&s=8364bc5f8d74d392d89ed2a8e771ba6b)
 
 ### Marketing strategy
 
@@ -125,7 +125,7 @@ Affiliates. <br>Link up with companies that will complement our offering and ope
 
 Guerilla Marketing. <br>A series of low-cost but brilliant and effective “stunts” to generate publicity.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/887/gopcgq5udxqbiujk07fj50d194qbtti/TRAVARKSeedrsListingVisual4.jpg?w=600&fit=clip&s=4449ba2f5680ba051b3d3ae6bf818e5c)
+![](/img/seedrs/uploads/startup/section_image/image/887/gopcgq5udxqbiujk07fj50d194qbtti/TRAVARKSeedrsListingVisual4.jpg?w=600&fit=clip&s=4449ba2f5680ba051b3d3ae6bf818e5c)
 
 ### Competition strategy
 

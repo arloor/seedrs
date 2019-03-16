@@ -87,11 +87,11 @@ Personal luxury goods have outperformed the overall global economy consistently 
 
 Within the personal luxury goods sector, leather goods represent a €43 billion market. This is one of the fastest-growing overall categories, with an average annual growth rate of 12% between 2010-2015 (Bain). This growth has been driven largely by the men’s market for luxury leather goods: Troubadour’s sweet spot.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10369/8jyqa9zflt7a494dby1021c2fz6aaqs/6.png?rect=0%2C0%2C786%2C813&w=600&fit=clip&s=ca98694eac43e8b309fc0a739e1e609b)
+![](/img/seedrs/uploads/startup/section_image/image/10369/8jyqa9zflt7a494dby1021c2fz6aaqs/6.png?rect=0%2C0%2C786%2C813&w=600&fit=clip&s=ca98694eac43e8b309fc0a739e1e609b)
 
 The men’s accessories landscape is fragmented. Two segments are the most competitive: (1) extremely expensive, trendy products and (2) inexpensive, classic products. Troubadour is positioned in a different and less competitive segment. The clean aesthetic of Troubadour’s products and positioning in top press and retailers has allowed the brand to be perceived as cool, but also appeal to more classic customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10370/4ja1nsciddg15pfpw68tuisrr7bb2r7/7.png?rect=0%2C0%2C951%2C542&w=600&fit=clip&s=80254122043e80561185e1fda3843a17)
+![](/img/seedrs/uploads/startup/section_image/image/10370/4ja1nsciddg15pfpw68tuisrr7bb2r7/7.png?rect=0%2C0%2C951%2C542&w=600&fit=clip&s=80254122043e80561185e1fda3843a17)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ Our 60+ retail partners around the world provide a fantastic avenue for shoppers
 
 Finally, we have found increasingly that more and more of our business is being done with repeat customers and people who find us through referrals. As our brand continues to become more well-known, we expect this trend to continue and to be a major source of value over the longer term.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10371/f5ud9gt3fwqo50vnfdanickozea1li/8.png?rect=0%2C0%2C975%2C748&w=600&fit=clip&s=19f2e47d3341ec0506779e56fb94c644)
+![](/img/seedrs/uploads/startup/section_image/image/10371/f5ud9gt3fwqo50vnfdanickozea1li/8.png?rect=0%2C0%2C975%2C748&w=600&fit=clip&s=19f2e47d3341ec0506779e56fb94c644)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ Our success is based on our ability to make amazing products that our customers 
 
 Troubadour targets a segment of the market that larger brands have not been able to capture effectively: focusing on products made with excellent craftsmanship that are highly functional and versatile, with a modern aesthetic and clean design. This focus on our products and brand has allowed Troubadour to connect with – and sell to – men who would otherwise have been tertiary customers of other brands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10372/tw98uwv0uqpl5owixh1c68mmy8wd8qm/9.png?rect=0%2C4%2C975%2C683&w=600&fit=clip&s=343181edb066df7034b0d956927a7524)
+![](/img/seedrs/uploads/startup/section_image/image/10372/tw98uwv0uqpl5owixh1c68mmy8wd8qm/9.png?rect=0%2C4%2C975%2C683&w=600&fit=clip&s=343181edb066df7034b0d956927a7524)
 

@@ -81,13 +81,13 @@ Each location requires: <br>* Fit-out <br>* Rent deposit <br>* Operating costs u
 
 Small companies (2-50 staff) wanting flexible space for their staff to work (for example to allow rapid fluctuating demand - with 20 staff needing space one day and 10 the next).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7917/4t2h7bjmtjolbcrtcaq1s1lw52pq0kx/LilyQuote.png?rect=0%2C0%2C511%2C350&w=600&fit=clip&s=5b1a4546a9f2a7301a78c18be6f4f3ff)
+![](/img/seedrs/uploads/startup/section_image/image/7917/4t2h7bjmtjolbcrtcaq1s1lw52pq0kx/LilyQuote.png?rect=0%2C0%2C511%2C350&w=600&fit=clip&s=5b1a4546a9f2a7301a78c18be6f4f3ff)
 
 This is complemented by freelancers and consultants who use the common areas in a variety of ways (Some with unlimited access, some with a membership for a certain number of hours each month, others paying as they go).
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7918/azu9p666qshag9kyjbx0pf3bdqj3t6p/LouisQuote.PNG?rect=0%2C0%2C511%2C310&w=600&fit=clip&s=a62b27cdd6de2a9bcd390f127542417c)
+![](/img/seedrs/uploads/startup/section_image/image/7918/azu9p666qshag9kyjbx0pf3bdqj3t6p/LouisQuote.PNG?rect=0%2C0%2C511%2C310&w=600&fit=clip&s=a62b27cdd6de2a9bcd390f127542417c)
 
 Our market is primarily smaller companies and freelancers
 
@@ -105,7 +105,7 @@ In Central London there are many great flexible work spaces, offering a range of
 
 Core to our marketing strategy is to build a product worth talking about - and then work with existing networking groups to let them host their events in our space.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7919/bo6ynnjcdik6zwn2pjs6az2fbskl0q2/IMG_2256-511.JPG?rect=0%2C0%2C511%2C290&w=600&fit=clip&s=afe342bf52bcdcbbdcf89b4419442f65)
+![](/img/seedrs/uploads/startup/section_image/image/7919/bo6ynnjcdik6zwn2pjs6az2fbskl0q2/IMG_2256-511.JPG?rect=0%2C0%2C511%2C290&w=600&fit=clip&s=afe342bf52bcdcbbdcf89b4419442f65)
 
 We believe we are building a product which stands out in ways that matter to our target market.
 
@@ -123,7 +123,7 @@ Price: We believe that price is very important to freelancers and small companie
 
 Layout and brand: A wide variety of strongly themed work environments are available to all members. This theming gives us a strong brand - which has attracted many members to date.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7920/l6iob8i9aj7owgg5az9f34fjyhktadb/_79A2391-511.jpg?rect=0%2C0%2C511%2C256&w=600&fit=clip&s=d7fd7c66aa9f24ae41d4a3119e925f24)
+![](/img/seedrs/uploads/startup/section_image/image/7920/l6iob8i9aj7owgg5az9f34fjyhktadb/_79A2391-511.jpg?rect=0%2C0%2C511%2C256&w=600&fit=clip&s=d7fd7c66aa9f24ae41d4a3119e925f24)
 
 Operationally, there are three key reasons why we have been successful to date, all based on our understanding of the market:
 

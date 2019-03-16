@@ -67,7 +67,7 @@ As of 2015, global art sales reached $63.8bn. However, we believe that the art i
 
 The target user of Feral Horses is part of a younger audience: the millennials. He or she is tech and finance and increasingly curious to discover new alternative assets to invest in.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14460/kml6e5l236seqmmku3mfbze3v5m47zr/Just_You_and_Me_by_Simone_Fugazzotto.png?rect=0%2C-7%2C1618%2C1224&w=600&fit=clip&s=9bf78bc780091300f63c1bba4df6777a)
+![](/img/seedrs/uploads/startup/section_image/image/14460/kml6e5l236seqmmku3mfbze3v5m47zr/Just_You_and_Me_by_Simone_Fugazzotto.png?rect=0%2C-7%2C1618%2C1224&w=600&fit=clip&s=9bf78bc780091300f63c1bba4df6777a)
 
 ### Characteristics of target market
 
@@ -75,7 +75,7 @@ As of 2013, in Europe alone there were an estimated 120M Millennials, of which 4
 
 However, their investment behaviour is different from past generations. One reason is that millennials mistrust traditional investment options but at the same time are in need for micro-investments as most of them still owe large amounts of student debts. Consequently, they are widely looking for new micro investment options including alternative assets that match their values and interests. Art could be the perfect asset for them if only they had the possibility to invest small amounts of money and the right tool to do so.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14461/q78p3oqts92rwzed8ob0yq6wxotd39v/Portfolio.jpg?rect=0%2C0%2C4458%2C3150&w=600&fit=clip&s=2d7146e39487b7427226b108a78c4ac8)
+![](/img/seedrs/uploads/startup/section_image/image/14461/q78p3oqts92rwzed8ob0yq6wxotd39v/Portfolio.jpg?rect=0%2C0%2C4458%2C3150&w=600&fit=clip&s=2d7146e39487b7427226b108a78c4ac8)
 
 ### Marketing strategy
 
@@ -85,7 +85,7 @@ The Art Galleries: by collaborating with influential art galleries, Feral Horses
 
 The Money Apps: By collaborating with diverse money apps, we hope to be able to get in touch with the most personal finance savvy segment of our target and offer our service at a key moment of the micro-investment decision-making process.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14462/ezy4ces70fepd9pvb1see8yn5nap5ay/FH_Art_Collection.png?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=20996b85f4e1685bd617971914069a25)
+![](/img/seedrs/uploads/startup/section_image/image/14462/ezy4ces70fepd9pvb1see8yn5nap5ay/FH_Art_Collection.png?rect=0%2C0%2C3000%2C2000&w=600&fit=clip&s=20996b85f4e1685bd617971914069a25)
 
 ### Competition strategy
 

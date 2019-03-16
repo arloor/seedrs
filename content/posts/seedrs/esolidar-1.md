@@ -75,13 +75,13 @@ Once we have acquired the funds through Seedrs, we intend to grow our SaaS solut
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13067/3m6ufj76udvmp31e7wrncjx3cgja1kg/CSR_engagement_model.png?rect=43%2C0%2C1805%2C1024&w=600&fit=clip&s=1c1633d9d014e4cb4e9b43648081501f)
+![](/img/seedrs/uploads/startup/section_image/image/13067/3m6ufj76udvmp31e7wrncjx3cgja1kg/CSR_engagement_model.png?rect=43%2C0%2C1805%2C1024&w=600&fit=clip&s=1c1633d9d014e4cb4e9b43648081501f)
 
 In 2015 alone, US charities raised $373B, of which $18.45B was corporate giving (+3.9% from 2014). The UK raised £80B in total. Yet, between $450B-$550B a year is lost in productivity in the US from disengaged employees. Worldwide, according to Gallup (January 2016), only 13% of employees are engaged with the companies they work for, and 17.2% are actively disengaged/toxic. A toxic worker costs about $12,000 per year in low productivity, and disengagement leads to higher employee turnover (recruitment costs ~150% of an annual salary). According to Compensation Force, as of 2016 the average employee annual turnover, in all industries, is 17.8%.
 
 We conclude that companies with low employee engagement have higher cost of capital and we believe that the main causes of disengagement are lack of employee recognition, rewards, purpose, personal development and misalignment between an organisation's’ values and employees’ passions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13174/8z5s202q6a6de7zlm7cum0pic1fa55c/EEI.png?rect=36%2C19%2C1148%2C782&w=600&fit=clip&s=2104d30e8b67465a7d7a237842c83ba2)
+![](/img/seedrs/uploads/startup/section_image/image/13174/8z5s202q6a6de7zlm7cum0pic1fa55c/EEI.png?rect=36%2C19%2C1148%2C782&w=600&fit=clip&s=2104d30e8b67465a7d7a237842c83ba2)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ In the 2016 PwC Global CEO survey, 64% of CEOs said that “CSR is core to their
 
 Also, employees most committed to their organisations put in 57% more effort on the job and are 87% less likely to resign than disengaged employees. 89% of executives found a positive correlation between their volunteer/giving program and employee engagement and companies that report greater employee engagement generate up to 2.5x more revenue.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13068/t5lqt6pm4d5f9is4kf0uy7jpoewuyqd/Screen_Shot_2017-09-27_at_14.33.08.png?rect=0%2C-9%2C1912%2C1128&w=600&fit=clip&s=1aa0ccfafeea6b622e04312e8e338849)
+![](/img/seedrs/uploads/startup/section_image/image/13068/t5lqt6pm4d5f9is4kf0uy7jpoewuyqd/Screen_Shot_2017-09-27_at_14.33.08.png?rect=0%2C-9%2C1912%2C1128&w=600&fit=clip&s=1aa0ccfafeea6b622e04312e8e338849)
 
 ### Marketing strategy
 
@@ -107,7 +107,7 @@ We have 4 main focus growth areas for the next 18 months:
 
 - Start applying data science and machine learning techniques to KPIs evolution, employee satisfaction and engagement. Compare it with the CSR performance, analyse their impact and benchmark against other businesses in the industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13069/ozneqq7exaiff2v0rfwlnmjqliiorcd/Screen_Shot_2017-10-11_at_15.40.09.png?rect=0%2C-6%2C1434%2C955&w=600&fit=clip&s=a645f25cdee2c6a4d4f74d96047ec909)
+![](/img/seedrs/uploads/startup/section_image/image/13069/ozneqq7exaiff2v0rfwlnmjqliiorcd/Screen_Shot_2017-10-11_at_15.40.09.png?rect=0%2C-6%2C1434%2C955&w=600&fit=clip&s=a645f25cdee2c6a4d4f74d96047ec909)
 
 ### Competition strategy
 
@@ -115,5 +115,5 @@ By providing tools for organisations, so that they can execute and evaluate thei
 
 Compared to these competitors, we believe that our business model and technical solution offers a broader application. eSolidar provides tools to manage the entire process of CSR – from planning and evaluating the activities and campaigns together with the employee community, to suggesting and offering a list of Charities and Social projects that can benefit from businesses CSR plans. We intend to democratise CSR by making it available as a self-service solution for any company size, including a consumer-facing marketplace, employee engagement measurement and how charitable initiatives impacts each company culture. With this approach, we hope to enable businesses to boost their levels of employee engagement, reputation and brand awareness through the natural execution and promotion of their strategic CSR.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13070/jn4q7f9x7pj3sq9mgcmq5c0wfhoyivy/Screen_Shot_2017-10-02_at_17.49.33.png?rect=0%2C0%2C2872%2C1558&w=600&fit=clip&s=7d0e1f8adb2769530d6e64a583dfd4db)
+![](/img/seedrs/uploads/startup/section_image/image/13070/jn4q7f9x7pj3sq9mgcmq5c0wfhoyivy/Screen_Shot_2017-10-02_at_17.49.33.png?rect=0%2C0%2C2872%2C1558&w=600&fit=clip&s=7d0e1f8adb2769530d6e64a583dfd4db)
 

@@ -109,7 +109,7 @@ The market opportunity is significant – there are 25,000 garages serving over 
 
 There is proven demand from consumers and garages for on-line price comparison and bookings, with the market following online ordering trends in parallel markets, like Just East in online food and Tripadvisor in online travel.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10304/8398nrtqncj0ec2l5v2onydlfhv831n/Book-a-service-or-MOT-online-today-1-e1458082779248.jpg?rect=0%2C-3%2C800%2C644&w=600&fit=clip&s=939239c2c763727734734e18470684a7)
+![](/img/seedrs/uploads/startup/section_image/image/10304/8398nrtqncj0ec2l5v2onydlfhv831n/Book-a-service-or-MOT-online-today-1-e1458082779248.jpg?rect=0%2C-3%2C800%2C644&w=600&fit=clip&s=939239c2c763727734734e18470684a7)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ Independent garages are gaining market share from franchise garages following EU
 
 Book My Garage estimates that only c8% of garages have on-line pricing/booking.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10341/b52er4jptfv87dyb9cw85mjj7cbsg14/market_segmentation.jpg?rect=0%2C0%2C900%2C509&w=600&fit=clip&s=33a6fa331b453816acb461a1ecd5d598)
+![](/img/seedrs/uploads/startup/section_image/image/10341/b52er4jptfv87dyb9cw85mjj7cbsg14/market_segmentation.jpg?rect=0%2C0%2C900%2C509&w=600&fit=clip&s=33a6fa331b453816acb461a1ecd5d598)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ GARAGE SUBSCRIPTIONS.
 
 Book My Garage is recruiting additional field sales people to "land grab" garages. The initial focus is on the c8,000 garages currently signed up to Book My Garage, with meetings booked by the telesales team and taken by the field sales team. The current focus is on large population areas. The field sales team are opportunistic at calling in on other garages in their geography which have not been targeted.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10305/is2hhedqy8mcwqahvmh4sslp61o0m3l/Screen_Shot_2016-11-02_at_11.01.15.png?rect=0%2C-5%2C1167%2C321&w=600&fit=clip&s=b152a440b7fc14126270b5601c726aea)
+![](/img/seedrs/uploads/startup/section_image/image/10305/is2hhedqy8mcwqahvmh4sslp61o0m3l/Screen_Shot_2016-11-02_at_11.01.15.png?rect=0%2C-5%2C1167%2C321&w=600&fit=clip&s=b152a440b7fc14126270b5601c726aea)
 
 ### Competition strategy
 

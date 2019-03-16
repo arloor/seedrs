@@ -85,7 +85,7 @@ The remainder of the proceeds will be used to create a £50k marketing pot with 
 
 We believe everyone loves a great snack. So ultimately, our target market is anyone who likes their food to taste great, but wants it made properly. Our research revealed that more and more consumers really care about the ingredients that go into food, and want to avoid horrible artificial things like MSG (which is why we never use it in any of our products).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14557/74ufaxk4pmbmkgsmoex8c3m0pmsx2h2/Seedrs_Image_5.jpg?w=600&fit=clip&s=e1b9865a2cf76f0d0385a60b1da81630)
+![](/img/seedrs/uploads/startup/section_image/image/14557/74ufaxk4pmbmkgsmoex8c3m0pmsx2h2/Seedrs_Image_5.jpg?w=600&fit=clip&s=e1b9865a2cf76f0d0385a60b1da81630)
 
 There is little doubt that, despite appeals for healthier lifestyles, the UK has an insatiable appetite for savoury snacks. However, we believe that you do not need to compromise on the ingredients and production processes to deliver great tasting snacks.
 
@@ -113,7 +113,7 @@ Our primary routes to market are as follows:
 
 ►5. Export: <br>In 2018 and 2019 we intend to focus much more strongly on export opportunities for all of our brands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14560/lfny4al3vpba1rjz2agcarrp9dm2dzm/create_a_crisp_pack__transparent_.png?rect=163%2C175%2C569%2C583&w=600&fit=clip&s=258610e162e285fdca6ead319559c2ac)
+![](/img/seedrs/uploads/startup/section_image/image/14560/lfny4al3vpba1rjz2agcarrp9dm2dzm/create_a_crisp_pack__transparent_.png?rect=163%2C175%2C569%2C583&w=600&fit=clip&s=258610e162e285fdca6ead319559c2ac)
 
 ### Competition strategy
 
@@ -125,5 +125,5 @@ By launching with just one SKU (product line), we believe that we are in a bette
 
 Despite our constant desire to seek out and fill gaps in the snack market, by ensuring all of our brands are within the same broad category, and with the low-overhead business model we have adopted, we are confident in our ability to continue to drive forward and grow all four of our brands simultaneously.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14558/9r6h5hlw9ugj2sqbezgi4w5fma2w5z4/CreateCrisps_billboard_1217.jpg?rect=0%2C0%2C970%2C249&w=600&fit=clip&s=c44bbaaafa4ae3a7e4e496b8e452d3bb)
+![](/img/seedrs/uploads/startup/section_image/image/14558/9r6h5hlw9ugj2sqbezgi4w5fma2w5z4/CreateCrisps_billboard_1217.jpg?rect=0%2C0%2C970%2C249&w=600&fit=clip&s=c44bbaaafa4ae3a7e4e496b8e452d3bb)
 

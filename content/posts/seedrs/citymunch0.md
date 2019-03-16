@@ -81,7 +81,7 @@ Mainstream: Young professionals are the bulk of the market. 20-30 year old offic
 
 Later stage: In the longer term, tourists are an important target market in global cities such as London, where over 30 million pass through annually. They are time-flexible, keen to explore the city’s food scene and do not “eat in”. On the restaurant-side, all are potential targets in the long term, but having built up critical mass with independents, we will have an invaluable product for larger chains - both in terms of filling off peak hours, but also through providing insight through our analytics platform.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10396/2uvyvcamey9k2ajbfoj01q4fbmrdicn/6.png?rect=0%2C0%2C1300%2C749&w=600&fit=clip&s=2bef2ad90a43031f01bd667dc5d344ba)
+![](/img/seedrs/uploads/startup/section_image/image/10396/2uvyvcamey9k2ajbfoj01q4fbmrdicn/6.png?rect=0%2C0%2C1300%2C749&w=600&fit=clip&s=2bef2ad90a43031f01bd667dc5d344ba)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ CityMunch's early adopting users are largely 20-30 year olds - mainly students, 
 
 *Sacla Report 2015 (“Eating Out Today and Tomorrow”).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10398/qtk2x4v1zvby41lnkiyrzk4x21r6uet/7.png?rect=0%2C0%2C1300%2C975&w=600&fit=clip&s=cd46c5f070224850abda916b6d3c2283)
+![](/img/seedrs/uploads/startup/section_image/image/10398/qtk2x4v1zvby41lnkiyrzk4x21r6uet/7.png?rect=0%2C0%2C1300%2C975&w=600&fit=clip&s=cd46c5f070224850abda916b6d3c2283)
 
 ### Marketing strategy
 
@@ -111,7 +111,7 @@ With the increased marketing budget provided by Seedrs funds, we will be able to
 
 In addition, having now been selected for the Just Eat Food Tech Accelerator program, we intend to leverage their network and expansion expertise to rapidly increase our market penetration.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10399/q5cios72lj4ay8jngltgbi3x1qj7z32/8.png?rect=0%2C0%2C1300%2C866&w=600&fit=clip&s=ee0504681938546065d2ac3f13eb6f2e)
+![](/img/seedrs/uploads/startup/section_image/image/10399/q5cios72lj4ay8jngltgbi3x1qj7z32/8.png?rect=0%2C0%2C1300%2C866&w=600&fit=clip&s=ee0504681938546065d2ac3f13eb6f2e)
 
 ### Competition strategy
 
@@ -123,5 +123,5 @@ CityMunch will succeed in its competitive market by:
 
 3 - Forming partnerships. We will open up our database to allow others with online platforms or apps to advertise CityMunch offers, in revenue-sharing agreements. This will increase the use of the app and allow us to enter new territories with a ready-made consumer base.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10400/8uy65335d3qivj5jdvcdu545ocpllbx/9.png?rect=0%2C-6%2C1300%2C722&w=600&fit=clip&s=00dfa2ab1d740a4a07b033cd195bf45b)
+![](/img/seedrs/uploads/startup/section_image/image/10400/8uy65335d3qivj5jdvcdu545ocpllbx/9.png?rect=0%2C-6%2C1300%2C722&w=600&fit=clip&s=00dfa2ab1d740a4a07b033cd195bf45b)
 

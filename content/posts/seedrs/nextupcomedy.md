@@ -95,7 +95,7 @@ Like us, we believe our target market seeks change. They want an easy way to wat
 
 ➤ Market Trend <br>Mirroring the linear TV industry in the 1980s when mainstream channels such as BBC were flanked by specialist services like MTV and Discovery, the subscription video on demand market is delineating with the likes of HayU (reality), Shudder (horror) and Acorn (British Drama).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15216/a9zhsi86rua9rq43mgbe7bs697i4qef/History_Repeats_Itself.jpg?rect=0%2C0%2C1666%2C1406&w=600&fit=clip&s=69e819d814ae83cdc96a6da348871da1)
+![](/img/seedrs/uploads/startup/section_image/image/15216/a9zhsi86rua9rq43mgbe7bs697i4qef/History_Repeats_Itself.jpg?rect=0%2C0%2C1666%2C1406&w=600&fit=clip&s=69e819d814ae83cdc96a6da348871da1)
 
 Subscribers to these services have risen 1187% since 2010 and now outnumber mainstream services like Netflix. NextUp is perfectly placed to leverage this shift and we have a first mover advantage as, to our knowledge, we are the only stand-up service.
 
@@ -107,7 +107,7 @@ INCREASE AWARENESS &amp; ACQUIRE CUSTOMERS <br>▸Engaging digital marketing exp
 
 ENGAGEMENT &amp; RETENTION <br>▸ Continuing to post engaging content on social media. <br>▸ Offering exclusive member-only benefits. <br>▸ Continue to boost our catalogue. <br>▸ Adding an incentivised referral module platform. <br>▸ Integrating social media into the platform. <br>▸ Building an affiliate scheme. <br>▸ Determine market response to varying digital approaches. <br>▸ Engage influencers in different markets. <br>▸ Analyse web traffic to identify opportunities for geographic expansion. <br>▸ Adopt localised strategies, including a drive for content from the chosen territory.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15213/tt4teoqa99fnnl4p7q474f2fd7ex8uc/specialist_increase.jpg?rect=0%2C-7%2C1670%2C1416&w=600&fit=clip&s=6a271601dc6098cebdaed04f47dfeb6a)
+![](/img/seedrs/uploads/startup/section_image/image/15213/tt4teoqa99fnnl4p7q474f2fd7ex8uc/specialist_increase.jpg?rect=0%2C-7%2C1670%2C1416&w=600&fit=clip&s=6a271601dc6098cebdaed04f47dfeb6a)
 
 ### Competition strategy
 
@@ -117,7 +117,7 @@ ENGAGEMENT &amp; RETENTION <br>▸ Continuing to post engaging content on social
 
 ▸ YouTube - £0pm with ads <br>Features a vast array of stand-up clips and full shows, of varying quality and legality with shows, often broken into segments. No way to browse stand-up only. The user interface is messy.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15218/qgye4ym4vkc14farj5k173fk3kgbr42/oooyala-quote__1_.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=ad3c2bc9b292ce58bd38c1616e332408)
+![](/img/seedrs/uploads/startup/section_image/image/15218/qgye4ym4vkc14farj5k173fk3kgbr42/oooyala-quote__1_.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=ad3c2bc9b292ce58bd38c1616e332408)
 
 ➤ COMPETITIVE ADVANTAGES <br>▸ Quality <br>Our catalogue has greater diversity and depth than our competitors.
 

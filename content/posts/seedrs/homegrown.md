@@ -73,7 +73,7 @@ The funds will be used to support our customer acquisition strategy. It will als
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11587/72l5ff06euj3v1b696emjmv76hkxr6n/Seedrs_image_6_v2.png?rect=0%2C0%2C320%2C214&w=600&fit=clip&s=3a32c57811f9fb3de13b647e1ce610cd)
+![](/img/seedrs/uploads/startup/section_image/image/11587/72l5ff06euj3v1b696emjmv76hkxr6n/Seedrs_image_6_v2.png?rect=0%2C0%2C320%2C214&w=600&fit=clip&s=3a32c57811f9fb3de13b647e1ce610cd)
 
 ### Target market
 
@@ -89,7 +89,7 @@ We believe there is a significant opportunity on the supply side of the business
 
 We find that the property developers within our target audience will typically raise up to 70% of development costs (land &amp; build costs) through finance (debt) from the bank and the remaining 30% tends to be funded through equity from the developer and/or high net-worth individuals. Currently, the disaggregated nature of the equity finance market can be a barrier to scale for many developers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11588/71muxvqj5k4j3wyrs85pzvqqnxel8wt/Seedrs_image_7_v2.jpeg?rect=0%2C0%2C320%2C214&w=600&fit=clip&s=0e4855a0aeda33b59ec2f3d50add60b0)
+![](/img/seedrs/uploads/startup/section_image/image/11588/71muxvqj5k4j3wyrs85pzvqqnxel8wt/Seedrs_image_7_v2.jpeg?rect=0%2C0%2C320%2C214&w=600&fit=clip&s=0e4855a0aeda33b59ec2f3d50add60b0)
 
 ### Characteristics of target market
 
@@ -99,7 +99,7 @@ Within the UK online alternative finance investments and loans market, equity cr
 
 In addition to the potential growth of the UK online alternative finance market, we also see huge potential for future growth from UK property investors. It is estimated that the private rental sector in the UK is worth £1.29tn. However, a recent survey by the Residential Landlords Association revealed that 25% of landlords have sold or are planning to sell their buy-to-let properties as a result of recent tax changes (Source: Residential Landlords Association, 2016).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11589/8xt2qeoz8n7kjhdses9oyijwnu9l4ps/Seedrs_image_8.jpg?rect=0%2C0%2C600%2C318&w=600&fit=clip&s=ade35462c4cdcfa47afd12755221e802)
+![](/img/seedrs/uploads/startup/section_image/image/11589/8xt2qeoz8n7kjhdses9oyijwnu9l4ps/Seedrs_image_8.jpg?rect=0%2C0%2C600%2C318&w=600&fit=clip&s=ade35462c4cdcfa47afd12755221e802)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ Early traction &amp; data has helped us to understand our customers better inclu
 
 We expect our marketing plan will evolve as we continue to grow &amp; analyse the performance of our marketing campaigns.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11590/6vj6cenraj9eu99xuoz9pgmf68l45e0/Seedrs_image_9.jpg?rect=0%2C0%2C600%2C256&w=600&fit=clip&s=0fc83b338765a9a034a2b5b34a263a3f)
+![](/img/seedrs/uploads/startup/section_image/image/11590/6vj6cenraj9eu99xuoz9pgmf68l45e0/Seedrs_image_9.jpg?rect=0%2C0%2C600%2C256&w=600&fit=clip&s=0fc83b338765a9a034a2b5b34a263a3f)
 
 ### Competition strategy
 

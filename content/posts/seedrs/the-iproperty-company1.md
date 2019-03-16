@@ -119,7 +119,7 @@ Users looking for a particular experience:
 
 According to Statista the Statistics portal 79% of people surveyed had a low level of trust in estate agents.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3388/bxe1vuxse8os6x1jsx6do0jw7qth34i/graf_01_2.png?rect=0%2C0%2C600%2C578&w=600&fit=clip&s=20a34f2805d4bda9a26d32c77890f464)
+![](/img/seedrs/uploads/startup/section_image/image/3388/bxe1vuxse8os6x1jsx6do0jw7qth34i/graf_01_2.png?rect=0%2C0%2C600%2C578&w=600&fit=clip&s=20a34f2805d4bda9a26d32c77890f464)
 
 ### Characteristics of target market
 
@@ -131,7 +131,7 @@ Commission rates are typically 6% in the U.S. and Canada and 4 - 7% in Europe. R
 
 Estate agency industry Uk £8bn, US $160bn.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3394/c85gwdyb7creeud85zggwiamipn9emp/graf_02__2_.png?rect=0%2C0%2C600%2C475&w=600&fit=clip&s=a5ec5800554b89084fb54ff75aa826bb)
+![](/img/seedrs/uploads/startup/section_image/image/3394/c85gwdyb7creeud85zggwiamipn9emp/graf_02__2_.png?rect=0%2C0%2C600%2C475&w=600&fit=clip&s=a5ec5800554b89084fb54ff75aa826bb)
 
 ### Marketing strategy
 

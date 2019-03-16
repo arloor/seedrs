@@ -77,7 +77,7 @@ We intend to use the proceeds of this funding round for general working capital 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14049/qrbeqh0uhla3wg40wj2kgox2m38bcv7/Brand_book.png?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=e19c69786faf0274c7d72ebb62b50c2f)
+![](/img/seedrs/uploads/startup/section_image/image/14049/qrbeqh0uhla3wg40wj2kgox2m38bcv7/Brand_book.png?rect=0%2C0%2C1200%2C800&w=600&fit=clip&s=e19c69786faf0274c7d72ebb62b50c2f)
 
 ### Target market
 

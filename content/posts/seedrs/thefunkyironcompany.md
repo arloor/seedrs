@@ -97,7 +97,7 @@ Their media consumption will be broad but they will be relatively tech savvy and
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10935/qr3pdkpek3wdqd2l5y5zgfkcwd5kokc/Funky_Iron_White_Perspective_2.png?rect=0%2C0%2C2362%2C2362&w=600&fit=clip&s=6648161065de601b51da4c5af11cac44)
+![](/img/seedrs/uploads/startup/section_image/image/10935/qr3pdkpek3wdqd2l5y5zgfkcwd5kokc/Funky_Iron_White_Perspective_2.png?rect=0%2C0%2C2362%2C2362&w=600&fit=clip&s=6648161065de601b51da4c5af11cac44)
 
 The UK market is worth £200.55 million, where 5.2 million irons are sold to 27.1 million households. (source: Euromonitor International 2017)
 
@@ -125,7 +125,7 @@ However, if we are successful in developing a partnership with a large high stre
 
 If our relationship was with a pure online retailer we would supply a number of digital assets (banners, images) for use on their site.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10936/e2kzmq4okmzp1nfv5z98pnbtnbc4seq/Joe_Sillett_The_Funky_Iron_Company.jpg?rect=0%2C0%2C2264%2C2919&w=600&fit=clip&s=7208068c3d6b6bfdd81974405833f8c7)
+![](/img/seedrs/uploads/startup/section_image/image/10936/e2kzmq4okmzp1nfv5z98pnbtnbc4seq/Joe_Sillett_The_Funky_Iron_Company.jpg?rect=0%2C0%2C2264%2C2919&w=600&fit=clip&s=7208068c3d6b6bfdd81974405833f8c7)
 
 ### Competition strategy
 
@@ -139,5 +139,5 @@ The Funky Iron will meet consumer needs in two ways: firstly, a ‘parity’ pro
 
 We are independent, owner-managed, and passionate about our product and how we deliver customer satisfaction. We know that attitude and approach will resonate with consumers if the product delivers – which we are confident it will. So against a backdrop of established, ‘corporate’ brands – some of which we know have affinity with our target, we aim to steal a little market share off each – and the cumulative effect will be a sustainable business that allows us to establish the brand and potentially grow into other household goods categories over time.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10934/afas0cktd44idbd1fzhwii1iobvmtan/Funky_Iron_Black_1.jpg?rect=0%2C0%2C2362%2C2362&w=600&fit=clip&s=9daf24776e36001eb95b7da82c948697)
+![](/img/seedrs/uploads/startup/section_image/image/10934/afas0cktd44idbd1fzhwii1iobvmtan/Funky_Iron_Black_1.jpg?rect=0%2C0%2C2362%2C2362&w=600&fit=clip&s=9daf24776e36001eb95b7da82c948697)
 

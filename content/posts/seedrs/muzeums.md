@@ -65,7 +65,7 @@ Our target market is mainly museums, but it is actually any institution that has
 
 Since we are a B2B2C solution, our target market is also defined by the consumer that will use our product. Since the essence of Muzeums is profiling users and delivering a personalized experience, the target market in terms of users is wide, and essentially includes any visitor to a museum that owns a smartphone. In the UK alone, although there is no up-to date figure, museums and galleries have an estimated 100 million visitors a year and the vast majority of these people can be assumed to own smartphones.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5639/20jfsbhba7ppzzphbr51rf029g3vcew/seedrs-market.png?rect=0%2C0%2C497%2C283&w=600&fit=clip&s=8a9dd2432dc1ac3232aca3c4b728b3cd)
+![](/img/seedrs/uploads/startup/section_image/image/5639/20jfsbhba7ppzzphbr51rf029g3vcew/seedrs-market.png?rect=0%2C0%2C497%2C283&w=600&fit=clip&s=8a9dd2432dc1ac3232aca3c4b728b3cd)
 
 ### Characteristics of target market.
 
@@ -73,7 +73,7 @@ What sets Muzeums apart, is that we're targeting a huge market, not just the top
 
 We plan on targeting all of the market, supplying smaller clients with technology they wouldn’t otherwise be able to afford, and larger clients with a significantly cheaper solution, relevant to all their visitors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5698/hwu6j1e8q7h7u8z48miwsiw14za0xj7/seedrs-personalizing.png?rect=0%2C0%2C497%2C188&w=600&fit=clip&s=9611614c02e41498d099376b7abe9de5)
+![](/img/seedrs/uploads/startup/section_image/image/5698/hwu6j1e8q7h7u8z48miwsiw14za0xj7/seedrs-personalizing.png?rect=0%2C0%2C497%2C188&w=600&fit=clip&s=9611614c02e41498d099376b7abe9de5)
 
 ### Marketing strategy.
 
@@ -87,7 +87,7 @@ Following our beta we will aim to start with direct marketing to large museums, 
 
 After the first year we will consider scaling globally, in accordance with our success and readiness.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5699/s7wa6ou2lgeg822riu7lohvfbdtl45i/Screen_03.png?rect=0%2C0%2C1600%2C1024&w=600&fit=clip&s=94a25c353e507d40f5a1affb0be5415d)
+![](/img/seedrs/uploads/startup/section_image/image/5699/s7wa6ou2lgeg822riu7lohvfbdtl45i/Screen_03.png?rect=0%2C0%2C1600%2C1024&w=600&fit=clip&s=94a25c353e507d40f5a1affb0be5415d)
 
 ### Competition strategy.
 

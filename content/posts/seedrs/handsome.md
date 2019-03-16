@@ -65,27 +65,27 @@ Please note, the company has two institutional investors from previous rounds wh
 
 Consumer healthcare is a growing market, as in back pain. Both are helped by macro consumer trends of self diagnosis / self-help, a reduction in government healthcare spending, ageing population, increasing levels of obesity, desk working and a poor work-life balance. We conclude that these factors are opening up demand for products, brands and education that enable a more hands-on approach to treating and preventing back pain.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13092/s5bdwf2qn7qw7787ohota4pqysdk6iq/12191944_881715875258487_7246678027556858113_n.png?rect=0%2C0%2C541%2C321&w=600&fit=clip&s=e3f5484e3332d4e64caea36d6829ef1f)
+![](/img/seedrs/uploads/startup/section_image/image/13092/s5bdwf2qn7qw7787ohota4pqysdk6iq/12191944_881715875258487_7246678027556858113_n.png?rect=0%2C0%2C541%2C321&w=600&fit=clip&s=e3f5484e3332d4e64caea36d6829ef1f)
 
 Our customers are ‘self-helpers’. They understand that they need to take their own responsibility to relieve their back pain, to improve their posture and to use a product which will assist them lead an active lifestyle. Our customers don’t want to keep popping pills, spending £40-£50 a time having manual therapy such as chiropractic, plus their GP isn't helping. They are prepared to ask their friends for recommendations, search the internet and build up their own tool kit of products and education that will help them.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13093/7d13wsfbbkqjdkvzg04enng335uxib6/11053272_884595428303865_6190824961776027157_o.jpg?rect=0%2C0%2C1298%2C800&w=600&fit=clip&s=5e64b79eef3ec7951320b05be0b0be22)
+![](/img/seedrs/uploads/startup/section_image/image/13093/7d13wsfbbkqjdkvzg04enng335uxib6/11053272_884595428303865_6190824961776027157_o.jpg?rect=0%2C0%2C1298%2C800&w=600&fit=clip&s=5e64b79eef3ec7951320b05be0b0be22)
 
 ### Characteristics of target market
 
 Using Government Health Statistics, as much as 80% of the adult population in the UK suffer from back pain at some stage in their lives. Whilst back pain may not be a life threatening condition, it constitutes a major public health problem in the UK and other Western industrialised societies and exhibits epidemic proportions. During a twelve month period almost 16.5 million people in the UK will be suffering from back pain. Both men and women suffer from it equally. Back Pain has a major economic effect on both NHS spend, and sick related time off work, with back pain being the 2nd largest reason for sick related absence from work after stress. The cost is not only economic but also emotional and physically debilitating for the sufferer. Many sufferers of back pain leave it to their own initiative to resolve the problem, and there is a growing trend for natural, drug free, non-systemic treatments. BAC&lt; BackPainHelp offers all this.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13024/8qau8d2m7drbcw0ltfqy2ngyh2jv5s2/Facebook_page_visual__1_.png?rect=0%2C30%2C841%2C682&w=600&fit=clip&s=7eafe416a651656319012b67a54d3cb8)
+![](/img/seedrs/uploads/startup/section_image/image/13024/8qau8d2m7drbcw0ltfqy2ngyh2jv5s2/Facebook_page_visual__1_.png?rect=0%2C30%2C841%2C682&w=600&fit=clip&s=7eafe416a651656319012b67a54d3cb8)
 
 ### Marketing strategy
 
 The market for BAC&lt;BackPainHelp.com is global. We have already shipped to over 45 countries. Our marketing strategy is simple. Target 'self helpers' who want to help themselves and relieve their pain and improve their posture. We then utilise our in house digital marketing team to develop engaging ways to communicate the benefits of our products, to educate them and create awareness. Segmenting the market based upon need for each of the different products. So for example we could target someone who sufferers from Neck Pain or Migraines. We introduce the benefits of the Neck Brace to help relieve their discomfort. We then also aim to cross sell and create awareness of our other products to supplement the use of the neck brace, e.g Dual action Massager to help relieve tension in the neck and apply topical relief cream. Or we create awareness of products that could help them avoid Neck Pain, e.g use our Posture Stand or Standing Desk to improve your workstation ergonomics.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13025/jpsqmjb9mjvd2a4yjgd0gbibrkr81f6/white_logo_grey_background__1_.jpg?rect=0%2C0%2C900%2C900&w=600&fit=clip&s=6021856400fc5815b847c612fafdcee0)
+![](/img/seedrs/uploads/startup/section_image/image/13025/jpsqmjb9mjvd2a4yjgd0gbibrkr81f6/white_logo_grey_background__1_.jpg?rect=0%2C0%2C900%2C900&w=600&fit=clip&s=6021856400fc5815b847c612fafdcee0)
 
 ### Competition strategy
 
 Many people who suffer from back pain 'pop a pill' and take an oral analgesic ( £360m market in the UK). We beleive that there is a growing trend away from taking pills, and that chronic back pain sufferers develop and build their own 'toolkit' of products that they turn to to help relieve their pain. This is were we come in. BAC&lt; BackPainHelp products are designed to be different because we offer a product range targeting each of the 5 areas of the back which back pain occurs. We call these areas 'zones' and how you treat back pain in zone 1 (top of your spine), is very different how you treat pain in zone 5 (very bottom of your spine). In addition we have a range of posture management products. Therefore not only can we help relieve your back pain but we can help improve your posture and therefore help prevent back pain occurring. To our knowledge, there is no other brand that designs and develops products in the same way as we do and has a range of products for each area of the back.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13094/qxkvizsj0saky63px33fnpgo2f63t2b/11834886_847744288655646_2061008116568275962_o.jpg?rect=0%2C0%2C2048%2C2029&w=600&fit=clip&s=6718a41faf91e5e61edee3ca41c04845)
+![](/img/seedrs/uploads/startup/section_image/image/13094/qxkvizsj0saky63px33fnpgo2f63t2b/11834886_847744288655646_2061008116568275962_o.jpg?rect=0%2C0%2C2048%2C2029&w=600&fit=clip&s=6718a41faf91e5e61edee3ca41c04845)
 

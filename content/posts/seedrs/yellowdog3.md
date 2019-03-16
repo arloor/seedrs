@@ -77,7 +77,7 @@ The target market for YellowDog On Premise is enterprise businesses, with more t
 
 YellowDog will start with our current customers in the media/ visual effects and architectural sectors, then moving to banking, then to telecommunications.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12066/makoqhl32u0sqsgmhaoij4jgs6f4hs2/YellowDog_Login.png?rect=0%2C0%2C2517%2C1320&w=600&fit=clip&s=7a5611d5d7b6a6f7f34b4ce67cce5f1e)
+![](/img/seedrs/uploads/startup/section_image/image/12066/makoqhl32u0sqsgmhaoij4jgs6f4hs2/YellowDog_Login.png?rect=0%2C0%2C2517%2C1320&w=600&fit=clip&s=7a5611d5d7b6a6f7f34b4ce67cce5f1e)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ The characteristics of the target market for YellowDog On Premise can be summari
 
 Sectors include: banking, telecommunications, media &amp; entertainment, retail, healthcare, automotive, advanced engineering, oil &amp; gas.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12065/3i650s3a06dxxuq8mmdimx96u89yygg/7-Close-up-table.jpeg?rect=0%2C0%2C1280%2C768&w=600&fit=clip&s=2401abf5382e7bb1dc9f7569be7dd65a)
+![](/img/seedrs/uploads/startup/section_image/image/12065/3i650s3a06dxxuq8mmdimx96u89yygg/7-Close-up-table.jpeg?rect=0%2C0%2C1280%2C768&w=600&fit=clip&s=2401abf5382e7bb1dc9f7569be7dd65a)
 
 ### Marketing strategy
 
@@ -107,7 +107,7 @@ The go-to-market for YellowDog On Premise is different to the rendering product 
 
 • The YellowDog On Premise Platform will be licensed per application, with individual licenses for each on premise and on demand node used by YellowDog.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12067/feue573dem9ij7bajl3vzpg40i5nycd/YellowDog_Sync.png?rect=0%2C-1%2C2220%2C1187&w=600&fit=clip&s=2d9839db138843ff6f0009e9a311b45f)
+![](/img/seedrs/uploads/startup/section_image/image/12067/feue573dem9ij7bajl3vzpg40i5nycd/YellowDog_Sync.png?rect=0%2C-1%2C2220%2C1187&w=600&fit=clip&s=2d9839db138843ff6f0009e9a311b45f)
 
 ### Competition strategy
 

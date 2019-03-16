@@ -87,7 +87,7 @@ We believe Tandem will appeal to those people who don’t necessarily feel “on
 
 We believe that Tandem’s approach to banking will help these people to feel more confident in their finances and make informed decisions based on intelligent notifications about their spending and banking. <br>Tandem is looking to appeal to a really wide range of people who don’t necessarily understand or feel able to manage their financial lives as well as they’d like to. Lots of us have times when we bury our heads in the sand because it’s all too complicated and money makes us feel scared or less capable. These are the moments we are trying to help. And this isn’t a small problem: it’s actually a huge proportion of the population that aren’t getting the help they need from anyone, let alone their Bank.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8212/lt6sxqs68hw2r3qmfaa0mdc7z0d5001/Tandem_seedrs6_characteristics-target-_2x.jpg?rect=0%2C-4%2C1010%2C674&w=600&fit=clip&s=57797c2070cdfd2f8d4bcb2d8ab106e1)
+![](/img/seedrs/uploads/startup/section_image/image/8212/lt6sxqs68hw2r3qmfaa0mdc7z0d5001/Tandem_seedrs6_characteristics-target-_2x.jpg?rect=0%2C-4%2C1010%2C674&w=600&fit=clip&s=57797c2070cdfd2f8d4bcb2d8ab106e1)
 
 ### Characteristics of target market
 
@@ -97,7 +97,7 @@ Tandem has undertaken extensive research to understand its customer needs and be
 
 One consistent message from all of our research is that most people want to feel on top of their finances and that many currently don’t, and are either scared to look at their statements or are simply not engaging with them. This is where Tandem helps – we are aiming to provide a simple, clear, and smart digital platform that answers the question “how am I doing?”, and provides intelligent notifications to help customers spend smarter and save more.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8213/qqe38m03bbuzb5kspangjdnmth0ukzo/Tandem_seedrs7_mkt-strategy-v2-_2x.jpg?rect=0%2C0%2C1010%2C562&w=600&fit=clip&s=344c7506b38bf8f4ca198e9e22fb9b49)
+![](/img/seedrs/uploads/startup/section_image/image/8213/qqe38m03bbuzb5kspangjdnmth0ukzo/Tandem_seedrs7_mkt-strategy-v2-_2x.jpg?rect=0%2C0%2C1010%2C562&w=600&fit=clip&s=344c7506b38bf8f4ca198e9e22fb9b49)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Tandem is all about rewarding good behaviour rather than punishing bad behaviour
 
 Ultimately we believe that our purpose will support higher levels of referral and reduce customer acquisition cost.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8214/lkxg5lexpgfdr6yrf254svlv69ih0zl/Tandem_seedrs8_competition-strategy-_2x.jpg?rect=0%2C4%2C1010%2C646&w=600&fit=clip&s=584e776f3ee17f2b4b92d6c675d8adb0)
+![](/img/seedrs/uploads/startup/section_image/image/8214/lkxg5lexpgfdr6yrf254svlv69ih0zl/Tandem_seedrs8_competition-strategy-_2x.jpg?rect=0%2C4%2C1010%2C646&w=600&fit=clip&s=584e776f3ee17f2b4b92d6c675d8adb0)
 
 ### Competition strategy
 

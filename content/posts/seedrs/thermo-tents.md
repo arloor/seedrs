@@ -95,7 +95,7 @@ Initially we will focus on 4 specific Markets:
 
 4. Base Tents - for applications in hiking/climbing/fishing/hunting.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4630/bwww51p1es8oixt6yc1oyutd8octdjn/Thermo-Tent-6-Deluxe.gif?w=600&fit=clip&s=437777d2ae9456ab66ecd6c0efca7b00)
+![](/img/seedrs/uploads/startup/section_image/image/4630/bwww51p1es8oixt6yc1oyutd8octdjn/Thermo-Tent-6-Deluxe.gif?w=600&fit=clip&s=437777d2ae9456ab66ecd6c0efca7b00)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ The consumers in the middle and higher end of the tent markets outlined above ha
 
 Geographically, our market research has highlighted a number of areas in Europe and The USA that we must focus on first. These areas combine the correct demographic (with the requisite income) with suitable climates.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4678/s0t05p08ulevjrbjxzzddx6mc9g1hw6/Thermo-Tent-Glamping-3D-image.gif?w=600&fit=clip&s=1fe0ae1a71a9154a8562e6a878b98cda)
+![](/img/seedrs/uploads/startup/section_image/image/4678/s0t05p08ulevjrbjxzzddx6mc9g1hw6/Thermo-Tent-Glamping-3D-image.gif?w=600&fit=clip&s=1fe0ae1a71a9154a8562e6a878b98cda)
 
 ### Marketing strategy
 
@@ -121,7 +121,7 @@ We will have 5 primary routes to market which we must consider:
 
 5. Direct engagement and correspondence with campsites, glamping sites, disaster relief organisations etc. - we have bodies on the ground interacting directly with these customers. (B2B)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4631/2dmvf7tjaqqpipxrcu72vqikxrg7bh2/Syrian-refugee-camp.jpg?rect=0%2C0%2C700%2C404&w=600&fit=clip&s=793230adde534c70bb36f68ee73d0803)
+![](/img/seedrs/uploads/startup/section_image/image/4631/2dmvf7tjaqqpipxrcu72vqikxrg7bh2/Syrian-refugee-camp.jpg?rect=0%2C0%2C700%2C404&w=600&fit=clip&s=793230adde534c70bb36f68ee73d0803)
 
 ### Competition strategy
 
@@ -135,5 +135,5 @@ Our market research has also told us that customers in this space are open to ne
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4682/nltxnbiik7l9uxns3g7nx95q854tclf/Thermo-Tent-Deluxe-3D-design.gif?w=600&fit=clip&s=e86640d4fd52e0b22a006d33c2dc7eec)
+![](/img/seedrs/uploads/startup/section_image/image/4682/nltxnbiik7l9uxns3g7nx95q854tclf/Thermo-Tent-Deluxe-3D-design.gif?w=600&fit=clip&s=e86640d4fd52e0b22a006d33c2dc7eec)
 

@@ -93,7 +93,7 @@ In order to seed our brand and superfood ingredients, we initially focused on a 
 
 This has given us the platform we need to expand our reach to encompass more of our target market, through new, more mainstream distribution channels and products - such as the new range we are about to launch.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11356/ibhr8wq0avyozh09ay2x2lysr92zrwp/Image_8_After-2nd-Paragraph-under-Target-Market.jpg?rect=0%2C0%2C600%2C382&w=600&fit=clip&s=ba8d819423c7f3cc97cc4fa64f587999)
+![](/img/seedrs/uploads/startup/section_image/image/11356/ibhr8wq0avyozh09ay2x2lysr92zrwp/Image_8_After-2nd-Paragraph-under-Target-Market.jpg?rect=0%2C0%2C600%2C382&w=600&fit=clip&s=ba8d819423c7f3cc97cc4fa64f587999)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ b) Energy Bars
 
 Healthy snacking is in high-growth globally, and nowhere more so than the UK energy bar market. In the 5 years up to 2015, the segment tripled in size and is forecast to hit £206m by 2019, with CAGR of 15%. Driven by the anti-sugar movement, grocery multiples are removing confectionery from their till points and employers are replacing sugary snacks with healthy options in canteens. The Mintel Consumer Snacking report noted that 95% of UK adults snacked in Dec 2015, with 48% stating that they were trying to eat healthily ‘most of the time.’
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11357/dfbcb4cqg5kfydmu1i0bhqfjs7pu2v9/Image_10_Characteristics_of_target_market-before-b.Energy_Bars.jpg?rect=0%2C0%2C600%2C370&w=600&fit=clip&s=d96351e4641961ef835441c965985ee1)
+![](/img/seedrs/uploads/startup/section_image/image/11357/dfbcb4cqg5kfydmu1i0bhqfjs7pu2v9/Image_10_Characteristics_of_target_market-before-b.Energy_Bars.jpg?rect=0%2C0%2C600%2C370&w=600&fit=clip&s=d96351e4641961ef835441c965985ee1)
 
 ### Marketing strategy
 
@@ -125,9 +125,9 @@ We are experts in creative marketing. Our strategy is simple: we focus on creati
 
 • Campaigns: <br>In 2016 we delivered a 'through the line' #MakeBaobabFamous campaign including window displays in 750 Holland &amp; Barrett stores supported by POS, promos, staff training, website, emails and social media. We amplified this online enrolling celebrities, bloggers &amp; major brands to spread the word about baobab to their networks. The campaign achieved an estimated 129 million impressions, driving brand awareness and increasing baobab sales by almost 10 times.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11358/p9ny67fqo43uewhvc8f7sfyor08w0p7/Image_11_Marketing_Strategy_After-Retail-Marketing-Section.jpg?rect=0%2C0%2C600%2C370&w=600&fit=clip&s=80ad4bac839f55d79832dd941faa67d9)
+![](/img/seedrs/uploads/startup/section_image/image/11358/p9ny67fqo43uewhvc8f7sfyor08w0p7/Image_11_Marketing_Strategy_After-Retail-Marketing-Section.jpg?rect=0%2C0%2C600%2C370&w=600&fit=clip&s=80ad4bac839f55d79832dd941faa67d9)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11359/1kjzpofqw6z3io9k2yr7ck3srorl43q/Image_9_Marketing_Strategy-under-PR-section_Vogue.jpg?rect=0%2C0%2C600%2C370&w=600&fit=clip&s=1d497240bbed1f6fb894a51ae059680c)
+![](/img/seedrs/uploads/startup/section_image/image/11359/1kjzpofqw6z3io9k2yr7ck3srorl43q/Image_9_Marketing_Strategy-under-PR-section_Vogue.jpg?rect=0%2C0%2C600%2C370&w=600&fit=clip&s=1d497240bbed1f6fb894a51ae059680c)
 
 ### Competition strategy
 
@@ -145,5 +145,5 @@ However, competitors do exist within the specific categories we operate in e.g. 
 
 This unique combination of factors makes Aduna a powerful, premium brand that is very difficult to replicate.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11360/sclyz3u7n9qyjwja91iapx51r97lip6/Image_12_Bottom_of_Competition_Strategy_section.jpg?rect=0%2C0%2C600%2C320&w=600&fit=clip&s=be82257dafb61c6e4d21b610b68f69d6)
+![](/img/seedrs/uploads/startup/section_image/image/11360/sclyz3u7n9qyjwja91iapx51r97lip6/Image_12_Bottom_of_Competition_Strategy_section.jpg?rect=0%2C0%2C600%2C320&w=600&fit=clip&s=be82257dafb61c6e4d21b610b68f69d6)
 

@@ -87,7 +87,7 @@ Objective: "Bring perfection for effective use and seamless user experience acro
 
 Just the first three markets itself represent a segment size of over 40 million families in the target range.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1121/ol4zqo46xbbwbpps0i9vd0q7is01mpm/Combined_icon.png?w=600&fit=clip&s=a099b9f11a29bcebe216e412fff4fe8f)
+![](/img/seedrs/uploads/startup/section_image/image/1121/ol4zqo46xbbwbpps0i9vd0q7is01mpm/Combined_icon.png?w=600&fit=clip&s=a099b9f11a29bcebe216e412fff4fe8f)
 
 ### Characteristics of target market
 

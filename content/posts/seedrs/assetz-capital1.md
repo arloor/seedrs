@@ -109,7 +109,7 @@ Direct Private Investors:
 
 • There are many new ‘branchless’ bank apps and financial consolidation apps launching that seek to attract current account customers away from legacy banks and offer them a simpler way of running their financial lives. Over the next few years we expect that there will be a substantial shift of usage towards these new financial apps and we intend to offer ACaaS, (Assetz Capital as a Service) to all of these platforms so that many can offer interest producing investments to their customers. Current accounts are not expected to be profitable for these apps and new banks but we expect that they will monetise their customers with earnings from transactions that they carry out like currency transfers, investments, insurance etc are. The first of these ACaaS relationships are underway and is expected to be announced and taken live this year.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12357/pyb77mh9y04uqe3gszweucua3harwl9/Screen_Shot_2017-07-19_at_14.01.56.png?rect=0%2C0%2C576%2C467&w=600&fit=clip&s=09f3316e7824f0d521c27c29a610ec45)
+![](/img/seedrs/uploads/startup/section_image/image/12357/pyb77mh9y04uqe3gszweucua3harwl9/Screen_Shot_2017-07-19_at_14.01.56.png?rect=0%2C0%2C576%2C467&w=600&fit=clip&s=09f3316e7824f0d521c27c29a610ec45)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ Borrowers: <br>• Our target market is SMEs in the UK that can offer both reali
 
 • Based on the value of loans outstanding to smaller businesses at the end of December 2016, we estimate the core SME funding market for new facilities is circa £60bn a year.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12358/2kqvgxgxqdrsjjsb6t98lxkzmum2x7v/L1290114.jpg?rect=0%2C0%2C3543%2C2362&w=600&fit=clip&s=e2385dd041ff96c0a485987c37040f1e)
+![](/img/seedrs/uploads/startup/section_image/image/12358/2kqvgxgxqdrsjjsb6t98lxkzmum2x7v/L1290114.jpg?rect=0%2C0%2C3543%2C2362&w=600&fit=clip&s=e2385dd041ff96c0a485987c37040f1e)
 
 ### Marketing strategy
 
@@ -141,7 +141,7 @@ Investors:
 
 • As described in the Target Market section we will continue to promote the ACaaS service to the customers of the financial platforms and aggregators who have large client bases holding cash deposits looking for a return.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12359/g6yqvi0v589yx9vbkt2358ggjqbhhp0/sme_index.jpg?rect=0%2C0%2C600%2C439&w=600&fit=clip&s=e77e6a148e9f2d7f06b86504b1cf3125)
+![](/img/seedrs/uploads/startup/section_image/image/12359/g6yqvi0v589yx9vbkt2358ggjqbhhp0/sme_index.jpg?rect=0%2C0%2C600%2C439&w=600&fit=clip&s=e77e6a148e9f2d7f06b86504b1cf3125)
 
 ### Competition strategy
 

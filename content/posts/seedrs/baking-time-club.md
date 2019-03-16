@@ -71,7 +71,7 @@ Based on a survey we conducted and customer feedback, our typical customer is: F
 
 Our target customer purchases most of her ingredients in the supermarket, but enjoys shopping online for those specific items like cake toppers and novelty cookie cutters, when planning a specific themed cake. She may have friends who are celiac and/or vegan, so has made “free-from” cakes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12449/453yezs9ub4bbpaorr0ry67yysi1da9/Screen_Shot_2017-08-01_at_18.45.49.png?rect=0%2C-3%2C827%2C533&w=600&fit=clip&s=e567a53225de4bd297f519f2be761ab3)
+![](/img/seedrs/uploads/startup/section_image/image/12449/453yezs9ub4bbpaorr0ry67yysi1da9/Screen_Shot_2017-08-01_at_18.45.49.png?rect=0%2C-3%2C827%2C533&w=600&fit=clip&s=e567a53225de4bd297f519f2be761ab3)
 
 Some of our customers love receiving ‘happy mail’, post which is not bills or junk. The subscription model is popular with this audience, who enjoy crafting and making something they have seen on Pinterest. We believe that the Sprinkle Subscription meets the desires of this audience, providing them with a flexible subscription (delivery every 1-4 months), starting at £7.49 for a box of surprise sprinkles, which will transform their next baking challenge. The Sprinkle Subscription makes a suitable gift for parents to buy for teenagers just getting into baking.
 
@@ -89,7 +89,7 @@ Along with an increase in home baking, 75% of bakers we surveyed have baked free
 
 Consumers use smartphones to shop so our website is optimised for mobile, desktop and tablet use. 65% of website views are from mobile, 31% desktop and 4% from tablets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12450/r3d68eh0bnx81arsxu4vdtl72558fvj/Market_2_-_Characteristics__.jpeg?rect=0%2C0%2C2395%2C2395&w=600&fit=clip&s=e6b47859fa9728e8834f043bbc2ff654)
+![](/img/seedrs/uploads/startup/section_image/image/12450/r3d68eh0bnx81arsxu4vdtl72558fvj/Market_2_-_Characteristics__.jpeg?rect=0%2C0%2C2395%2C2395&w=600&fit=clip&s=e6b47859fa9728e8834f043bbc2ff654)
 
 ### Marketing strategy
 
@@ -99,13 +99,13 @@ The raise will enable us to implement our PR strategy, as well as increasing the
 
 Lastly, we will attend home and gift, cake baking and “free-from” trade and consumer shows, to meet customers in person and also launch our wholesale side of the business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12451/ib0zrnd59w3d6q1664e0dsrp68cj6g5/Market_3_-_Marketing_Strategy_.jpg?rect=0%2C-7%2C1678%2C1074&w=600&fit=clip&s=e27bf79cc133e14d21c9d7f6cb9b451e)
+![](/img/seedrs/uploads/startup/section_image/image/12451/ib0zrnd59w3d6q1664e0dsrp68cj6g5/Market_3_-_Marketing_Strategy_.jpg?rect=0%2C-7%2C1678%2C1074&w=600&fit=clip&s=e27bf79cc133e14d21c9d7f6cb9b451e)
 
 ### Competition strategy
 
 While supermarkets do sell cake sprinkles, our experience suggests that they are predominantly they are of the single colour and can contain a variety of allergens such as wheat, dairy, beeswax, fish oil and egg. Our cake sprinkles are all gluten-free and dairy-free, providing customers with allergen consistency. <br> <br>Supermarkets also sell a range of baking supplies, the items available vary per store and can be subject to change at short notice. <br>
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12452/edaqynbisbu5nvglcnz63nxaelc355y/Market_4_-_Competition.jpeg?rect=0%2C0%2C2797%2C2797&w=600&fit=clip&s=c4aee15aee5f00ba1dc340a42b062495)
+![](/img/seedrs/uploads/startup/section_image/image/12452/edaqynbisbu5nvglcnz63nxaelc355y/Market_4_-_Competition.jpeg?rect=0%2C0%2C2797%2C2797&w=600&fit=clip&s=c4aee15aee5f00ba1dc340a42b062495)
 
 Our research suggests that online there are a couple of large sprinkle companies which sell sprinkle mixes based in the USA, however they only offer a limited selection in dairy and gluten free sprinkles, and the postage rates to the UK can be high. <br> <br>There are a variety of online cake decorating websites, which tend to resell the same brands: Wilton, PME and Rainbow Dust. We aim to differentiate by selling our own diverse range of quality baking supplies, sprinkles and giftware, less ‘traditional’ to those already available, perfect for the trendsetting baker. <br> <br>To our knowledge we are the only sprinkle subscription based in the UK, however we are aware of a competitor based in Canada. We have plans to develop a variety of baking gift boxes and subscriptions in the future to appeal to different levels of bakers.
 

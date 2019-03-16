@@ -77,7 +77,7 @@ Where an established business has a loyal customer base, it can use Flender to l
 
 Customers also get to enjoy expanded / upgraded facilities along with their return.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10440/c317xwuva3xye3wa3bz5kjqngxj3dvr/shutterstock_162650951.jpg?rect=0%2C0%2C3543%2C2503&w=600&fit=clip&s=03c16affdd6c37e6f6dc946b1531cf85)
+![](/img/seedrs/uploads/startup/section_image/image/10440/c317xwuva3xye3wa3bz5kjqngxj3dvr/shutterstock_162650951.jpg?rect=0%2C0%2C3543%2C2503&w=600&fit=clip&s=03c16affdd6c37e6f6dc946b1531cf85)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ TOTAL Size: <br>• Addressable Flender market therefore: c. £5.4bn p.a.
 
 (Independent survey information is provided by Flender along with pitch).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10441/ahrpgnjamw98n328mbdqnslse7vesr9/shutterstock_387118297.jpg?rect=0%2C921%2C2362%2C2338&w=600&fit=clip&s=6e28270a3f6ec0e244a34c1ea917379e)
+![](/img/seedrs/uploads/startup/section_image/image/10441/ahrpgnjamw98n328mbdqnslse7vesr9/shutterstock_387118297.jpg?rect=0%2C921%2C2362%2C2338&w=600&fit=clip&s=6e28270a3f6ec0e244a34c1ea917379e)
 
 ### Marketing strategy
 
@@ -125,7 +125,7 @@ Education. <br>Home Improvements. <br>Vehicles. <br>Debt Consolidation. <br>Holi
 
 Our routes to consumers are: <br>• Organic – SEO. <br>• Promotional partnerships (we are already in discussions with some of the above categories, namely Education and Weddings.) <br>• AdWords / Search Ads.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10442/kyatrxwp2mj8m95lj99ng6qs3r5hwn0/shutterstock_172080614.jpg?rect=0%2C0%2C3543%2C2362&w=600&fit=clip&s=c32379412745e34e8901f580046f3302)
+![](/img/seedrs/uploads/startup/section_image/image/10442/kyatrxwp2mj8m95lj99ng6qs3r5hwn0/shutterstock_172080614.jpg?rect=0%2C0%2C3543%2C2362&w=600&fit=clip&s=c32379412745e34e8901f580046f3302)
 
 ### Competition strategy
 

@@ -89,13 +89,13 @@ Please also note that certain investors in the company have A Preference Shares.
 
 Wrisk’s initial contents proposition will target people in their mid-twenties, a few years into their career (HENRYs – High Earner-Not-Rich-Yet). They will likely live in a house/flatshare in an urban centre with other professionals and will expect seamless digital experiences from the companies with which they engage. <br> <br>Our ideal Wrisk customer is in the 'connected generation' (Gen-C) – someone who communicates, builds relationships and makes buying decisions online. They are happy to share information online if they trust the recipient and see that there is a fair value exchange. They prize integrity, honesty and transparency, and want to know the people behind any product they use. <br> <br>They will buy into the company’s brand and values, and as the company grows they will take up new services offered, encouraging their friends and partners to do the same. Insurance will go from being a grudge purchase or luxury spend to being just a natural and obvious part of their personal finances.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14735/py59107l3gcqxjmdbr2mzvyfa0jr600/SEEDRS_6_Grow.png?rect=0%2C0%2C1200%2C620&w=600&fit=clip&s=a900f09944d6a779d378095d9e67f56f)
+![](/img/seedrs/uploads/startup/section_image/image/14735/py59107l3gcqxjmdbr2mzvyfa0jr600/SEEDRS_6_Grow.png?rect=0%2C0%2C1200%2C620&w=600&fit=clip&s=a900f09944d6a779d378095d9e67f56f)
 
 ### Characteristics of target market
 
 Wrisk underwent a market sizing exercise with KPMG in 2016, looking only at the UK premium for contents, our first product:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14736/6bjf5ys7quiazhj3aw3jx1w4ynw123o/SEEDRS_7_Market_Potential.jpg?rect=0%2C0%2C1200%2C1162&w=600&fit=clip&s=11daa02262024cf6258fc5c6880e931e)
+![](/img/seedrs/uploads/startup/section_image/image/14736/6bjf5ys7quiazhj3aw3jx1w4ynw123o/SEEDRS_7_Market_Potential.jpg?rect=0%2C0%2C1200%2C1162&w=600&fit=clip&s=11daa02262024cf6258fc5c6880e931e)
 
 If you overlay onto these figures the fact that 61% of private tenants in the UK currently don't buy contents insurance, then the figures above understate the potential market size for our contents product considerably. We intend to create a new mass-market of those currently uninsured in the private rental market – due to expand to almost 5.8 million homes by 2021. <br> <br>At present, many buy the cheapest insurance possible through comparison websites. Without strong loyalty, customers switch easily between insurance companies, led by price and with little understanding of other differences between products or providers. <br> <br>Wrisk’s dialogue with its customers is totally different. Our beta customers are helping to demonstrate Wrisk is well placed to win customers who are motivated by user experience and customer service as well as price.
 

@@ -85,7 +85,7 @@ As MR6 replaces part of the bitumen in an asphalt mix, the potential market is c
 
 MR6 can be added into every ton of asphalt produced without any modifications being required by the asphalt manufacturing plants, so that everyone, everywhere can drive on a greener, leaner, stronger, longer lasting road.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11096/ahwbxt9r6q7ywvxkablfqizzeoo76q1/Target_market.jpg?rect=0%2C0%2C1500%2C1000&w=600&fit=clip&s=2035d76d3eaa9bbb9af2fc560ffed7e6)
+![](/img/seedrs/uploads/startup/section_image/image/11096/ahwbxt9r6q7ywvxkablfqizzeoo76q1/Target_market.jpg?rect=0%2C0%2C1500%2C1000&w=600&fit=clip&s=2035d76d3eaa9bbb9af2fc560ffed7e6)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Since winning Virgin Voom last year, we have received a massive amount of busine
 
 We have featured multiple times in both national and regional press, TV and radio and we will soon be starting our nationwide outdoor advertising campaign with JC Decaux. Our CEO has also been invited to speak at TEDx Cambridge University, further raising MacRebur's profile.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11095/fn6eo6m4zshmshlswe7u275mo8vnlg1/Marketing_strategy.jpg?rect=0%2C-1%2C3000%2C1687&w=600&fit=clip&s=c6d261be5a7e759ad8e14394c259e0ac)
+![](/img/seedrs/uploads/startup/section_image/image/11095/fn6eo6m4zshmshlswe7u275mo8vnlg1/Marketing_strategy.jpg?rect=0%2C-1%2C3000%2C1687&w=600&fit=clip&s=c6d261be5a7e759ad8e14394c259e0ac)
 
 ### Competition strategy
 

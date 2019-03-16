@@ -87,7 +87,7 @@ The investment will be allocated:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7103/gjsfwbgfeyxqkqmm9635jdm8rufo50t/yellow-dog-infographic-buyer-NEW_11_reworked_.png?rect=0%2C0%2C1224%2C784&w=600&fit=clip&s=b412f2156548506e91ecb2d695cd9e05)
+![](/img/seedrs/uploads/startup/section_image/image/7103/gjsfwbgfeyxqkqmm9635jdm8rufo50t/yellow-dog-infographic-buyer-NEW_11_reworked_.png?rect=0%2C0%2C1224%2C784&w=600&fit=clip&s=b412f2156548506e91ecb2d695cd9e05)
 
 ### Target market
 
@@ -99,7 +99,7 @@ On the other, you have ‘The Pack’, those who rent out their processing power
 
 Please note that only the UK market is considered here despite there being animation studios and students across the globe.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7104/p9ypecl7gdaq8if12gp84xhi2sb44z6/YellowDog_Login.png?rect=0%2C0%2C2548%2C1247&w=600&fit=clip&s=c116b99d43e1e5605a4368dbf39a3e79)
+![](/img/seedrs/uploads/startup/section_image/image/7104/p9ypecl7gdaq8if12gp84xhi2sb44z6/YellowDog_Login.png?rect=0%2C0%2C2548%2C1247&w=600&fit=clip&s=c116b99d43e1e5605a4368dbf39a3e79)
 
 ### Characteristics of target market
 
@@ -119,7 +119,7 @@ Financial concerns are a priority for the majority of students - shown by an inc
 
 These beliefs translate into practice with students being 51% more likely than other adults to choose to purchase brands/products that have ethical credentials or demonstrate ethical values.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7105/nbublzduje5nssm7wxmysqa0qceseyi/yellow-dog-infographic-buyer-NEW_04.jpg?rect=0%2C0%2C2480%2C805&w=600&fit=clip&s=28415417ec0c2c34a4ec7d93f17c40e0)
+![](/img/seedrs/uploads/startup/section_image/image/7105/nbublzduje5nssm7wxmysqa0qceseyi/yellow-dog-infographic-buyer-NEW_04.jpg?rect=0%2C0%2C2480%2C805&w=600&fit=clip&s=28415417ec0c2c34a4ec7d93f17c40e0)
 
 ### Marketing strategy
 
@@ -135,7 +135,7 @@ For The Pack, the proposition centres on getting money for nothing. Tactics are 
 
 • Social media. <br>• Online promotion on moneysaving websites (both general and Student). <br>• Referrals &amp; word of mouth. <br>• £260 a year if used 8 hours a night – which pay’s for a Student’s laptop during university, or mosquito nets for 16 children every month, through Oxfam.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7106/4j0b191bwcykuue1rcm0koxszvn13ux/YellowDog_Dashboard.png?rect=0%2C0%2C2556%2C1262&w=600&fit=clip&s=dcfbdcb460581c71ec3d1cb4da38ab9e)
+![](/img/seedrs/uploads/startup/section_image/image/7106/4j0b191bwcykuue1rcm0koxszvn13ux/YellowDog_Dashboard.png?rect=0%2C0%2C2556%2C1262&w=600&fit=clip&s=dcfbdcb460581c71ec3d1cb4da38ab9e)
 
 ### Competition strategy
 

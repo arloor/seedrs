@@ -95,7 +95,7 @@ Costs related to sourcing and securing properties for the platform.
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8312/5fqorw07gc06jwg4ui749ty4ocoemhu/Screen_Shot_2016-05-19_at_12.02.09.png?rect=0%2C0%2C1269%2C614&w=600&fit=clip&s=8835052b39cf47b43f96340aa3ab242d)
+![](/img/seedrs/uploads/startup/section_image/image/8312/5fqorw07gc06jwg4ui749ty4ocoemhu/Screen_Shot_2016-05-19_at_12.02.09.png?rect=0%2C0%2C1269%2C614&w=600&fit=clip&s=8835052b39cf47b43f96340aa3ab242d)
 
 ### Target market
 
@@ -113,7 +113,7 @@ Existing property investors wanting a more diversified property investment portf
 
 Investors looking for possible better returns on their money than they would get by holding cash in the bank, or investing in an alternative asset class.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8314/rw08a55e1i6fr4s7y693rl0tpzwprwa/Screen_Shot_2016-05-20_at_08.21.28.png?rect=0%2C0%2C1204%2C613&w=600&fit=clip&s=262d023e67ce481ebb90c3438e30c0e1)
+![](/img/seedrs/uploads/startup/section_image/image/8314/rw08a55e1i6fr4s7y693rl0tpzwprwa/Screen_Shot_2016-05-20_at_08.21.28.png?rect=0%2C0%2C1204%2C613&w=600&fit=clip&s=262d023e67ce481ebb90c3438e30c0e1)
 
 People who want to invest in property but do not want to own and manage the property directly themselves.
 
@@ -125,7 +125,7 @@ Since the financial crisis an extra 600,000 people have become private landlords
 
 We envisage that once we start offering portfolio’s and third party partner investment opportunities on the platform, using the platform could also be viewed as attractive by institutional investors, who would invest alongside individuals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8167/nx9y71hyjz631ewh51sfyic85ipjtfg/Screen_Shot_2016-05-13_at_15.15.16.png?rect=15%2C22%2C756%2C351&w=600&fit=clip&s=0044de581207e12491a9f16a24d6cdaa)
+![](/img/seedrs/uploads/startup/section_image/image/8167/nx9y71hyjz631ewh51sfyic85ipjtfg/Screen_Shot_2016-05-13_at_15.15.16.png?rect=15%2C22%2C756%2C351&w=600&fit=clip&s=0044de581207e12491a9f16a24d6cdaa)
 
 ### Characteristics of target market
 
@@ -143,7 +143,7 @@ According to the Governments English Housing Survey, the rental market has been 
 
 Before the 2007 crash 30% of first time buyers were helped by their parents, whilst by 2014 this had increased to 64%.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8220/g51waadj3gdsjgp7sfwe9fsj1e154q/Bo-Graph.png?rect=46%2C33%2C1937%2C688&w=600&fit=clip&s=ed498ba61257000095a6f6d96d338866)
+![](/img/seedrs/uploads/startup/section_image/image/8220/g51waadj3gdsjgp7sfwe9fsj1e154q/Bo-Graph.png?rect=46%2C33%2C1937%2C688&w=600&fit=clip&s=ed498ba61257000095a6f6d96d338866)
 
 ### Marketing strategy
 
@@ -165,7 +165,7 @@ Many of the third party property partners we would use would lack a liquidity me
 
 We will aim to incentivise individuals and companies that have access to potential clients for the platform, such as accountants, and financial advisors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8299/imhjfercnhzb248r1e0ir3i3fp8dqyf/002.jpg?rect=0%2C0%2C600%2C253&w=600&fit=clip&s=420ccecdb456f9ad46c69f551f274f57)
+![](/img/seedrs/uploads/startup/section_image/image/8299/imhjfercnhzb248r1e0ir3i3fp8dqyf/002.jpg?rect=0%2C0%2C600%2C253&w=600&fit=clip&s=420ccecdb456f9ad46c69f551f274f57)
 
 ### Competition strategy
 

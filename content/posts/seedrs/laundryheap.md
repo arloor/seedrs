@@ -115,7 +115,7 @@ Our main target group is 25-40 year old ABC1. Other interesting groups for us ar
 
 A major opportunity on the market is represented by businesses that require the service on a regular basis, such as: Airbnb flats, restaurants, bars, hair salons, and more. These contribute to a lower order value, but as they are likely to have significantly more frequent order behaviour, we expect that the lifetime value will be larger.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13485/keyd3pwqwqv6627x7pgukkt05e9ymxq/times_logo.jpg?rect=0%2C-1%2C2456%2C877&w=600&fit=clip&s=e8526900562c5d50f2bbea51bec9263f)
+![](/img/seedrs/uploads/startup/section_image/image/13485/keyd3pwqwqv6627x7pgukkt05e9ymxq/times_logo.jpg?rect=0%2C-1%2C2456%2C877&w=600&fit=clip&s=e8526900562c5d50f2bbea51bec9263f)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ Along the way, we have observed a shift in consumer patterns, with customers now
 
 Our experience suggest that dry cleaning is still mostly done offline, which means now is the best time to explore this great opportunity and focus on building an even stronger presence in this new, fast-growing market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13483/bqn1wu97cchy9vlebx08pqoiccd3u47/team_pic_2.jpg?rect=0%2C0%2C4272%2C1942&w=600&fit=clip&s=d3c26512184b3c9526fc9c8747f5a9a9)
+![](/img/seedrs/uploads/startup/section_image/image/13483/bqn1wu97cchy9vlebx08pqoiccd3u47/team_pic_2.jpg?rect=0%2C0%2C4272%2C1942&w=600&fit=clip&s=d3c26512184b3c9526fc9c8747f5a9a9)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ Our recently built B2B sales team will be further strengthened with the help of 
 
 We believe that offline marketing would also be a channel that will convert well for us, so we will explore this area in the upcoming months.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13484/ia83jn9tmqo5fibgcuyexubexqpkbiw/unnamed__3___1_.jpg?rect=0%2C123%2C497%2C504&w=600&fit=clip&s=e6536289b2ce5187b7167a0591670716)
+![](/img/seedrs/uploads/startup/section_image/image/13484/ia83jn9tmqo5fibgcuyexubexqpkbiw/unnamed__3___1_.jpg?rect=0%2C123%2C497%2C504&w=600&fit=clip&s=e6536289b2ce5187b7167a0591670716)
 
 ### Competition strategy
 

@@ -73,7 +73,7 @@ The company has £60,000 outstanding loans and will draw down a further £200,00
 
 The Loyalzoo service is targeted at small and mid-size retailers, including small chains. The largest demand for loyalty card programmes comes from: quick-service-restaurants, bars, cafes, hair/beauty salons, vaping stores and boutiques. But we have success stories in most retail sectors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9685/os4rrc80zvg0tkizrlr50um9qewdw5o/IMAGE_5.jpeg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=16989d5148610c2a85fd1781857d3ced)
+![](/img/seedrs/uploads/startup/section_image/image/9685/os4rrc80zvg0tkizrlr50um9qewdw5o/IMAGE_5.jpeg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=16989d5148610c2a85fd1781857d3ced)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ Demand is particularly sparkling in the USA. Despite being a much more competiti
 
 The UK market is still in its infancy, with many retail/hospitality operators still working with traditional paper loyalty cards (stamps based).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9760/47epmpgd5smdb50z9vxx1aphv5021pi/IMAGE_6.png?rect=0%2C-9%2C2086%2C1447&w=600&fit=clip&s=4e6c265d35a113c49cb4965421387e40)
+![](/img/seedrs/uploads/startup/section_image/image/9760/47epmpgd5smdb50z9vxx1aphv5021pi/IMAGE_6.png?rect=0%2C-9%2C2086%2C1447&w=600&fit=clip&s=4e6c265d35a113c49cb4965421387e40)
 
 ### Marketing strategy
 
@@ -95,9 +95,9 @@ More recently, however, our growth strategy has focused a lot more on key partne
 
 In particular, our listing as a 3rd-party add-on service in the Clover App Market is responsible for most of our growth over the last 12 months (Clover is a very popular point-of-sale system within the SME retail space in the USA). In June we have done a soft launch on the App Store of Epos Now (a British EPOS provider), and we are about to launch in the partnerships page of Lightspeed POS.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9769/klshrkkeac4bbnwx25dihl859a1i0vy/Epos_Now_till_with_Loyalzoo.png?rect=0%2C-3%2C420%2C372&w=600&fit=clip&s=6719ad703c5e716d6c0df5512a0be945)
+![](/img/seedrs/uploads/startup/section_image/image/9769/klshrkkeac4bbnwx25dihl859a1i0vy/Epos_Now_till_with_Loyalzoo.png?rect=0%2C-3%2C420%2C372&w=600&fit=clip&s=6719ad703c5e716d6c0df5512a0be945)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9768/fl1zhglbdchqqq63ox30cmblztgg8g2/Clover_station_with_Loyalzoo.png?rect=0%2C0%2C1633%2C913&w=600&fit=clip&s=b0984d467c5d77454d73233fc31ee14b)
+![](/img/seedrs/uploads/startup/section_image/image/9768/fl1zhglbdchqqq63ox30cmblztgg8g2/Clover_station_with_Loyalzoo.png?rect=0%2C0%2C1633%2C913&w=600&fit=clip&s=b0984d467c5d77454d73233fc31ee14b)
 
 In the coming months, we expect to integrate (and get listed on) Shopify POS, and some payment terminals from companies such as Ingenico.
 

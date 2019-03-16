@@ -87,7 +87,7 @@ Our consumer is time poor, adventurous, health and taste conscious. They may or 
 
 Up till now our consumer base and marketing activity has largely been concentrated in London and the South East however with recent nationwide listings in major grocers, our plan is to significantly increase our growth and investment in regions right across the UK in 2018-19.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15477/11ropjyu4pk8t6e3u09qg7tkpgqjzdz/Greens__2_.jpg?rect=0%2C0%2C600%2C598&w=600&fit=clip&s=3b9567f9fab9fff9337e1adfe482142d)
+![](/img/seedrs/uploads/startup/section_image/image/15477/11ropjyu4pk8t6e3u09qg7tkpgqjzdz/Greens__2_.jpg?rect=0%2C0%2C600%2C598&w=600&fit=clip&s=3b9567f9fab9fff9337e1adfe482142d)
 
 ### Characteristics of target market.
 
@@ -95,7 +95,7 @@ The combined market size of the group we target, broadly defined as 'affluent an
 
 Authenticity and brand values are as important as the functional aspects (such as 1 of your 5 a day) of our products. As early adopters, our consumers are interested in innovation but are loyal to brands they can trust, love and believe in. They are also shoppers who generally prefer to top up shop and frequently eat meals outside the home so it's absolutely key we have several retail and grocery touch points especially at impulse and quick service locations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15464/jkfyy3gh6ss7gfj587k0w9np30514wn/Sticks_focus.jpg?rect=0%2C0%2C600%2C598&w=600&fit=clip&s=179faa5eb19d91b4bb36ce79bf8f3ff7)
+![](/img/seedrs/uploads/startup/section_image/image/15464/jkfyy3gh6ss7gfj587k0w9np30514wn/Sticks_focus.jpg?rect=0%2C0%2C600%2C598&w=600&fit=clip&s=179faa5eb19d91b4bb36ce79bf8f3ff7)
 
 ### Marketing strategy.
 
@@ -107,7 +107,7 @@ ii) Selective partnering with key influencers: people and locations. Establishin
 
 iii) Sampling, sampling, sampling...whether through free giveaways or shallow promotions, research shows that this is an effective conversion strategy. Because taste is our strongest USP, when people try our product they buy it.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15465/qgl23brze89ggj0fnq72k82qv1agson/Sticks_lips.jpg?rect=0%2C0%2C600%2C598&w=600&fit=clip&s=6da3085796c3fcee9d5da7caba9a4cb8)
+![](/img/seedrs/uploads/startup/section_image/image/15465/qgl23brze89ggj0fnq72k82qv1agson/Sticks_lips.jpg?rect=0%2C0%2C600%2C598&w=600&fit=clip&s=6da3085796c3fcee9d5da7caba9a4cb8)
 
 ### Competition strategy.
 
@@ -117,5 +117,5 @@ With that in mind, we view our competition more in terms of occasion than produc
 
 Against 'healthier' competitors we have a significant advantage as a brand that's not reliant on current fads in diet but which focuses on promoting eating more whole fruit and veg, one of the few trends which we think is sustainable and will only grow significantly in the long term. Our most important USP however is the 'tastiness' that appeals to a wide segment of the population which we feel few 'healthier' brands can claim to deliver.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15466/23vokyd9bscplr43nbsklzmq7ga9n0t/unnamed__4___1_.jpg?rect=0%2C-4%2C945%2C301&w=600&fit=clip&s=ba636b2edfba7b11a2f63da979813577)
+![](/img/seedrs/uploads/startup/section_image/image/15466/23vokyd9bscplr43nbsklzmq7ga9n0t/unnamed__4___1_.jpg?rect=0%2C-4%2C945%2C301&w=600&fit=clip&s=ba636b2edfba7b11a2f63da979813577)
 

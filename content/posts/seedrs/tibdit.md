@@ -147,7 +147,7 @@ Full video here: <a target="_blank" rel="nofollow" class="outside" href="https:/
 
 ➤ “Consider this as a future: paying small amounts to read, watch and listen to content online. It's a system called micropayments, and some believe it is the future for supporting journalism, and other creative content, on the internet.” —Dave Lee BBC News (2012)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3473/f1xudik950vmj7b7pf22ewdqy5mckhb/graphic_-_market_-_2_-_characteristics_-_alternate.png?rect=0%2C0%2C539%2C256&w=600&fit=clip&s=75fe6ea9c475b4931c4c2893843bb7b9)
+![](/img/seedrs/uploads/startup/section_image/image/3473/f1xudik950vmj7b7pf22ewdqy5mckhb/graphic_-_market_-_2_-_characteristics_-_alternate.png?rect=0%2C0%2C539%2C256&w=600&fit=clip&s=75fe6ea9c475b4931c4c2893843bb7b9)
 
 ### Marketing strategy
 
@@ -167,7 +167,7 @@ For print publishers, we will initially target prospects who may be struggling w
 
 This further allows publishers to target subscription sales at consumers who have already demonstrated a willingness to pay for their content, rather than obstructing the customer and triggering resentment at the very moment they are most engaged. This should result in increased goodwill from the customer, and so an increased conversion rate.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3470/a284ex3uhwkp7wwwozp42zkwfntpnc2/graphic_-_market_-_3_-_strategy.png?rect=0%2C0%2C539%2C382&w=600&fit=clip&s=fd07aab5a4ff8012c2737ed964f97c94)
+![](/img/seedrs/uploads/startup/section_image/image/3470/a284ex3uhwkp7wwwozp42zkwfntpnc2/graphic_-_market_-_3_-_strategy.png?rect=0%2C0%2C539%2C382&w=600&fit=clip&s=fd07aab5a4ff8012c2737ed964f97c94)
 
 ### Competition strategy
 
@@ -199,5 +199,5 @@ Flattr:
 
 ➤ tibdit: original, simpler, patentable business model; tibbers use familiar currency; two-click process.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3471/c1cy1mi1hobcq9f86m71vnhb6itb31y/graphic_-_market_-_4_-_competition.png?rect=0%2C0%2C537%2C306&w=600&fit=clip&s=e8dd10b7d3a5707f39d797ee1556aeeb)
+![](/img/seedrs/uploads/startup/section_image/image/3471/c1cy1mi1hobcq9f86m71vnhb6itb31y/graphic_-_market_-_4_-_competition.png?rect=0%2C0%2C537%2C306&w=600&fit=clip&s=e8dd10b7d3a5707f39d797ee1556aeeb)
 

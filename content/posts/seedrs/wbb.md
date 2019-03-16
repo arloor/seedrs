@@ -81,7 +81,7 @@ We expect that the proposed new bottling, kegging and canning facilities at the 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7595/su0dba0om6q6p8kf2sejj6hty5n90te/GOB_.png?rect=0%2C-7%2C1499%2C843&w=600&fit=clip&s=4c131b46e9f54c9b7e6a15889d98eaf2)
+![](/img/seedrs/uploads/startup/section_image/image/7595/su0dba0om6q6p8kf2sejj6hty5n90te/GOB_.png?rect=0%2C-7%2C1499%2C843&w=600&fit=clip&s=4c131b46e9f54c9b7e6a15889d98eaf2)
 
 ### Target market
 
@@ -95,7 +95,7 @@ If cask beer is what we do now, then the trend towards craft beer cannot be igno
 
 The growth of craft beer in the UK on-trade last year was +62% (CGA) and that trend is forecast to continue. WBB intends to approach this market with a new range of inspired craft beers in bottle and keg to make the most of this growing sector. Our young, skillful brew team have created the Renegade Brewery brand to provide a new identity for our craft beers. Using only the finest ingredients, the development of this new range targets the growing market for interesting and premium beers with 20% of British adults having drunk a craft beer in the last six months.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7591/4eib7obm6up57xsb1dazittmezhxdzp/renegade_bottle_cap_copy.jpg?rect=0%2C0%2C5616%2C3744&w=600&fit=clip&s=d80251b1364ac67198bc9ed642e849d1)
+![](/img/seedrs/uploads/startup/section_image/image/7591/4eib7obm6up57xsb1dazittmezhxdzp/renegade_bottle_cap_copy.jpg?rect=0%2C0%2C5616%2C3744&w=600&fit=clip&s=d80251b1364ac67198bc9ed642e849d1)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ There is an increasing demand from women beer drinkers. Our new Renegade craft b
 
 Our core market in the South East and London accounts for 29% of all UK on-trade beer sales. We believe that WBB is well placed geographically to make the most of this opportunity, with London accounting for 20% of all beer sales, and our focus here will be vital in the growth of the business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7593/axwlptlmd4oy1nbr0tdkhvg2k8glszy/CAD_2.png?rect=0%2C0%2C684%2C526&w=600&fit=clip&s=46a024d6c87a178fa09faea464eb6cc8)
+![](/img/seedrs/uploads/startup/section_image/image/7593/axwlptlmd4oy1nbr0tdkhvg2k8glszy/CAD_2.png?rect=0%2C0%2C684%2C526&w=600&fit=clip&s=46a024d6c87a178fa09faea464eb6cc8)
 
 ### Marketing strategy
 

@@ -81,7 +81,7 @@ Our identified target market is as follows:
 
 • Health conscious families with children: We believe health benefits and the lack of sugars make PW ice creams an great food for children. <br>• Weight loss diets: PW is suitable for mainstream diet plans that have a combined base of millions of dieters. <br>• Sports and fitness enthusiasts: We have been contacted and promoted by Instagram influencers ranging from professional body builders to gym fanatics due to the macronutrient profile of PW products. <br>• Diabetics. <br>• Vegans and Flexitarians. <br>• Consumers with food allergies: Celiacs and those with wheat, egg allergies, dairy, lactose intolerance and soya allergies. <br>• Over 65s: Sweet desserts with no added sugars and health benefits <br>• Health oriented diets: Our products have a low available carbohydrates, suiting the Atkins and Ketogenic diets.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13961/9nw0vf0w5oevyekihturpdquyhef69n/PWICC_Table_2.png?rect=0%2C0%2C3750%2C1418&w=600&fit=clip&s=b71583fda357909703fe2cf366652dfe)
+![](/img/seedrs/uploads/startup/section_image/image/13961/9nw0vf0w5oevyekihturpdquyhef69n/PWICC_Table_2.png?rect=0%2C0%2C3750%2C1418&w=600&fit=clip&s=b71583fda357909703fe2cf366652dfe)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ Storm PR agency to help spread it to the trade, influencers and consumers via: <
 
 New planned focus on the highly engaged and motivated vegan community who have been very vocal about their desire for us to go vegan over the past few years. Focus on influencers, social media chatrooms, and building word of mouth.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13939/mi97o5mu7imkvaqxia9yxuta3ef0pnt/FB_page_close-up.png?rect=0%2C-1%2C3226%2C2294&w=600&fit=clip&s=d9ef50b9518db3ef333849f57aaaec47)
+![](/img/seedrs/uploads/startup/section_image/image/13939/mi97o5mu7imkvaqxia9yxuta3ef0pnt/FB_page_close-up.png?rect=0%2C-1%2C3226%2C2294&w=600&fit=clip&s=d9ef50b9518db3ef333849f57aaaec47)
 
 ### Competition strategy
 

@@ -73,7 +73,7 @@ In summary the capital would help to stabilise and shape the business for impend
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3552/7owkdpe6icwhdejd3bwktpve8l5mh8b/image005.jpg?rect=0%2C0%2C801%2C534&w=600&fit=clip&s=8488b66c59a62c00a3dd9a063ef944ff)
+![](/img/seedrs/uploads/startup/section_image/image/3552/7owkdpe6icwhdejd3bwktpve8l5mh8b/image005.jpg?rect=0%2C0%2C801%2C534&w=600&fit=clip&s=8488b66c59a62c00a3dd9a063ef944ff)
 
 ### Target market
 
@@ -81,7 +81,7 @@ The Hokkei customer target market is diverse. Indicated by market research and e
 
 • Students <br>- The everyday student in need of tasty, vibrant and ultimately ‘cool’ fast food. Playing on the PR element and the perceived pop-culture students would be an everyday lifeblood for the Hokkei lunchtime and evening trade. <br>• Families <br>- An existing market, the family Friday or Saturday night takeaway is a British staple. The cost effective ordering offering of Hokkei is designed to enable families to enjoy the products and concept without paying over the odds. <br>• Young Professionals <br>- A growing market in a world of increasingly fast-paced living, the young professional seems an on-trend market which has an increasing demand for a fresh and clean alternative and better tasting product to the traditionally available takeaway. <br>• Single people <br>- An individual eating experience, the Hokkei ‘box’ is designed specifically for the single user eating experience. A collection of favourites packaged intelligently into a single box, it is designed to allow the individual to receive a combination of flavours at a fraction of the cost of ordering a Chinese takeaway in the traditional way. <br>• Couples <br>- One large markets for the takeaway sector, couples are consistently a repeat customer when looking to order a meal for 2 at home when time is of the essence and an easier option to cooking Is the order of the day. <br>The Hokkei target market is intently mass as opposed to niche, Hokkei features the brand, product and service to supply a diverse mass market as opposed to a niche model.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3542/nuy73wryx6x02jm5hve5lg9nnpy4xfo/image006.jpg?rect=0%2C0%2C798%2C534&w=600&fit=clip&s=b6961f11d45ea27f2e5e86927ec2f651)
+![](/img/seedrs/uploads/startup/section_image/image/3542/nuy73wryx6x02jm5hve5lg9nnpy4xfo/image006.jpg?rect=0%2C0%2C798%2C534&w=600&fit=clip&s=b6961f11d45ea27f2e5e86927ec2f651)
 
 ### Characteristics of target market
 
@@ -91,7 +91,7 @@ In addition recent research suggests that students are stretching their tight bu
 
 Nations favorite takeaways: <br>1. Chinese 25% <br>2. Indian 23% <br>3. Fish &amp; Chips 22%
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3551/h0i3bwgx2hjmsxfsxp4hmw23ussgtxn/IMG_5603.jpg?rect=0%2C0%2C3488%2C3266&w=600&fit=clip&s=ba815d41b6ec175f46c392c79ee84b19)
+![](/img/seedrs/uploads/startup/section_image/image/3551/h0i3bwgx2hjmsxfsxp4hmw23ussgtxn/IMG_5603.jpg?rect=0%2C0%2C3488%2C3266&w=600&fit=clip&s=ba815d41b6ec175f46c392c79ee84b19)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Print Distribution <br>Supplying an intriguing printed menu on a postcode delive
 
 Social Presence <br>With an existing social combined following of 15,000, Larkin and Dale have a wide audience available at the click of a free social media tool in Twitter.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3547/rzu0ouguaikzaq06rwe0h7t6wjihxw/DL.jpg?rect=0%2C0%2C688%2C977&w=600&fit=clip&s=f10c04cd6a785ae1b9f562d2338932ad)
+![](/img/seedrs/uploads/startup/section_image/image/3547/rzu0ouguaikzaq06rwe0h7t6wjihxw/DL.jpg?rect=0%2C0%2C688%2C977&w=600&fit=clip&s=f10c04cd6a785ae1b9f562d2338932ad)
 
 ### Competition strategy
 
@@ -121,5 +121,5 @@ The competition that Hokkei has to consider is two-fold, both direct and in-dire
 
 We believe that Hokkei will succeed against competition due to a unique offering, a healthy product, responsibly sourced ingredients and centralised production facilities ensuring product consistency across sites.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3553/737zpbn5z2628idcgriw6cr2hevwybp/image004.jpg?rect=0%2C0%2C801%2C534&w=600&fit=clip&s=e770d41bd03121cff24bdbb819105d8f)
+![](/img/seedrs/uploads/startup/section_image/image/3553/737zpbn5z2628idcgriw6cr2hevwybp/image004.jpg?rect=0%2C0%2C801%2C534&w=600&fit=clip&s=e770d41bd03121cff24bdbb819105d8f)
 

@@ -79,7 +79,7 @@ The largest conurbations of contact centre exist in Wales, the South West of Eng
 
 We will target all vertical sectors, with a sharp focus particularly on the utilities sector and aim to work with heads of customer experience, contact centres and customer service professionals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13295/jwl1dmdeco16x1a5506lu9gysym2k5m/DATA_SCREEN_2.png?rect=0%2C0%2C1762%2C980&w=600&fit=clip&s=4a2325c6917db68e1c49e8e9f87b9bb1)
+![](/img/seedrs/uploads/startup/section_image/image/13295/jwl1dmdeco16x1a5506lu9gysym2k5m/DATA_SCREEN_2.png?rect=0%2C0%2C1762%2C980&w=600&fit=clip&s=4a2325c6917db68e1c49e8e9f87b9bb1)
 
 ### Characteristics of target market
 
@@ -91,7 +91,7 @@ During our proof of concept phase we have already deployed IntelAgent, and have 
 
 Gartner predict that 85% of our target market will have invested in chatbot and AI technol-ogies by 2020. Juniper Research finds chatbots and AI will redefine the customer service industry, and forecasts cost savings of over $8 billion per annum by 2022.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13296/dh1fi0eph7lk75naw67qdx6yn90ohx3/RESEARCH.png?rect=0%2C0%2C1356%2C1147&w=600&fit=clip&s=ec0f2130f6d93c55143599b478cecc39)
+![](/img/seedrs/uploads/startup/section_image/image/13296/dh1fi0eph7lk75naw67qdx6yn90ohx3/RESEARCH.png?rect=0%2C0%2C1356%2C1147&w=600&fit=clip&s=ec0f2130f6d93c55143599b478cecc39)
 
 ### Marketing strategy
 

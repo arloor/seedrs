@@ -123,7 +123,7 @@ Individual Stock Market Investors need to know who to trust, who to follow, who 
 
 Banks, Financial Media Businesses, and Online Stock Brokers want more readers, members, clients and trades. Stockomendation connects them to their target investor audience acting as a new distribution and marketing resource. <br> <br>Data outputs and platform content could be licensed in full, part, or white-labelled, with the aim of stimulating traffic and trading activity on their own platforms.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15972/l7xre1xhkocj3atkpv8zmsqwbwun3ma/Picture1.png?rect=0%2C60%2C1057%2C587&w=600&fit=clip&s=ea1776df90ab6986b9a866ac44737c4c)
+![](/img/seedrs/uploads/startup/section_image/image/15972/l7xre1xhkocj3atkpv8zmsqwbwun3ma/Picture1.png?rect=0%2C60%2C1057%2C587&w=600&fit=clip&s=ea1776df90ab6986b9a866ac44737c4c)
 
 ### Characteristics of target market
 
@@ -151,7 +151,7 @@ Banks, Online Stockbrokers and Financial Data/Media businesses are typically tar
 
 Stockomendation has already signed and deployed an international distribution deal for its service giving access to the relevant clients of a Financial Markets Data and Technology Provider that counts the world's largest banks and brokers as its own clients, covering millions of individual investors worldwide.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15974/jel4b5sv0ek7ctasiz3p08i95kzxaj/Picture1.png?rect=0%2C0%2C1060%2C643&w=600&fit=clip&s=79513969bb40776a5d62004dd09aa816)
+![](/img/seedrs/uploads/startup/section_image/image/15974/jel4b5sv0ek7ctasiz3p08i95kzxaj/Picture1.png?rect=0%2C0%2C1060%2C643&w=600&fit=clip&s=79513969bb40776a5d62004dd09aa816)
 
 ### Competition strategy
 

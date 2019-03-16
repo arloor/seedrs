@@ -71,7 +71,7 @@ Please note that the Company has granted a total of 9,000 shares to an advisor, 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14256/hs69mwlb6soi4riyleqtetenm9hm9vm/image008.png?rect=0%2C0%2C546%2C296&w=600&fit=clip&s=9f5013fdba17adcf898069af0829d7a0)
+![](/img/seedrs/uploads/startup/section_image/image/14256/hs69mwlb6soi4riyleqtetenm9hm9vm/image008.png?rect=0%2C0%2C546%2C296&w=600&fit=clip&s=9f5013fdba17adcf898069af0829d7a0)
 
 ### Target market
 

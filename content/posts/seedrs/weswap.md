@@ -103,7 +103,7 @@ In addition to the crowdfunding raise, WeSwap may seek additional external inves
 
 Our current focus is on holiday travellers, who represent the most significant proportion of the travel money market. Within this, we have proved successful at attracting travellers from a variety of segments and we plan to continue to target this market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10094/g28y27chd0dgnpkygfjn4j03wl5vkc0/Our_customers.png?rect=26%2C11%2C1953%2C1117&w=600&fit=clip&s=8e8b1c96c3da9bbe9f4158e608673bcd)
+![](/img/seedrs/uploads/startup/section_image/image/10094/g28y27chd0dgnpkygfjn4j03wl5vkc0/Our_customers.png?rect=26%2C11%2C1953%2C1117&w=600&fit=clip&s=8e8b1c96c3da9bbe9f4158e608673bcd)
 
 The majority of our travellers (50-60%) are older millennials (28-35 year olds), but we also have a significant proportion of families taking a few big trips a year, older empty nesters and 18 year olds travelling with friends. All are fed up with unclear fees and rates and need a cheap and stress free way to spend abroad.
 
@@ -115,7 +115,7 @@ We’re also doing research into supporting students studying abroad, who often 
 
 Travellers exchange billions of dollars across the globe each year. In 2014, travel money spend globally was estimated to be in excess of £500bn.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10095/1lil5pam9384ammxqijwh0e427zpv1p/Market_size.png?rect=79%2C56%2C1500%2C975&w=600&fit=clip&s=0b2ebc228719d4fad8cffd3b46003e6e)
+![](/img/seedrs/uploads/startup/section_image/image/10095/1lil5pam9384ammxqijwh0e427zpv1p/Market_size.png?rect=79%2C56%2C1500%2C975&w=600&fit=clip&s=0b2ebc228719d4fad8cffd3b46003e6e)
 
 More often than not travellers will use a variety of methods to pay abroad – taking cash before a trip and supplementing it with credit and debit cards abroad. In the UK, a significant proportion of total travel cash is still exchanged in airports.
 
@@ -129,7 +129,7 @@ We believe the only way to change this in the long term is to disintermediate an
 
 This year we’ve made great progress signing up users across a variety of channels at what we consider to be low cost. We will continue to use cost effective digital, social, mobile channels in tandem with key travel partnerships and PR to drive customer acquisition in the UK. <br> <br>We have also signed distribution deals with key travel businesses which we expect will allow us to scale overseas quickly and efficiently. <br> <br>We plan to leverage these relationships and expand the reach of existing digital channels to expand internationally and capture further swap corridors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10096/imavz1b2c78udxbs7cqcrj6nu2e51id/14.png?rect=0%2C0%2C736%2C414&w=600&fit=clip&s=2b1c5fdcadad498f1ee67a742f24d037)
+![](/img/seedrs/uploads/startup/section_image/image/10096/imavz1b2c78udxbs7cqcrj6nu2e51id/14.png?rect=0%2C0%2C736%2C414&w=600&fit=clip&s=2b1c5fdcadad498f1ee67a742f24d037)
 
 ### Competition strategy
 
@@ -139,7 +139,7 @@ Consistent characteristics are: <br>High cost of doing business – they have bi
 
 While the above applies to the major banks and bureaux we are seeing some exciting digital money businesses emerge. Its critical that we stay ahead of these too. <br>
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10097/9r91vcepnk3q3mbcah4kmb12hdjrrll/what_do_customers_think.png?rect=0%2C0%2C1935%2C1096&w=600&fit=clip&s=2b49acb05a807391fc1cfa3197683189)
+![](/img/seedrs/uploads/startup/section_image/image/10097/9r91vcepnk3q3mbcah4kmb12hdjrrll/what_do_customers_think.png?rect=0%2C0%2C1935%2C1096&w=600&fit=clip&s=2b49acb05a807391fc1cfa3197683189)
 
 Our competitor strategy is as follows:
 
@@ -151,5 +151,5 @@ Growth – We intend to continue to grow rapidly through our digital travel part
 
 Technology – We build for scale. We don’t have legacy systems to maintain. We have built WeSwap from scratch with global scalability always at the front of our minds.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10098/bifkj87yzuo4bmb2a8zyw42ifgzmomi/Apps.png?rect=73%2C225%2C1853%2C613&w=600&fit=clip&s=67084d72d9fa7babde9f852ab3dc4311)
+![](/img/seedrs/uploads/startup/section_image/image/10098/bifkj87yzuo4bmb2a8zyw42ifgzmomi/Apps.png?rect=73%2C225%2C1853%2C613&w=600&fit=clip&s=67084d72d9fa7babde9f852ab3dc4311)
 

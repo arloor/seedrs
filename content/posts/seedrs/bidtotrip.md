@@ -71,7 +71,7 @@ Bidtotrip plans to invest the proceeds raised through Seedrs:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5645/ja3443rsaudielc3mmfg4db9u6xybr7/2.jpg?rect=0%2C0%2C1938%2C1273&w=600&fit=clip&s=edf50936ef5a08bd41344f265d1cd628)
+![](/img/seedrs/uploads/startup/section_image/image/5645/ja3443rsaudielc3mmfg4db9u6xybr7/2.jpg?rect=0%2C0%2C1938%2C1273&w=600&fit=clip&s=edf50936ef5a08bd41344f265d1cd628)
 
 ### Target market
 
@@ -81,13 +81,13 @@ Bidtotrip’s reference target is women between 25-45 years old with an annual i
 
 The travel industry in Europe counts a total addressable market with a turnover of more than £200 billion. STR Global estimates that there are 187,000 hotels (with more than 20 rooms) offering 17.5 million guest rooms around the globe. In Europe alone, 1 billion trips are sold every year and 6 million have a duration of 1 to 3 nights. Concurrently, more than 1 million rooms remain unsold every day in hotels across Europe. Bidtotrip aims to fill this large amount of empty rooms. With regards to travel e-commerce trends, almost half of total travel sales in Europe are generated online, covering 26% of total e-commerce revenue, and positioning as the main online industry.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5656/o8gm54teoirnfdd5p083sk8wfubpo6v/5.jpg?rect=0%2C0%2C1932%2C1273&w=600&fit=clip&s=48ad28aaea02cf0db986cac219009704)
+![](/img/seedrs/uploads/startup/section_image/image/5656/o8gm54teoirnfdd5p083sk8wfubpo6v/5.jpg?rect=0%2C0%2C1932%2C1273&w=600&fit=clip&s=48ad28aaea02cf0db986cac219009704)
 
 ### Marketing strategy
 
 Moreover, the innovation of auctions in the luxury travel industry and the offer of auctions with a starting price of £1 make us able to count on a generation of a big WOW effect. We think the best way to reach the market is the combination of DEM, social media marketing, AdWords marketing and guerrilla marketing. So the best way to reach the market is to invest in social networks and to build solid strategic partnerships in order to increase engagement and interest around this new travel solution. The creation of viral content is another option to pursue, increasing spreading also by the activation of strong guerrilla actions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5646/482sr3arrvubxmr624upixujl178n9r/cover.jpg?rect=9%2C0%2C1445%2C833&w=600&fit=clip&s=894e4bb97105b074af839f3a5be9880a)
+![](/img/seedrs/uploads/startup/section_image/image/5646/482sr3arrvubxmr624upixujl178n9r/cover.jpg?rect=9%2C0%2C1445%2C833&w=600&fit=clip&s=894e4bb97105b074af839f3a5be9880a)
 
 ### Competition strategy
 

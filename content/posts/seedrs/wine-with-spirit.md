@@ -91,7 +91,7 @@ As to Affiliate Marketing:
 
 - Increasingly more people search for an extra source of income, more autonomy &amp; greater work-life balance, being their own boss. <br>- 150K people sign up as affiliates WW weekly. <br>- WW sales approach $90BN. <br>- WW leaders are U.S. &amp; Japan ($20 to $30BN range) w/Europe steadily growing. - <br>- 66% of affiliates are between 25 and 44; 14% are in the 45-54 bracket; Seniors &gt; 65 are 5%.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10153/69vo52xxvtpco9os8e5ami5hh1uj53j/target_market.jpg?rect=0%2C0%2C527%2C1200&w=600&fit=clip&s=671edb9dac0d6854201d542353386555)
+![](/img/seedrs/uploads/startup/section_image/image/10153/69vo52xxvtpco9os8e5ami5hh1uj53j/target_market.jpg?rect=0%2C0%2C527%2C1200&w=600&fit=clip&s=671edb9dac0d6854201d542353386555)
 
 ### Marketing strategy
 
@@ -121,5 +121,5 @@ Being a Winetech, we have an offer and a business model which is unique and has 
 
 - Whereas traditional wine producers operate on the traditional distribution circuit, having an overwhelming and undifferentiated competition that adds stress to the consumer choice and erodes margins and control on their brands positioning, WWS uses its proprietary digital distribution platform, laying on an intelligent CRM responsive algorithm, to build its own affiliate distribution network and having a consistent alternative to the traditional circuit, avoiding lack of differentiation on the shelf, controlling brand communication, changing the business profitability structure and increasing margins.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10156/rlzoiit03pcamitudj2ijxxkxiinjt0/competition_strategy.jpg?rect=0%2C0%2C1280%2C686&w=600&fit=clip&s=617a03b237c53678b934bd3fc597bc3f)
+![](/img/seedrs/uploads/startup/section_image/image/10156/rlzoiit03pcamitudj2ijxxkxiinjt0/competition_strategy.jpg?rect=0%2C0%2C1280%2C686&w=600&fit=clip&s=617a03b237c53678b934bd3fc597bc3f)
 

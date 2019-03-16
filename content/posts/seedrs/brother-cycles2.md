@@ -81,7 +81,7 @@ Over the years we've developed a deep understanding of our target market, what t
 
 Historically our typical customer has been been: <br>- The Urban Cyclist. <br>- 88% male. <br>- Aged 25-34. <br>- They are health, lifestyle and image conscious. <br>- The bicycle is used as a form of transport.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15809/sryy1sy000lc25fsk19lv7ghdnswjvx/7__1_.jpg?rect=0%2C0%2C2000%2C1324&w=600&fit=clip&s=fbdf4c5fe32aa8fd98355d408a4f12cd)
+![](/img/seedrs/uploads/startup/section_image/image/15809/sryy1sy000lc25fsk19lv7ghdnswjvx/7__1_.jpg?rect=0%2C0%2C2000%2C1324&w=600&fit=clip&s=fbdf4c5fe32aa8fd98355d408a4f12cd)
 
 However, as our product range widens, so does our appeal. As such we've seen our customer base expand to now include a broader age range (18 - 44), a more even gender split and an appeal to those living outside major cities with an interest in the outdoors and adventure - their weekends and holidays will often be spent on their bike.
 
@@ -91,7 +91,7 @@ The above trend with our customers is mirrored by the retailers we now work with
 
 The global bicycle market is set to expand by 38% in the next 6 years - to a total of $62 Billion - as consumers make a shift towards healthier lifestyles and have a growing awareness of global warming and the exhaustion of fossil fuels.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15810/iawip2spfk6otzisrxul38gfuywhlnd/8__1_.jpg?rect=0%2C0%2C2000%2C2000&w=600&fit=clip&s=b8d12c4b2b6e4fddefaf245b832ebfa1)
+![](/img/seedrs/uploads/startup/section_image/image/15810/iawip2spfk6otzisrxul38gfuywhlnd/8__1_.jpg?rect=0%2C0%2C2000%2C2000&w=600&fit=clip&s=b8d12c4b2b6e4fddefaf245b832ebfa1)
 
 We mostly operate within the EU - with the UK and Germany being our largest markets. According to a Mintel market report the UK bicycle market is worth an approximate £1.5 billion - £800 million of which is 'New Bike Sales.'
 
@@ -105,7 +105,7 @@ We've already achieved an impressive level of brand awareness and will aim to bu
 
 Traditional marketing methods: <br>- Industry press product reviews - Singletrack, BikeRumor etc. <br>- Displaying at trade shows in the UK and Europe. <br>- Sponsoring events - most recently '13 Hills' in Sweden. <br>- Collaborations &amp; cross promotion - most recently Restrap and Pannier.cc. <br>- Rider ambassador programme - a big focus for 2019.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15811/pf7kf56i0j9v16ujl43btda96a9n5o/9__1_.jpg?rect=0%2C0%2C1068%2C587&w=600&fit=clip&s=cbc75b9da34d488a70049d3c53dacf99)
+![](/img/seedrs/uploads/startup/section_image/image/15811/pf7kf56i0j9v16ujl43btda96a9n5o/9__1_.jpg?rect=0%2C0%2C1068%2C587&w=600&fit=clip&s=cbc75b9da34d488a70049d3c53dacf99)
 
 New Marketing Methods:
 
@@ -115,7 +115,7 @@ Paid channels: <br>- Google ads. <br>- Facebook/Instagram promotions.
 
 Most importantly our many happy customers now do the talking for us, each one an invaluable brand ambassador, #brothercycles on Instagram is a perfect example of this...
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15812/sgx3e3jf8hefke14ps98qk29y50iml7/10__1_.jpg?rect=0%2C0%2C2000%2C2000&w=600&fit=clip&s=ee8f13b3394419d17df6694b53c10038)
+![](/img/seedrs/uploads/startup/section_image/image/15812/sgx3e3jf8hefke14ps98qk29y50iml7/10__1_.jpg?rect=0%2C0%2C2000%2C2000&w=600&fit=clip&s=ee8f13b3394419d17df6694b53c10038)
 
 ### Competition strategy
 
@@ -127,7 +127,7 @@ So, why do we think so many customers have chosen Brother Cycles thus far?
 
 We won't lose sight of the above as it's what's given us our competitive advantage. However, now we need to look at the times where a customer may not have chosen Brother.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15813/dx0vvufuqwqumvb5wwoc9t1w0nyclb6/11__1_.jpg?rect=0%2C0%2C3736%2C2481&w=600&fit=clip&s=9fcbc49f9f4473d0716de599599384f4)
+![](/img/seedrs/uploads/startup/section_image/image/15813/dx0vvufuqwqumvb5wwoc9t1w0nyclb6/11__1_.jpg?rect=0%2C0%2C3736%2C2481&w=600&fit=clip&s=9fcbc49f9f4473d0716de599599384f4)
 
 Our close working relationship with our retailers gives us invaluable insight into this and allows us to directly address it.
 
@@ -135,5 +135,5 @@ Key feedback so far has been: <br>- Expand the range to include more premium pro
 
 2019 will see us address these opportunities to improve our appeal and get even more customers on a Brother bike.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15814/g1vr15b35u703heyt5o33b17ik7x8ru/12__1_.jpg?rect=0%2C0%2C2304%2C1536&w=600&fit=clip&s=73dea7e4b877dc0ad0c1187796be9390)
+![](/img/seedrs/uploads/startup/section_image/image/15814/g1vr15b35u703heyt5o33b17ik7x8ru/12__1_.jpg?rect=0%2C0%2C2304%2C1536&w=600&fit=clip&s=73dea7e4b877dc0ad0c1187796be9390)
 

@@ -69,7 +69,7 @@ The Orca product is live, but further development is required to progress into a
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15601/t99ykeybuk03i4vgr7y0iqprck93xnk/4.png?rect=0%2C0%2C975%2C466&w=600&fit=clip&s=70757c99eb576754fce6cee537253460)
+![](/img/seedrs/uploads/startup/section_image/image/15601/t99ykeybuk03i4vgr7y0iqprck93xnk/4.png?rect=0%2C0%2C975%2C466&w=600&fit=clip&s=70757c99eb576754fce6cee537253460)
 
 ### Target market
 
@@ -105,7 +105,7 @@ MARKETING OVERALL.
 
 As an aggregator of the P2P market, we publish data and research on the market regularly. This has captured an audience of retail investors organically and we expect to scale this post fund raise.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15602/9058k3p7d4e0tiqjamfx2wzy0nu7p5z/5.png?rect=0%2C0%2C770%2C432&w=600&fit=clip&s=6c489a122098e2b02a020fcef4fd3d51)
+![](/img/seedrs/uploads/startup/section_image/image/15602/9058k3p7d4e0tiqjamfx2wzy0nu7p5z/5.png?rect=0%2C0%2C770%2C432&w=600&fit=clip&s=6c489a122098e2b02a020fcef4fd3d51)
 
 BRAND.
 

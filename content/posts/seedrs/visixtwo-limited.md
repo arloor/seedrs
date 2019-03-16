@@ -75,7 +75,7 @@ Seedrs’ fee
 
 The end-user and potential audience for our paid digital stickers is a typical messaging app and smartphone user. They are under 44 years of age, with the majority being 16-35. While the purchases of smartphones are marginally biased towards men, we expect the volume of communication to be higher amongst female users and therefore we bias the visual design of products. <br> <br>From figures published by LINE, we have established that their 2013 paid digital sticker sales were US$120m annually. Of a total user base of 200m during that time period, this equates to a potential US$0.60 per user in digital sticker revenue. Forbes has estimated that there are c2.5bn global messaging app users in 2014, excluding dating or social discovery applications. If the LINE revenues per user figures are extrapolated across the entire user base, this equates to potential annual sticker download revenues of c.US$1.5bn. Visixtwo intends to be at the forefront of providing products that capture a share of this growing market. <br> <br>After an initial period of developing our product offering and brand, we intend to focus on taking our product to businesses. Our target market will be those companies seeking to connect with their customer base through innovative, yet discreet, online advertising.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2871/n4dplrbuesyclya6f08qm7t1o0yb98d/Infographic_page_6.png?w=600&fit=clip&s=3b5ca687d0ff6c43237137adfe6bff80)
+![](/img/seedrs/uploads/startup/section_image/image/2871/n4dplrbuesyclya6f08qm7t1o0yb98d/Infographic_page_6.png?w=600&fit=clip&s=3b5ca687d0ff6c43237137adfe6bff80)
 
 ### Characteristics of target market
 

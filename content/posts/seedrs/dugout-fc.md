@@ -77,7 +77,7 @@ Dugout FC is for football fans first and foremost, we've intended to create a ga
 
 Our target is not gamblers. We are not a daily fantasy sports business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8363/cmvaq0nkrjztajif2vufc1dxhr7j95p/chat.png?rect=0%2C204%2C1200%2C772&w=600&fit=clip&s=c58d8ab2e8fce566dfb1a5462a246529)
+![](/img/seedrs/uploads/startup/section_image/image/8363/cmvaq0nkrjztajif2vufc1dxhr7j95p/chat.png?rect=0%2C204%2C1200%2C772&w=600&fit=clip&s=c58d8ab2e8fce566dfb1a5462a246529)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ Regulated betting Gross Gambling Yield (GGY) forecast to reach $70B in 2016.
 
 According to the head of a sports integrity watchdog, as much as one billion euros is gambled globally on every English Premier League game.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8364/rcehi6teddmzzrzsljsyz0ms7ratbti/draft-ui.jpg?rect=0%2C0%2C1920%2C1075&w=600&fit=clip&s=7de53b5b4f3be6f7b831a19e04ff049f)
+![](/img/seedrs/uploads/startup/section_image/image/8364/rcehi6teddmzzrzsljsyz0ms7ratbti/draft-ui.jpg?rect=0%2C0%2C1920%2C1075&w=600&fit=clip&s=7de53b5b4f3be6f7b831a19e04ff049f)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ To ensure we make the most of the summer football, we're working with Teamtalk M
 
 Existing Dugout FC users will simply update the app and be able to login and play the games. New users will be signed up, leveraging the focus on international football, with a view to converting those users into Dugout FC fantasy football managers in the new EPL season.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8366/p7adoif5ai8st0stixbr3qem6g43alw/transfers.png?rect=0%2C216%2C1200%2C760&w=600&fit=clip&s=a7e83f0fb21285afbf17d16c6cd5f36b)
+![](/img/seedrs/uploads/startup/section_image/image/8366/p7adoif5ai8st0stixbr3qem6g43alw/transfers.png?rect=0%2C216%2C1200%2C760&w=600&fit=clip&s=a7e83f0fb21285afbf17d16c6cd5f36b)
 
 ### Competition strategy
 
@@ -115,7 +115,7 @@ You can see from our week on week user retention that many of our users are back
 
 Dugout FC intends to launch a digital currency and store allowing users to completely customise their experience, something that we believe none of our competitors do. Users can now customise their whole club by earning or purchasing 'Dugs' from the Dugout store and use their hard earned currency to upgrade their stadiums, pitches, kits and we intend to keep adding to the store.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8367/bowim06ppcmrsirv72lhphl0z8qczje/dugout-store-modal.png?rect=0%2C0%2C1920%2C1186&w=600&fit=clip&s=dd6432de1e29e3550475022d5a932202)
+![](/img/seedrs/uploads/startup/section_image/image/8367/bowim06ppcmrsirv72lhphl0z8qczje/dugout-store-modal.png?rect=0%2C0%2C1920%2C1186&w=600&fit=clip&s=dd6432de1e29e3550475022d5a932202)
 
 We believe that the DFS platforms are tailored for gamblers and not for football fans. We've flipped that on its head and created a product that we believe is first and foremost an amazing, fun and engaging experience for football fans and fantasy football fans. We believe that our model however is infinitely better suited to the cash game market with the diversity in teams and scoring system, so we intend to build out our cash game offering for all those users wishing to enhance their Dugout FC experience even further.
 

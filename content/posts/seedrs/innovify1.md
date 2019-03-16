@@ -73,7 +73,7 @@ Finally, Innovify will be building up its business development in the corporate 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4882/32nq4gs67ay9s8hh4mz5ghwyedckobr/ideate.png?rect=0%2C230%2C1500%2C730&w=600&fit=clip&s=1810493fb684a5a66c55842a4c02b405)
+![](/img/seedrs/uploads/startup/section_image/image/4882/32nq4gs67ay9s8hh4mz5ghwyedckobr/ideate.png?rect=0%2C230%2C1500%2C730&w=600&fit=clip&s=1810493fb684a5a66c55842a4c02b405)
 
 ### Target market
 
@@ -85,7 +85,7 @@ What we are looking for: <br>Founder Market Expertise <br>- We are looking for f
 
 Corporate Market: <br>Innovation forward SMEs that are looking for value for money prototyping and product development without the risks associated with outsourcing. <br>Below is the Profile of our typical Corporate client: <br>–Approximately 15-150 in-house developers <br>–Products in market with paying customers with narrow margins <br>–Slow pace of technology innovation and quickly changing competitive environment <br>–Identified new opportunities and management buy-in to pursue Greenfield solutions
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4883/cdajojwzdessta6gdzw2ngk3sk8caxx/incubate.png?rect=0%2C245%2C1500%2C690&w=600&fit=clip&s=1e215b82515ebe11b0285d40418a26d2)
+![](/img/seedrs/uploads/startup/section_image/image/4883/cdajojwzdessta6gdzw2ngk3sk8caxx/incubate.png?rect=0%2C245%2C1500%2C690&w=600&fit=clip&s=1e215b82515ebe11b0285d40418a26d2)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ Initial Market Gap: Despite an 80% rise in jobs for startups in Tech City over l
 
 We also know that investment is on the rise for technology startups. <br>• Investment in Internet/Digital businesses by Angels and VC’s in the UK is up from 22% to 33% of all investment over the last 10 years (2013).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4884/7e735bcz24zl4myw697yhutvvyro8nh/accelerate__1_.png?rect=95%2C220%2C1295%2C705&w=600&fit=clip&s=61a243fe5ce4b8920457c622ebd5b5c6)
+![](/img/seedrs/uploads/startup/section_image/image/4884/7e735bcz24zl4myw697yhutvvyro8nh/accelerate__1_.png?rect=95%2C220%2C1295%2C705&w=600&fit=clip&s=61a243fe5ce4b8920457c622ebd5b5c6)
 
 ### Marketing strategy
 
@@ -107,11 +107,11 @@ Corporate sales referrals through our network of clients and mentors have been a
 
 ### Competition strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4885/eopj837s8pbmy25jcj60c2bx78vi7ju/competition.png?rect=0%2C0%2C1500%2C1130&w=600&fit=clip&s=98261786b8f2dbf1ca868ccc16babb51)
+![](/img/seedrs/uploads/startup/section_image/image/4885/eopj837s8pbmy25jcj60c2bx78vi7ju/competition.png?rect=0%2C0%2C1500%2C1130&w=600&fit=clip&s=98261786b8f2dbf1ca868ccc16babb51)
 
 Innovify offers a well balanced mix of technology, process, funding and founding principles to dwarf the competition as follows:
 
 • One stop location for technology skills, non-tech services, frameworks and processes, offering all elements of multichannel product development in one location. <br>• Innovify's hybrid delivery model offers not only the management and control like in-house team but also seeks the cost advantage of offshore team <br>• Perhaps, the biggest advantage is the Innovify way of working as a co-founder and be overall responsible for the product and technology strategy <br>• A well experienced founding team covering the entire start-up life-cycle to include product management, technology creation, start-up growth, equity investment and IPO <br>• A cross proliferation of start-up ecosystems in both developed economy like UK and emerging economy like India <br>• All these are done in the most flexible way so as to not strangle the start-up but to accelerate them to success
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4886/3uci3kjqzmi3093p7c6g1hsext6pg5v/competition_2.png?rect=0%2C0%2C1314%2C886&w=600&fit=clip&s=f8ecce4085cb49109d3d299958dc06a3)
+![](/img/seedrs/uploads/startup/section_image/image/4886/3uci3kjqzmi3093p7c6g1hsext6pg5v/competition_2.png?rect=0%2C0%2C1314%2C886&w=600&fit=clip&s=f8ecce4085cb49109d3d299958dc06a3)
 

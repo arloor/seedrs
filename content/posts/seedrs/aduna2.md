@@ -97,7 +97,7 @@ In order to seed our brand and superfood ingredients, we initially focused on a 
 
 This has given us the platform we need to expand our target market, through new, more mainstream distribution channels and products – namely the new bar and tea range we are about to launch.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15053/aaob8k2eqi1q6dv1g4kbmtj2rmmkhzs/Untitled8.png?rect=0%2C-4%2C938%2C597&w=600&fit=clip&s=2cb31034710a4e3171b2e21f0bc670d0)
+![](/img/seedrs/uploads/startup/section_image/image/15053/aaob8k2eqi1q6dv1g4kbmtj2rmmkhzs/Untitled8.png?rect=0%2C-4%2C938%2C597&w=600&fit=clip&s=2cb31034710a4e3171b2e21f0bc670d0)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Aduna operates within the $1tn+ global Health &amp; Wellness market, which is fo
 
 a) Superfood Powders <br>Superfoods fall within the €7.2bn (Europe) Dietary Supplement sub-segment. The sector is growing globally at a rate of 6% a year. <br> <br>b) Energy Bars <br>Healthy snacking is in high-growth. In the 5 years up to 2015, driven by the anti-sugar movement, the UK energy bar market tripled in size and is forecast to hit £206m by 2019, with CAGR of 15%.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15054/1fggjcya8dxqs932hrtf81yne6mttnl/Untitled9.png?rect=0%2C0%2C941%2C352&w=600&fit=clip&s=63205f58a53d148f5ec75c073a9a2975)
+![](/img/seedrs/uploads/startup/section_image/image/15054/1fggjcya8dxqs932hrtf81yne6mttnl/Untitled9.png?rect=0%2C0%2C941%2C352&w=600&fit=clip&s=63205f58a53d148f5ec75c073a9a2975)
 
 c) Teas <br>Tea is the only sector of the hot beverages market in growth in 2017, with sales having surged 3.5% to £642m in the past year [Kantar Worldpanel, May 2017]. With black tea suffering a long-term decline, this growth has been mainly driven by the continued surge of herbal teas (46% up from 2012 to 2017) and green teas (113% up from 2012 to 2017)
 
@@ -115,11 +115,11 @@ Aduna focuses on a few key areas to drive rate of sale, fuel category growth and
 
 • Retail Marketing <br>Driving brand engagement and rate of sale through POS, merchandising, promotions, sampling and events.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15055/352s9373co5uu1boaoe83epzz9rqmma/Untitled10.png?rect=0%2C0%2C938%2C579&w=600&fit=clip&s=54b0233533438972fd8e1716b405ede5)
+![](/img/seedrs/uploads/startup/section_image/image/15055/352s9373co5uu1boaoe83epzz9rqmma/Untitled10.png?rect=0%2C0%2C938%2C579&w=600&fit=clip&s=54b0233533438972fd8e1716b405ede5)
 
 • PR <br>Enrolling press, bloggers &amp; vloggers to spread the word, resulting in 1,000+ pieces of coverage to date
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15056/j3rgkrne4sq2g36lqtcvjl3x640em6f/Untitled11.png?rect=0%2C0%2C941%2C730&w=600&fit=clip&s=bcde45e4669cf22382a9d24e3f3b0beb)
+![](/img/seedrs/uploads/startup/section_image/image/15056/j3rgkrne4sq2g36lqtcvjl3x640em6f/Untitled11.png?rect=0%2C0%2C941%2C730&w=600&fit=clip&s=bcde45e4669cf22382a9d24e3f3b0beb)
 
 • Social Media <br> We have built a loyal following of 32k "Aduna Feel Good Tribers" on Instagram, Facebook, Twitter &amp; Pinterest
 

@@ -61,13 +61,13 @@ There are three main avenues of revenue for Good-Loop.
 
 At a broad level our customers are brands who have high quality video content and are looking for ways to deliver their content effectively to their target audience. Brands who want to cut through the noise and form a meaningful connection with their customers. This broad target breaks down into two more specific target groups. The first is big global advertisers or agencies, such as Unilever and MediaCom, who spend high volumes within the premium programmatic space and are concerned about the lack of viewability and quality in the impressions they buy. Especially since poor quality impressions can really damage a brand, a recent study found 51% of consumers thought less of a brand who used annoying auto-play video for example. The second segment Good-Loop focuses on is the long tail of awesome socially conscious SMEs, the likes of TOMS, Karma Cola or Brewgooder, who have limited ad budgets and want to do something genuinely positive with the money they spend.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12165/1l2eeq146xbeldkst8bhc3ttazc1lou/8x-higher-yeild__1_.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=7bebe34b64a281da639ff7406df05422)
+![](/img/seedrs/uploads/startup/section_image/image/12165/1l2eeq146xbeldkst8bhc3ttazc1lou/8x-higher-yeild__1_.png?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=7bebe34b64a281da639ff7406df05422)
 
 ### Characteristics of target market
 
 According to recent IAB global figures, brand managers and agency media buyers are spending on average, over $9 million annually on video advertising, representing a 67% increase from 2 years ago. Quality of the placement and effective audience targeting have been found to be the two most important selection criteria when deciding where to buy. Teads recently found that 47% of media buyers say finding video inventory is their biggest challenge.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12166/miycw9jgi74hp8ljf6l5p602mctf6mx/banner-illustration-ad-player__1_.jpg?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=97d1e6099d3089c4c85281dfa73b7ad2)
+![](/img/seedrs/uploads/startup/section_image/image/12166/miycw9jgi74hp8ljf6l5p602mctf6mx/banner-illustration-ad-player__1_.jpg?rect=0%2C0%2C900%2C600&w=600&fit=clip&s=97d1e6099d3089c4c85281dfa73b7ad2)
 
 ### Marketing strategy
 

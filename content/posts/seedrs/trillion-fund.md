@@ -97,7 +97,7 @@ The addressable UK market is:
 
 * Described as 'financial orphans' and the 'disenfranchised', these 5.5m customers are lenders and investors who either can't afford financial advice, prefer to DIY, or are interested in alternative investments that IFAs and bank advisers lack the willingness or financial incentive to recommend.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2426/jb5oimpqd3n9wk4v3jsmsleb407hpfg/Target_market.png?w=600&fit=clip&s=3cb49b3a44b58b87151da6608af3be04)
+![](/img/seedrs/uploads/startup/section_image/image/2426/jb5oimpqd3n9wk4v3jsmsleb407hpfg/Target_market.png?w=600&fit=clip&s=3cb49b3a44b58b87151da6608af3be04)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ For one of our most recent projects, a £1.25m loan for E2energy, refinancing in
 
 Core to our marketing strategy is our ability to federate members, by which we mean raising money for businesses who have an established brand and customer or employee base that may also be co-funders. This also give us the opportunity to grow our membership in 'chunks' rather than organically.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2442/7i39oarao9h0ievbke91tm2hsfroou5/press_grid_for_seedrs.jpg?w=600&fit=clip&s=b1233f38ca09215e0fe9eb9f20c41c3f)
+![](/img/seedrs/uploads/startup/section_image/image/2442/7i39oarao9h0ievbke91tm2hsfroou5/press_grid_for_seedrs.jpg?w=600&fit=clip&s=b1233f38ca09215e0fe9eb9f20c41c3f)
 
 ### Competition strategy
 
@@ -137,5 +137,5 @@ Trillion also actively markets larger raises so saving PR and marketing costs fo
 
 Our membership base is growing faster than our competitors, as is our twitter following, and we have access to bigger and better quality deal flow because the team has a proven track record and relationships in the sector.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2462/qksz6sqbk1yqulytmk94btxahz98gg4/New_picture.jpg?w=600&fit=clip&s=e6f2ae396708432e3a4ddb89a309c08c)
+![](/img/seedrs/uploads/startup/section_image/image/2462/qksz6sqbk1yqulytmk94btxahz98gg4/New_picture.jpg?w=600&fit=clip&s=e6f2ae396708432e3a4ddb89a309c08c)
 

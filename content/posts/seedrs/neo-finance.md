@@ -81,7 +81,7 @@ Borrowers are Lithuanians only, as this is our home market and we have a know-ho
 
 We welcome lenders from all over EU. Our target group includes people who are already investing in real estate, stocks or other financial instruments and are looking to diversify their portfolio with good risk and return ratio product. They are usually high-income individuals holding mid-upper management positions or are high level specialists.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15792/ltszn7s34ztfat7g8nlf9gqshfdvrlh/6.Target_market.JPG?rect=0%2C0%2C984%2C677&w=600&fit=clip&s=24b180bf3e23525801e9e9c25b5cf9e0)
+![](/img/seedrs/uploads/startup/section_image/image/15792/ltszn7s34ztfat7g8nlf9gqshfdvrlh/6.Target_market.JPG?rect=0%2C0%2C984%2C677&w=600&fit=clip&s=24b180bf3e23525801e9e9c25b5cf9e0)
 
 ### Characteristics of target market
 
@@ -89,7 +89,7 @@ We've estimated the total unsecured consumer loan market size in Lithuania is ci
 
 We believe this creates a good opportunity not only for lenders to earn a decent return, but also for borrowers to refinance their current loans.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15798/t43n3tanzi6vc2zjpassy8vmc3qwtyb/8.Marketing_strategy.jpg?rect=0%2C0%2C1600%2C1200&w=600&fit=clip&s=1b81e57aa43d4f34c943b544e1f11c57)
+![](/img/seedrs/uploads/startup/section_image/image/15798/t43n3tanzi6vc2zjpassy8vmc3qwtyb/8.Marketing_strategy.jpg?rect=0%2C0%2C1600%2C1200&w=600&fit=clip&s=1b81e57aa43d4f34c943b544e1f11c57)
 
 ### Marketing strategy
 
@@ -101,7 +101,7 @@ Marketing strategy is set to attract two distinct groups of user: borrowers and 
 
 Our brand recall awareness reach, in less than two years from launch, is 33% (according to research done by RAIT research agency in October, 2017).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15799/ne5s2dl2u365x3t6quw7hqxsooz5cj8/neo.JPG?rect=0%2C4%2C511%2C486&w=600&fit=clip&s=b9a5123fb592e67d5748618fda988ab7)
+![](/img/seedrs/uploads/startup/section_image/image/15799/ne5s2dl2u365x3t6quw7hqxsooz5cj8/neo.JPG?rect=0%2C4%2C511%2C486&w=600&fit=clip&s=b9a5123fb592e67d5748618fda988ab7)
 
 ### Competition strategy
 
@@ -117,5 +117,5 @@ Team: Our dedicated team comprises senior experts from banking sector with a dee
 
 While we were the last player to enter Lithuania’s P2P market, these features enabled us to outgrow our competition and issue twice the amount on a monthly basis compared to other P2P players. According to a recent survey, 9 out of 10 borrowers would borrow from us again.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15800/jjsyclqy8rwtnoissy39dpaqkt3auob/a.png?rect=0%2C0%2C1200%2C736&w=600&fit=clip&s=254597480f8e6a659405a46069615ac8)
+![](/img/seedrs/uploads/startup/section_image/image/15800/jjsyclqy8rwtnoissy39dpaqkt3auob/a.png?rect=0%2C0%2C1200%2C736&w=600&fit=clip&s=254597480f8e6a659405a46069615ac8)
 

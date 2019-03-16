@@ -91,11 +91,11 @@ Enthusiasts: <br>Active multi-sport individuals who are very likely to participa
 
 Each will have a high level of interest in two or more of the following:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3461/7ek8nuijgco6phh30imhp7dibcbowv9/2_Above_Winter_Sports.jpg?w=600&fit=clip&s=98fe8c16baa6d1f295a48c3824b8c390)
+![](/img/seedrs/uploads/startup/section_image/image/3461/7ek8nuijgco6phh30imhp7dibcbowv9/2_Above_Winter_Sports.jpg?w=600&fit=clip&s=98fe8c16baa6d1f295a48c3824b8c390)
 
 Winter: <br>Climbing <br>Ice climbing <br>Mountaineering <br>Ski Mountaineering <br>Backcountry skiing &amp; snowboarding <br>Heli &amp; Cat Skiing &amp; Boarding
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3462/fmyodbbt34za7t57a2mxgct6vyt0t94/3_Above_summer_sports.jpg?w=600&fit=clip&s=6d1a432871574cb903fd3efeba690e49)
+![](/img/seedrs/uploads/startup/section_image/image/3462/fmyodbbt34za7t57a2mxgct6vyt0t94/3_Above_summer_sports.jpg?w=600&fit=clip&s=6d1a432871574cb903fd3efeba690e49)
 
 Summer: <br>Mountain Biking <br>Hiking/Trekking <br>Endurance Running <br>Parapenting <br>Climbing <br>Mountaineering
 
@@ -103,7 +103,7 @@ Phase 1 regions: High Alpine, multi season, multi sports resorts recognised for 
 
 A third audience would also be enabled to provide value added, paid content: <br>Insurance, sports equipment, accommodation &amp; transfer companies with an interest in the above demographic and an association to relevant sports.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3437/79vvzap46q8i5yuer16mk4ry5u4imll/1_By_Target_Market.jpg?rect=0%2C402%2C2448%2C2045&w=600&fit=clip&s=1ee538f3b4b28d551a90108d3d86b8c7)
+![](/img/seedrs/uploads/startup/section_image/image/3437/79vvzap46q8i5yuer16mk4ry5u4imll/1_By_Target_Market.jpg?rect=0%2C402%2C2448%2C2045&w=600&fit=clip&s=1ee538f3b4b28d551a90108d3d86b8c7)
 
 ### Characteristics of target market
 
@@ -125,7 +125,7 @@ Backcountry.com &gt;10M UVPA <br>(E-Tailer for adventure sports equipment)
 
 UVPA: Unique Visitors Per Annum as detailed on <a target="_blank" rel="nofollow" class="outside" href="http://www.siteworthtraffic.com">www.siteworthtraffic.com</a>
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3438/a3qelowq5vjm6onm0w2m1t69lrq8gom/4_Above_market_strategy.jpg?w=600&fit=clip&s=64abf320eeb111a440ed516632c64932)
+![](/img/seedrs/uploads/startup/section_image/image/3438/a3qelowq5vjm6onm0w2m1t69lrq8gom/4_Above_market_strategy.jpg?w=600&fit=clip&s=64abf320eeb111a440ed516632c64932)
 
 ### Marketing strategy
 
@@ -139,7 +139,7 @@ Professionals would be brought on through a free to use directory, which we have
 
 Sponsors &amp; Advertising would be targeted through advertising sales specialist agencies.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3439/8p0vjm4mtx39jmp6r9iy68s7rqscj4q/5_Above_Competition_.png?rect=26%2C0%2C861%2C599&w=600&fit=clip&s=bdf5446b91348bc602095d503ddcc357)
+![](/img/seedrs/uploads/startup/section_image/image/3439/8p0vjm4mtx39jmp6r9iy68s7rqscj4q/5_Above_Competition_.png?rect=26%2C0%2C861%2C599&w=600&fit=clip&s=bdf5446b91348bc602095d503ddcc357)
 
 ### Competition strategy
 

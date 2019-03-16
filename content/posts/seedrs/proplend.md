@@ -83,7 +83,7 @@ Investors: <br>Our target investors are both individual and institutional lookin
 
 Individual investors who are seeking: <br>1. attractive rates of risk adjusted fixed income with high levels of capital protection. <br>2. transparent investment choice either manual or via AutoLend. <br>3. the ability, where available, to invest in a tax efficient manner using a pension or ISA wrapper.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16259/qqlh6yftw1nz1phcym9mobj4ye3wymu/Market_2__1_.jpeg?rect=-3%2C0%2C2835%2C3965&w=600&fit=clip&s=285ed82026698c4b58fbb3bd6bda1c27)
+![](/img/seedrs/uploads/startup/section_image/image/16259/qqlh6yftw1nz1phcym9mobj4ye3wymu/Market_2__1_.jpeg?rect=-3%2C0%2C2835%2C3965&w=600&fit=clip&s=285ed82026698c4b58fbb3bd6bda1c27)
 
 Investors can invest in the Classic Account with upfront funds.
 
@@ -111,7 +111,7 @@ To support these introducers, we are looking to develop a team of regionally loc
 
 Proplend also has relationships with legal and accountancy firms.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16260/ervktkndq9113b2s5duqxsb23abkif1/Market_3__1_.jpeg?rect=0%2C0%2C2449%2C1633&w=600&fit=clip&s=17469c19a4b97d733dd648f100d9a3dd)
+![](/img/seedrs/uploads/startup/section_image/image/16260/ervktkndq9113b2s5duqxsb23abkif1/Market_3__1_.jpeg?rect=0%2C0%2C2449%2C1633&w=600&fit=clip&s=17469c19a4b97d733dd648f100d9a3dd)
 
 Investor acquisition: <br>We attract investors directly through online advertising. We are listed on financial aggregator sites such as money.co.uk and Off3r.com and have partnerships with P2P specific websites such as 4thway and Orca.
 
@@ -135,7 +135,7 @@ We are not chasing riskier property loans just to pay our lenders the highest re
 
 The majority of properties against which the loans are secured have existing income streams from third party tenants, this sustainable rental income is used to pay the lenders regular interest.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16258/gcu4hj882l8id9o8ptmwe7ls8783z3y/Market_-_Competition_Strategy__1_.png?rect=0%2C0%2C432%2C487&w=600&fit=clip&s=0442782a69ed0934f5a306e109a0bbf2)
+![](/img/seedrs/uploads/startup/section_image/image/16258/gcu4hj882l8id9o8ptmwe7ls8783z3y/Market_-_Competition_Strategy__1_.png?rect=0%2C0%2C432%2C487&w=600&fit=clip&s=0442782a69ed0934f5a306e109a0bbf2)
 
 Commercial property loans secured by a 1st legal charge, which is legally documented and registered at the Land Registry and Companies House, can provide greater security and by monitoring where we are in the property cycle, these loans should be able to weather any sector downturns.
 

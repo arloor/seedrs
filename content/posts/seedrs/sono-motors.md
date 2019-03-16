@@ -91,7 +91,7 @@ Form research conducted by the German Aerospace Centre (DLR), where over 3,000 i
 
 2. Of all commercial respondents two thirds were small and medium enterprises (SME), such as micro-logistic companies with less than 49 employees. From this we can infer that another important potential market are SME, such as taxi-businesses, delivery services, public administration etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12556/kpvkjw161meqpi03f9hwsxxqej76b37/Sion_side_back_view.jpg?rect=0%2C0%2C3456%2C2304&w=600&fit=clip&s=56f17958a446290c86c24228d8282057)
+![](/img/seedrs/uploads/startup/section_image/image/12556/kpvkjw161meqpi03f9hwsxxqej76b37/Sion_side_back_view.jpg?rect=0%2C0%2C3456%2C2304&w=600&fit=clip&s=56f17958a446290c86c24228d8282057)
 
 ### Characteristics of target market
 
@@ -103,7 +103,7 @@ The production of a car for right hand drive (RHD) comes with substantial added 
 
 By far the biggest market for electric vehicles is China. The growing middle class and stricter environmental requirements are causing the market to grow rapidly. In the long term, the Chinese market is of great importance to SONO.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12557/1gsdje7mwk8oi3zuqxsab5h4ytciztr/Screen_Shot_2017-08-16_at_11.24.47.png?rect=0%2C0%2C1424%2C946&w=600&fit=clip&s=5e5f1d726a0af92db061d8b176335a04)
+![](/img/seedrs/uploads/startup/section_image/image/12557/1gsdje7mwk8oi3zuqxsab5h4ytciztr/Screen_Shot_2017-08-16_at_11.24.47.png?rect=0%2C0%2C1424%2C946&w=600&fit=clip&s=5e5f1d726a0af92db061d8b176335a04)
 
 ### Marketing strategy
 
@@ -113,7 +113,7 @@ The most powerful incubator was the crowdfunding campaign launched in August 201
 
 This highly successful marketing strategy is still being pursued and expanded.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12558/bt1pifav9agh6ddd08o6gsh6mj851u8/Screen_Shot_2017-08-16_at_11.30.28.png?rect=0%2C0%2C1064%2C526&w=600&fit=clip&s=9a711b885b0e17a674ab49eebc180375)
+![](/img/seedrs/uploads/startup/section_image/image/12558/bt1pifav9agh6ddd08o6gsh6mj851u8/Screen_Shot_2017-08-16_at_11.30.28.png?rect=0%2C0%2C1064%2C526&w=600&fit=clip&s=9a711b885b0e17a674ab49eebc180375)
 
 ### Competition strategy
 

@@ -85,9 +85,9 @@ These hosts/property management companies have a portfolio of properties that ca
 
 Hosts can say goodbye to lost keys and subsequent lock replacements as Homeit enables instant access to the property, as well as a seamless check-in experience. These additional perks accompany the core values of freedom and peace of mind that Homeit can offer its hosts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12092/7hjzbgb8oyzf993po2iyany7gy7h3ik/Homeit_Seeders_Pitch_Visuals_08_300.png.png?rect=-2%2C0%2C2500%2C2501&w=600&fit=clip&s=5a43dc83fc5783c2d9aa57eb8d58123d)
+![](/img/seedrs/uploads/startup/section_image/image/12092/7hjzbgb8oyzf993po2iyany7gy7h3ik/Homeit_Seeders_Pitch_Visuals_08_300.png.png?rect=-2%2C0%2C2500%2C2501&w=600&fit=clip&s=5a43dc83fc5783c2d9aa57eb8d58123d)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12093/h3aiw0i8pyapz8kxckcgr2oohnuv5wp/Homeit_Seeders_Pitch_Visuals_11_300.png.png?rect=-2%2C0%2C2500%2C2501&w=600&fit=clip&s=06e88ec7d413028ce1488b86c3acc338)
+![](/img/seedrs/uploads/startup/section_image/image/12093/h3aiw0i8pyapz8kxckcgr2oohnuv5wp/Homeit_Seeders_Pitch_Visuals_11_300.png.png?rect=-2%2C0%2C2500%2C2501&w=600&fit=clip&s=06e88ec7d413028ce1488b86c3acc338)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ The short-term rentals market is growing every year as reports released by Airbn
 
 The global short-term rental market is valued at more than $144 billion, and expected to surpass $193 billion by 2021. On top of ongoing growth, instant booking is now the new norm, so rental sites and platforms are updating to provide customers with real time booking.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12094/d373q0ht4tit61a8sr0thn73a6uy48d/Homeit_Seeders_Pitch_Visuals_01_300.png.png?rect=0%2C0%2C2501%2C2501&w=600&fit=clip&s=ff6db56e50591bdad9bbd1cf78627f29)
+![](/img/seedrs/uploads/startup/section_image/image/12094/d373q0ht4tit61a8sr0thn73a6uy48d/Homeit_Seeders_Pitch_Visuals_01_300.png.png?rect=0%2C0%2C2501%2C2501&w=600&fit=clip&s=ff6db56e50591bdad9bbd1cf78627f29)
 
 In more than just the short-term rental market, we believe instant access to be a basic requirement of a new breed of worldwide consumers, that expect instant gratification.
 

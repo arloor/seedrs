@@ -131,7 +131,7 @@ Small to mid-sized property asset managers and developers who:
 
 - Carry out offline AML or KYC checks which take too long, are inefficient, and annoy investors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14166/fx15f5q84f2agwhtsz42ua0lka9f05m/Screen_Shot_2018-03-14_at_17.40.09.png?rect=0%2C0%2C1703%2C953&w=600&fit=clip&s=aca60487b45154172be51a9b0a857aaa)
+![](/img/seedrs/uploads/startup/section_image/image/14166/fx15f5q84f2agwhtsz42ua0lka9f05m/Screen_Shot_2018-03-14_at_17.40.09.png?rect=0%2C0%2C1703%2C953&w=600&fit=clip&s=aca60487b45154172be51a9b0a857aaa)
 
 ### Characteristics of target market
 

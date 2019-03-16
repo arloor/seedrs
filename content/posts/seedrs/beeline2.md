@@ -83,13 +83,13 @@ Now that we are in full production, the funds we are raising now will be growth 
 
 Our initial target market is anyone who rides a bike to get around in a city, or would like to. (Later we will target all cyclists and expand into other activities). <br> <br>Within this group of urban cyclists, our core audience are those for whom cycling is a practical mode of transport and part of everyday life, rather than purely a sport or hobby. These are the people who are most often in need of navigation and are currently vastly underserved. In our experience they tend not to ride extremely expensive bikes, and while the amount they spend on cycling may add up over time, we believe they are less likely to spend vast sums on very high end individual items such as performance cycling computers. <br> <br>This is the segment of cycling that we believe is growing fastest. This can be illustrated by the rise in city cycle hire schemes around the world, the growing importance of e-bikes which made up 30% of over 130M global bike sales last year and the efforts being made by cities around the world to encourage and accommodate cyclists as the world urbanises. For example, London has a £1B plan to improve it's provision for cyclists. <br> <br>Initially, while BeeLine will be available to buy anywhere in the world, we will concentrate our marketing efforts on London to build a strong initial community and to focus our data collection to quickly prove how we can use it to create much better routing and guidance. Beyond this we will push into more cities across Europe, the US and Asia, prioritising based on the size of the cycling markets in each. <br> <br>As we develop our products we will expand beyond urban cycling into all kinds of cycling, and from there into more activities. We believe that Beeline navigation will be applicable to a multitude of activities outside of driving, but we don't want to dilute our focus on cycling for now.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12131/7yvvqmsd99drmtd6ystgivbnbohdqop/10_riding_bike.jpg?rect=0%2C0%2C3931%2C2621&w=600&fit=clip&s=b54f5f31f90b456fea04b00c7f317202)
+![](/img/seedrs/uploads/startup/section_image/image/12131/7yvvqmsd99drmtd6ystgivbnbohdqop/10_riding_bike.jpg?rect=0%2C0%2C3931%2C2621&w=600&fit=clip&s=b54f5f31f90b456fea04b00c7f317202)
 
 ### Characteristics of target market
 
 In London nearly 10% of people (~1M people) ride a bike at least once a week. 2% of all journey are made by bike. In the UK we spend £3B/year on cycling, of which around half is on accessories. We estimate the global cycling accessory market to be $36B p.a. <br> <br>Cyclists tend to spend a large amount on accessories and upgrades to their bikes. Be these new wheels/saddles, on trend products such as the latest bike lights or, at the top end, devices such as Garmin cycle computers. We have found that cyclists are competitive and enjoy gathering data on their own performance, e.g. see the growth in cycling tracking apps such as Strava. <br> <br>Cycling is growing at an enormous rate and is being pushed hard by government (London has committed £1B to cycling improvements, e.g. cycle super highways and hire schemes). <br> <br>In our opinion this growth is driving a shift towards cycling being a lifestyle choice, not a sport, with more focus on design and affordability.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12134/idgx8q2y37rdq9enbl2zan3cyk5jl7g/07_packaging_closed.jpg?rect=155%2C70%2C1255%2C1340&w=600&fit=clip&s=f99f507bff6964a79797eaf692dbb66f)
+![](/img/seedrs/uploads/startup/section_image/image/12134/idgx8q2y37rdq9enbl2zan3cyk5jl7g/07_packaging_closed.jpg?rect=155%2C70%2C1255%2C1340&w=600&fit=clip&s=f99f507bff6964a79797eaf692dbb66f)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ To reach the market, we will use various channels and marketing approaches to se
 
 <br>As well as Beeline device sales, we will push for: <br> <br>- Standalone app downloads: we will aim to convert these to hardware sales but even app only users (including smartwatch) will contribute to the community and data and premium services. <br> <br>- Partnerships: hardware collaborations with city cycle hire schemes, bike manufacturers, sportswear companies etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12132/h1cgfw15w9fx7jg0kwbge5wvdzrf1mm/Beeline_Photos_Presspack_007_On_Handlebars__1_.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=fe5160645bb353008800c37fa3dfdf8f)
+![](/img/seedrs/uploads/startup/section_image/image/12132/h1cgfw15w9fx7jg0kwbge5wvdzrf1mm/Beeline_Photos_Presspack_007_On_Handlebars__1_.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=fe5160645bb353008800c37fa3dfdf8f)
 
 ### Competition strategy
 

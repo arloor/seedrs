@@ -119,7 +119,7 @@ In 2014 UK household savings were estimated to stand at £3,545 billion. Given c
 
 It is estimated by the Competition and Markets Authority that UK households are overpaying on their energy bills by more that £1.4 billion annually. By applying data science, Plum intends to identify and resolve these cases with no friction to the user.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12219/rq5w4ywmo3dp9m8ksruqcb7fo1zq5bc/6.png?rect=0%2C0%2C939%2C499&w=600&fit=clip&s=afe270fc9d6d8493a4e1377b11893fd8)
+![](/img/seedrs/uploads/startup/section_image/image/12219/rq5w4ywmo3dp9m8ksruqcb7fo1zq5bc/6.png?rect=0%2C0%2C939%2C499&w=600&fit=clip&s=afe270fc9d6d8493a4e1377b11893fd8)
 
 ### Characteristics of target market
 
@@ -133,7 +133,7 @@ We consider that these demands are woefully unmet and the current offering has c
 
 Whether they are already saving, or contribute to the 24% of millennials that PWC states possesses only “basic financial literacy”, Plum will provide them with the tool that they are looking for to improve their financial management and increase their financial well being.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12220/nvepswunmpzu24hzmrwon86a8g1q3nu/7.png?rect=0%2C0%2C939%2C623&w=600&fit=clip&s=34a59308e00579b89e80a5fa3ec70b3c)
+![](/img/seedrs/uploads/startup/section_image/image/12220/nvepswunmpzu24hzmrwon86a8g1q3nu/7.png?rect=0%2C0%2C939%2C623&w=600&fit=clip&s=34a59308e00579b89e80a5fa3ec70b3c)
 
 ### Marketing strategy
 
@@ -157,7 +157,7 @@ b. Unpaid (word-of-mouth): By building a product that people love, Plum makes su
 
 We will continue to invest money and effort into all three of these channels on a constant basis. As Plum grows we will expand each to have its own dedicated team.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12221/n8sfbd8nzykaqgsyu3ypekuju1pqrt5/8.png?rect=0%2C0%2C751%2C376&w=600&fit=clip&s=d1982801bf3dcf67a6bddb13be93755f)
+![](/img/seedrs/uploads/startup/section_image/image/12221/n8sfbd8nzykaqgsyu3ypekuju1pqrt5/8.png?rect=0%2C0%2C751%2C376&w=600&fit=clip&s=d1982801bf3dcf67a6bddb13be93755f)
 
 ### Competition strategy
 

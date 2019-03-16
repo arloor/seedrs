@@ -85,7 +85,7 @@ In addition they will have some form of online entertainment subscription like N
 
 As the business grows we expect the target market and age range to broaden out and diversify as we deploy our growth and acquisition strategy.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2589/p7hpqwpydn3jka89slkuw2jlhe7dz6b/3.png?w=600&fit=clip&s=76b6ca919bfdd6e59375213f1b0a9bd3)
+![](/img/seedrs/uploads/startup/section_image/image/2589/p7hpqwpydn3jka89slkuw2jlhe7dz6b/3.png?w=600&fit=clip&s=76b6ca919bfdd6e59375213f1b0a9bd3)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ The magazine market has seen declining print revenues for the last few years. In
 
 By 2017 in the UK alone there will 35 million tablet users and 44 million smartphone users. We believe Readbug is ideally placed to capitalise on this huge growth of tablets and smartphone by combining an “all you can eat” subscription model with a user experience and interface that chimes with successful parallel platforms in the digital entertainment sector, like Netflix and Spotify.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2590/erlkaqu8dhfil03n9bkg0eyei0kyzov/5.png?w=600&fit=clip&s=fd51b713a25fcfd2edd86bc47edf073a)
+![](/img/seedrs/uploads/startup/section_image/image/2590/erlkaqu8dhfil03n9bkg0eyei0kyzov/5.png?w=600&fit=clip&s=fd51b713a25fcfd2edd86bc47edf073a)
 
 ### Marketing strategy
 

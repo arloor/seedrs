@@ -71,13 +71,13 @@ The company currently has £216,043 worth of directors loans. None of the funds 
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7383/imyvgx74z70ltw879ir6o5icgs6ax4k/Picture-4.jpg?rect=3%2C-4%2C507%2C400&w=600&fit=clip&s=5ba6ba015fa672ff42fea2de6ff4fc20)
+![](/img/seedrs/uploads/startup/section_image/image/7383/imyvgx74z70ltw879ir6o5icgs6ax4k/Picture-4.jpg?rect=3%2C-4%2C507%2C400&w=600&fit=clip&s=5ba6ba015fa672ff42fea2de6ff4fc20)
 
 ### Target market
 
 Velorution's target customers are both those who are thinking about taking up urban cycling and those that have been doing it for years. It is consumers who are looking for something a bit more special; bicycles and apparel that are unique and reflect a wonderful sense of individuality and personality. Equipment that is both high quality and innovative.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7384/4scy4clt2qw3kec474fvw7vpe0zl939/Picture-3.jpg?rect=0%2C-4%2C511%2C400&w=600&fit=clip&s=270164154762cd249fd304aee5ee8ddb)
+![](/img/seedrs/uploads/startup/section_image/image/7384/4scy4clt2qw3kec474fvw7vpe0zl939/Picture-3.jpg?rect=0%2C-4%2C511%2C400&w=600&fit=clip&s=270164154762cd249fd304aee5ee8ddb)
 
 ### Characteristics of target market
 
@@ -85,13 +85,13 @@ In 2010, The London School of Economics sized the British cycling market at £3.
 
 Cycle-retail is dominated by a few national chains, such as Evans, CycleSurgery and Halfords, who cater to the mass-market. Velorution, however, is targeted at the under-served urban cyclist who is looking for something special. The estimated average selling price of a bicycles in the UK is c.£250, whilst at Velorution the average order value is closer to £1,000. This is a smaller segment of the overall market, but it is expanding and can be profitable.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7381/rfdi3l8htb014k4p3mclm4s9obnvyu8/Picture-10.jpg?rect=0%2C-4%2C507%2C400&w=600&fit=clip&s=919327bb3289a8df610429faf63d6a67)
+![](/img/seedrs/uploads/startup/section_image/image/7381/rfdi3l8htb014k4p3mclm4s9obnvyu8/Picture-10.jpg?rect=0%2C-4%2C507%2C400&w=600&fit=clip&s=919327bb3289a8df610429faf63d6a67)
 
 ### Marketing strategy
 
 Velorution reaches its consumers through several channels. Its stores on Great Portland St and in Selfridges are destination sites that attract many walk-in customers, whilst its website and magazine extends its reach on a global basis. We feel the magazine in particular, has been a highly successful marketing and re-marketing tool to drive past and new customers into stores and onto its online shop.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7382/gjt1nmryp3guv5034njldubopb9i7jm/Picture-9.jpg?rect=0%2C-4%2C511%2C400&w=600&fit=clip&s=68ea10a7bef6c8933fb3349b5175f41a)
+![](/img/seedrs/uploads/startup/section_image/image/7382/gjt1nmryp3guv5034njldubopb9i7jm/Picture-9.jpg?rect=0%2C-4%2C511%2C400&w=600&fit=clip&s=68ea10a7bef6c8933fb3349b5175f41a)
 
 ### Competition strategy
 

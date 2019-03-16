@@ -77,7 +77,7 @@ We plan to use the funds as follows:
 
 - Between the US and Western Europe (France, Germany, Spain, UK and Italy) our addressable market counts 25m companies.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2191/np18s16pzaxt6xwvh515t00kgjycjpd/infographicA.jpg?rect=2%2C0%2C789%2C791&w=600&fit=clip&s=6639d4393ece916b63221f0c635c8409)
+![](/img/seedrs/uploads/startup/section_image/image/2191/np18s16pzaxt6xwvh515t00kgjycjpd/infographicA.jpg?rect=2%2C0%2C789%2C791&w=600&fit=clip&s=6639d4393ece916b63221f0c635c8409)
 
 ### Characteristics of target market
 
@@ -95,7 +95,7 @@ Once again, the market is huge. Many SMEs are simply not taking full advantage o
 
 The current offerings to date have helped get 27% of the market to go online in the last 25 years. Today something different is clearly needed to raise the bar to the next level. That is our ambition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2192/bkxfhfc71b9fkh664eaqkhg0arixzhb/infographicC.jpg?rect=0%2C0%2C797%2C638&w=600&fit=clip&s=7c77cc1cb2a5241ef68677313808e2ca)
+![](/img/seedrs/uploads/startup/section_image/image/2192/bkxfhfc71b9fkh664eaqkhg0arixzhb/infographicC.jpg?rect=0%2C0%2C797%2C638&w=600&fit=clip&s=7c77cc1cb2a5241ef68677313808e2ca)
 
 ### Marketing strategy
 
@@ -109,7 +109,7 @@ Our business acquisition strategy is based on two channels: indirect and direct:
 
 Our buyer acquisition strategy is instead almost entirely based on digital marketing: advertising, social media marketing, content curation on our blog, and SEO.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2193/ghukz8y92bin908xq0pi7v75yvwzn85/infographicB.jpg?rect=0%2C11%2C800%2C814&w=600&fit=clip&s=6ba3d17ef43371ef17f74b8ad0952bb8)
+![](/img/seedrs/uploads/startup/section_image/image/2193/ghukz8y92bin908xq0pi7v75yvwzn85/infographicB.jpg?rect=0%2C11%2C800%2C814&w=600&fit=clip&s=6ba3d17ef43371ef17f74b8ad0952bb8)
 
 ### Competition strategy
 

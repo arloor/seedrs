@@ -97,7 +97,7 @@ Our premium Bluetooth speakers are perfect on-the-go, suiting a broad range of n
 
 Don’t just take our word for it – check out some of our reviews!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8898/2rp51y98gwxcxzw7t5ar0uhzpbqktfv/reviews-03-2000px.jpg?rect=0%2C0%2C2000%2C2062&w=600&fit=clip&s=83dc7397e59a40201f247840c8e92067)
+![](/img/seedrs/uploads/startup/section_image/image/8898/2rp51y98gwxcxzw7t5ar0uhzpbqktfv/reviews-03-2000px.jpg?rect=0%2C0%2C2000%2C2062&w=600&fit=clip&s=83dc7397e59a40201f247840c8e92067)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Technology is here to stay, and our range of everyday tech products suits an inc
 
 We passionately believe in quality over quantity, and it is essential that each product introduced to the range must be of premium grade and something we know customers will want. We closely monitor feedback and market trends in developing our products, always consciously remaining ahead of the curve. Our investment in reliable, superior specifications has paid for itself through our fantastic customer feedback, providing us with the momentum and brand confidence that has been fundamental to our success so far.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8901/qjudjed93f8h52gjkx3yewvqu1j59yy/image7-01.jpg?w=600&fit=clip&s=6275a3b7a8f090da39734e16f27e9a86)
+![](/img/seedrs/uploads/startup/section_image/image/8901/qjudjed93f8h52gjkx3yewvqu1j59yy/image7-01.jpg?w=600&fit=clip&s=6275a3b7a8f090da39734e16f27e9a86)
 
 ### Marketing strategy
 
@@ -117,7 +117,7 @@ However, investment will allow us to prioritise other types of marketing, drivin
 
 With investment, we will be able to diversify our marketing budget and invest in off-line marketing in addition to our digital efforts. Advertising on billboards and transport are some of the channels we are considering, as well as print advertising and affiliate marketing. We also plan on focusing on consumer PR and entering into awards competitions to create further buzz and underscore the the premium quality of our range.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8900/r7mo3arr1ebqhpvdggfjtswqyfe2cl3/image_4.jpg?rect=0%2C0%2C720%2C540&w=600&fit=clip&s=d0781ce64491142c111681b8af7d92a3)
+![](/img/seedrs/uploads/startup/section_image/image/8900/r7mo3arr1ebqhpvdggfjtswqyfe2cl3/image_4.jpg?rect=0%2C0%2C720%2C540&w=600&fit=clip&s=d0781ce64491142c111681b8af7d92a3)
 
 ### Competition strategy
 

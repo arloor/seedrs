@@ -103,7 +103,7 @@ A simple scan of UK radio services indicates there is no dedicated service for t
 
 Our existing audience profile is UK based, 3:1 male to female, and predominantly 25 - 44 years old.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11792/o9uugszd2m7vc9an95sihhv4f65o8ym/pmr3.png?rect=0%2C-4%2C975%2C661&w=600&fit=clip&s=2244f0fe0ca259801ebab0fc6d08f8f7)
+![](/img/seedrs/uploads/startup/section_image/image/11792/o9uugszd2m7vc9an95sihhv4f65o8ym/pmr3.png?rect=0%2C-4%2C975%2C661&w=600&fit=clip&s=2244f0fe0ca259801ebab0fc6d08f8f7)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ We estimate that approximately 10% of adults in the UK listen to a rock radio st
 
 Primordial Radio is a direct service delivered via the internet - specifically through our own platforms and Social Media.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11790/1i0yz5tfwslx2kgsyoa4j5o7oropaqy/pm2.png?rect=0%2C0%2C975%2C732&w=600&fit=clip&s=7b2bb86740846c043d3478e2228a7ebd)
+![](/img/seedrs/uploads/startup/section_image/image/11790/1i0yz5tfwslx2kgsyoa4j5o7oropaqy/pm2.png?rect=0%2C0%2C975%2C732&w=600&fit=clip&s=7b2bb86740846c043d3478e2228a7ebd)
 
 ### Marketing strategy
 

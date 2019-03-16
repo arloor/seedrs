@@ -107,7 +107,7 @@ Going forward, experts from Canalys, the Gartner Group and Wohlers forecast sign
 
 3D printers are getting more reliable and printing faster for cheaper, which will drive tremendous growth in the need for 3D printable content. MyMiniFactory will benefit from this demand with its leading position and satisfied returning users.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5124/m0hfsqrxm46i2r4bwgia443vyy8kvp4/Gartner_-_3d-printer-sales_industrial_and_consumer_-_2012-2017.png?rect=0%2C3%2C512%2C269&w=600&fit=clip&s=a22be64cacc4c101347f5155dfa9d862)
+![](/img/seedrs/uploads/startup/section_image/image/5124/m0hfsqrxm46i2r4bwgia443vyy8kvp4/Gartner_-_3d-printer-sales_industrial_and_consumer_-_2012-2017.png?rect=0%2C3%2C512%2C269&w=600&fit=clip&s=a22be64cacc4c101347f5155dfa9d862)
 
 ### Characteristics of target market
 
@@ -117,7 +117,7 @@ This revolution is now reaching 3D designers. With 3D printing becoming more acc
 
 MyMiniFactory is focused on helping talented 3D designers become celebrities, as YouTube, Vimeo, Soundcloud and Wattpad did with performers, musicians and writers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5125/hpr74o86rerzmptipzo3kyy7thz9zqm/music-video-3d__2_.png?rect=0%2C0%2C498%2C98&w=600&fit=clip&s=e16b63978dc1be38373384d151173739)
+![](/img/seedrs/uploads/startup/section_image/image/5125/hpr74o86rerzmptipzo3kyy7thz9zqm/music-video-3d__2_.png?rect=0%2C0%2C498%2C98&w=600&fit=clip&s=e16b63978dc1be38373384d151173739)
 
 ### Marketing strategy
 
@@ -131,7 +131,7 @@ So far, the platform has benefited from extensive media coverage at no cost. MyM
 
 MyMiniFactory's marketing spend will remain modest, as the management team will favour efficient and cost effective strategies to grow the user base, as they have done since the launch of the platform 2 years ago.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5201/s3pk6egoit1e0i6lr49qnrgutcp8r3t/Marketing_Strategy.jpg?rect=74%2C0%2C724%2C734&w=600&fit=clip&s=96c1c3cdb0ac5dc59efaedf87606cbc7)
+![](/img/seedrs/uploads/startup/section_image/image/5201/s3pk6egoit1e0i6lr49qnrgutcp8r3t/Marketing_Strategy.jpg?rect=74%2C0%2C724%2C734&w=600&fit=clip&s=96c1c3cdb0ac5dc59efaedf87606cbc7)
 
 ### Competition strategy
 
@@ -145,5 +145,5 @@ MyMiniFactory's competitive edge relies on 5 strong pillars: <br>- MyMiniFactory
 
 Independence has been key to the success of Vimeo (Video), Spotify (Music), Wattpad (Text).
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5199/o4m5fip87ditsx42pewq50be3yyap6j/Competition_Strategy.jpg?rect=0%2C0%2C1099%2C794&w=600&fit=clip&s=eaae361c4be53b18272e3f57a56a7bcf)
+![](/img/seedrs/uploads/startup/section_image/image/5199/o4m5fip87ditsx42pewq50be3yyap6j/Competition_Strategy.jpg?rect=0%2C0%2C1099%2C794&w=600&fit=clip&s=eaae361c4be53b18272e3f57a56a7bcf)
 

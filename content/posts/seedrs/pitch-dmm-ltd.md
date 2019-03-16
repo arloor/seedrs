@@ -63,7 +63,7 @@ The target market is all sports fans. Just five of the top premier league teams 
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14011/gy6om56age5ram0r9676qt89c8end3w/Screen_Shot_2018-02-23_at_10.39.09.png?rect=650%2C0%2C952%2C1492&w=600&fit=clip&s=f9e4396c9f5cfb68115d5235d010acb2)
+![](/img/seedrs/uploads/startup/section_image/image/14011/gy6om56age5ram0r9676qt89c8end3w/Screen_Shot_2018-02-23_at_10.39.09.png?rect=650%2C0%2C952%2C1492&w=600&fit=clip&s=f9e4396c9f5cfb68115d5235d010acb2)
 
 Anyone can be a football fan - regardless of age or gender. Our target market are those passionate about the game, keen to be heard, and have their collective collaborative community voice heard by all commentators, pundits and media. We intend to provide stats and viable data which are currently not captured to our knowledge.
 
@@ -73,7 +73,7 @@ Fan communities can be hard to communicate with but we believe this will provide
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14008/ajnk2cufdk01280v7pzymhfp0tv4et8/Screen_Shot_2018-02-23_at_10.38.20.png?rect=0%2C-1%2C2912%2C2174&w=600&fit=clip&s=de4060c0b0cde066ede843d6f5e0dd2b)
+![](/img/seedrs/uploads/startup/section_image/image/14008/ajnk2cufdk01280v7pzymhfp0tv4et8/Screen_Shot_2018-02-23_at_10.38.20.png?rect=0%2C-1%2C2912%2C2174&w=600&fit=clip&s=de4060c0b0cde066ede843d6f5e0dd2b)
 
 We want to be funded by the fans for the fans! We intend to focus on the clubs who are the clubs of our investors, using their passion and knowledge of the game to increase the app downloads and deliver commercial profitability, valuable stats and revenue streams. Potential revenue streams include in-app purchases, sponsored marketing campaigns, corporate data income, data &amp; analytical stats being sold to both the clubs and the media.
 
@@ -87,5 +87,5 @@ In our experience, the voice of the fans so far has only counted for those 90min
 
 We believe that the ability for users to virtually manage their actual team, whilst also being heard across the club and the football community, is a competitive advantage. We believe that quantifiable and fact-based public opinion data will be useful to a range of parties.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14012/8yvdunwaf5mmd9w6cup0at2lpm16uct/Screen_Shot_2018-02-23_at_10.38.41.png?rect=719%2C0%2C872%2C1490&w=600&fit=clip&s=056ec33fe36a2140e9008f0cb4629841)
+![](/img/seedrs/uploads/startup/section_image/image/14012/8yvdunwaf5mmd9w6cup0at2lpm16uct/Screen_Shot_2018-02-23_at_10.38.41.png?rect=719%2C0%2C872%2C1490&w=600&fit=clip&s=056ec33fe36a2140e9008f0cb4629841)
 

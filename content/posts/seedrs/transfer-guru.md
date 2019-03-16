@@ -89,7 +89,7 @@ The target market for TransferGuru can be defined in three categories:
 
 We have market-tested six different corridors (UK to India, USA, Nigeria, Poland, Pakistan, and France). With the new iteration of the website and the move to a .com domain we are expanding our marketing strategy to target 50 receiving countries. Multi-lingual iterations of the site will expand upon this, to include the US, UAE and China as sending countries as well.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8659/8fpboiu3k5b2poul60e1eb8q8wo6q8f/Screen_Shot_2016-04-22_at_10.27.37.png?rect=0%2C0%2C1202%2C804&w=600&fit=clip&s=00a5e8a51243485a0f156967e3f15069)
+![](/img/seedrs/uploads/startup/section_image/image/8659/8fpboiu3k5b2poul60e1eb8q8wo6q8f/Screen_Shot_2016-04-22_at_10.27.37.png?rect=0%2C0%2C1202%2C804&w=600&fit=clip&s=00a5e8a51243485a0f156967e3f15069)
 
 ### Characteristics of target market
 
@@ -99,7 +99,7 @@ In 2015, remittance service providers generated more than $40bn in revenue. Digi
 
 With no way of assessing providers, most customers are unaware of the range of choice they have. Four in five regular remitters think their current choice of provider is either too expensive or too slow. Two in three do not know a cheaper option than the one they use exists.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8660/5ubspmdnp7xp7u03cayqbqvmhtlvkbm/Screen_Shot_2016-04-22_at_10.27.21.png?rect=0%2C-5%2C1181%2C791&w=600&fit=clip&s=cb7e6b6987f1d529942a5ea87f93062e)
+![](/img/seedrs/uploads/startup/section_image/image/8660/5ubspmdnp7xp7u03cayqbqvmhtlvkbm/Screen_Shot_2016-04-22_at_10.27.21.png?rect=0%2C-5%2C1181%2C791&w=600&fit=clip&s=cb7e6b6987f1d529942a5ea87f93062e)
 
 ### Marketing strategy
 
@@ -111,7 +111,7 @@ Demographic outreach relies on a solid understanding of our diverse users. While
 
 Advertising on search engines and social media, as well as SEO, have been at the forefront of our strategy since the site’s launch in order to gain rapid traction. Having established a digital user base, we will gain non-digital users through community-specific printed publications, diaspora radio stations and cultural society events.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8661/ng1578tw4jsqtfs6a8z369hw4ntt0nu/Screen_Shot_2016-04-22_at_10.56.24.png?rect=0%2C-1%2C1572%2C1132&w=600&fit=clip&s=eba87f18bc33b7c09be247dc0f14ecc3)
+![](/img/seedrs/uploads/startup/section_image/image/8661/ng1578tw4jsqtfs6a8z369hw4ntt0nu/Screen_Shot_2016-04-22_at_10.56.24.png?rect=0%2C-1%2C1572%2C1132&w=600&fit=clip&s=eba87f18bc33b7c09be247dc0f14ecc3)
 
 ### Competition strategy
 

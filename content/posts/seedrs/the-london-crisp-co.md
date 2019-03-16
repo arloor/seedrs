@@ -63,7 +63,7 @@ There is little doubt that, despite appeals for healthier lifestyles, the UK has
 
 Our key target demographic is 18-40 ABC consumers, who care about what they eat, but still want it to taste great. We see them as part of the Highly Affluent, Wealth Achievers and Urban Prosperity groups. Our brands are cool and fun and are targeted at young professionals and families who feel the same way.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4019/t4twn70hmpqss4adgbk8yp8hf6ggtf0/IMG_0295.JPG?rect=0%2C0%2C797%2C600&w=600&fit=clip&s=36e7ada8b4c4ba2f113b796bf083382c)
+![](/img/seedrs/uploads/startup/section_image/image/4019/t4twn70hmpqss4adgbk8yp8hf6ggtf0/IMG_0295.JPG?rect=0%2C0%2C797%2C600&w=600&fit=clip&s=36e7ada8b4c4ba2f113b796bf083382c)
 
 ### Characteristics of target market
 
@@ -79,7 +79,7 @@ We have assembled a strong portfolio of brands, with lots of great new product d
 
 3. Independent trade. <br>London and the UK is full of great independent farm shops, delis, coffee shops and food halls. We already deal with a good number of them, but there are plenty out there we do not deal with. We intend to work with a select number of key wholesalers and distributors to tap into the lucrative London catering and food-on-the-go market, and also intend to hire someone to focus exclusively on building strong relationships with key independent accounts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4018/9up084w9rm7qwzfo5t50myvjrj4nyis/boris_010.JPG?rect=0%2C0%2C4178%2C3131&w=600&fit=clip&s=827031b0813ebce40c1615db2985b251)
+![](/img/seedrs/uploads/startup/section_image/image/4018/9up084w9rm7qwzfo5t50myvjrj4nyis/boris_010.JPG?rect=0%2C0%2C4178%2C3131&w=600&fit=clip&s=827031b0813ebce40c1615db2985b251)
 
 ### Competition strategy
 

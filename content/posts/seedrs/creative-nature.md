@@ -113,11 +113,11 @@ Our followers are 80% women, ABC1, ages 18-45. <br>We also believe this segment 
 
 Our wider customer base may include: <br>- Working professionals who want to eat better. <br>- Grandparents looking for healthier and trustworthy products to give there grandchildren. <br>- Fitness enthusiasts.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15415/cpwlk40jde2pu8fpzicnvdv2todd272/Target_Market__after__Raw_Foodies__.jpg?rect=0%2C0%2C600%2C399&w=600&fit=clip&s=4e0928fc3998d4ac6b831c1075c40699)
+![](/img/seedrs/uploads/startup/section_image/image/15415/cpwlk40jde2pu8fpzicnvdv2todd272/Target_Market__after__Raw_Foodies__.jpg?rect=0%2C0%2C600%2C399&w=600&fit=clip&s=4e0928fc3998d4ac6b831c1075c40699)
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15416/2rnj57jrhosrx40521rgchoywrkyq9s/Characteristics_of_target_market__top_bit_.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=1f233b5d1125183919cb31a7086a348d)
+![](/img/seedrs/uploads/startup/section_image/image/15416/2rnj57jrhosrx40521rgchoywrkyq9s/Characteristics_of_target_market__top_bit_.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=1f233b5d1125183919cb31a7086a348d)
 
 In 2016, the Global Free-From category was valued at $32bn, whilst the Organic industry was worth $36bn. The Free From market in the UK alone is set to grow to £673M by 2020. Globally the Gluten Free industry alone is set to grow to $4.7bn by 2020.
 
@@ -133,7 +133,7 @@ The 3 categories we fall into are:
 
 3) Superfoods. <br>Ethically Sourced, Premium Quality.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15417/5x69c5iagnp9nuuuyrrig7h744bb6yd/Characteristics_of_target_market__at_end_.jpg?rect=0%2C0%2C600%2C590&w=600&fit=clip&s=3b9ed88235c55b7f28086745c7e7a71c)
+![](/img/seedrs/uploads/startup/section_image/image/15417/5x69c5iagnp9nuuuyrrig7h744bb6yd/Characteristics_of_target_market__at_end_.jpg?rect=0%2C0%2C600%2C590&w=600&fit=clip&s=3b9ed88235c55b7f28086745c7e7a71c)
 
 ### Marketing strategy
 
@@ -141,7 +141,7 @@ Educate consumers, building a brand they can trust.
 
 Being completely self-funded, we have had to be resourceful with very little resource. We've gained free exposure through Dragon's Den, Britain's Next Top Model, Sky News, multiple award wins and many more.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15418/ggic7631kmwhj23e325ix6l3g1zv0z2/Marketing_Strategy__above__Event_Marketing__.jpg?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=f87c7904dfa29d6d29f8d82759cee1f3)
+![](/img/seedrs/uploads/startup/section_image/image/15418/ggic7631kmwhj23e325ix6l3g1zv0z2/Marketing_Strategy__above__Event_Marketing__.jpg?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=f87c7904dfa29d6d29f8d82759cee1f3)
 
 Event Marketing. <br>- Big stunts including our Creative Nature Vegan Bake Off for the launch of our new mixes. <br>- We aim to present in 55 shows per year.
 
@@ -149,7 +149,7 @@ PR Marketing. <br>Education through editorial features in publications like The 
 
 Retail POS/ Sampling. <br>We will be driving sales through merchandising, recipe books, promotions and sampling.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15419/qoxt413wbp3a4vhd8m0g3ioj55kxgoh/Marketing_Strategy__above__Retail_POS___vegan_trade_journal_.jpg?rect=0%2C0%2C600%2C390&w=600&fit=clip&s=bbcc1cb701c197b5925e03b40ca135eb)
+![](/img/seedrs/uploads/startup/section_image/image/15419/qoxt413wbp3a4vhd8m0g3ioj55kxgoh/Marketing_Strategy__above__Retail_POS___vegan_trade_journal_.jpg?rect=0%2C0%2C600%2C390&w=600&fit=clip&s=bbcc1cb701c197b5925e03b40ca135eb)
 
 Social Media. <br>We have over 50,000 social media followers across all our platforms, with CEO, Julianne, having a significant social following too.
 
@@ -163,13 +163,13 @@ Digital Advertising.
 
 Although crowded, the Free From industry is ever expanding. We believe there are gaping holes in the market, begging for innovation.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15422/er8yyt7hv9imbi5j3p0o7lnzkjlwmm2/Competition_Strategy__after__begging_for_innovation__.jpg?rect=0%2C0%2C599%2C391&w=600&fit=clip&s=463169b217574089beb98e3cf46a1e65)
+![](/img/seedrs/uploads/startup/section_image/image/15422/er8yyt7hv9imbi5j3p0o7lnzkjlwmm2/Competition_Strategy__after__begging_for_innovation__.jpg?rect=0%2C0%2C599%2C391&w=600&fit=clip&s=463169b217574089beb98e3cf46a1e65)
 
 In our opinion, we feel the baking industry hadn't been shaken up for years. We feel that this was the reason why our unique mixes were instantly named in the Top New Product launches in the category in Sainsbury's.
 
 People trust people, therefore we believe that having a founder, Julianne, who suffers from anaphylaxis and openly talks about her struggles, gives the brand credibility.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15420/fwdsgemp3lbad918rvlrp0znpfip555/Competition_Strategy__after__brand_credibility__.jpg?rect=0%2C0%2C600%2C412&w=600&fit=clip&s=cef0333483a1bf9f52aad09a9a02a456)
+![](/img/seedrs/uploads/startup/section_image/image/15420/fwdsgemp3lbad918rvlrp0znpfip555/Competition_Strategy__after__brand_credibility__.jpg?rect=0%2C0%2C600%2C412&w=600&fit=clip&s=cef0333483a1bf9f52aad09a9a02a456)
 
 We believe we differentiate ourselves by looking to tick ALL the boxes. Not only allergen-free, but affordable and tasty too. We're the only brand to ever win 2 Great Taste Gold Stars for a cold-pressed bar.
 
@@ -177,5 +177,5 @@ Healthy snacking needs to be attainable, which is why we price our bars at the l
 
 More brands will enter the market, jumping on the bandwagon and offering slightly different takes on a tried and tested recipe formation. We believe our constant innovation and creative marketing will ensure we'll strive to stay ahead.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15421/lppatsdh39kxdozazxehi09a6a1r6q5/Screenshot_2018-08-15_16.35.10.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=4cfcc6dd507fa8f28b7a7ffd5b4ed0bf)
+![](/img/seedrs/uploads/startup/section_image/image/15421/lppatsdh39kxdozazxehi09a6a1r6q5/Screenshot_2018-08-15_16.35.10.png?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=4cfcc6dd507fa8f28b7a7ffd5b4ed0bf)
 

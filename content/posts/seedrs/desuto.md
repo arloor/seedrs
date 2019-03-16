@@ -93,7 +93,7 @@ We believe that these developments are potentially a tipping point in the growth
 
 Over 102 billion apps were downloaded worldwide in 2013 and this figure is expected to surpass 265 billion in 2017. Business based applications provided by Microsoft and Google have also seen massive growth with 630 million business users expected to grow to 1.158 billion users by 2022. We now live in a mobile world where consumers, and this includes those working in health and social care, expect to have instant access to vital information to do their job.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7065/40aem1xoutrl4m9lkqwm5mobg5l68yr/Screen_Shot_2015-11-29_at_19.53.37.png?rect=0%2C0%2C598%2C370&w=600&fit=clip&s=237ffd209e8a5956e53da8f2344121a7)
+![](/img/seedrs/uploads/startup/section_image/image/7065/40aem1xoutrl4m9lkqwm5mobg5l68yr/Screen_Shot_2015-11-29_at_19.53.37.png?rect=0%2C0%2C598%2C370&w=600&fit=clip&s=237ffd209e8a5956e53da8f2344121a7)
 
 ### Characteristics of target market
 
@@ -105,7 +105,7 @@ Care homes 15817 <br>Local Authorities 350 <br>Community care providers 1495 <br
 
 Total Potential Customers 102042
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7066/s1xh0uthoivl2vigqxzf2f8j6bcw774/desuto-2.jpeg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=320607b4ff9076a2e25658ceed711e0d)
+![](/img/seedrs/uploads/startup/section_image/image/7066/s1xh0uthoivl2vigqxzf2f8j6bcw774/desuto-2.jpeg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=320607b4ff9076a2e25658ceed711e0d)
 
 ### Marketing strategy
 
@@ -125,7 +125,7 @@ During post go-live phase we intend to:
 
 Post free training presentations based on use of tools using Udemy. <br>Utilise the blog section of the website to promote tools and to provide guidance and support of legislative frameworks to users. <br>Attend relevant trade events and conferences where we can directly target health and social care lead professionals.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7067/szgm89ccne7owk8i3y739ag440me8yb/Screen_Shot_2015-11-29_at_19.44.10.png?rect=0%2C0%2C600%2C376&w=600&fit=clip&s=bb32e01a30a67d00ce9e5622575f57c0)
+![](/img/seedrs/uploads/startup/section_image/image/7067/szgm89ccne7owk8i3y739ag440me8yb/Screen_Shot_2015-11-29_at_19.44.10.png?rect=0%2C0%2C600%2C376&w=600&fit=clip&s=bb32e01a30a67d00ce9e5622575f57c0)
 
 ### Competition strategy
 

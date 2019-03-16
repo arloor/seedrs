@@ -95,7 +95,7 @@ In 12 months time, we expect our proposition to broaden to service people who ha
 
 In 12 months time, we expect to be live in three further European cities.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10128/c7hyqvhqfneaur9lgq00yetfyngpf71/Main_Video_.00_02_31_02.Still019.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=4e6fa04c2a0ca2dae1bf6491e751d8bc)
+![](/img/seedrs/uploads/startup/section_image/image/10128/c7hyqvhqfneaur9lgq00yetfyngpf71/Main_Video_.00_02_31_02.Still019.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=4e6fa04c2a0ca2dae1bf6491e751d8bc)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ There are some interesting trends to note:
 
 2. Behaviour of publicly-funded "consumers" - local authorities are now obligated to give people the option of a direct payment. As a consequence, people will be able to choose where to spend their care pounds and this can be spent through services like SuperCarers.com, rather than traditional agencies.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10129/it68ljv7vmat3oz9nxd6rcpxkxu90id/Main_Video_.00_02_59_17.Still020.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=7e299250f026500925f298b315e2c8a7)
+![](/img/seedrs/uploads/startup/section_image/image/10129/it68ljv7vmat3oz9nxd6rcpxkxu90id/Main_Video_.00_02_59_17.Still020.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=7e299250f026500925f298b315e2c8a7)
 
 ### Marketing strategy
 
@@ -121,7 +121,7 @@ We are utilising a range of channels to reach our target users and build awarene
 
 5. Offline marketing - we market our services via flier drops, amongst other offline activities.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10130/ngqa6tvy1en2ctrjy0uxatjakaf4ggy/Main_Video_.00_03_26_08.Still011.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=c6d989a7fb85a4f98eb392203d9cd8ff)
+![](/img/seedrs/uploads/startup/section_image/image/10130/ngqa6tvy1en2ctrjy0uxatjakaf4ggy/Main_Video_.00_03_26_08.Still011.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=c6d989a7fb85a4f98eb392203d9cd8ff)
 
 ### Competition strategy
 

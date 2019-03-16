@@ -67,17 +67,17 @@ We're raising funds to set up a production kitchen, make key hires, develop the 
 
 Our customers are busy individuals, who want to eat plant-based meals but don't have the time to cook from scratch every day. They want food that is convenient, nutritious and full of flavour.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15668/pez57lupzjckqmtov6ngh36k76j2p16/DSC_0096_-2.JPG?rect=0%2C0%2C2992%2C1670&w=600&fit=clip&s=66799e52bc9281ab9cdc6b5f143f9a95)
+![](/img/seedrs/uploads/startup/section_image/image/15668/pez57lupzjckqmtov6ngh36k76j2p16/DSC_0096_-2.JPG?rect=0%2C0%2C2992%2C1670&w=600&fit=clip&s=66799e52bc9281ab9cdc6b5f143f9a95)
 
 ### Characteristics of target market
 
 Vegan Foods Market. <br>In 2016 Vegan Society announced that the number of people following a vegan diet had increased by a staggering 360% in the past decade, with 542k people identifying as vegan. But these statistics look like nothing compared to the growth seen in the last two years. A survey in early 2018 by comparethemarket.com found 7% of the British population are vegan and Eating Better's 2017 YouGov survey found that 44% of the UK are committed to reducing their consumption of meat and dairy, or have stopped eating it entirely.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15669/os2touj94eri5xjg5xrjuidk76d9bm5/DSC_0116_-2.JPG?rect=0%2C-1%2C2992%2C1677&w=600&fit=clip&s=f87ccefbbccfcd29691ba9a5402faa68)
+![](/img/seedrs/uploads/startup/section_image/image/15669/os2touj94eri5xjg5xrjuidk76d9bm5/DSC_0116_-2.JPG?rect=0%2C-1%2C2992%2C1677&w=600&fit=clip&s=f87ccefbbccfcd29691ba9a5402faa68)
 
 Convenience Meals Market. <br>In 2017 UK consumers spent £4.7bn on ready-to-cook meals, making it the biggest ready meal market in Europe. Growth in the sector was led by premium brands, such as Charlie Bigham's and Genius, highlighting the growing focus on quality over cost. In fact, despite the fact that Charlie Bigham's meals are some of the highest priced in the market (£7-£8), the brand saw growth of 48% in the year.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15670/569m2frltivxxtaf4pbc7uo4wfw1270/IMG_6931.JPG?rect=0%2C10%2C1080%2C1069&w=600&fit=clip&s=8a49373d993cf3a8106721d53d50d8b8)
+![](/img/seedrs/uploads/startup/section_image/image/15670/569m2frltivxxtaf4pbc7uo4wfw1270/IMG_6931.JPG?rect=0%2C10%2C1080%2C1069&w=600&fit=clip&s=8a49373d993cf3a8106721d53d50d8b8)
 
 ### Marketing strategy
 
@@ -85,7 +85,7 @@ As we move to an online business model, our marketing strategy will focus predom
 
 Alongside customer acquisition focussed marketing we'll be using PR, social media, brand collaborations and video content to build awareness of our brand and make a deeper connection with our customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15671/iqjw5ydsbw7s7ff4kfk1s1cu82gkvc6/IMG_3064.JPG?rect=0%2C0%2C2048%2C1364&w=600&fit=clip&s=6446f20f9328749fdfd83a10bbcb3467)
+![](/img/seedrs/uploads/startup/section_image/image/15671/iqjw5ydsbw7s7ff4kfk1s1cu82gkvc6/IMG_3064.JPG?rect=0%2C0%2C2048%2C1364&w=600&fit=clip&s=6446f20f9328749fdfd83a10bbcb3467)
 
 ### Competition strategy
 
@@ -93,5 +93,5 @@ Current options in the market are minimal and those that exist, we believe, are 
 
 At present, the best offerings in the plant-based convenience food space aren't available from traditional retail outlets and so consumers are used to having to order online, from bespoke websites, meaning they won't need to change their buying habit to order from The Brook.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15672/czdq6amoo9gmwk2v55pqggf4ycr8m4l/high_res-11.jpg?rect=0%2C0%2C960%2C961&w=600&fit=clip&s=105d6e91155787cfea101dcdc6c70884)
+![](/img/seedrs/uploads/startup/section_image/image/15672/czdq6amoo9gmwk2v55pqggf4ycr8m4l/high_res-11.jpg?rect=0%2C0%2C960%2C961&w=600&fit=clip&s=105d6e91155787cfea101dcdc6c70884)
 

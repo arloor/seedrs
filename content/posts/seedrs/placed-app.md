@@ -87,7 +87,7 @@ Having already proven the concept and signed up 131 venues, we now require fundi
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9883/5b7fevi4z7qs7cr6veuchkz63t4swp9/PLACED_SEEDR_13.jpg?rect=0%2C0%2C1667%2C889&w=600&fit=clip&s=e0f4485e58770e92d5ebc92460b18cc6)
+![](/img/seedrs/uploads/startup/section_image/image/9883/5b7fevi4z7qs7cr6veuchkz63t4swp9/PLACED_SEEDR_13.jpg?rect=0%2C0%2C1667%2C889&w=600&fit=clip&s=e0f4485e58770e92d5ebc92460b18cc6)
 
 ### Target market
 
@@ -101,7 +101,7 @@ Venues:
 
 • Medium to large venues and groups (restaurants, cafe's, bars, pubs, nightclubs, hotels) in London to commence with <br>• Growing businesses and new openings <br>• Venues challenged by staff retention
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9885/ohfsk9djgcbwp2ngn1ypkl3sha5rc7r/Placed-App-Store-Images_1.png?rect=0%2C0%2C640%2C956&w=600&fit=clip&s=590b0caeb5700f18737fee0f08bfc1e9)
+![](/img/seedrs/uploads/startup/section_image/image/9885/ohfsk9djgcbwp2ngn1ypkl3sha5rc7r/Placed-App-Store-Images_1.png?rect=0%2C0%2C640%2C956&w=600&fit=clip&s=590b0caeb5700f18737fee0f08bfc1e9)
 
 ### Characteristics of target market
 
@@ -109,19 +109,19 @@ The UK restaurant market is a leading economy to emerge from the recession and h
 
 The hospitality industry is also the 4th largest employing industry in the UK and the largest for people under 25 years old. With over 900,000 job applications made each quarter through the UK's largest hospitality job board sites, the market we are entering is definitely large and in need of a major shift.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9889/ldhf3bdnoh46he0cjacnxe0dskt5lmf/QUOTE_2.jpg?rect=0%2C0%2C1575%2C1575&w=600&fit=clip&s=62e888f4c8b6d758f2fb6bcf18a40462)
+![](/img/seedrs/uploads/startup/section_image/image/9889/ldhf3bdnoh46he0cjacnxe0dskt5lmf/QUOTE_2.jpg?rect=0%2C0%2C1575%2C1575&w=600&fit=clip&s=62e888f4c8b6d758f2fb6bcf18a40462)
 
 The current methods of recruiting is to either use an online job board, a recruiter or to rely on word of mouth. Using a job board is the cheaper option but requires a hefty amount of time. Job boards provide a large number of CV’s that need to be manually sifted through after which the candidates will need to to be contacted via another platform. Using a headhunter or recruiter is for many business an unaffordable way to recruit junior to mid-level staff. These agencies usually take a minimum of 10% of an annual salary and since the churn of these positions is so high, commission-based fee's are totally illogical.
 
 Venues that staff around 80 people will have about 4 to 5 new joiners a month, spend on average 10K a year on on recruitment, spend on average around 3 hours a day on recruitment and hold up to 8 interviews a week.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9886/kpuucc5l59pe3ypl83xvz6zj7se1zbh/PLACED_SEEDR_12.jpg?rect=0%2C0%2C1667%2C889&w=600&fit=clip&s=9d6fcb2e5b12a680e8c542009c3eb70b)
+![](/img/seedrs/uploads/startup/section_image/image/9886/kpuucc5l59pe3ypl83xvz6zj7se1zbh/PLACED_SEEDR_12.jpg?rect=0%2C0%2C1667%2C889&w=600&fit=clip&s=9d6fcb2e5b12a680e8c542009c3eb70b)
 
 ### Marketing strategy
 
 We have a strong network of contacts in the industry and because we found that venues are so eager to test alternative recruitment methods, our marketing strategies are geared more towards candidate acquisition. We believe firmly in having a strong brand identity and want to make looking for a job fun and easy whilst promoting hospitality as a respectable and "cool" industry to be a part of. In terms of the way we market Placed, we are first and foremost a technology-driven recruitment platform that not only provides easy access to hospitality jobs but easy access to the best ones at London's most prestigious and trendy venues whilst also accessing a world of industry news and benefits.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9890/4w0khxn69op2vkudl5whpyqwa6kigi8/QUOTE_1.jpg?rect=0%2C0%2C1575%2C1575&w=600&fit=clip&s=5625f0e1ca31fe7989ecf083608473dc)
+![](/img/seedrs/uploads/startup/section_image/image/9890/4w0khxn69op2vkudl5whpyqwa6kigi8/QUOTE_1.jpg?rect=0%2C0%2C1575%2C1575&w=600&fit=clip&s=5625f0e1ca31fe7989ecf083608473dc)
 
 News, benefits &amp; perks: <br>This is a great conversion incentive as well as the opportunity to offer our partner restaurants further marketing and exposure.
 
@@ -135,7 +135,7 @@ Open days and industry events: <br>We’re planning on organising interactive an
 
 Social media, PR and advertising: <br>We already have a strong social media presence and will also use PR and advertising to increase brand awareness and generate hype about Placed and its partner venues.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9882/bswzyknopf2q534apfr2vy4p3w68ovr/image1.JPG?rect=0%2C0%2C1082%2C1600&w=600&fit=clip&s=4984773a87c5159a9c18112d099b9295)
+![](/img/seedrs/uploads/startup/section_image/image/9882/bswzyknopf2q534apfr2vy4p3w68ovr/image1.JPG?rect=0%2C0%2C1082%2C1600&w=600&fit=clip&s=4984773a87c5159a9c18112d099b9295)
 
 ### Competition strategy
 
@@ -147,5 +147,5 @@ Through our years of experience in and understanding of the industry, including 
 
 We offer our clients highly competitive fees that sit slightly below most current offerings. We're changing the behaviour of existing recruitment methods through our centralised, automated, technology-driven service that save our customers time and money. Placed is here to change the way venues recruit and the way candidates look for jobs. Feedback has already dictated that our market is open to new methods and Placed is offering something better, effective, modern, innovative and of course, cheaper!
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9881/g42ha4o2hm6uxidcplh6he60a8b2ny7/JN.jpg?rect=0%2C0%2C2950%2C2000&w=600&fit=clip&s=c90a68135d0907b32fb5774c6db40bf8)
+![](/img/seedrs/uploads/startup/section_image/image/9881/g42ha4o2hm6uxidcplh6he60a8b2ny7/JN.jpg?rect=0%2C0%2C2950%2C2000&w=600&fit=clip&s=c90a68135d0907b32fb5774c6db40bf8)
 

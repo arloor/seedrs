@@ -91,5 +91,5 @@ Pulling from our differentiators, our defensible position comes from a combinati
 
 In summary, we don’t believe it’s a single element which makes us successful, but rather the combination of elements. No one else is approaching this segment in the way which we are, and we don’t believe it’s easy for new-comers to replicate these, nor for existing companies to easily change so many elements of their model to successfully compete with us in the short-term.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/806/oie0psuzbyxzkmvfh8eyxk6tmm8all8/team.JPG?rect=0%2C0%2C1600%2C1067&w=600&fit=clip&s=5e2f21a4dc3123b7f104d5f244ffae24)
+![](/img/seedrs/uploads/startup/section_image/image/806/oie0psuzbyxzkmvfh8eyxk6tmm8all8/team.JPG?rect=0%2C0%2C1600%2C1067&w=600&fit=clip&s=5e2f21a4dc3123b7f104d5f244ffae24)
 

@@ -79,7 +79,7 @@ The majority of independent hotels operate below their revenue-generating potent
 
 Because Revenue Management Solutions (RMS) available in the market are either too expensive or complex, we estimate that only 4% of the hotel market uses RMS. Additionally, the vast majority of the current RMS target multinational hotel chains or large 5-star hotels. There is an estimated untapped market (3 and 4-star hotels) of approximately £1.3 billion/year that we aim to tackle.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6956/ghbv6www2auwnc1b8np3csc0yior6o3/market.png?rect=0%2C0%2C600%2C373&w=600&fit=clip&s=71f943229b2260969346492cfb7b5faf)
+![](/img/seedrs/uploads/startup/section_image/image/6956/ghbv6www2auwnc1b8np3csc0yior6o3/market.png?rect=0%2C0%2C600%2C373&w=600&fit=clip&s=71f943229b2260969346492cfb7b5faf)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ We have signed a distribution partnership agreement with an established hotel so
 
 We have signed letter of agreements from 3 established hotel brands and we have 160 hotels already signed-up to run a pilot test. To start and launch into the market, we selected 10 hotels who already use HostPMS and we will start running the beta-tests in the January 2016.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6957/bb7zw92ux6a83w4isjckme76s4938ud/banner_seedrs.png?rect=0%2C0%2C600%2C336&w=600&fit=clip&s=8cff57f77d823420894e872fe44d9463)
+![](/img/seedrs/uploads/startup/section_image/image/6957/bb7zw92ux6a83w4isjckme76s4938ud/banner_seedrs.png?rect=0%2C0%2C600%2C336&w=600&fit=clip&s=8cff57f77d823420894e872fe44d9463)
 
 ### Competition strategy
 

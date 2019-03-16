@@ -61,7 +61,7 @@ They can familiarise themselves with the host or co-worker profiles prior to che
 
 Our Hosts: Company or business owners with their own office and a growing business that are looking for an easier and quicker way to earn extra income on unused space.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10694/bis8l0grth0ibq7zxfde2oatdvk06q7/Ofixu_8.png?rect=0%2C0%2C600%2C356&w=600&fit=clip&s=3809ef7ceff70a1952f9f7d02fa4b604)
+![](/img/seedrs/uploads/startup/section_image/image/10694/bis8l0grth0ibq7zxfde2oatdvk06q7/Ofixu_8.png?rect=0%2C0%2C600%2C356&w=600&fit=clip&s=3809ef7ceff70a1952f9f7d02fa4b604)
 
 Renting out underused offices or desk spaces is appealing but posting ads on classified websites isn’t, without the time or the budget to market their space OFIXU is the perfect solution.
 
@@ -69,7 +69,7 @@ Signing up is simple. Our hosts can list as many spaces as they’d like in no t
 
 In fact, our hosts won't need to visit OFIXU unless they receive a booking request or instant booking from a guest, they’ll be notified of these alerts via email and when required they can access their dashboard to accept bookings or amend listing details. They can also be able to make quick decisions on accepting guest bookings as well as access a full transaction log on their dashboard, the only things they need to do are update their availability and accept bookings.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10696/rin3xh58rxmsocaj3mytn03ogowm7dk/ofixu6.png?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=07b3e636365844ec07c3668194f1f3a0)
+![](/img/seedrs/uploads/startup/section_image/image/10696/rin3xh58rxmsocaj3mytn03ogowm7dk/ofixu6.png?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=07b3e636365844ec07c3668194f1f3a0)
 
 ### Characteristics of target market
 
@@ -79,7 +79,7 @@ The UK has more than 679m square meters of floor space with a rental income of �
 
 Ideal Market Conditions: Commercial space owners are seeking new ways to earn additional income, they're adapting their spaces to accommodate guests and are taking on a whole new look compared to the tired serviced office market. We're seeing establishments such as co-working spaces and trendy offices serving in particular the buoyant startup arena, coverage is growing, and spaces are adapting.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10697/5exwzy79eh2sd9kfi7kwnqaddtz9tyl/ofixu7.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=d9b0a0fd6770ca35974eeabdafef271a)
+![](/img/seedrs/uploads/startup/section_image/image/10697/5exwzy79eh2sd9kfi7kwnqaddtz9tyl/ofixu7.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=d9b0a0fd6770ca35974eeabdafef271a)
 
 ### Marketing strategy
 
@@ -91,7 +91,7 @@ OFIXU has already agreed rental spaces with well established office groups, over
 
 Consumer behaviour is changing, with advances in computing and mobile technology, people are working more remotely than ever before, OFIXU is capitalising on this change by offering all types of space. OFIXU offers convenience to guests and passing trade to hosts, meaning users who need a conducive place to work can book easily on OFIXU and hosts who have surplus space to rent can earn income.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10698/cy3j6jo2ighk4lvx6bcr3vde24i6gna/Ofixu_7.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=062bd289887c17c6fc6a52ff96962e23)
+![](/img/seedrs/uploads/startup/section_image/image/10698/cy3j6jo2ighk4lvx6bcr3vde24i6gna/Ofixu_7.png?rect=0%2C0%2C600%2C450&w=600&fit=clip&s=062bd289887c17c6fc6a52ff96962e23)
 
 ### Competition strategy
 
@@ -101,5 +101,5 @@ This is just one of the ways we’ll differentiate ourselves from competitors, s
 
 Also, unlike our competitors we don't display searchable content or contact details of hosts thus protecting information from competitors and ultimately protecting revenue. We take the time to write our own content ensuring each listing is completely unique and if a user wants to book a space this also guarantees that they don't failover to contacting the host outside of the platform. By encouraging the guest to book on OFIXU we protect our revenue which bares no cost to the guest as it is only charged to the host on a scale of 5-10% commission.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10699/k06ni7irqxa9nnu1y9gea04z6nagsta/Jessica_Leach___JessicaLeach6_8m8_minutes_ago_OFIXU_GLOBAL_-Light_and_airy__great_location_and_everyone_is_very_friendly_and_helpful__Also__there_s_unlimited_freshly_ground_coffee_-__1_.png?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=188ac89c97fa0ffb8ace68deaae3843f)
+![](/img/seedrs/uploads/startup/section_image/image/10699/k06ni7irqxa9nnu1y9gea04z6nagsta/Jessica_Leach___JessicaLeach6_8m8_minutes_ago_OFIXU_GLOBAL_-Light_and_airy__great_location_and_everyone_is_very_friendly_and_helpful__Also__there_s_unlimited_freshly_ground_coffee_-__1_.png?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=188ac89c97fa0ffb8ace68deaae3843f)
 

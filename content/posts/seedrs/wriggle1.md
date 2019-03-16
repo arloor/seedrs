@@ -91,7 +91,7 @@ Other expenditure will be split between B2C customer acquisition, and operationa
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6868/qh51izhbl8oon9m1d79h3h21vbvfbza/Screen_Shot_2016-01-18_at_11.11.05.png?rect=0%2C0%2C1752%2C1178&w=600&fit=clip&s=01273254cd60b4e5e44b73938ae0a8bc)
+![](/img/seedrs/uploads/startup/section_image/image/6868/qh51izhbl8oon9m1d79h3h21vbvfbza/Screen_Shot_2016-01-18_at_11.11.05.png?rect=0%2C0%2C1752%2C1178&w=600&fit=clip&s=01273254cd60b4e5e44b73938ae0a8bc)
 
 ### Target market
 
@@ -121,7 +121,7 @@ However you calculate it, unfilled capacity is an huge untapped market and a pro
 
 Once we have developed our technology for the food &amp; drink sector, we envision a huge opportunity to expand our platform to Health &amp; Fitness, Ticketed Events and Retail sectors - sectors which would match our current user-base and that we have already trialled in Bristol with success.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6876/654ke877q36z8jrqeybacsyavo45xxi/Screen_Shot_2016-01-18_at_11.10.55.png?rect=0%2C0%2C1758%2C1170&w=600&fit=clip&s=881101ad24dba6a63911d79f5118527f)
+![](/img/seedrs/uploads/startup/section_image/image/6876/654ke877q36z8jrqeybacsyavo45xxi/Screen_Shot_2016-01-18_at_11.10.55.png?rect=0%2C0%2C1758%2C1170&w=600&fit=clip&s=881101ad24dba6a63911d79f5118527f)
 
 ### Marketing strategy
 

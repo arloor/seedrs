@@ -93,7 +93,7 @@ Our VPT can become a standard part of a safe and full recovery from birth – a 
 
 Our target consumers are currently using a combination of services and products that show the demand for our offer. These includes pre and postnatal in-person fitness instructors and class leaders and membership of community/social groups such as NCT. Mums also form a key customer segment driving the 11.2% growth of fitness DVD sales over the 5 years to 2012 and 9.8% forecast growth in the next 5 years.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/495/qqkwiw8aeebkdyoc0g24d5pwxxwwuaq/market_slide.JPG?rect=0%2C0%2C716%2C538&w=600&fit=clip&s=66c94226d6d558f9c77abb021713f210)
+![](/img/seedrs/uploads/startup/section_image/image/495/qqkwiw8aeebkdyoc0g24d5pwxxwwuaq/market_slide.JPG?rect=0%2C0%2C716%2C538&w=600&fit=clip&s=66c94226d6d558f9c77abb021713f210)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ Ready Steady Mums hits the mark. Our entry-level services are free, flexible, an
 
 Mums have shown willingness to pay for various add-on services and products from Ready Steady Mums. We segment our customers in order to target promotions and tailor marketing messages, and our systems have been designed to ensure we continually develop consumer insight.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/496/35qzec792i1p7400cek367hlfixbuow/market_position.JPG?w=600&fit=clip&s=32075e939a9e5a80eea5add71d2b93e0)
+![](/img/seedrs/uploads/startup/section_image/image/496/35qzec792i1p7400cek367hlfixbuow/market_position.JPG?w=600&fit=clip&s=32075e939a9e5a80eea5add71d2b93e0)
 
 ### Marketing strategy
 
@@ -121,5 +121,5 @@ All this will build on our “free marketing” which we are already putting in 
 
 This is our overview of the competition:
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/501/fjlkh0e5x6v0azixwtgxtm9myeg6tzc/competitors.jpg?rect=0%2C0%2C960%2C720&w=600&fit=clip&s=e0f6806fc02533d088da37b7374e7fb9)
+![](/img/seedrs/uploads/startup/section_image/image/501/fjlkh0e5x6v0azixwtgxtm9myeg6tzc/competitors.jpg?rect=0%2C0%2C960%2C720&w=600&fit=clip&s=e0f6806fc02533d088da37b7374e7fb9)
 

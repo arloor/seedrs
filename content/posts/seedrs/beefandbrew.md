@@ -77,7 +77,7 @@ Our core target market is predominantly, but not exclusively, young professional
 
 Beef &amp; Brew’s affordability and relaxed atmosphere mean we can cater for a range of dining occasion. In addition to our core menu, we offer a range of menus from £10 early bird and weekday lunches, to brunches and Sunday Roasts. As result, we offer a well-rounded retail proposition, that is attractive across periods of the day and for a variety of dining experiences.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12828/l341ibi8ywp8g8jisnddj6qwpelii7/Screen_Shot_2017-09-18_at_16.16.45.png?rect=0%2C0%2C1452%2C964&w=600&fit=clip&s=be1857ad41c154128492c3a27bfc4d91)
+![](/img/seedrs/uploads/startup/section_image/image/12828/l341ibi8ywp8g8jisnddj6qwpelii7/Screen_Shot_2017-09-18_at_16.16.45.png?rect=0%2C0%2C1452%2C964&w=600&fit=clip&s=be1857ad41c154128492c3a27bfc4d91)
 
 ### Characteristics of target market
 
@@ -85,7 +85,7 @@ The UK restaurant market is c.£79bn in size, having remained relatively flat be
 
 However Branded Restaurants grew at 4.1% during the same period, and it is projected by the Pragma Market Snapshot 2016 that Branded Restaurants will continue to grow at 5.9%, with Branded Emerging Fast Food growing at 14.4%. Beef &amp; Brew fits these categories and therefore forms part of a fast growing sub segment.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12829/a7tbv6qc55mdrvcxf94mf6j0arf7bk3/WS_Beef_Brewhouse_260__2_.jpg?rect=0%2C0%2C1280%2C1280&w=600&fit=clip&s=51f049c9125591416a96bd29f7b8c77f)
+![](/img/seedrs/uploads/startup/section_image/image/12829/a7tbv6qc55mdrvcxf94mf6j0arf7bk3/WS_Beef_Brewhouse_260__2_.jpg?rect=0%2C0%2C1280%2C1280&w=600&fit=clip&s=51f049c9125591416a96bd29f7b8c77f)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ Local Residential Areas: (i) Promoting our Sunday roast, ensuring a full success
 
 We plan to use PR to drive media attention, which demonstrably worked with the opening of our first site. This will be enhanced through the use of advertising and social media with a planned increased focused on short videos.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12830/1gddbxl0btk5xefzh63hhb25qhrdssn/Screen_Shot_2017-09-18_at_16.18.26.png?rect=0%2C0%2C1433%2C951&w=600&fit=clip&s=1159e2118a77e10804a7035a907f6e50)
+![](/img/seedrs/uploads/startup/section_image/image/12830/1gddbxl0btk5xefzh63hhb25qhrdssn/Screen_Shot_2017-09-18_at_16.18.26.png?rect=0%2C0%2C1433%2C951&w=600&fit=clip&s=1159e2118a77e10804a7035a907f6e50)
 
 ### Competition strategy
 

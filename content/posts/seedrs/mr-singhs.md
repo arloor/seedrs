@@ -67,7 +67,7 @@ The company currently has a business loan worth £27,000. None of the funds rais
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9370/gras2gr206owi1qtkelxtyu3udx453f/Mr_Singh_s_family.__The_boys.JPG?rect=0%2C205%2C5616%2C3350&w=600&fit=clip&s=f508f1516586a7f19fc0c17f357d5f7e)
+![](/img/seedrs/uploads/startup/section_image/image/9370/gras2gr206owi1qtkelxtyu3udx453f/Mr_Singh_s_family.__The_boys.JPG?rect=0%2C205%2C5616%2C3350&w=600&fit=clip&s=f508f1516586a7f19fc0c17f357d5f7e)
 
 ### Target market
 
@@ -81,7 +81,7 @@ They are someone who wants to enjoy tasty, well balanced flavour and someone who
 
 We know from taste testing so many customers over the years that often, once people taste our products they love them and buy them again and again.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9367/anwi7nx20tqjlyl9w1odx96y1tyf2ls/Labelled_old_bottles.JPG?rect=0%2C29%2C1280%2C930&w=600&fit=clip&s=c8b386f7a029c92c0e9f3302ccc23368)
+![](/img/seedrs/uploads/startup/section_image/image/9367/anwi7nx20tqjlyl9w1odx96y1tyf2ls/Labelled_old_bottles.JPG?rect=0%2C29%2C1280%2C930&w=600&fit=clip&s=c8b386f7a029c92c0e9f3302ccc23368)
 
 ### Characteristics of target market
 
@@ -91,7 +91,7 @@ There are over 40,000 independent shops in the UK too. Our target is for 10% of 
 
 The market has been growing steadily for the past 6-7 years and will continue to do so as ethnic flavours become normalised in British food and tolerance for chilli gets higher and higher. <br>.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9368/1w7msqb2zkxn37zc0lxslo64agbme7j/Mr._Singhs_Hand_made_paneer.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=82e0561fbcecf7266dbadc6a32243bd6)
+![](/img/seedrs/uploads/startup/section_image/image/9368/1w7msqb2zkxn37zc0lxslo64agbme7j/Mr._Singhs_Hand_made_paneer.jpg?rect=0%2C0%2C3600%2C2400&w=600&fit=clip&s=82e0561fbcecf7266dbadc6a32243bd6)
 
 ### Marketing strategy
 
@@ -103,7 +103,7 @@ We have distribution in a plethora of local stores in London and the home counti
 
 We intend to reach our customers using the power of social media to drive them to our stores to enjoy what we have created. Our last social media video has been viewed over 250k times and we intend to release more content to reach more people.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9369/j16f2mfvfe4q4fme3stb1oeqoblcac7/Mr._Singhs_6_Hour_Pulled_Pork_and_Brioche_Bun_sandwich.jpg?rect=0%2C0%2C3600%2C2352&w=600&fit=clip&s=fb6faa5ffbc178091a6bece0db108bd2)
+![](/img/seedrs/uploads/startup/section_image/image/9369/j16f2mfvfe4q4fme3stb1oeqoblcac7/Mr._Singhs_6_Hour_Pulled_Pork_and_Brioche_Bun_sandwich.jpg?rect=0%2C0%2C3600%2C2352&w=600&fit=clip&s=fb6faa5ffbc178091a6bece0db108bd2)
 
 ### Competition strategy
 

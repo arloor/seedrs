@@ -121,7 +121,7 @@ January to June 2017 <br>- Begin manufacturing process <br>- Recruit a sales tea
 
 2) Existing demand for connected/automated systems. <br>- This is already a proven market, which is growing rapidly - The global market is predicted to generate around $61b in revenue this year, which is expected to grow to around $460b by 2019, meaning there's a huge opportunity.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7679/9cgxi581w66mxbkjepjd913u0afpff2/Graph.png?rect=83%2C16%2C876%2C434&w=600&fit=clip&s=e6c0b45231b41d9ce2f19946c416af77)
+![](/img/seedrs/uploads/startup/section_image/image/7679/9cgxi581w66mxbkjepjd913u0afpff2/Graph.png?rect=83%2C16%2C876%2C434&w=600&fit=clip&s=e6c0b45231b41d9ce2f19946c416af77)
 
 ### Marketing strategy
 
@@ -149,5 +149,5 @@ We offer a wide range of features that many of our competitors do not.
 
 Our products won’t require any complicated installation, you could have swapped your switch, synced with your smartphone, and be controlling in just a few minutes.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7696/6tznrrstsxbh2ecfxb5lwtl9oedb3nq/end_screen.png?rect=0%2C16%2C600%2C368&w=600&fit=clip&s=76acf796d48627efa97c4294867698bc)
+![](/img/seedrs/uploads/startup/section_image/image/7696/6tznrrstsxbh2ecfxb5lwtl9oedb3nq/end_screen.png?rect=0%2C16%2C600%2C368&w=600&fit=clip&s=76acf796d48627efa97c4294867698bc)
 

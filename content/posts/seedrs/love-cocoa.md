@@ -133,7 +133,7 @@ The way we differ from our competitors is:
 
 • We believe our branding is modern and stands out in the market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12462/r3fiomffwhi05h5x0c5osh7sh5lw40h/gin-_-tonic-dark-chocolate-love-cocoa-bar__1_.png?rect=0%2C0%2C2000%2C1429&w=600&fit=clip&s=2427d1ee2e98fd71df8650b4c2cc8db1)
+![](/img/seedrs/uploads/startup/section_image/image/12462/r3fiomffwhi05h5x0c5osh7sh5lw40h/gin-_-tonic-dark-chocolate-love-cocoa-bar__1_.png?rect=0%2C0%2C2000%2C1429&w=600&fit=clip&s=2427d1ee2e98fd71df8650b4c2cc8db1)
 
 ### Characteristics of target market
 
@@ -149,7 +149,7 @@ The way we differ from our competitors is:
 
 • We are entering the personalisation market with customers able to add a personalised packaging similar to a gift card with the additional benefit of our chocolate. The gift card market is worth £1.7 billion in UK (GCA Market Report 2016). Consumers are more savy, using services such as Moonpig to send cards (12m sent in 2011), without need to go out and buy a card and then send.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12463/cr3puhv04eag3tyuflyumv83lb0mprd/12345.png?rect=0%2C0%2C940%2C671&w=600&fit=clip&s=3df2c0efd468ae438cc31e674cbd4f0f)
+![](/img/seedrs/uploads/startup/section_image/image/12463/cr3puhv04eag3tyuflyumv83lb0mprd/12345.png?rect=0%2C0%2C940%2C671&w=600&fit=clip&s=3df2c0efd468ae438cc31e674cbd4f0f)
 
 ### Marketing strategy
 
@@ -159,7 +159,7 @@ Our main focus so far has been social media and Facebook advertising, however we
 
 • PR <br>We have used a freelance PR person to help with initial launch. We have been featured in The Telegraph, Campaign Magazine, Monocle and other business publications without a huge spend. We received a great deal of attention from the press after doing the Virgin Foodpreneur 2017. We will look to use a small agency to manage this side of the business and increase sales.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12464/117ngpyzetv5mu14xqhvg3yh3n9uwzx/123456.png?rect=0%2C0%2C940%2C569&w=600&fit=clip&s=7d8bcd1c809905fc36276af87911660b)
+![](/img/seedrs/uploads/startup/section_image/image/12464/117ngpyzetv5mu14xqhvg3yh3n9uwzx/123456.png?rect=0%2C0%2C940%2C569&w=600&fit=clip&s=7d8bcd1c809905fc36276af87911660b)
 
 • Referrals <br>We plan to launch a referral scheme which has been successful for companies such as Uber, Bloom &amp; Wild, Airbnb to name just a few. We plan to use funds from this raise to start this process.
 

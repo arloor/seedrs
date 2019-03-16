@@ -89,7 +89,7 @@ I have previously worked for Leicestershire Handmade Cheese on Sparkenhoe Farm, 
 
 This still holds true, as many wholesalers and shops I have spoken with are crying out for more raw milk blue cheese.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1444/41oxjliz4g3z6wa0kwz1oyu2cwkxkyh/W0050057.jpg?w=600&fit=clip&s=d35dccc1a22e214985f3068a3b0b1247)
+![](/img/seedrs/uploads/startup/section_image/image/1444/41oxjliz4g3z6wa0kwz1oyu2cwkxkyh/W0050057.jpg?w=600&fit=clip&s=d35dccc1a22e214985f3068a3b0b1247)
 
 ### Marketing strategy
 
@@ -109,5 +109,5 @@ Although I would expect to be the sole producer of raw milk blue cheese in North
 
 By making it day in, day out, I will ensure a product of the highest quality. Whilst most cheesemakers have to hire other people to make the cheese for them as the business grows, I feel I have found the most efficient size to ensure output of the highest quality with the lowest possible overheads.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1445/in4rga9mdn80f4adyn1jcaw7lecjgix/DSCF2999.jpg?w=600&fit=clip&s=77c121a68c7eca1f7f5a92b0e8af713a)
+![](/img/seedrs/uploads/startup/section_image/image/1445/in4rga9mdn80f4adyn1jcaw7lecjgix/DSCF2999.jpg?w=600&fit=clip&s=77c121a68c7eca1f7f5a92b0e8af713a)
 

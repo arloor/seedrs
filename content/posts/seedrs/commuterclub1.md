@@ -93,7 +93,7 @@ Ticket pricing is regulated by the Department for Transport (DfT) and follows lo
 
 Beyond the UK, commuting hubs such as New York, Paris, Madrid or Hong Kong offer expansion opportunities. A high-level assessment identified international opportunities of over £20bn.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13062/31wnidj85pi7mznlj7ggk7xcozwuo6i/Screen_Shot_2017-10-11_at_11.30.15.png?rect=79%2C10%2C499%2C344&w=600&fit=clip&s=265cd3281fab6dc5940963d068299086)
+![](/img/seedrs/uploads/startup/section_image/image/13062/31wnidj85pi7mznlj7ggk7xcozwuo6i/Screen_Shot_2017-10-11_at_11.30.15.png?rect=79%2C10%2C499%2C344&w=600&fit=clip&s=265cd3281fab6dc5940963d068299086)
 
 ### Marketing strategy
 

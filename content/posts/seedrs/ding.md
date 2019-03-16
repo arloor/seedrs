@@ -147,17 +147,17 @@ We believe that this presents a huge opportunity for Ding to gain some of the ma
 
 We will build BRAND TRUST using: PR on our company story, a UK husband and wife team with a ‘Made in Britain’­ badged product; our newsletter; and our four­-strand BLOG strategy to position us as a design authority, open up affiliate marketing, improve SEO and create a platform for UGC.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14341/10g2qplryie3zgiq7aodmdzxlfrp1hv/9__ding_R2.png?rect=0%2C0%2C1200%2C635&w=600&fit=clip&s=9157729d058f677e2fdcdb18c49cf1a3)
+![](/img/seedrs/uploads/startup/section_image/image/14341/10g2qplryie3zgiq7aodmdzxlfrp1hv/9__ding_R2.png?rect=0%2C0%2C1200%2C635&w=600&fit=clip&s=9157729d058f677e2fdcdb18c49cf1a3)
 
 DISCOVERABILITY will be increased through PRODUCT REVIEWS, a key part of our HIGH­-EARNER demographic buyer journey, increasing engagement and giving us early brand advocates.
 
 Design, interior and architectural MARKETING EVENTS and targeting EARLY INFLUENCERS within the design world will reach our interior design or ‘Pinterester’ market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14342/rxo4lorqa9xwikjctfzon1mdxhtzcrl/10_ding_R2.png?rect=0%2C0%2C1200%2C669&w=600&fit=clip&s=b772215cd5c8b711d1c8a8de3e9f91a9)
+![](/img/seedrs/uploads/startup/section_image/image/14342/rxo4lorqa9xwikjctfzon1mdxhtzcrl/10_ding_R2.png?rect=0%2C0%2C1200%2C669&w=600&fit=clip&s=b772215cd5c8b711d1c8a8de3e9f91a9)
 
 Our PREMIUM branding creates shareable image­-based SOCIAL MEDIA content to maintain and grow our community.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14343/65t5wzv1yri337xux1lo2xpjsqr7237/11_ding_R2.png?rect=0%2C0%2C1200%2C644&w=600&fit=clip&s=242f7a834f89d5086d9a5abbfa51d0e4)
+![](/img/seedrs/uploads/startup/section_image/image/14343/65t5wzv1yri337xux1lo2xpjsqr7237/11_ding_R2.png?rect=0%2C0%2C1200%2C644&w=600&fit=clip&s=242f7a834f89d5086d9a5abbfa51d0e4)
 
 RETAIL and in­-store demos will increase exposure. We are finalising one distribution deal and have relationships with retailers in UK, EU, US, CA and ANZ.
 

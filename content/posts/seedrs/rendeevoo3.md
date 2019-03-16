@@ -69,7 +69,7 @@ The expenses can be categorised as follows: <br>1. Marketing &amp; Promotion: Pl
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7503/mmujr6j0pxblcryb2e3gophglwhmtbs/target_market_cover.jpg?rect=0%2C0%2C2902%2C1925&w=600&fit=clip&s=2d226faf50d1fda609014728665a5afe)
+![](/img/seedrs/uploads/startup/section_image/image/7503/mmujr6j0pxblcryb2e3gophglwhmtbs/target_market_cover.jpg?rect=0%2C0%2C2902%2C1925&w=600&fit=clip&s=2d226faf50d1fda609014728665a5afe)
 
 ### Target market
 
@@ -123,5 +123,5 @@ Our barriers of entry are on two layers: <br>Firstly, our brand safeguards our m
 
 On top of that, we are leveraging our first-mover advantage via customer satisfaction which promotes the benefits of using our service.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7504/cg30wuiaeko9ykl3jgmg07hfi735uzt/competition_bottom__1_.jpg?rect=29%2C0%2C2872%2C3067&w=600&fit=clip&s=a4a2602d99dcff98853b054dd63f0029)
+![](/img/seedrs/uploads/startup/section_image/image/7504/cg30wuiaeko9ykl3jgmg07hfi735uzt/competition_bottom__1_.jpg?rect=29%2C0%2C2872%2C3067&w=600&fit=clip&s=a4a2602d99dcff98853b054dd63f0029)
 

@@ -69,7 +69,7 @@ Holidaymakers: <br>The UK self catered holiday market is valued at £4.3bn. It i
 
 Suppliers: <br>At present Snaptrip works with large scale professional holiday rental companies, giving them valuable sales of their properties that are still available on a last minute basis. The suppliers have anything from 50 - 15,000 properties and Snaptrip aggregates their availability and pricing via technical feeds.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13326/igepv42y6s61a6q5pderu9gymd5ln5k/search_page.png?rect=0%2C-2%2C602%2C453&w=600&fit=clip&s=569ca3707373f9263f72dbf77f2e14cc)
+![](/img/seedrs/uploads/startup/section_image/image/13326/igepv42y6s61a6q5pderu9gymd5ln5k/search_page.png?rect=0%2C-2%2C602%2C453&w=600&fit=clip&s=569ca3707373f9263f72dbf77f2e14cc)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ Other general characteristics of Snaptrip's holidaymakers include:
 
 85% of the searches are conducted by women. <br>53% of the bookings have at least one pet going away with them. <br>52% of the bookings have children under the age of 17 travelling with them. <br>50% of first visits and searches are done on mobile or tablet devices but 85% of the bookings are completed on a desktop computer.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13327/2if3cxkqlvf044z3jqvjwsnrqmjp4vg/Tudor_Cottage.jpg?rect=0%2C12%2C1200%2C888&w=600&fit=clip&s=c03c72afa8ecd926c10d9014c85ae9dc)
+![](/img/seedrs/uploads/startup/section_image/image/13327/2if3cxkqlvf044z3jqvjwsnrqmjp4vg/Tudor_Cottage.jpg?rect=0%2C12%2C1200%2C888&w=600&fit=clip&s=c03c72afa8ecd926c10d9014c85ae9dc)
 
 ### Marketing strategy
 

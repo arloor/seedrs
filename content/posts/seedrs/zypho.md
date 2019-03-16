@@ -89,7 +89,7 @@ In the UK alone, the current government aims to build 300k homes per year – co
 
 And in the EU, the 2012 Energy Efficiency Directive requires all new buildings to be nearly zero-energy buildings (NZEB) by 2020 and countries such as Germany and Holland are offering tax incentives to encourage technologies to help them meet these goals. The offsite construction sector has an important role to play in the future of construction industry as well as addressing UK (and EU) housing shortages, and Zypho is easily integrated in pre-fabricated structures like bathroom-pods, holiday homes and modular construction.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14697/hl69f0ghtgztn0eix51z3j38ft51toi/ZYpho-Seeders-Images_V03-05.jpg?rect=10%2C6%2C579%2C331&w=600&fit=clip&s=103865db6ddce7ab691eb1b9dd055d29)
+![](/img/seedrs/uploads/startup/section_image/image/14697/hl69f0ghtgztn0eix51z3j38ft51toi/ZYpho-Seeders-Images_V03-05.jpg?rect=10%2C6%2C579%2C331&w=600&fit=clip&s=103865db6ddce7ab691eb1b9dd055d29)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ By raising awareness to the advantages of reusing otherwise wasted energy, we ho
 
 With a distribution strategy based on partners that can ensure volume on a short medium term, our customers are identified within three vectors: <br>• Wholesalers of sanitary equipment; <br>• Providers of energy efficiency solutions; <br>• OEMs of sanitary equipment and companies who incorporate Zypho in their products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14698/lzmra7qybsics3qm30ye4w2w6pyvxsb/ZYpho-Seeders-Images_V03-08.jpg?rect=50%2C20%2C501%2C143&w=600&fit=clip&s=724a03fb0faeabf245c13e0bb3d6f3e5)
+![](/img/seedrs/uploads/startup/section_image/image/14698/lzmra7qybsics3qm30ye4w2w6pyvxsb/ZYpho-Seeders-Images_V03-08.jpg?rect=50%2C20%2C501%2C143&w=600&fit=clip&s=724a03fb0faeabf245c13e0bb3d6f3e5)
 
 ### Competition strategy
 

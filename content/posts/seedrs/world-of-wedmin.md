@@ -67,7 +67,7 @@ World of Wedmin intends to spend the investment on the following:
 
 The market is the wedding market which can be further subdivided into the "user" (couple) and the “supplier” (provider of wedding service). For the platform to be a success, it requires both markets to be equally involved with the website.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/2808/9lqecz15nq3fo0e1kbfm297ht58kpj5/Screenshot_2015-01-08_10.49.21.png?rect=0%2C0%2C990%2C352&w=600&fit=clip&s=22a5ad1fbf55ce45f7b0c5cebd3cf44a)
+![](/img/seedrs/uploads/startup/section_image/image/2808/9lqecz15nq3fo0e1kbfm297ht58kpj5/Screenshot_2015-01-08_10.49.21.png?rect=0%2C0%2C990%2C352&w=600&fit=clip&s=22a5ad1fbf55ce45f7b0c5cebd3cf44a)
 
 ### Characteristics of target market
 

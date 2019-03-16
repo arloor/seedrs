@@ -71,7 +71,7 @@ Our focus is mainly on London's "Green Belt" and the Home Counties.
 
 We also serve property management companies. Following lean start-up philosophy we're not pre-empting who our market is and are instead working to meet real customer needs, and trying to adapt our business to better service such requirements and demands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12236/gdivfg578skw9s700uckm7i2dseyzu9/Blue_Lawn_Mower_600.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=617d29ec0be961c68b518187dd1344aa)
+![](/img/seedrs/uploads/startup/section_image/image/12236/gdivfg578skw9s700uckm7i2dseyzu9/Blue_Lawn_Mower_600.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=617d29ec0be961c68b518187dd1344aa)
 
 ### Characteristics of target market
 
@@ -83,7 +83,7 @@ Another survey (Churchill, 2011) suggests that 6 million (12 per cent) Britons p
 
 To our knowledge, there is no prominent national brand for professional domestic gardening services in the UK and the market is very fragmented. In some areas, local firms can dominate, although operational capacity tends to limit expansion beyond a small geographical area.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12237/amlmcnt8ldwht2zmp0jnzeplp03w9cr/beforeandafter170516_small_600.jpg?rect=0%2C0%2C600%2C397&w=600&fit=clip&s=aa9cb2be4f634460f37da03d3fc8f64b)
+![](/img/seedrs/uploads/startup/section_image/image/12237/amlmcnt8ldwht2zmp0jnzeplp03w9cr/beforeandafter170516_small_600.jpg?rect=0%2C0%2C600%2C397&w=600&fit=clip&s=aa9cb2be4f634460f37da03d3fc8f64b)
 
 ### Marketing strategy
 
@@ -93,7 +93,7 @@ We also intend to activate PR and engage journalists in the major newspapers (al
 
 Finally, our aim is to set up trade stands at major events (e.g. RHS Flower Shows, etc.) to build brand awareness.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12238/taxfmm1bo60ylbunrjfgx523nq3dg9v/gardenclearance_B_A_20170521_small_600.jpg?rect=0%2C0%2C600%2C225&w=600&fit=clip&s=29b92a1b99038b846cd86d9fe04f26cc)
+![](/img/seedrs/uploads/startup/section_image/image/12238/taxfmm1bo60ylbunrjfgx523nq3dg9v/gardenclearance_B_A_20170521_small_600.jpg?rect=0%2C0%2C600%2C225&w=600&fit=clip&s=29b92a1b99038b846cd86d9fe04f26cc)
 
 ### Competition strategy
 

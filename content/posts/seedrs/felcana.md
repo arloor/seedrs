@@ -93,7 +93,7 @@ By 2021, analysts forecast 2.8M pets will wear monitoring devices in Europe and 
 
 The UK pet insurance market is the largest with over £1B of Gross Written Premiums in 2016 and growing at over 7% per annum. Other large pet insurance markets include the USA and the Nordics.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15559/fifgmvvnj2lzrkn5vxr7q7o7sy0gk93/Slide9__1_.jpg?rect=13%2C17%2C583%2C348&w=600&fit=clip&s=dfabd548e1d041a1c62de39471fc6c9e)
+![](/img/seedrs/uploads/startup/section_image/image/15559/fifgmvvnj2lzrkn5vxr7q7o7sy0gk93/Slide9__1_.jpg?rect=13%2C17%2C583%2C348&w=600&fit=clip&s=dfabd548e1d041a1c62de39471fc6c9e)
 
 ### Characteristics of target market
 
@@ -111,15 +111,15 @@ People have amazing bonds with their pets; ensuring Felcana’s marketing has an
 
 Current marketing activities include: <br>• EXHIBITING AT MAJOR TRADE SHOWS: In 2018 we will have exhibited at Crufts, The Wearable Technology Show, VetForum, and the London Vet Show. <br>• DRIVING PR: We have achieved significant exposure across print and television including features in the Daily Telegraph, Sky TV &amp; Channel 4. <br>• ENGAGING WITH SOCIAL MEDIA AND INFLUENCERS: Pets achieve tremendous reach on social media, relationships with influencers promotes adoption of products and services. <br>• BUILDING VETERINARY RECOMMENDATIONS: Work with our Felcana vets to build professional awareness. <br>• FEATURING ACROSS VETERINARY PUBLICATIONS: Collaborate with veterinary academia to develop research publications on clinical data insights.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15536/bap2u3dsjc2hm4e4veojhgfii4f2w4f/Slide10.jpg?rect=1%2C13%2C585%2C375&w=600&fit=clip&s=fe078b72e9ee1818cb2c0028b1938b97)
+![](/img/seedrs/uploads/startup/section_image/image/15536/bap2u3dsjc2hm4e4veojhgfii4f2w4f/Slide10.jpg?rect=1%2C13%2C585%2C375&w=600&fit=clip&s=fe078b72e9ee1818cb2c0028b1938b97)
 
 ### Competition strategy
 
 Competitors like Whistle and PitPat focus on activity monitoring without veterinary integration. Telemedicine providers like Fuzzy and ask.vet are focused on the US market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15557/34oooh9ewawjn6xa01bevlzz5n9yuqs/Slide4.jpg?rect=24%2C2%2C561%2C310&w=600&fit=clip&s=0d0fc207b42480d00901cb8ad3826e25)
+![](/img/seedrs/uploads/startup/section_image/image/15557/34oooh9ewawjn6xa01bevlzz5n9yuqs/Slide4.jpg?rect=24%2C2%2C561%2C310&w=600&fit=clip&s=0d0fc207b42480d00901cb8ad3826e25)
 
 Felcana differentiates by: <br>• FOCUSING ON HEALTH: Integrates digital products such as telemedicine, connected devices, and clinical records. <br>• BEING VETERINARY CREDIBLE: Founded by vets with the scientific background to know what pets, owners and vets need. <br>• BUILDING RESEARCH PARTNERSHIPS: Works with the Royal Veterinary College. <br>• DESIGNING SUPERIOR PRODUCTS: Designed with our customers, Felcana collects data, analyses that data in real time, and feeds back to constantly improve analytical insights. <br>• ENSURING EASE OF INTEGRATION: Built to easily integrate with all data sources, be that an open API from competitor devices or a veterinary practice management software system. <br>• MAKING OUR SOFTWARE SCALABLE: Written in Elixir, a software language, means we can quickly scale to millions of users.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15537/81qdngbvacrqqknzy3kcibuc6dbaea5/Slide11.jpg?rect=0%2C0%2C598%2C330&w=600&fit=clip&s=33d151c911871ee428d091f0bdd33997)
+![](/img/seedrs/uploads/startup/section_image/image/15537/81qdngbvacrqqknzy3kcibuc6dbaea5/Slide11.jpg?rect=0%2C0%2C598%2C330&w=600&fit=clip&s=33d151c911871ee428d091f0bdd33997)
 

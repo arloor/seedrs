@@ -175,5 +175,5 @@ Green - By guaranteeing that a parcel will be dropped off and accepted makes the
 
 Consumer driven - Our marketing strategy is to empower the customer to take control of their own deliveries. They can use any delivery service and any website they wish and CornerDrop will accept their parcels. This puts the power of fulfilment back into the consumers hands.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3930/qavmg0gwx9z13ocxsf2xt7gosips9jj/Untitled_9.jpg?rect=0%2C0%2C801%2C556&w=600&fit=clip&s=f16aa061cdb0c7f37197731321583a06)
+![](/img/seedrs/uploads/startup/section_image/image/3930/qavmg0gwx9z13ocxsf2xt7gosips9jj/Untitled_9.jpg?rect=0%2C0%2C801%2C556&w=600&fit=clip&s=f16aa061cdb0c7f37197731321583a06)
 

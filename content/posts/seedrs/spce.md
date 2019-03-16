@@ -93,7 +93,7 @@ As a cash-flow back-up, we have in place a small loan arrangement. This facility
 
 Our target market consists of both students (in 2+ year higher education) looking for term-time rental accommodation, domestically and abroad, and landlords aiming to lower outgoings to estate agents and automate the management of their property portfolios.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11441/5wyl17xnbeuz60usdev0mtxiji4e0o/IMG_0789.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=eb45a813f3c114fcb24a74389c825e36)
+![](/img/seedrs/uploads/startup/section_image/image/11441/5wyl17xnbeuz60usdev0mtxiji4e0o/IMG_0789.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=eb45a813f3c114fcb24a74389c825e36)
 
 Many 2nd+ year students, consisting of undergraduates, postgraduates and PHD’s, want to enjoy the benefits of living independently, including:
 
@@ -109,19 +109,19 @@ Despite this, research has shown demand for higher education is growing:
 
 Initially, our target market are the 2.28 million UK university students. In 2019, we intend to expand to both European and Asian Universities, starting with Hong Kong.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11453/hpzeyus30lkw0y9j8sx9ydzzmr4ifvx/2C9A0362.jpg?rect=0%2C0%2C600%2C399&w=600&fit=clip&s=8d1b66190620ef59e70a5048783ac3ee)
+![](/img/seedrs/uploads/startup/section_image/image/11453/hpzeyus30lkw0y9j8sx9ydzzmr4ifvx/2C9A0362.jpg?rect=0%2C0%2C600%2C399&w=600&fit=clip&s=8d1b66190620ef59e70a5048783ac3ee)
 
 Our landlord target market consists of:
 
 *Real estate companies. <br>*Private property owners. <br>*Individuals who live in homes with extra rooms. <br>*Semi-private space owners, e.g. rooms above shops and pubs. <br> <br>It’s no surprise that the number of UK rental properties is rising and with them, the number of landlords: <br> <br>*The number of landlords in the UK rose by 7% in 2013-14 to reach 1.75 million. <br>*At this rate over 1/3 of properties will be privately rented by 2032. <br>*26% of landlords plan to raise rent due to a number of reasons including increasing letting agent fees. <br> <br>SPCE intends to achieve the same disruptive impact as Airbnb with student accommodation, by penetrating the $200 billion, global student-housing market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11476/1nx65ckmvxu2g5aq6vdy5a99dr55uv8/14542316_306909699684293_1863314657823908397_o.jpg?rect=0%2C0%2C600%2C399&w=600&fit=clip&s=37e44447e0d5ead8ea93fc91e7f011ef)
+![](/img/seedrs/uploads/startup/section_image/image/11476/1nx65ckmvxu2g5aq6vdy5a99dr55uv8/14542316_306909699684293_1863314657823908397_o.jpg?rect=0%2C0%2C600%2C399&w=600&fit=clip&s=37e44447e0d5ead8ea93fc91e7f011ef)
 
 ### Characteristics of target market
 
 Students: <br>Higher education consultant Bob Goddard listed developing countries such as China and India as main sources of new students and forecasts that there will be over 8 million students studying abroad by 2025, which is 3 times more than today. ///According to UCAS, more than half a million students entered higher education around the UK last semester alone. <br> <br>Landlords: <br>43% of landlords said that their primary reason for not hiring letting agencies was the cost while 34% said that they want to meet tenants themselves. This is exactly what we plan to address with SPCE, by putting the landlord in touch with students directly at very little cost. <br> <br>We believe that stressed student-landlord relationships don’t only affect a few individuals, but the whole market. A recent YouGov survey shows that 40% of landlords wouldn’t rent their property to students, despite research by the NLA stating students are among the most reliable tenants. Although there can still be a strong negative stereotype surrounding student tenants, SPCE aims to improve this by creating systems of accountability amongst the higher education community, to show that a few bad apples don’t mean the whole lot are rotten. <br> <br>The Sharing Economy: <br>*Expected to rise from £9bn now to £230bn by 2025. <br>*Transactions reaching £7.4bn in 2015. <br>*On-demand household services are expected to be the fastest growing of the 5 sharing economy sectors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11475/ebmfuouyyltyv2jyqqrmefqo775pesv/IMG_0681.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=32a20f409c86313013445eecee189d31)
+![](/img/seedrs/uploads/startup/section_image/image/11475/ebmfuouyyltyv2jyqqrmefqo775pesv/IMG_0681.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=32a20f409c86313013445eecee189d31)
 
 ### Marketing strategy
 
@@ -143,7 +143,7 @@ Student focused initiatives:
 
 *TFL advertising campaign – targeting international students with multi-language posters, portraying a fast alternative to finding #homeawayfromhome. <br>
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11443/p6gh9264p46hzxko47mdlguq9hs2xpu/IMG_0797.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=14cae098e3c555ce4891b623cd952a4a)
+![](/img/seedrs/uploads/startup/section_image/image/11443/p6gh9264p46hzxko47mdlguq9hs2xpu/IMG_0797.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=14cae098e3c555ce4891b623cd952a4a)
 
 Landlords focused initiatives:
 
@@ -163,7 +163,7 @@ Working with Vestd (a company designed to help start-ups exchange equity for 3rd
 
 *TFL campaign targeting both first-time buyers and existing landlords. <br> <br>At Phase 2 of SPCE, which we hope will be within two years, we aim to incorporate artificial intelligence and big-data initiatives, run in collaboration with UK and Hong Kong based universities into our marketing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11444/f4wfwdleesndpjb4ja88xhgpppi03zd/2C9A0233.jpg?rect=0%2C2%2C600%2C398&w=600&fit=clip&s=3020f2c44dbdb9f5fc330add6724ef75)
+![](/img/seedrs/uploads/startup/section_image/image/11444/f4wfwdleesndpjb4ja88xhgpppi03zd/2C9A0233.jpg?rect=0%2C2%2C600%2C398&w=600&fit=clip&s=3020f2c44dbdb9f5fc330add6724ef75)
 
 ### Competition strategy
 

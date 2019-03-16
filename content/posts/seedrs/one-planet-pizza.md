@@ -93,7 +93,7 @@ Our target market can be split into three key areas;
 
 3) Restaurants/caterers, looking to provide an easy to produce vegan option, ie sell vegan pizzas on their menus. We aim to reach these catering establishments through frozen good wholesalers/distributors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11068/1pal77dy8zbc07u8os1wwpimw5s0vu6/DSC01095.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=27d6f0445690695821ec84b327972d90)
+![](/img/seedrs/uploads/startup/section_image/image/11068/1pal77dy8zbc07u8os1wwpimw5s0vu6/DSC01095.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=27d6f0445690695821ec84b327972d90)
 
 ### Characteristics of target market
 
@@ -111,7 +111,7 @@ The market we are developing our product range for is an expanding one on many f
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11069/tv0t5wx8jpxnb20mez8vj84rb66hy80/DSC01079.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=3270d90de036e80e536468bac48937a6)
+![](/img/seedrs/uploads/startup/section_image/image/11069/tv0t5wx8jpxnb20mez8vj84rb66hy80/DSC01079.jpg?rect=0%2C0%2C600%2C398&w=600&fit=clip&s=3270d90de036e80e536468bac48937a6)
 
 As well as individuals wishing to purchase a healthier, more ethical product, it is important that we understand how most people buy their vegetarian/vegan food. <br>We will have two main distribution routes to market:
 
@@ -135,7 +135,7 @@ We have a 7 stage plan to reach our market.
 
 6) Our aim is to “go national” distribution wise, to both specialist health food shops and supermarkets, with a big launch at Vegfest London, Brighton and Bristol next year – 2017. Interestingly Tesco recently reported that their chilled vegetarian good range had enjoyed increased sales of 20%
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11070/aoppumxdrukcsvsc564a4wbyam2kppj/DSC01156.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=2116f84ffbaad3a6fc056b9cbe0e2352)
+![](/img/seedrs/uploads/startup/section_image/image/11070/aoppumxdrukcsvsc564a4wbyam2kppj/DSC01156.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=2116f84ffbaad3a6fc056b9cbe0e2352)
 
 ### Competition strategy
 
@@ -147,5 +147,5 @@ Amy’s, an American company, produce a range of vegan pizzas which are stocked 
 
 We believe that we can produce a product that is superior to both these brands, and has a much higher profile in the vegan/veggie community, and a stronger brand positioning and loyalty, partly because our company will be owned by the core community it serves.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11071/nvc2o64ecfw4ukd3pmbuvcy3vk3fz8b/DSC01264.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=ed402a68a4c55f270c5985b350afe5af)
+![](/img/seedrs/uploads/startup/section_image/image/11071/nvc2o64ecfw4ukd3pmbuvcy3vk3fz8b/DSC01264.jpg?rect=0%2C0%2C600%2C400&w=600&fit=clip&s=ed402a68a4c55f270c5985b350afe5af)
 

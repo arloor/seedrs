@@ -93,11 +93,11 @@ Please be aware that any discounts, rewards and/or offers listed by a company in
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12507/eeo9t5m6fgzt0pdyeo3ny1t792kvuwf/02_Market_EVOK.png?rect=0%2C139%2C1009%2C1244&w=600&fit=clip&s=bdf66809c13efb77b7086b8d1fa322b9)
+![](/img/seedrs/uploads/startup/section_image/image/12507/eeo9t5m6fgzt0pdyeo3ny1t792kvuwf/02_Market_EVOK.png?rect=0%2C139%2C1009%2C1244&w=600&fit=clip&s=bdf66809c13efb77b7086b8d1fa322b9)
 
 Scooters outsell cars by almost two times. The market is estimated to be valued at $30 billion per year. Today, petrol scooters still dominate the market, and since older petrol scooters can pollute up to 2,700 times more than a heavy truck, they are starting to be banned from major cities worldwide, with Amsterdam starting January 2018.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12541/8irs3pbrzh58zu88qk164pobl3ybvcc/Market_EV_scooter_ownership_EVOK__1_.png?rect=0%2C0%2C1017%2C474&w=600&fit=clip&s=33a904fabfb7ba8623bd05bc15e899b2)
+![](/img/seedrs/uploads/startup/section_image/image/12541/8irs3pbrzh58zu88qk164pobl3ybvcc/Market_EV_scooter_ownership_EVOK__1_.png?rect=0%2C0%2C1017%2C474&w=600&fit=clip&s=33a904fabfb7ba8623bd05bc15e899b2)
 
 With the highest scooter density in Europe and the second highest adoption of electric vehicles in the world, The Netherlands - and Amsterdam in specific - is one of the best places to start:
 
@@ -107,11 +107,11 @@ With the highest scooter density in Europe and the second highest adoption of el
 
 Because people differ in their product adoption, not everyone can be reached with the same sales channels and activities. The serviceable addressable market is divided into groups of people of which the adoption rate of innovations differ. This differentiation is, amongst others, influenced by social status (some people want to be first, while other first want to see social acceptance from others), relative affluence and the marketing channels that are used.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12508/k1y37djqbta06i5o30hsz60h282jqup/22._Market_adoption_visual_seedrs_FCNM.png?rect=0%2C0%2C1024%2C616&w=600&fit=clip&s=52ef28f7a996983b4b6229a117bcf9b4)
+![](/img/seedrs/uploads/startup/section_image/image/12508/k1y37djqbta06i5o30hsz60h282jqup/22._Market_adoption_visual_seedrs_FCNM.png?rect=0%2C0%2C1024%2C616&w=600&fit=clip&s=52ef28f7a996983b4b6229a117bcf9b4)
 
 Having a clear overview of who you are selling to is crucial in order to target your marketing efforts appropriately, but also to set the right tone of voice in your communications.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12511/sxqsv95zn2xdtioum7080dvymjmgat6/18._Target_customer_visual_seedrs_FCNM__1_.png?rect=0%2C-4%2C1024%2C412&w=600&fit=clip&s=b8eb85f28a287472de448d26b92250b5)
+![](/img/seedrs/uploads/startup/section_image/image/12511/sxqsv95zn2xdtioum7080dvymjmgat6/18._Target_customer_visual_seedrs_FCNM__1_.png?rect=0%2C-4%2C1024%2C412&w=600&fit=clip&s=b8eb85f28a287472de448d26b92250b5)
 
 Our target customer is described by combining many different market research papers that contain data about people who buy scooters, and our own data that we gathered. As you can see from the data above, the bulk of our target customers are mostly males between 35 and 55 who live in an urban or suburban area.
 
@@ -121,25 +121,25 @@ Our research shows that our target customer tends to be a man that is active on 
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12548/b959vntn25gutjzddrgg317dbynigax/Positioning_EVOK.png?rect=20%2C0%2C993%2C576&w=600&fit=clip&s=104bb18e4b34ca6034573b7ddfcbf96a)
+![](/img/seedrs/uploads/startup/section_image/image/12548/b959vntn25gutjzddrgg317dbynigax/Positioning_EVOK.png?rect=20%2C0%2C993%2C576&w=600&fit=clip&s=104bb18e4b34ca6034573b7ddfcbf96a)
 
 We position Etergo as a premium brand. We do not just market on being green, rather on the aspects that add value to our customer’s lifestyle and the use cases our product directly unlocks through it's various USPs such as: range, acceleration, storage space and apps in the cockpit. We focus on adding value throughout the entire customer journey, from first visit to the delivery and service experience. The graph above illustrates where we aim to position ourselves in comparison to our competitors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12509/tctpcjg1o3xpot6pwfjkqrby5dqwtkd/21._Customer_journey_info_box_seedrs_FCNM.png?rect=0%2C0%2C1024%2C606&w=600&fit=clip&s=a333a6ee7cad5551a8a9eb6eca8c077c)
+![](/img/seedrs/uploads/startup/section_image/image/12509/tctpcjg1o3xpot6pwfjkqrby5dqwtkd/21._Customer_journey_info_box_seedrs_FCNM.png?rect=0%2C0%2C1024%2C606&w=600&fit=clip&s=a333a6ee7cad5551a8a9eb6eca8c077c)
 
 Our website is our primary sales channel and is completely engineered for engagement &amp; converting visitors into subscribers, and subscribers into ambassadors and/or buying customers. The entire flow, from the initial visit to an AppScooter reservation is optimized for conversion for every step of the cycle.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12510/f5w78nqusc93uzgp4cz5lfruxllno96/11_Marketing_FCNM.png?rect=0%2C0%2C1024%2C1447&w=600&fit=clip&s=6eff069ea9532f0e44005c0d7d6b41ea)
+![](/img/seedrs/uploads/startup/section_image/image/12510/f5w78nqusc93uzgp4cz5lfruxllno96/11_Marketing_FCNM.png?rect=0%2C0%2C1024%2C1447&w=600&fit=clip&s=6eff069ea9532f0e44005c0d7d6b41ea)
 
 The viral loop is the growth multiplier of all our marketing efforts and has been built into the DNA of our website. This yields an exponential organic growth of our reach and effectively multiplies the effect of every M&amp;S euro spent. People that visit our website are encouraged to invite their friends and colleagues through our Referral Program &amp; Design Contest.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12531/lx1xbh76cmom5wg2mmfhvj8zzjqzw5x/Viral_loop_seedrs_FCNM.png?rect=0%2C0%2C1024%2C685&w=600&fit=clip&s=c3a1f2c6e93abaf1493f6e8f19c79060)
+![](/img/seedrs/uploads/startup/section_image/image/12531/lx1xbh76cmom5wg2mmfhvj8zzjqzw5x/Viral_loop_seedrs_FCNM.png?rect=0%2C0%2C1024%2C685&w=600&fit=clip&s=c3a1f2c6e93abaf1493f6e8f19c79060)
 
 ### Competition strategy
 
 To our knowledge, Etergo is the first scooter that runs apps, which, together with our composite monocoque, grants us a unique advantage over existing and future competitors. However, since the electric scooter market is enormous there are some serious competitors to consider. Below we give you an overview of the ones we think are most relevant.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12549/llazlpqp7awvi370d28aatbma6zoqxv/Competition_EVOK__3_.png?rect=20%2C19%2C988%2C1374&w=600&fit=clip&s=c15990cec16b72cfb24fd3812ca5407e)
+![](/img/seedrs/uploads/startup/section_image/image/12549/llazlpqp7awvi370d28aatbma6zoqxv/Competition_EVOK__3_.png?rect=20%2C19%2C988%2C1374&w=600&fit=clip&s=c15990cec16b72cfb24fd3812ca5407e)
 
 We also distinguish ourselves from competitors on the initial target market from a business perspective, as our initial market will be Europe, in contrast to our competitors who are mainly focusing on Asia. Govecs is from Germany, but focusses on mainly on the b2b segment.
 

@@ -99,7 +99,7 @@ We have capitalised on that demand by creating a new site for Dog Tracker Nano w
 
 We feel we understand our market; have the credibility of success in the sector; a history of innovation and rigorous testing, and are able to move fast into the mass market. Our partnership approach ensures a high presence and influence in the market, at low cost to the business.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7267/d2jxx4emhmelbjqxwpow4thyzu7ryas/Target_Market.png?rect=24%2C0%2C448%2C221&w=600&fit=clip&s=fb177392987c184340e659d71fe3405c)
+![](/img/seedrs/uploads/startup/section_image/image/7267/d2jxx4emhmelbjqxwpow4thyzu7ryas/Target_Market.png?rect=24%2C0%2C448%2C221&w=600&fit=clip&s=fb177392987c184340e659d71fe3405c)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ Keeping a dog fit and healthy is a challenge with inadequate food labeling and l
 
 Nano aims to meet these needs through a single device and a powerful app that combines activity data with self-entered information to calculate ideal weight, exercise and nutrition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7269/5j95lzggaybwlvvgsvdh2tccffdaxro/Characteristics.png?rect=0%2C0%2C682%2C260&w=600&fit=clip&s=fb2c11ea34a478fa8ccb6c07dfad7dfb)
+![](/img/seedrs/uploads/startup/section_image/image/7269/5j95lzggaybwlvvgsvdh2tccffdaxro/Characteristics.png?rect=0%2C0%2C682%2C260&w=600&fit=clip&s=fb2c11ea34a478fa8ccb6c07dfad7dfb)
 
 ### Marketing strategy
 
@@ -141,7 +141,7 @@ VetUK - one of the largest direct to customer online retailers of veterinary and
 
 Dog Friendly - the UK's largest database of places where your dog will be as welcome as you are, with over 100,000 members.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7270/ilbde7wsga6bkstlpamoxqmhgin8kji/Marketing_Strategy.png?rect=0%2C-2%2C504%2C332&w=600&fit=clip&s=cab83d9f7772da17fe65c61b32b39f1a)
+![](/img/seedrs/uploads/startup/section_image/image/7270/ilbde7wsga6bkstlpamoxqmhgin8kji/Marketing_Strategy.png?rect=0%2C-2%2C504%2C332&w=600&fit=clip&s=cab83d9f7772da17fe65c61b32b39f1a)
 
 ### Competition strategy
 
@@ -161,5 +161,5 @@ Travel. <br>Holidays. <br>Welfare. <br>Pet retail stores. <br>Online pet retail.
 
 4. Secure exclusive licensing, wholesale and distribution agreements throughout the EU.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7268/cobumle359mzjb0zzqr6hb1tcybgxkf/Competition_Strategy.png?rect=0%2C-4%2C488%2C359&w=600&fit=clip&s=a832deb708c9a6162c5f363d10d85687)
+![](/img/seedrs/uploads/startup/section_image/image/7268/cobumle359mzjb0zzqr6hb1tcybgxkf/Competition_Strategy.png?rect=0%2C-4%2C488%2C359&w=600&fit=clip&s=a832deb708c9a6162c5f363d10d85687)
 

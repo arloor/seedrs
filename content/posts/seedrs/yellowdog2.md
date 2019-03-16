@@ -85,7 +85,7 @@ This investment will be used to help YellowDog to scale and achieve its first be
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9907/iiaojw0kmjzj09y8y2zwtgfetsy4qhs/8.png?rect=0%2C0%2C600%2C384&w=600&fit=clip&s=e956b59e19616dc63e194cc4ff52f8d7)
+![](/img/seedrs/uploads/startup/section_image/image/9907/iiaojw0kmjzj09y8y2zwtgfetsy4qhs/8.png?rect=0%2C0%2C600%2C384&w=600&fit=clip&s=e956b59e19616dc63e194cc4ff52f8d7)
 
 ### Target market
 
@@ -99,7 +99,7 @@ Industrial Pack: High Tech Small and Medium Businesses, like Managed Service Pro
 
 Public Pack: Students in full time higher education in select Universities with animation courses.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9908/3e8kdte1r0h13smglfjrmlzg9qr0ist/9.png?rect=0%2C0%2C600%2C294&w=600&fit=clip&s=ff6a465cf0e3ef5f9f459a12a8bbf189)
+![](/img/seedrs/uploads/startup/section_image/image/9908/3e8kdte1r0h13smglfjrmlzg9qr0ist/9.png?rect=0%2C0%2C600%2C294&w=600&fit=clip&s=ff6a465cf0e3ef5f9f459a12a8bbf189)
 
 ### Characteristics of target market
 
@@ -117,7 +117,7 @@ The Public Pack
 
 There were 2.3 million students registered to study in the UK in 2012-2013. In 2014, 89% students owned their own laptop.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9909/7j6yinmb00vdr4ez10z6jip74hmib6f/10.jpg?rect=2%2C0%2C598%2C195&w=600&fit=clip&s=93f4347cd1b8181d60abed2fdc6b8bcd)
+![](/img/seedrs/uploads/startup/section_image/image/9909/7j6yinmb00vdr4ez10z6jip74hmib6f/10.jpg?rect=2%2C0%2C598%2C195&w=600&fit=clip&s=93f4347cd1b8181d60abed2fdc6b8bcd)
 
 ### Marketing strategy
 
@@ -135,7 +135,7 @@ For The Public Pack, the proposition centres on getting money for doing nothing.
 
 • Social media. <br>• Online promotion on moneysaving websites (both general and Student). <br>• Referrals &amp; word of mouth. <br>• £260 a year if used 8 hours a night – which pays for a Student’s computer during university, or mosquito nets for 16 children every month, through Oxfam.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9910/fdo8ubouzs82ay1ttx72cz8vs419np1/11.png?rect=0%2C0%2C600%2C296&w=600&fit=clip&s=db93df61a7b1438ac1a1d8637c0591b7)
+![](/img/seedrs/uploads/startup/section_image/image/9910/fdo8ubouzs82ay1ttx72cz8vs419np1/11.png?rect=0%2C0%2C600%2C296&w=600&fit=clip&s=db93df61a7b1438ac1a1d8637c0591b7)
 
 ### Competition strategy
 

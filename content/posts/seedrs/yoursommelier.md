@@ -101,7 +101,7 @@ New clients may subscribe to our box for different reasons:
 
 - Receive and discover new wines regularly, without having to choose them in a list of hundreds of bottles. <br>- Learn about French wine, grapes, regions, appellations and winemaking techniques with our friendly tasting cards. <br>- Taste a number of different wines and re-order them at a 20% discount to the public price. <br>- Offer a gift to friends &amp; family - giving us a share of the "What could I get for his/her birthday present" market. <br>- Learn how to taste a wine.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12208/mph0fvnk6tfsz41n00lzaiarqyfasx9/Campaign-Boxes-1bis.jpg?rect=0%2C0%2C600%2C250&w=600&fit=clip&s=f461526ee4e9a272f1bb4dfc019ccaf9)
+![](/img/seedrs/uploads/startup/section_image/image/12208/mph0fvnk6tfsz41n00lzaiarqyfasx9/Campaign-Boxes-1bis.jpg?rect=0%2C0%2C600%2C250&w=600&fit=clip&s=f461526ee4e9a272f1bb4dfc019ccaf9)
 
 ### Characteristics of target market
 
@@ -123,7 +123,7 @@ Our objective is to have a continuous digital marketing strategy to drive web tr
 
 Through our contacts and the services from a PR agency, we started to contact a wide range of media (specialised national and local newspapers, lifestyle blogs) to introduce our subscription box. Samples are being sent to multiple journalists and some articles are already out. We are also preparing a wider campaign, and we intend to repeat this on a regular basis - especially around special dates like Christmas.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12213/rr4iuv41ptw2vzl9plbiiix83ad6upi/Campaign-Press_Coverage.png?rect=0%2C0%2C600%2C311&w=600&fit=clip&s=77b33f439c883a91c5cf85af5f5e4abd)
+![](/img/seedrs/uploads/startup/section_image/image/12213/rr4iuv41ptw2vzl9plbiiix83ad6upi/Campaign-Press_Coverage.png?rect=0%2C0%2C600%2C311&w=600&fit=clip&s=77b33f439c883a91c5cf85af5f5e4abd)
 
 * Wine fairs
 
@@ -155,7 +155,7 @@ We want this discount to be one of the main arguments to subscribe and create a 
 
 This is key to our business model. As several competitors tend to deliver lower quality wines, we strive in finding bottles with amazing value for money. Moreover, offering 3 bottles per months (vs 2 for most competitors) should allow us to reduce external costs per bottle (delivery, boxes...), hence giving us a higher purchase price per bottle for a given margin.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12209/abrnjvh3obpzhhbgcmsjb8ppxjpto6u/Campaign-Wine-Bottles-2.png?rect=0%2C0%2C592%2C255&w=600&fit=clip&s=0de621f35629a9da82fb45e3e6fc1422)
+![](/img/seedrs/uploads/startup/section_image/image/12209/abrnjvh3obpzhhbgcmsjb8ppxjpto6u/Campaign-Wine-Bottles-2.png?rect=0%2C0%2C592%2C255&w=600&fit=clip&s=0de621f35629a9da82fb45e3e6fc1422)
 
 * Emphasis on education
 
@@ -165,5 +165,5 @@ As wine consumers are increasingly looking to educate themselves about wine, we 
 
 We believe our offer to be simple and clear, the subscription only takes a few clicks and is very straightforward to manage on the website.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12210/1c13pzw46z38c8dd5s62ibygchjk60j/Campaign-Vineyard.png?rect=0%2C0%2C600%2C231&w=600&fit=clip&s=31a0a8c0ccb374aea8490f3706842c2c)
+![](/img/seedrs/uploads/startup/section_image/image/12210/1c13pzw46z38c8dd5s62ibygchjk60j/Campaign-Vineyard.png?rect=0%2C0%2C600%2C231&w=600&fit=clip&s=31a0a8c0ccb374aea8490f3706842c2c)
 

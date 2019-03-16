@@ -91,7 +91,7 @@ Eat Square has already proven that there are discerning pie eaters out there who
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11427/gaqqq5ksi88c4lo8y6pjbgpzcax4ivi/traditional_pies_from_eat_square_logo.jpg?rect=0%2C0%2C1024%2C595&w=600&fit=clip&s=b74204bedfd5d3d7c248210fd0fe03b6)
+![](/img/seedrs/uploads/startup/section_image/image/11427/gaqqq5ksi88c4lo8y6pjbgpzcax4ivi/traditional_pies_from_eat_square_logo.jpg?rect=0%2C0%2C1024%2C595&w=600&fit=clip&s=b74204bedfd5d3d7c248210fd0fe03b6)
 
 In 2010 the total market for pies was forecast to reach almost £1bn in the UK. The premium pies market has seen large and sustained growth in the past as people look for better quality and responsibly sourced ingredients.
 
@@ -101,7 +101,7 @@ Eat Square make traditional pies but we also make and sell gluten and dairy free
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11429/n4ohe90yl8u1dk3sk4ren5lgmqn8a9n/lots_of_pies_on_a_board.jpg?rect=0%2C1%2C3008%2C2000&w=600&fit=clip&s=c43c4b83b9b3ac990b1e0f430ff79f77)
+![](/img/seedrs/uploads/startup/section_image/image/11429/n4ohe90yl8u1dk3sk4ren5lgmqn8a9n/lots_of_pies_on_a_board.jpg?rect=0%2C1%2C3008%2C2000&w=600&fit=clip&s=c43c4b83b9b3ac990b1e0f430ff79f77)
 
 Social Media has played a large part of getting Eat Square where it is today. We engage with our customers through Facebook and have built our following to over 1000. We often run promotions and initiatives on Facebook.
 
@@ -111,7 +111,7 @@ Our view is that for our products packaging is key to wholesale for retail, and 
 
 Eat Square is already listed with 3 supermarket chains (Budgens, Londis and Co-OP) although we have been unable to service them fully. With increased production and margins Eat Square plans to capitalise on these listings and look to gain others.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11426/58z3bh89xkjm7j5tm7gcm0epnkpaxty/Peter_Ebdon_eating_all_the_pies.jpg?rect=0%2C0%2C2400%2C1810&w=600&fit=clip&s=6b23d170163d625d60d742ad5bc139a4)
+![](/img/seedrs/uploads/startup/section_image/image/11426/58z3bh89xkjm7j5tm7gcm0epnkpaxty/Peter_Ebdon_eating_all_the_pies.jpg?rect=0%2C0%2C2400%2C1810&w=600&fit=clip&s=6b23d170163d625d60d742ad5bc139a4)
 
 Alex with snooker player Peter Ebdon
 
@@ -123,5 +123,5 @@ One of the large pie-makers, Pukka Pies turned over more than £45 million in 20
 
 Our customers have already shown us they are willing to pay a little more for a quality pie. We believe that a significant proportion of pie eaters would rather pay a little more for a much better pie and we plan to go out and grab a slice of this market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11428/kcv8ixwu5up5najw6riz1d2kino5th9/eat-square-logo-RGB-340-v4.png?rect=0%2C0%2C340%2C340&w=600&fit=clip&s=1805334ead870f1f32c17ab94ee86c1c)
+![](/img/seedrs/uploads/startup/section_image/image/11428/kcv8ixwu5up5najw6riz1d2kino5th9/eat-square-logo-RGB-340-v4.png?rect=0%2C0%2C340%2C340&w=600&fit=clip&s=1805334ead870f1f32c17ab94ee86c1c)
 

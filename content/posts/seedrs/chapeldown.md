@@ -131,7 +131,7 @@ It is no good making great products if no one gets to drink them!
 
 Our customers, such as Jamie Oliver, Gordon Ramsay, Waitrose, Majestic, Marks and Spencer and many others see Chapel Down not as an unusual quirky addition to a wine list, but as an essential component to satisfy a discerning consumer looking for great tasting, consistent and well-presented brands that they feel good about drinking.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1981/mj17fwutwtl9ah2l7u6sqaxvkno8n0w/5.jpg?rect=0%2C0%2C1743%2C2457&w=600&fit=clip&s=df5f9a9344ee03ae924cae25916a013c)
+![](/img/seedrs/uploads/startup/section_image/image/1981/mj17fwutwtl9ah2l7u6sqaxvkno8n0w/5.jpg?rect=0%2C0%2C1743%2C2457&w=600&fit=clip&s=df5f9a9344ee03ae924cae25916a013c)
 
 ### Characteristics of target market
 
@@ -141,7 +141,7 @@ A recent report shows Chapel Down is the 9th most listed wine brand (including s
 
 Source: Wine Business Solutions (WBS) On-trade Report 2013, published Feb 14
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1982/ipa8tq3nsmgommiec098fdzrxlxpxp1/6.jpg?rect=313%2C11%2C1099%2C1760&w=600&fit=clip&s=22baebcc3e51e1b5c44d2abc09806286)
+![](/img/seedrs/uploads/startup/section_image/image/1982/ipa8tq3nsmgommiec098fdzrxlxpxp1/6.jpg?rect=313%2C11%2C1099%2C1760&w=600&fit=clip&s=22baebcc3e51e1b5c44d2abc09806286)
 
 ### Marketing strategy
 
@@ -153,5 +153,5 @@ It is a question we ask ourselves every day. And the reason we think they do cho
 
 And that should make them feel pretty good. We support this with innovative and interesting marketing activity. Such as the World’s biggest ever bottle of English fizz, signed by some of England’s greatest contemporary artists, auctioned to create money for the Turner Trust and hundreds of thousands of pounds of publicity for Chapel Down.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1990/7541nmieznrgxj1crbvw5dl3skaj2my/8.jpg?rect=0%2C0%2C1743%2C2457&w=600&fit=clip&s=55bc2959d1f435f6cd74b758fab0bb33)
+![](/img/seedrs/uploads/startup/section_image/image/1990/7541nmieznrgxj1crbvw5dl3skaj2my/8.jpg?rect=0%2C0%2C1743%2C2457&w=600&fit=clip&s=55bc2959d1f435f6cd74b758fab0bb33)
 

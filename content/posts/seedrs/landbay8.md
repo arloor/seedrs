@@ -127,7 +127,7 @@ In addition, as part of the long term strategic partnership, Zoopla Property Gro
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6853/i83aktow399szlgn9xpiq1e3xc6jtf4/SeedrsJan_-_Diagrams_R2_Residential_Mortgages__2_.png?rect=0%2C0%2C511%2C285&w=600&fit=clip&s=1bd505a914a8a242c5d8b4beee1708ec)
+![](/img/seedrs/uploads/startup/section_image/image/6853/i83aktow399szlgn9xpiq1e3xc6jtf4/SeedrsJan_-_Diagrams_R2_Residential_Mortgages__2_.png?rect=0%2C0%2C511%2C285&w=600&fit=clip&s=1bd505a914a8a242c5d8b4beee1708ec)
 
 ### Target market
 
@@ -159,7 +159,7 @@ Tranching by risk opens up the portfolio to many more investors – for example,
 
 We are currently working with a number of major institutional investors on tailoring direct flow agreements based on their specific risk and debt profile appetites.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6854/2wtljdj4nxdro72aw04gn3ut7es74nj/SeedrsJan-_Diagrams_R2_ISA_Accounts__1_.png?rect=0%2C4%2C511%2C280&w=600&fit=clip&s=51d3f8263b4415fdbb333c306ea581bf)
+![](/img/seedrs/uploads/startup/section_image/image/6854/2wtljdj4nxdro72aw04gn3ut7es74nj/SeedrsJan-_Diagrams_R2_ISA_Accounts__1_.png?rect=0%2C4%2C511%2C280&w=600&fit=clip&s=51d3f8263b4415fdbb333c306ea581bf)
 
 ### Characteristics of target market
 
@@ -183,7 +183,7 @@ Within real estate P2P, both LendInvest &amp; Wellesley launched in 2013 and hav
 
 By operating exclusively at the ‘vanilla’ end of the market (ie prime residential mortgages over standard terms) we believe we offer a low risk proposition and a homogeneous asset – with the infrastructure now in place we have a highly scalable business operating in a very large market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6855/kl6hjwegqsrk2eedrh67x2ycbd1rwlm/SeedrsJan-_Diagrams_R2_Cycle__3_.png?rect=0%2C0%2C510%2C544&w=600&fit=clip&s=b8effc54b0283fa15c1585b6b3e9086f)
+![](/img/seedrs/uploads/startup/section_image/image/6855/kl6hjwegqsrk2eedrh67x2ycbd1rwlm/SeedrsJan-_Diagrams_R2_Cycle__3_.png?rect=0%2C0%2C510%2C544&w=600&fit=clip&s=b8effc54b0283fa15c1585b6b3e9086f)
 
 ### Marketing strategy
 
@@ -221,7 +221,7 @@ We have active engagements with two leading corporate advisory firms.
 
 We are also in ongoing discussions with three banks on potential warehouse funding.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6856/qlushmagp0khqmo3umwzbfob8jibxyv/SeedrsJan_-_Defaults___Arrears__1_.jpg?rect=0%2C14%2C1083%2C831&w=600&fit=clip&s=f7b7b6df5293a31100623f620957e4e6)
+![](/img/seedrs/uploads/startup/section_image/image/6856/qlushmagp0khqmo3umwzbfob8jibxyv/SeedrsJan_-_Defaults___Arrears__1_.jpg?rect=0%2C14%2C1083%2C831&w=600&fit=clip&s=f7b7b6df5293a31100623f620957e4e6)
 
 ### Competition strategy
 

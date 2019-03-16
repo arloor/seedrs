@@ -77,13 +77,13 @@ News &amp; Current Affairs <br>In this segment our Live product is particularly 
 
 Advertising &amp; Brands <br>We already have experience in surfacing consumer reaction to new advertising and to potential issue management where there may have been brand impact. However, we believe there is a broader opportunity in this segment to both provide insight into consumer behaviour and response to brand messages as well as potential to provide brands, sponsors and advertisers with more effective engagement in their social media marketing and communication.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5719/2vkxfi5m645ffngqwxve1mckflyprhe/screen-live_stats.png?rect=0%2C0%2C2560%2C1604&w=600&fit=clip&s=42e52076ba85e947cb05a9554b77f54e)
+![](/img/seedrs/uploads/startup/section_image/image/5719/2vkxfi5m645ffngqwxve1mckflyprhe/screen-live_stats.png?rect=0%2C0%2C2560%2C1604&w=600&fit=clip&s=42e52076ba85e947cb05a9554b77f54e)
 
 ### Characteristics of target market
 
 We believe that Social TV is set to take the broadcasting industry by storm. Social TV is the coalition of television and social media where new formats are being developed to enhance viewer engagement and encourage new revenue streams. The overall social TV market is forecast to be $256bn by 2017, which we believe analytics and social content will likely account for a growing percentage of. This is a rapidly evolving market which we believe offers considerable potential for those who can make sense of it. The competition in the social TV space is split in our view into analytics around audience measurement and platforms to enable interaction with the audience on screen in real time. Blurrt is the only platform to our knowledge that addresses both of these markets at present.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5717/ctexkdxqqn7qz17tmzeantv037uzb02/screen-live_map.png?rect=0%2C0%2C2560%2C1604&w=600&fit=clip&s=821865f21f0883cc43cd8827e8e96739)
+![](/img/seedrs/uploads/startup/section_image/image/5717/ctexkdxqqn7qz17tmzeantv037uzb02/screen-live_map.png?rect=0%2C0%2C2560%2C1604&w=600&fit=clip&s=821865f21f0883cc43cd8827e8e96739)
 
 ### Marketing strategy
 
@@ -93,7 +93,7 @@ Sport <br>In sport we are also targeting producers and broadcasters initially. O
 
 Advertising/Brands <br>From work we have already conducted for Alcohol Concern and Go Compare, we know that our platform has application and demonstrable value in the advertising and brand space. Specifically we have been able to track consumer reactions to and engagement with brands, sponsorship and advertising. Our forecast assumes we secure an anchor partner from the advertising or media agency sector and also one from the PR arena. These partnerships would help us develop our product offering, give us access to potential clients and provide us with a level of revenue stability
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/5718/8f7qxmggtz95cnr7st5ine4fdxdtmo0/screen-overview.png?rect=0%2C0%2C2560%2C1604&w=600&fit=clip&s=3f8854bb16675e78ffb2fd896d8debcc)
+![](/img/seedrs/uploads/startup/section_image/image/5718/8f7qxmggtz95cnr7st5ine4fdxdtmo0/screen-overview.png?rect=0%2C0%2C2560%2C1604&w=600&fit=clip&s=3f8854bb16675e78ffb2fd896d8debcc)
 
 ### Competition strategy
 

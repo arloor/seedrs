@@ -81,13 +81,13 @@ Furthermore, we could have opportunities to leverage our technology (especially 
 
 Even voice technology providers such as Amazon, Google, Microsoft and Apple might see value in licensing our content and white labelling it for their users.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12072/farhguh7cl7zivu0nalgd93162utkrh/Screen_Shot_2017-06-17_at_10.21.17.png?rect=0%2C-9%2C1048%2C962&w=600&fit=clip&s=dcbdcbb2b9e24d789ba93aac4716d2cc)
+![](/img/seedrs/uploads/startup/section_image/image/12072/farhguh7cl7zivu0nalgd93162utkrh/Screen_Shot_2017-06-17_at_10.21.17.png?rect=0%2C-9%2C1048%2C962&w=600&fit=clip&s=dcbdcbb2b9e24d789ba93aac4716d2cc)
 
 ### Characteristics of target market
 
 In finance, data is money, and quality curated data is a lot of money. Analysts put the size of the financial information and news market at £15bn per annum, and the big players make billions of Pounds in revenue each year. <br> <br>While Bloomberg and Reuters terminals and solutions dominate the market, they only address a small part of the market that can afford to pay high fees. Several potential clients including wealth managers, smaller brokers, and retail audiences struggle to obtain access to or are unable to afford quality data and services. Several of these unserved segments rely on the very basic services of Google Finance, Yahoo Finance, etc. These services are good but not anywhere near sufficient for proper and informed investing. Especially in today’s rapidly evolving financial landscape. Furthermore, they do not personalise, score, and integrate like we do. <br> <br>Financial institutions and major corporations have not been happy with the poor and expensive services provided by the incumbents, and are now more willing to work with FinTech companies. That means they are now more willing to work with FinTech companies to circumvent said incumbents. Why pay expensive, slow, manually-curating companies when inexpensive, fast, automated services are available. <br> <br>Amazon, Google, Microsoft, and Apple are betting big on voice-enabled speakers such as Amazon Echo, and the fierce competition amongst these giants will only help companies like ours that develop using these technologies. As evidence of their intense interest in voice-tech, Amazon has even started sending cheques to developers who build for Echo. See here - <a target="_blank" rel="nofollow" class="outside" href="https://goo.gl/c1uw6m">https://goo.gl/c1uw6m</a>.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12047/656q3klp0zqhvlefu29c7rbl1l02233/_1AE2539.jpg?rect=0%2C0%2C2048%2C1340&w=600&fit=clip&s=be4e98651a87269303d857219b34da1d)
+![](/img/seedrs/uploads/startup/section_image/image/12047/656q3klp0zqhvlefu29c7rbl1l02233/_1AE2539.jpg?rect=0%2C0%2C2048%2C1340&w=600&fit=clip&s=be4e98651a87269303d857219b34da1d)
 
 ### Marketing strategy
 
@@ -99,7 +99,7 @@ Key online activities: <br>- SEO, social media marketing, growth hacking. <br>- 
 
 Key offline activities: <br>- We launched London Value Investing Club (<a target="_blank" rel="nofollow" class="outside" href="http://www.meetup.com/london-investing/">http://www.meetup.com/london-investing/</a>) in Aug 2015 and now have more than 1,600 members with an average of two events per month. These traders and investors not only provide us feedback on our products but also allow us to understand their pain points and needs. Some of these members have become brand ambassadors for us and have also invested in the company. We are looking to roll this concept out to other major cities in the UK. <br>- Relevant conferences and events.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12049/qoxz11iyl28koof7j3pvsx9tjdd9vne/IMG_1260.png?rect=0%2C0%2C1366%2C1025&w=600&fit=clip&s=3646ce70d4f9da57d1f0c768a78790da)
+![](/img/seedrs/uploads/startup/section_image/image/12049/qoxz11iyl28koof7j3pvsx9tjdd9vne/IMG_1260.png?rect=0%2C0%2C1366%2C1025&w=600&fit=clip&s=3646ce70d4f9da57d1f0c768a78790da)
 
 ### Competition strategy
 
@@ -111,5 +111,5 @@ AI promises to be a hugely disruptive service, and we aim to lead the data curat
 
 Our competition includes: <br>- Traditional subscription services - they are expensive, unintuitive, focus on rich traders and investors, and have limited social media and crowd intelligence integration. <br>- Search engines - they provide financial news for free but there can be a 30 minutes delay for breaking news, and feeds are not based on users’ trading horizon and don't cover financial tweets. <br>- Social media analytics companies - they focus mainly on institutional investors, only on social media activity and ignore other sources of information, and target mostly day / short term traders. <br>- Social networks- They suffer from a lot of noise and are generally not catering to the needs of a financial audience.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12048/ffnk940y0vp8f5azt9c9vnj1oh7sv11/IMG_0830.JPG?rect=0%2C0%2C2576%2C1932&w=600&fit=clip&s=52e231858011563b094a246c237afd6b)
+![](/img/seedrs/uploads/startup/section_image/image/12048/ffnk940y0vp8f5azt9c9vnj1oh7sv11/IMG_0830.JPG?rect=0%2C0%2C2576%2C1932&w=600&fit=clip&s=52e231858011563b094a246c237afd6b)
 

@@ -83,7 +83,7 @@ According to the World Bank, the global remittances market is at $600bn today ha
 
 TransferGo is here to capitalise on this foundational transition from cash to digital and build the next generation of digital financial services.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16037/jcqdaszy5mum6ez1o4ncc9lxlql5gis/0x0ss__3_.jpg?rect=0%2C0%2C1242%2C2208&w=600&fit=clip&s=aa672a54620f3459c780a07433ed25aa)
+![](/img/seedrs/uploads/startup/section_image/image/16037/jcqdaszy5mum6ez1o4ncc9lxlql5gis/0x0ss__3_.jpg?rect=0%2C0%2C1242%2C2208&w=600&fit=clip&s=aa672a54620f3459c780a07433ed25aa)
 
 ### Characteristics of target market
 
@@ -93,7 +93,7 @@ Looking at the major sender markets in Europe, based on Pew Global data 2016, th
 
 Our target customer base is typically expats and/or seasonal workers who make frequent transactions to friends and family members back home. The average transaction amount is approximately £350 with 6-7 transactions per year.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16038/de562upv5vw7peaqfa4c2wnz0cwwmjo/Screen_Shot_2018-10-18_at_11.51.40.png?rect=0%2C0%2C2554%2C1310&w=600&fit=clip&s=52961511ddadfcd02821556637c95a5a)
+![](/img/seedrs/uploads/startup/section_image/image/16038/de562upv5vw7peaqfa4c2wnz0cwwmjo/Screen_Shot_2018-10-18_at_11.51.40.png?rect=0%2C0%2C2554%2C1310&w=600&fit=clip&s=52961511ddadfcd02821556637c95a5a)
 
 ### Marketing strategy
 
@@ -101,7 +101,7 @@ Our marketing strategy is executed by following a tried-and-tested Growth Playbo
 
 A key aspect in the execution of the Growth Playbook is our CAC (Customer Acquisition Cost), which is to be managed closely to secure ROI within an acceptable timeframe. Our marketing mix places emphasis on our refer-a-friend programme and PR, supported by digital marketing and above-the-line brand marketing, which we've found to be highly successful.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16039/k510t6n4o79rh19tqlsla2ha58fg28z/Invite_3x.jpg?rect=0%2C62%2C1125%2C1635&w=600&fit=clip&s=1021a879699af3ed95490d567bdff608)
+![](/img/seedrs/uploads/startup/section_image/image/16039/k510t6n4o79rh19tqlsla2ha58fg28z/Invite_3x.jpg?rect=0%2C62%2C1125%2C1635&w=600&fit=clip&s=1021a879699af3ed95490d567bdff608)
 
 ### Competition strategy
 

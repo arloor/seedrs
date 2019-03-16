@@ -65,13 +65,13 @@ According to the Pet Food Manufacturers Association, in 2013 25% of UK household
 
 In the United States the pet industry is worth over $40BN with over 42.5 million US households owning one or more dogs, and there are an estimated 6 million dogs in Canada.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1114/matrzgr1qa31iwjm32sptnq99zfzl83/FUZMO_NOTIFICATIONS.png?rect=422%2C0%2C840%2C725&w=600&fit=clip&s=1c38715b7ce6bff1f55f0dbdc398268c)
+![](/img/seedrs/uploads/startup/section_image/image/1114/matrzgr1qa31iwjm32sptnq99zfzl83/FUZMO_NOTIFICATIONS.png?rect=422%2C0%2C840%2C725&w=600&fit=clip&s=1c38715b7ce6bff1f55f0dbdc398268c)
 
 ### Characteristics of target market
 
 Fuzmo is looking to enter the social networking market and encourage people to share pet and animal images with each other. <br>27% of total U.S. internet time is spent on social networking sites. <br>15% of total U.S. mobile internet time is spent on social networking sites. <br>23% of marketers are investing in blogging and social media this year, a 9% increase from 2012. <br>Picture sharing website Instagram was acquired by Facebook in April 2012 for $1BN. <br>Brand adoption of Instagram has grown 80% in the last year. <br>Instagram has now welcomed over 150 million members onto their picture sharing platform.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/1115/3ure19sxhofcuagmmqc3de9xuczsw3m/FUZMO_PHOTO_UPLOAD.png?rect=436%2C0%2C840%2C723&w=600&fit=clip&s=26276bcd97ba6571c8e58946a3cc731e)
+![](/img/seedrs/uploads/startup/section_image/image/1115/3ure19sxhofcuagmmqc3de9xuczsw3m/FUZMO_PHOTO_UPLOAD.png?rect=436%2C0%2C840%2C723&w=600&fit=clip&s=26276bcd97ba6571c8e58946a3cc731e)
 
 ### Marketing strategy
 

@@ -139,7 +139,7 @@ Entale is how podcasting should be. We’re looking for like-minded investors to
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16057/dthl7n0u0s9uikelgn8gnrjf4l6fpnc/Picture_1.jpg?rect=0%2C0%2C600%2C750&w=600&fit=clip&s=e9dbc80b0192da4a0f3623a36001039f)
+![](/img/seedrs/uploads/startup/section_image/image/16057/dthl7n0u0s9uikelgn8gnrjf4l6fpnc/Picture_1.jpg?rect=0%2C0%2C600%2C750&w=600&fit=clip&s=e9dbc80b0192da4a0f3623a36001039f)
 
 Entale is focused on onboarding new podcast listeners, creators and advertisers in an effort to transform the podcast and spoken-word audio market.
 
@@ -151,7 +151,7 @@ We believe that's because, for many people, the current podcast format is unacce
 
 We are focused on onboarding a new generation of podcast listeners that have not so far experienced the medium.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16056/gl6pooeum6i6b9qusajmlwvocn0ha0b/New_Picture_10.png?rect=0%2C0%2C485%2C479&w=600&fit=clip&s=c6db3b87ffee4177d6948f8ce56da757)
+![](/img/seedrs/uploads/startup/section_image/image/16056/gl6pooeum6i6b9qusajmlwvocn0ha0b/New_Picture_10.png?rect=0%2C0%2C485%2C479&w=600&fit=clip&s=c6db3b87ffee4177d6948f8ce56da757)
 
 ### Characteristics of target market
 
@@ -161,7 +161,7 @@ Whilst advertising revenue is growing, there is still huge growth to be unlocked
 
 One of the key growth markets for us to target is the smart speaker, which is currently the faster growing consumer electronics product category. We are developing versions of Entale that work with Amazon Alexa, Google Home, and Apple HomePod to start to capture this market.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16046/5k59ps45xb5ulv61570blpzdofk10wc/Picture_2.jpg?rect=-3%2C0%2C600%2C842&w=600&fit=clip&s=69dc954214870804646611e63f78b6f5)
+![](/img/seedrs/uploads/startup/section_image/image/16046/5k59ps45xb5ulv61570blpzdofk10wc/Picture_2.jpg?rect=-3%2C0%2C600%2C842&w=600&fit=clip&s=69dc954214870804646611e63f78b6f5)
 
 ### Marketing strategy
 
@@ -173,7 +173,7 @@ Alongside this, we have identified a number of marketing channels that are effec
 
 Of course, we recognise that content is king. That's why we have allocated a portion of the funds raised in this round to paying for exclusive, premium content that is only available on the Entale platform - much like 'Netflix Originals'. These will be produced in conjunction with existing and new content partners.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16052/ptmuszxqc17rpi2brdgfxiyaa9ffkj2/Picture_4.jpg?rect=0%2C0%2C600%2C390&w=600&fit=clip&s=9168d8628edf7bc70570a4dc600a8ec2)
+![](/img/seedrs/uploads/startup/section_image/image/16052/ptmuszxqc17rpi2brdgfxiyaa9ffkj2/Picture_4.jpg?rect=0%2C0%2C600%2C390&w=600&fit=clip&s=9168d8628edf7bc70570a4dc600a8ec2)
 
 ### Competition strategy
 
@@ -183,5 +183,5 @@ Other perceived competitors still treat podcast as they always have been - a one
 
 At Entale, we are changing how podcasts and spoken-word stories are created, consumed and distributed, which means we are able to provide a transformational experience that appeals to the wider universe of audio listeners, not just current podcast fans.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/16055/20fnl7x3z0a30sefo7geaa32ther2i3/Picture_9.jpg?rect=0%2C0%2C600%2C624&w=600&fit=clip&s=396b0509d2fc0b8cb2ebdc72e0e18e27)
+![](/img/seedrs/uploads/startup/section_image/image/16055/20fnl7x3z0a30sefo7geaa32ther2i3/Picture_9.jpg?rect=0%2C0%2C600%2C624&w=600&fit=clip&s=396b0509d2fc0b8cb2ebdc72e0e18e27)
 

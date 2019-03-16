@@ -71,7 +71,7 @@ We believe that the indoor gardening market is quite untapped, especially in Eur
 
 We are operating in the organic and ethical food segment which is worth £9B in the UK (as of 2015) and constitutes 8.5% of total household food sales. We are targeting those of the two thirds of Brits who do not grow their own food but like organic and ethical products.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13366/cnn6vc2ougyx89q5zunl7vnz87fvlhe/Gartenzwerg-Standing-e1500825556285.jpg?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=f0cb43e5c06c2ff158cdafcafebf2a6e)
+![](/img/seedrs/uploads/startup/section_image/image/13366/cnn6vc2ougyx89q5zunl7vnz87fvlhe/Gartenzwerg-Standing-e1500825556285.jpg?rect=0%2C0%2C600%2C338&w=600&fit=clip&s=f0cb43e5c06c2ff158cdafcafebf2a6e)
 
 ### Characteristics of target market
 
@@ -81,7 +81,7 @@ Secondary Segment - Hobby-Cooks <br>Value much to have everything in their kitch
 
 Secondary Segment – Conscious Cook <br>Cook often not just for them, but for others and want to provide fresh food for their family and loved ones. They care much about nutrition and variety. For young families, educating about food plays a strong role too.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13367/8xhat3whyja0q8lpyjuu9hp78qqthno/Food_options.png?rect=0%2C0%2C1130%2C807&w=600&fit=clip&s=35a336b3dc30930a85dd47ad8908db96)
+![](/img/seedrs/uploads/startup/section_image/image/13367/8xhat3whyja0q8lpyjuu9hp78qqthno/Food_options.png?rect=0%2C0%2C1130%2C807&w=600&fit=clip&s=35a336b3dc30930a85dd47ad8908db96)
 
 ### Marketing strategy
 
@@ -103,5 +103,5 @@ This is reflected through the Gartenzwerg character as the little helper, our co
 
 To give a reference, Gartenzwerg’s main direct competitors are Click and Grow, Aerogardens, Agrilution and Tregren.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/13368/sscqekx23x648ecn8tn0umsj26xsdqi/4d922595c4d4f592423c81d2ad0b66cf.jpg?rect=0%2C0%2C1200%2C900&w=600&fit=clip&s=37f41b5f87007c67e6d70c4c7967d38e)
+![](/img/seedrs/uploads/startup/section_image/image/13368/sscqekx23x648ecn8tn0umsj26xsdqi/4d922595c4d4f592423c81d2ad0b66cf.jpg?rect=0%2C0%2C1200%2C900&w=600&fit=clip&s=37f41b5f87007c67e6d70c4c7967d38e)
 

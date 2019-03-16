@@ -85,7 +85,7 @@ A shareholder in the Company has preference shares which are entitled to an annu
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6081/qfe2lgwlzzqg4st5ypqp0acc0v7lk49/GB_image_6.jpg?rect=0%2C0%2C600%2C452&w=600&fit=clip&s=9061476465b6bc1bff454224d7209aef)
+![](/img/seedrs/uploads/startup/section_image/image/6081/qfe2lgwlzzqg4st5ypqp0acc0v7lk49/GB_image_6.jpg?rect=0%2C0%2C600%2C452&w=600&fit=clip&s=9061476465b6bc1bff454224d7209aef)
 
 ### Target market
 
@@ -105,7 +105,7 @@ With the current trend for growth in vinyl (15%-18% year on year since 2008 sour
 
 Vinyl sales represent the fastest growing part of the market since 2007 as other areas are either stagnating or in rapid decline.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6082/t2urpfxmt4ec4zakbrn2f8uoxhyq32o/GB_image_7.jpg?rect=0%2C0%2C600%2C800&w=600&fit=clip&s=fdf419bb944ef066b99f16ebf85f0118)
+![](/img/seedrs/uploads/startup/section_image/image/6082/t2urpfxmt4ec4zakbrn2f8uoxhyq32o/GB_image_7.jpg?rect=0%2C0%2C600%2C800&w=600&fit=clip&s=fdf419bb944ef066b99f16ebf85f0118)
 
 ### Marketing strategy
 
@@ -131,5 +131,5 @@ For vinyl consulting and mastering, customers come for the engineer and lead tim
 
 Gearbox continues to acquire the finest equipment and record and licence the best source material, using a blend of old and new to create the finest sound. We believe that this adherence to standards will keep the company ahead of competition.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6083/2klq59gmrxyrfsue3jk3dt2kqkvz6bl/GB_image_8.jpg?rect=0%2C0%2C597%2C717&w=600&fit=clip&s=7e513ab8e4cac4d1f4bc59da6685a63f)
+![](/img/seedrs/uploads/startup/section_image/image/6083/2klq59gmrxyrfsue3jk3dt2kqkvz6bl/GB_image_8.jpg?rect=0%2C0%2C597%2C717&w=600&fit=clip&s=7e513ab8e4cac4d1f4bc59da6685a63f)
 

@@ -73,7 +73,7 @@ Our target market is students who are about to leave to go to university. Year r
 
 At university freshers week parties in 2009, just under 1.3 million fancy dress costumes were worn. Our potential customers are already excited by the prospect of going to university and attending freshers week events and we can use this momentum to introduce our product in an exciting way.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3902/slspie4ud97y8wr6706ni9t0znokcar/10476382_750439768356740_4873069813633230467_o.jpg?rect=0%2C0%2C720%2C691&w=600&fit=clip&s=96e5d4cdf61fa0408ed6c5c3435c9712)
+![](/img/seedrs/uploads/startup/section_image/image/3902/slspie4ud97y8wr6706ni9t0znokcar/10476382_750439768356740_4873069813633230467_o.jpg?rect=0%2C0%2C720%2C691&w=600&fit=clip&s=96e5d4cdf61fa0408ed6c5c3435c9712)
 
 ### Marketing strategy
 
@@ -85,5 +85,5 @@ Our main competitors are high street fancy dress stores. They are only available
 
 
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/3901/pd0n2o5i0wsfzufdsx7ze1n2gleloft/10534668_775329412534442_1292763376832630126_n.jpg?rect=0%2C0%2C640%2C386&w=600&fit=clip&s=6a71391ce532e8eb1686317be5c1cb54)
+![](/img/seedrs/uploads/startup/section_image/image/3901/pd0n2o5i0wsfzufdsx7ze1n2gleloft/10534668_775329412534442_1292763376832630126_n.jpg?rect=0%2C0%2C640%2C386&w=600&fit=clip&s=6a71391ce532e8eb1686317be5c1cb54)
 

@@ -81,7 +81,7 @@ Broadly, funds will be spent as below: <br>1) 29% - User acquisition. <br>2) 12%
 
 Just the first three markets itself represent a segment size of over 40 million families in the target range.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9834/r5bwxcc10af53obhcze7jxlq6nqkrgn/5.jpg?rect=0%2C0%2C1024%2C684&w=600&fit=clip&s=c61f74c7af6e166560e9d32f5ca6f280)
+![](/img/seedrs/uploads/startup/section_image/image/9834/r5bwxcc10af53obhcze7jxlq6nqkrgn/5.jpg?rect=0%2C0%2C1024%2C684&w=600&fit=clip&s=c61f74c7af6e166560e9d32f5ca6f280)
 
 ### Characteristics of target market
 
@@ -101,7 +101,7 @@ b) Online advertisement channels: <br>- Ads on parenting websites such as Mumsne
 
 c) Referrals: <br>- A parent refers Nurturey to another parent or creates a group inviting other parents to join.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9833/rewp0ev16h9ty8nt7glqxnaaqb4cmzm/6.jpg?rect=0%2C0%2C1020%2C684&w=600&fit=clip&s=a5b64328473136cd2522d148a64f85bb)
+![](/img/seedrs/uploads/startup/section_image/image/9833/rewp0ev16h9ty8nt7glqxnaaqb4cmzm/6.jpg?rect=0%2C0%2C1020%2C684&w=600&fit=clip&s=a5b64328473136cd2522d148a64f85bb)
 
 ### Competition strategy
 

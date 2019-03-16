@@ -75,7 +75,7 @@ The £50k will be used for:
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7230/jzxrhpyoq3ol7s0bvaznrh607u6mxye/9.png?rect=0%2C0%2C940%2C318&w=600&fit=clip&s=ab284f375615c43157a16e69bd9ab009)
+![](/img/seedrs/uploads/startup/section_image/image/7230/jzxrhpyoq3ol7s0bvaznrh607u6mxye/9.png?rect=0%2C0%2C940%2C318&w=600&fit=clip&s=ab284f375615c43157a16e69bd9ab009)
 
 ### Target market
 
@@ -89,7 +89,7 @@ To us, this shows that the market is ready for deeper more mature stories like o
 
 By 2017, we want to reach 440k unit sales per game.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7231/gpss8de91kpffh6anrnja3vhsn37s0v/10.png?rect=0%2C0%2C939%2C655&w=600&fit=clip&s=d4e1660f97f8f5cb32524eb6d1433b64)
+![](/img/seedrs/uploads/startup/section_image/image/7231/gpss8de91kpffh6anrnja3vhsn37s0v/10.png?rect=0%2C0%2C939%2C655&w=600&fit=clip&s=d4e1660f97f8f5cb32524eb6d1433b64)
 
 ### Characteristics of target market
 
@@ -99,7 +99,7 @@ Global gaming industry revenue in 2015 was $91.5bn (Source: Newzoo 2015 Global G
 
 Our market, although gaming, can more precisely be seen as the intersection between movies and games. There are subtleties between the Platforms, the expectations from a PC gamer compared with an iPad user are very different. This is why we have deliberately sourced 3 different publishers who are specialists in thier platforms. They all have close relationships with thier existing customer base and understand their customer needs better then any else could.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7232/8x6zmlma34os574pp2hpua1y3qjhh90/11.png?rect=0%2C0%2C939%2C123&w=600&fit=clip&s=6585038a9f2c63100d5aac37b88d329f)
+![](/img/seedrs/uploads/startup/section_image/image/7232/8x6zmlma34os574pp2hpua1y3qjhh90/11.png?rect=0%2C0%2C939%2C123&w=600&fit=clip&s=6585038a9f2c63100d5aac37b88d329f)
 
 ### Marketing strategy
 
@@ -115,5 +115,5 @@ We have priced The Bunker at £14.99 which puts it in the same price bracket as 
 
 The business model of using SPV's allow Splendy creative control and room for collaboration in an industry renowned for it's cross collaboration.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/7234/m8kl9lt7n2745u8xyi8fhapv0gnsjah/13.png?rect=0%2C4%2C939%2C651&w=600&fit=clip&s=d5c874ec8a71ee1cf14cd8a6d5df514f)
+![](/img/seedrs/uploads/startup/section_image/image/7234/m8kl9lt7n2745u8xyi8fhapv0gnsjah/13.png?rect=0%2C4%2C939%2C651&w=600&fit=clip&s=d5c874ec8a71ee1cf14cd8a6d5df514f)
 

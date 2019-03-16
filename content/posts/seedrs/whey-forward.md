@@ -111,7 +111,7 @@ PROMiXX has experienced significant growth within the sports nutrition market th
 
 As the brand has grown, we have witnessed a wider demographic adopting our products – aiding brand awareness and opening up new revenue potential. We have reacted to this through the expansion of our marketing to target a broader spectrum of health, lifestyle and technology consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14213/jd662y6x3k32pro5fu799r1gvx53719/Seeds_Campaign_Lifestyle1_600x600_3.jpg?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=a3b3ce251420d57dc6d95843d9f34bc1)
+![](/img/seedrs/uploads/startup/section_image/image/14213/jd662y6x3k32pro5fu799r1gvx53719/Seeds_Campaign_Lifestyle1_600x600_3.jpg?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=a3b3ce251420d57dc6d95843d9f34bc1)
 
 Regenative and Morning Glory represent our first foray into the broader markets of dietary supplements and functional foods.
 
@@ -129,7 +129,7 @@ These are markets with high spending power. We have seen that customers are acti
 
 We are not trying to be everything for everyone; rather we endeavor to create category-leading products with a clearly defined need among health-conscious consumers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14214/k3fz2a6bi51dqbdmz6a8ejwu21ada58/Seeds_Campaign_Lifestyle2_600x600_3.jpg?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=c62694948ec455a317f4167cfca88e6c)
+![](/img/seedrs/uploads/startup/section_image/image/14214/k3fz2a6bi51dqbdmz6a8ejwu21ada58/Seeds_Campaign_Lifestyle2_600x600_3.jpg?rect=0%2C0%2C600%2C600&w=600&fit=clip&s=c62694948ec455a317f4167cfca88e6c)
 
 ### Marketing strategy
 
@@ -147,7 +147,7 @@ As experts in digital marketing and e-commerce, we know how to reach customers. 
 
 5. Trade Network <br>We will continue to provide our trade partners with significant marketing support and an extensive portfolio of marketing assets to promote brand awareness through their own channels.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14197/5u90w5ji1rud0ssrsfwpihq18v1sueq/Social_Media_Following.jpg?rect=0%2C0%2C600%2C260&w=600&fit=clip&s=e49ce27a259de57f2951c54aac42b4dc)
+![](/img/seedrs/uploads/startup/section_image/image/14197/5u90w5ji1rud0ssrsfwpihq18v1sueq/Social_Media_Following.jpg?rect=0%2C0%2C600%2C260&w=600&fit=clip&s=e49ce27a259de57f2951c54aac42b4dc)
 
 ### Competition strategy
 

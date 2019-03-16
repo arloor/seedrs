@@ -127,7 +127,7 @@ Most of our customers have a basic level of knowledge about wine and are interes
 
 Our target demographic is London based for now but transferable to other cities in the UK further down the line. Before exit, we plan to have piloted several out-of-London sites to prove the concept is viable in other cities such as Leeds and Manchester. Given the success of brands targeting a similar demographic to ours and the flexibility of our offering, we’re confident our offering will work well in all affluent neighbourhoods and city locations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11383/qwnb86omn4177wedelmvc4c188ozqfm/12_copy.jpg?rect=0%2C0%2C5760%2C3840&w=600&fit=clip&s=eeb65a26ba661bbc63ffae22c77a4c22)
+![](/img/seedrs/uploads/startup/section_image/image/11383/qwnb86omn4177wedelmvc4c188ozqfm/12_copy.jpg?rect=0%2C0%2C5760%2C3840&w=600&fit=clip&s=eeb65a26ba661bbc63ffae22c77a4c22)
 
 ### Characteristics of target market
 
@@ -143,9 +143,9 @@ They are health conscious and concerned about additives and chemicals in mass pr
 
 Furthermore, the traditional approach to wine no longer appeals – customers prefer to hear human interest stories behind the wines than details on clonal varieties and Robert Parker points. And they value quality of experience as much as quality of product.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11380/5wgwoav8hg4tzecslkaz8x0uyh7lvo/13_copy.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=52c01b2fbd9274a703495ece6453d4ae)
+![](/img/seedrs/uploads/startup/section_image/image/11380/5wgwoav8hg4tzecslkaz8x0uyh7lvo/13_copy.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=52c01b2fbd9274a703495ece6453d4ae)
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11382/i5yndl48vlqzt0h9xku1eoafdbec5x0/14_copy_2.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=3bbbb2cdeab3226cf1d65707884eb284)
+![](/img/seedrs/uploads/startup/section_image/image/11382/i5yndl48vlqzt0h9xku1eoafdbec5x0/14_copy_2.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=3bbbb2cdeab3226cf1d65707884eb284)
 
 ### Marketing strategy
 
@@ -163,7 +163,7 @@ We will do this via three main marketing channels:
 
 3) Partnerships with retail sites and restaurant booking platforms.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11384/mf763h0z0njxvsbur0m8kb48skpj732/15b.jpg?rect=0%2C-1%2C1181%2C1004&w=600&fit=clip&s=cafe8de4ad296c8cd07085354d2f72ca)
+![](/img/seedrs/uploads/startup/section_image/image/11384/mf763h0z0njxvsbur0m8kb48skpj732/15b.jpg?rect=0%2C-1%2C1181%2C1004&w=600&fit=clip&s=cafe8de4ad296c8cd07085354d2f72ca)
 
 ### Competition strategy
 
@@ -181,5 +181,5 @@ Plus we've just begun working with a notable head chef, to further upgrade our f
 
 Consumers increasingly care how the products they’re buying were sourced and the quality of the ingredients contained in them. Our brand and products are perfectly positioned to create a competitive and more current offering to that of the traditional wine bar or wine retailer.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/11385/gj7zts2n23pafig3686igkue0cpb0z6/16.jpg?rect=0%2C0%2C3176%2C2372&w=600&fit=clip&s=fadb4b969583b3aac0b80020016c0ca5)
+![](/img/seedrs/uploads/startup/section_image/image/11385/gj7zts2n23pafig3686igkue0cpb0z6/16.jpg?rect=0%2C0%2C3176%2C2372&w=600&fit=clip&s=fadb4b969583b3aac0b80020016c0ca5)
 

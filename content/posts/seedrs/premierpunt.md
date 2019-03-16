@@ -103,11 +103,11 @@ We believe our competitors have failed in the past to bring a noteworthy app to 
 
 Our target market are: <br>* Male <br>* Aged 18 - 50 <br>* Sports fans <br>* Like fantasy football
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10352/rwkxzkmxx1hlkbv3mu7hfmx7ufdtbu7/home_page.JPG?rect=0%2C0%2C965%2C463&w=600&fit=clip&s=e8078505747075dd9bd20756667977b6)
+![](/img/seedrs/uploads/startup/section_image/image/10352/rwkxzkmxx1hlkbv3mu7hfmx7ufdtbu7/home_page.JPG?rect=0%2C0%2C965%2C463&w=600&fit=clip&s=e8078505747075dd9bd20756667977b6)
 
 ### Characteristics of target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10353/8c0kf6gb19u3skpxpqegxxt24nnta8n/Premier_Punt_App_Ranked_Top_10.png?rect=0%2C10%2C470%2C728&w=600&fit=clip&s=04a672fa7d499049dbba270b2d0b9339)
+![](/img/seedrs/uploads/startup/section_image/image/10353/8c0kf6gb19u3skpxpqegxxt24nnta8n/Premier_Punt_App_Ranked_Top_10.png?rect=0%2C10%2C470%2C728&w=600&fit=clip&s=04a672fa7d499049dbba270b2d0b9339)
 
 - There are over 4,000,000 users playing the Official Fantasy Sports Platform this season.
 
@@ -123,7 +123,7 @@ Our target market are: <br>* Male <br>* Aged 18 - 50 <br>* Sports fans <br>* Lik
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10354/fcfis87p7izl5sso3tt3jfwaml9jf18/Southampton_Sunderland_038.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=e4000f7c006af123ff253b7b4a50e140)
+![](/img/seedrs/uploads/startup/section_image/image/10354/fcfis87p7izl5sso3tt3jfwaml9jf18/Southampton_Sunderland_038.jpg?rect=0%2C0%2C5184%2C3456&w=600&fit=clip&s=e4000f7c006af123ff253b7b4a50e140)
 
 We believe we have a very powerful marketing strategy. A large UK gambling marketing company invested in Premier Punt in the last round of investment, which has been a game changer for the business.
 
@@ -135,7 +135,7 @@ We are also the Official Partner of Southampton FC. Part of this deal involves t
 
 We are also intending to roll out a network marketing campaign focused on raising funds for local sports clubs in the near future.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10355/fs5i429tqepqxb8nc9rvo2kndq1whnr/Screen_Shot_2016-11-04_at_15.56.20.png?rect=0%2C0%2C350%2C466&w=600&fit=clip&s=651247139ad9053de025c656064e45bd)
+![](/img/seedrs/uploads/startup/section_image/image/10355/fs5i429tqepqxb8nc9rvo2kndq1whnr/Screen_Shot_2016-11-04_at_15.56.20.png?rect=0%2C0%2C350%2C466&w=600&fit=clip&s=651247139ad9053de025c656064e45bd)
 
 ### Competition strategy
 
@@ -147,5 +147,5 @@ Our two main competitors are Draft Kings and Fan Duel. <br>Both have made their 
 
 4) We believe our plans to provide sportsbook in the future will leave us with few competitors as we'll have unique challenges and competitions.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10356/jyj43fvt4katfql4zgxdsfev3phdw0k/Southampton_FC.JPG?rect=0%2C0%2C1457%2C663&w=600&fit=clip&s=3bb66fe0879718ef7972df44dcf7f90b)
+![](/img/seedrs/uploads/startup/section_image/image/10356/jyj43fvt4katfql4zgxdsfev3phdw0k/Southampton_FC.JPG?rect=0%2C0%2C1457%2C663&w=600&fit=clip&s=3bb66fe0879718ef7972df44dcf7f90b)
 

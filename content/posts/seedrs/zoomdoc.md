@@ -97,7 +97,7 @@ The company also has £50,000 of outstanding director loans which will not be re
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12852/pl8bphc3aky7kkc81fs730fsjh0sv6r/Market_page_-_image_1.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=cec8e97d951a8eb376b4c3067f70cc95)
+![](/img/seedrs/uploads/startup/section_image/image/12852/pl8bphc3aky7kkc81fs730fsjh0sv6r/Market_page_-_image_1.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=cec8e97d951a8eb376b4c3067f70cc95)
 
 ### Target market
 
@@ -111,7 +111,7 @@ ZoomDoc sees two distinct target markets -
 
 • Tourists &amp; travellers to the UK - Visitors who fall ill and want to find quick, trustworthy, convenient, cost effective medical help.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12857/lf9g5oxdg6o874m68rkoxzp5z6geju6/Market_Page_-_image_6.jpg?rect=0%2C0%2C3340%2C1439&w=600&fit=clip&s=a3a7b51a1abd56aab0c4d3dfda33adb0)
+![](/img/seedrs/uploads/startup/section_image/image/12857/lf9g5oxdg6o874m68rkoxzp5z6geju6/Market_Page_-_image_6.jpg?rect=0%2C0%2C3340%2C1439&w=600&fit=clip&s=a3a7b51a1abd56aab0c4d3dfda33adb0)
 
 (2) B2B PARTNERSHIPS
 
@@ -125,7 +125,7 @@ ZoomDoc sees two distinct target markets -
 
 • Health Insurance market: ZoomDoc aims to link and build partnerships with the health insurance industry to enable 24/7 home visiting service provision for their customers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12853/h6709xy86nofkjtz6ykj494law12ujb/Market_page_-_image_2.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=2aa45d26f20978f036058a464177266b)
+![](/img/seedrs/uploads/startup/section_image/image/12853/h6709xy86nofkjtz6ykj494law12ujb/Market_page_-_image_2.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=2aa45d26f20978f036058a464177266b)
 
 ### Characteristics of target market
 
@@ -147,7 +147,7 @@ GP SURGERIES <br>Private general practice may amount to around 7m consultations 
 
 PHARMACY <br>The UK has c.16,500 dispensaries, being asked by government to provide more services to reduce the burden on GPs. They can’t however prescribe, and often need to turn to a GP.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12854/qruxkg4ejdrccehftozkaz71ffpiqpi/Market_Page_-_image_3.jpg?rect=0%2C0%2C5120%2C2681&w=600&fit=clip&s=dd4bcaad527bdeb42713ceef3775280c)
+![](/img/seedrs/uploads/startup/section_image/image/12854/qruxkg4ejdrccehftozkaz71ffpiqpi/Market_Page_-_image_3.jpg?rect=0%2C0%2C5120%2C2681&w=600&fit=clip&s=dd4bcaad527bdeb42713ceef3775280c)
 
 ### Marketing strategy
 
@@ -163,7 +163,7 @@ Key activities:
 
 (3) B2B LEAD GENERATION <br>• Traditional sales outreach. <br>• Social: LinkedIn, Facebook and Twitter, aimed at clients/partners. <br>• Conferences: Take space at select events where we can demo ZoomDoc and generate partner interest. <br>• Direct Marketing: Distribution of marketing material to suitable targeted groups <br>• Partnerships: Seeking to establish commercial relationships with partners in each of our target sectors.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12855/43l3fdq7f5wd497co45al0wrfqkpjky/Market_Page_-_image_4.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=23e3f4f84af61e0d7bf98a7b2ccb93bd)
+![](/img/seedrs/uploads/startup/section_image/image/12855/43l3fdq7f5wd497co45al0wrfqkpjky/Market_Page_-_image_4.jpg?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=23e3f4f84af61e0d7bf98a7b2ccb93bd)
 
 ### Competition strategy
 
@@ -181,5 +181,5 @@ ZoomDoc is offering what we believe is the best in class solution for patients a
 
 • Effective doctoring must be ‘hands on’ - You need to be able to look down a patient’s throat, take blood pressure, listen to their chest etc... Examine in a way that simply cannot be done on a screen. <br>• The ability to prescribe medications from a video consultation is severely limited and in our experience a high percentage of consultations end in the patient still having to book to see their GP! <br>• ZoomDoc has created the most comprehensive, effective and efficient platform available to our knowledge. We believe our service offers both GPs and patients the most compelling proposition with many features and benefits which our competitors do not offer. <br>• Built by GPs and run by GPs, ZoomDoc intimately understands what is needed - The end to end experience and our GP facing technology is designed with this in mind. Our GPs have access to what we believe to be the best technology in the market that enables them to offer the best service available to our patients
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12856/81ju917qpzwiki4292uqudq4dihgmz2/Market_Page_-_image_5.png?rect=0%2C0%2C637%2C473&w=600&fit=clip&s=6cc0d01e492a812b71ca5e245d53977e)
+![](/img/seedrs/uploads/startup/section_image/image/12856/81ju917qpzwiki4292uqudq4dihgmz2/Market_Page_-_image_5.png?rect=0%2C0%2C637%2C473&w=600&fit=clip&s=6cc0d01e492a812b71ca5e245d53977e)
 

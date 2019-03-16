@@ -111,7 +111,7 @@ Our business plan is based on the following assumptions:
 
 5. Based on our current pricing, this would suggest the total value of the addressable market in these 6 countries is £870m.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8563/fmk1onih4zmo7do9ke1rm7k4wpal9w8/Canal_Lock.jpg?rect=0%2C-2%2C4288%2C2848&w=600&fit=clip&s=14530900f989b75bde260ad8d464aa83)
+![](/img/seedrs/uploads/startup/section_image/image/8563/fmk1onih4zmo7do9ke1rm7k4wpal9w8/Canal_Lock.jpg?rect=0%2C-2%2C4288%2C2848&w=600&fit=clip&s=14530900f989b75bde260ad8d464aa83)
 
 ### Characteristics of target market
 
@@ -121,7 +121,7 @@ Our customers purchase directly from us, or from one of various trade outlets th
 
 Healthcare providers, such as the UK's National Health Service, are a significant opportunity. However, we have found that these organisations are not set up to review and approve new mobility products, and tend to focus on minimising their purchase costs, as opposed to assessing the long-term benefits of reduced patient injuries. This does not preclude sales to the healthcare system, and we anticipate that over time the benefits are likely to be accepted and then we become standard fit.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8562/r858ff1lva9isugipjj05ozh2h6w3ut/Jack_Pole_Guildford_-_Copy.jpg?rect=-2%2C0%2C2848%2C4287&w=600&fit=clip&s=6213c91206713c3bc060d61b8d8bc096)
+![](/img/seedrs/uploads/startup/section_image/image/8562/r858ff1lva9isugipjj05ozh2h6w3ut/Jack_Pole_Guildford_-_Copy.jpg?rect=-2%2C0%2C2848%2C4287&w=600&fit=clip&s=6213c91206713c3bc060d61b8d8bc096)
 
 ### Marketing strategy
 
@@ -137,7 +137,7 @@ South Korea is proving to be a good market and we have a very active distributor
 
 And in China, we have just signed up one of the largest medical distributor. They have committed to significant &amp; increasing minimum orders during each of the next 5 years. We believe they see Flexyfoot as a high value Western brand.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8561/ltsm5gfm6lcd6ogwcth03hd3oohjv27/SR1_3471__1_.jpg?rect=0%2C0%2C1023%2C1024&w=600&fit=clip&s=1496dc9b40ae2482dbfda2010ca11e34)
+![](/img/seedrs/uploads/startup/section_image/image/8561/ltsm5gfm6lcd6ogwcth03hd3oohjv27/SR1_3471__1_.jpg?rect=0%2C0%2C1023%2C1024&w=600&fit=clip&s=1496dc9b40ae2482dbfda2010ca11e34)
 
 ### Competition strategy
 
@@ -151,5 +151,5 @@ We have positioned our sticks at the top end as we are not seeking to sell very 
 
 We believe that the trick to communicate the features and benefits rather than price. Our sticks sell for £39.95 in the UK.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/8564/6ko4bxvbd23w91ugykq9bfqemchm0a8/New_collar_illus_-4__1_.JPG?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=3235785973235b17f6c3f82323061502)
+![](/img/seedrs/uploads/startup/section_image/image/8564/6ko4bxvbd23w91ugykq9bfqemchm0a8/New_collar_illus_-4__1_.JPG?rect=0%2C0%2C1920%2C1080&w=600&fit=clip&s=3235785973235b17f6c3f82323061502)
 

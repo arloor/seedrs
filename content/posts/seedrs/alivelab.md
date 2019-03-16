@@ -103,7 +103,7 @@ Our Mardles products appeal to children aged 3-8 and so we are targeting the pur
 
 AliveLab’s ‘Powered by Mardles’ offering is being targeted towards companies that wish to add value and experience to their products or packaging. We feel that this makes us a potential AR partner for mosts consumer brands. We are currently operating with a range of brands however, our key partnership aims are Food, Toy and Brand Promotion with focus given to ‘gift with purchase’ offers.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12889/tpeox0gp9v06ppacn540q0w3rdhbsrn/Idea-3.JPG?rect=0%2C0%2C1600%2C900&w=600&fit=clip&s=146ea6b79ec178abe1715cb66a95dafb)
+![](/img/seedrs/uploads/startup/section_image/image/12889/tpeox0gp9v06ppacn540q0w3rdhbsrn/Idea-3.JPG?rect=0%2C0%2C1600%2C900&w=600&fit=clip&s=146ea6b79ec178abe1715cb66a95dafb)
 
 ### Characteristics of target market
 
@@ -115,7 +115,7 @@ Recent studies show that there are now 2.9 smart devices per household and 70% o
 
 AR in marketing is now a $1billion industry, and used in everything from fashion to food.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12890/pahp1ecw01zenpmscjrw9v93heljkad/Market-2.png?rect=0%2C-5%2C1241%2C690&w=600&fit=clip&s=8e84ad9a5b1cd81b0fe4ab44be2f8dd5)
+![](/img/seedrs/uploads/startup/section_image/image/12890/pahp1ecw01zenpmscjrw9v93heljkad/Market-2.png?rect=0%2C-5%2C1241%2C690&w=600&fit=clip&s=8e84ad9a5b1cd81b0fe4ab44be2f8dd5)
 
 ### Marketing strategy
 
@@ -125,7 +125,7 @@ Our upcoming marketing plan is as follows:
 
 - Increase our online presence through social media marketing &amp; YouTube Campaigns. <br>- Increase our PR budget &amp; continue our relationships with the likes of The Gadget Show &amp; Metro. <br>- Attend New York Toy Fair where we’ll meet with potential distributors for the USA &amp; Canada. We aim to sign contracts by April 2018. <br>- Continue to feature on QVC &amp; other Shopping channels : TV exposure &amp; Brand awareness. <br>- Target travel retail by showcasing our products within inflight magazines. <br>- We’ve identified over 20 brands that would fit well into our ‘Powered by Mardles’ platform &amp; intend to meet these during our Spring 2018 trade fair season and secure 5 relationships. <br>- Beyond this, we aim to target promotional campaigns for 2018 FIFA World Cup &amp; Tokyo 2020.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12888/3fytyiifbxv7cy4fes2xudswi7h2qe9/Idea.JPG?rect=0%2C0%2C763%2C536&w=600&fit=clip&s=38ef9697bd755eb82ef750debb6311e6)
+![](/img/seedrs/uploads/startup/section_image/image/12888/3fytyiifbxv7cy4fes2xudswi7h2qe9/Idea.JPG?rect=0%2C0%2C763%2C536&w=600&fit=clip&s=38ef9697bd755eb82ef750debb6311e6)
 
 ### Competition strategy
 
@@ -139,5 +139,5 @@ With our free, parent friendly &amp; commercially licenced app and over 60 chara
 
 The toy market can be a crowded place, we are competing with regular toys and books. Innovation is important as retail buyers and consumers are always looking for the next big thing. We believe AliveLab is the next big thing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/12891/g5e2kl5fp9alq7sv3udensrzgn5bto9/market-3.png?rect=0%2C0%2C1137%2C767&w=600&fit=clip&s=6a5e894777abcd28d3569cbf93589d7a)
+![](/img/seedrs/uploads/startup/section_image/image/12891/g5e2kl5fp9alq7sv3udensrzgn5bto9/market-3.png?rect=0%2C0%2C1137%2C767&w=600&fit=clip&s=6a5e894777abcd28d3569cbf93589d7a)
 

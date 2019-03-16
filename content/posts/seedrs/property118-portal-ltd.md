@@ -79,7 +79,7 @@ We plan to appoint a specialist agency to optimise returns, which will include m
 
 ## Market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4720/ds6wo05rncbo1g4r2nejazlzn9bwm89/Standard_NoDescriptors.png?rect=32%2C25%2C483%2C115&w=600&fit=clip&s=1a94742929302468807c8b7c0cdc6edd)
+![](/img/seedrs/uploads/startup/section_image/image/4720/ds6wo05rncbo1g4r2nejazlzn9bwm89/Standard_NoDescriptors.png?rect=32%2C25%2C483%2C115&w=600&fit=clip&s=1a94742929302468807c8b7c0cdc6edd)
 
 ### Target market
 
@@ -99,7 +99,7 @@ Number of residential property transaction completions with value £40,000 or ab
 
 Based on 18% of all households being in the Private Rented Sector (according to data produced by Paragon Mortgages Plc) this suggests that approximately 216,777 sales fall into the target market for the Property118 portal every year.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/4841/qfngrrk4hyncgs3zl7jiift4yt5cwej/CHARACTERISTICS_OF_TARGET_MARKET__1_.jpg?w=600&fit=clip&s=2aeb50ec1ace67d7cd03c727c0c497cf)
+![](/img/seedrs/uploads/startup/section_image/image/4841/qfngrrk4hyncgs3zl7jiift4yt5cwej/CHARACTERISTICS_OF_TARGET_MARKET__1_.jpg?w=600&fit=clip&s=2aeb50ec1ace67d7cd03c727c0c497cf)
 
 ### Marketing strategy
 

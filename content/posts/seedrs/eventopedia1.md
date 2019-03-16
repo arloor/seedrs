@@ -117,7 +117,7 @@ We've seen that event organisers typically use multiple channels and sources lik
 
 The current market leader in venue marketing and event management technology is a company called Cvent that turned over $187m in 2015 was bought for $1.65Bn in 2016 by Vista Equity Partners.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14060/47p5grxmf2f9h6pqmr4coz720yxfyxm/Planner_testimonials.png?rect=0%2C0%2C1173%2C706&w=600&fit=clip&s=b972c53ee05eee40a37b4b66b725615a)
+![](/img/seedrs/uploads/startup/section_image/image/14060/47p5grxmf2f9h6pqmr4coz720yxfyxm/Planner_testimonials.png?rect=0%2C0%2C1173%2C706&w=600&fit=clip&s=b972c53ee05eee40a37b4b66b725615a)
 
 ### Marketing strategy
 
@@ -129,7 +129,7 @@ Our Microsoft Partnership enables us to piggy back off the Office 365 community 
 
 Venues are being approached through various methods, including in and out bound marketing, inter-hotel group referrals, global hotel chain HQs, convention bureau referrals, and industry association/publication relationships.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14058/a09sw6o0yi37kwwtyhphijgwea6sunh/blogs.png?rect=0%2C0%2C1154%2C1179&w=600&fit=clip&s=153a4edaf9c70c644ab70037905be51d)
+![](/img/seedrs/uploads/startup/section_image/image/14058/a09sw6o0yi37kwwtyhphijgwea6sunh/blogs.png?rect=0%2C0%2C1154%2C1179&w=600&fit=clip&s=153a4edaf9c70c644ab70037905be51d)
 
 ### Competition strategy
 
@@ -139,5 +139,5 @@ Eventopedia is connected directly to the user through Office 365. We envisage th
 
 Hotel Customers <br>Hotel groups are starting to recommend Eventopedia to their franchise owners. E.g. Hyatt EMEA Sales and Marketing Team are recommending Eventopedia to all their EMEA properties for meetings and event marketing.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/14059/1mkvizeldyz3m8vs60o0y7mmssoh2s3/Eventopedia_Media.png?rect=0%2C0%2C1112%2C914&w=600&fit=clip&s=83df9e4c698fcd508ddb47e69ac4b8a0)
+![](/img/seedrs/uploads/startup/section_image/image/14059/1mkvizeldyz3m8vs60o0y7mmssoh2s3/Eventopedia_Media.png?rect=0%2C0%2C1112%2C914&w=600&fit=clip&s=83df9e4c698fcd508ddb47e69ac4b8a0)
 

@@ -93,7 +93,7 @@ In our view, there is an underserved market for high-end guests who want the com
 
 We believe these customer segments are looking for brands who can provide the service and peace of mind they desire. The UnderTheDoormat proposition is to unlock this market for high-end homeowners and guests that Airbnb and other P2P platforms can’t by offering the quality and service of a 4 or 5 star hotel in the comfort of a home.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15855/8eldg6z5e3jxmrrk517j8ocfc6k5qli/40832042010_0c74804ff6_k.jpg?rect=0%2C10%2C2048%2C1268&w=600&fit=clip&s=f9c4841bb98bab3af1a5f61bbe800805)
+![](/img/seedrs/uploads/startup/section_image/image/15855/8eldg6z5e3jxmrrk517j8ocfc6k5qli/40832042010_0c74804ff6_k.jpg?rect=0%2C10%2C2048%2C1268&w=600&fit=clip&s=f9c4841bb98bab3af1a5f61bbe800805)
 
 ### Characteristics of target market
 
@@ -107,7 +107,7 @@ As the market grows, the professionally managed premium segment is the most attr
 
 We have agreements in place with each of these platforms to reach these customers with our full-service offer which the platforms cannot deliver on their own.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15857/s324h6k6watkxg485i5o1cx48e1pfk4/Richmond_home_welcome_pack_edited.jpg?rect=0%2C0%2C5760%2C3840&w=600&fit=clip&s=ee891c2da03ed6516ebc8d6884b11a93)
+![](/img/seedrs/uploads/startup/section_image/image/15857/s324h6k6watkxg485i5o1cx48e1pfk4/Richmond_home_welcome_pack_edited.jpg?rect=0%2C0%2C5760%2C3840&w=600&fit=clip&s=ee891c2da03ed6516ebc8d6884b11a93)
 
 ### Marketing strategy
 
@@ -121,7 +121,7 @@ We have a multi-platform strategy for acquiring guests and list across all major
 
 In addition to online channels, we receive bookings through direct bookings and referrals from film location companies, relocation companies &amp; estate agents.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15856/nqmirifllihqxk3c0mdd4ocn700usk2/March_2018_-_Britain_Magazine___2018_London_Guide.jpg?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=eccc998ecf281f127cf7285bd9d056d2)
+![](/img/seedrs/uploads/startup/section_image/image/15856/nqmirifllihqxk3c0mdd4ocn700usk2/March_2018_-_Britain_Magazine___2018_London_Guide.jpg?rect=0%2C0%2C4032%2C3024&w=600&fit=clip&s=eccc998ecf281f127cf7285bd9d056d2)
 
 ### Competition strategy
 
@@ -135,5 +135,5 @@ In our view, there are three segments in the home-stay market:
 
 There is a significant opportunity for growth and with a focus on premium homes, UnderTheDoormat can reach, monetise and own the most lucrative segment of the market that platforms &amp; service providers cannot.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/15858/lybwbu6sknl3xp9dmiopbsr8gr9cvfp/UTD-Team_edited.jpg?rect=58%2C48%2C5539%2C3844&w=600&fit=clip&s=a64ac9c90722df1a6c0d208a54e4aa1d)
+![](/img/seedrs/uploads/startup/section_image/image/15858/lybwbu6sknl3xp9dmiopbsr8gr9cvfp/UTD-Team_edited.jpg?rect=58%2C48%2C5539%2C3844&w=600&fit=clip&s=a64ac9c90722df1a6c0d208a54e4aa1d)
 

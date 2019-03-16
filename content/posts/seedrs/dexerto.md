@@ -87,7 +87,7 @@ This highly targeted and engaged demographic is an advertising goldmine. In our 
 
 Given that practice and most competitions primarily take place online, the accessibility of eSports gives it the long-term potential of attracting one of the highest levels of participation and viewership in sport.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10050/1pmv20ulavanxiayr152p0pm2nzgk1u/Comparisons-to-Sport.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=37c54eda8fd696476466cf0b474b98e7)
+![](/img/seedrs/uploads/startup/section_image/image/10050/1pmv20ulavanxiayr152p0pm2nzgk1u/Comparisons-to-Sport.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=37c54eda8fd696476466cf0b474b98e7)
 
 ### Characteristics of target market
 
@@ -97,11 +97,11 @@ The market is currently valued at $747.5M according to Super Data (2015 report).
 
 By 2017 eSports will be a $2B sector of the $100B+ video-games industry, with betting and fantasy sites expected to contribute as much as $2B by 2020. In 2014 the estimated number of gamers worldwide was 1.775B, demonstrating the huge potential growth for new eSports fans.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10047/bonmulsnrxm7v0gjuzbif1etyjectsd/Mike-w-Scump.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=3e835abdfd52dbf2bf335a1209f47f08)
+![](/img/seedrs/uploads/startup/section_image/image/10047/bonmulsnrxm7v0gjuzbif1etyjectsd/Mike-w-Scump.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=3e835abdfd52dbf2bf335a1209f47f08)
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10063/gan5yd6exurvnc3waza55citaiddzl2/Social-Following.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=40889f46eaec4e75691bddc983bbfd3b)
+![](/img/seedrs/uploads/startup/section_image/image/10063/gan5yd6exurvnc3waza55citaiddzl2/Social-Following.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=40889f46eaec4e75691bddc983bbfd3b)
 
 We have found that eSports enthusiasts enjoy interacting with content producers and to converse with other fans. Twitter, Facebook, TwitchTV &amp; YouTube are four prominent mediums through which people can join debates on the latest news, voice opinions and speak directly to players and eSports personalities. Dexerto aims to be constantly involved with these discussions in order to exchange views with our audience on news, opinion pieces and competitions. We value their opinions not just for feedback but because we’re also passionate eSports fans ourselves who want to contribute to the conversation.
 
@@ -121,5 +121,5 @@ As we expand into more eSports titles, our content delivery, in several language
 
 In just a short space of time, we believe that we have proven to be able to thrive in a market with other specialist and mainstream media producing eSports content, despite currently operating with only a small team of content producers. By emulating our model across more languages and games, with more staff, we believe that our audience can grow at an even faster rate.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/10049/oegfvsaf98enomrf12mlejnb8kmlxqb/Invest-Now.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=c4ff748f423106e2c9934d904f4211a3)
+![](/img/seedrs/uploads/startup/section_image/image/10049/oegfvsaf98enomrf12mlejnb8kmlxqb/Invest-Now.jpg?rect=0%2C0%2C600%2C300&w=600&fit=clip&s=c4ff748f423106e2c9934d904f4211a3)
 

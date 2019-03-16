@@ -89,7 +89,7 @@ Please note, Aseptium has an outstanding unsecured loan of £12,000. The funds r
 
 ### Target market
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9201/31bgamwp27bul2zkt9pjmb679f8qcr8/Aseptium-at-Medica-Dusseldorf-2015-ready-for-the-fair.jpg?w=600&fit=clip&s=0a28ae5e79cff2174955855eff96bee3)
+![](/img/seedrs/uploads/startup/section_image/image/9201/31bgamwp27bul2zkt9pjmb679f8qcr8/Aseptium-at-Medica-Dusseldorf-2015-ready-for-the-fair.jpg?w=600&fit=clip&s=0a28ae5e79cff2174955855eff96bee3)
 
 Our products and services are developed specifically for hospitals and dental clinics that use complex surgical instruments. From our experience 10%-25% of all instruments used in healthcare today are considered complex and this number is continually growing.
 
@@ -99,7 +99,7 @@ We will focus on specialist hospitals and dental clinics that routinely use high
 
 In our experience each hospital and dental clinic using complex instruments will require at least one complex instrument washer (hospitals typically require two or more). We will first target countries with wealthier healthcare services like Scandinavian and western European countries. In China we will target those hospitals that are on the forefront of medical technologies.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9202/mmbd502b6ku3pmz83gz6ez8bpjxjbsw/Aseptium-at-Medica-Dusseldorf-2015-inside-uSonic.jpg?w=600&fit=clip&s=c206d942050479cb9c0c25ff2a331b31)
+![](/img/seedrs/uploads/startup/section_image/image/9202/mmbd502b6ku3pmz83gz6ez8bpjxjbsw/Aseptium-at-Medica-Dusseldorf-2015-inside-uSonic.jpg?w=600&fit=clip&s=c206d942050479cb9c0c25ff2a331b31)
 
 ### Characteristics of target market
 
@@ -111,7 +111,7 @@ We estimate the annual cost of consumables to be between 20% and 50%+ of the pur
 
 Prices of equipment will vary due to differences in legislation in different regions, local standards and type of operations particular hospitals perform.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9203/rk282qzsurn0wqv6bxfmz1mnv0q9p8r/uSonic_24_2.png?w=600&fit=clip&s=50110b1f6ddab22849bd14ea0ff233fe)
+![](/img/seedrs/uploads/startup/section_image/image/9203/rk282qzsurn0wqv6bxfmz1mnv0q9p8r/uSonic_24_2.png?w=600&fit=clip&s=50110b1f6ddab22849bd14ea0ff233fe)
 
 ### Marketing strategy
 
@@ -129,7 +129,7 @@ In 2017 we are planning to launch Aseptium China to further explore the market a
 
 In addition, our founder Pawel de Sternberg Stojalowski is a regular contributor to journals in the decontamination market and a frequent speaker at industry conferences and events building the brand globally.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9204/k4j5y3l2sqvqsh1lad15zuks9rf6j81/WP_20151119_17_02_05_Pro.jpg?w=600&fit=clip&s=e849316d5fbd79d46bbd961b25a1b793)
+![](/img/seedrs/uploads/startup/section_image/image/9204/k4j5y3l2sqvqsh1lad15zuks9rf6j81/WP_20151119_17_02_05_Pro.jpg?w=600&fit=clip&s=e849316d5fbd79d46bbd961b25a1b793)
 
 ### Competition strategy
 

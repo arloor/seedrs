@@ -103,7 +103,7 @@ We are focusing on the three most popular fitness and sporting goals, which are:
 
 Over time, as we continue to grow our marketplace, and with that the supply of coaches &amp; coaching expertise, we will move into other cities, translate our service into different languages, and start to offer more goals, such as triathlon, cycling, trail running, dietary, etc.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9859/bly2g0fg39xu0k22juhogn10na2dhgj/Target_Market.png?rect=12%2C0%2C1267%2C720&w=600&fit=clip&s=3c342beb42ee9d0bc8d9ad49f97a008f)
+![](/img/seedrs/uploads/startup/section_image/image/9859/bly2g0fg39xu0k22juhogn10na2dhgj/Target_Market.png?rect=12%2C0%2C1267%2C720&w=600&fit=clip&s=3c342beb42ee9d0bc8d9ad49f97a008f)
 
 ### Characteristics of target market
 
@@ -113,7 +113,7 @@ In the same year, consumer spending on fitness/sports was over $65B in the USA a
 
 Supply: <br>We estimate that the USA has 0.3M registered personal trainers and the total number worldwide to be around the 1.2M. The sector is under-served when it comes to technology and business models, outdated in a time where travel has become a pain and consumers expect on-demand services. We hope to see a scenario in which people with certified coaching and motivational skills can use Fitmo to take on online coaching (on the side) similar to the way in which homeowners use Airbnb.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9860/pfzh1gpa1f1a8jseyk45xq4h7nkben8/Characteristics.png?rect=42%2C33%2C1190%2C661&w=600&fit=clip&s=6def33b13faa80257a309e2c50321ed3)
+![](/img/seedrs/uploads/startup/section_image/image/9860/pfzh1gpa1f1a8jseyk45xq4h7nkben8/Characteristics.png?rect=42%2C33%2C1190%2C661&w=600&fit=clip&s=6def33b13faa80257a309e2c50321ed3)
 
 ### Marketing strategy
 
@@ -127,7 +127,7 @@ We have validated 3 of the 4 segments by signing our first partner for each chan
 
 3. REFERRAL MARKETING <br>“Give a week, get a week” of free coaching. Once we get some more traction, referral marketing will be an important instrument in the continued growth of the Fitmo community. All successful marketplaces use the digital version of ‘word of mouth’, and so will we.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9861/fx0ncm9y1x921i6axwdt1l2sxc5vvo3/Marketing_Strategy.png?rect=0%2C0%2C1280%2C720&w=600&fit=clip&s=b223a6e2804cd0792fb0c5166a157f6a)
+![](/img/seedrs/uploads/startup/section_image/image/9861/fx0ncm9y1x921i6axwdt1l2sxc5vvo3/Marketing_Strategy.png?rect=0%2C0%2C1280%2C720&w=600&fit=clip&s=b223a6e2804cd0792fb0c5166a157f6a)
 
 ### Competition strategy
 
@@ -153,5 +153,5 @@ Going forward, there are 3 layers to Fitmo’s defensibilities:
 
 3) Data (mining) - more usage means more data, more data leads to better insights which can be used to enhance Fitmo’s products and services.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/9858/oiyn3u72cul5gnrz81o5lz6hqw8siyn/Competition_Strategy.png?rect=0%2C0%2C1280%2C820&w=600&fit=clip&s=e2672bab4cdbd8376ba2f564bc081838)
+![](/img/seedrs/uploads/startup/section_image/image/9858/oiyn3u72cul5gnrz81o5lz6hqw8siyn/Competition_Strategy.png?rect=0%2C0%2C1280%2C820&w=600&fit=clip&s=e2672bab4cdbd8376ba2f564bc081838)
 

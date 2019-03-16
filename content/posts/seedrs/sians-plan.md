@@ -87,7 +87,7 @@ Sian's Plan is also of interest to young professional singles and couples. We in
 
 ‘I think it's a great idea! Myself and my girlfriend use it constantly, we love the shopping cart integration’ Brian, young professional in Dublin.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/655/np6hw7ibr1687ufw1nidz9f6koxri2e/meal-plan.png?w=600&fit=clip&s=648a041e8a7ed759c3c966d29721672f)
+![](/img/seedrs/uploads/startup/section_image/image/655/np6hw7ibr1687ufw1nidz9f6koxri2e/meal-plan.png?w=600&fit=clip&s=648a041e8a7ed759c3c966d29721672f)
 
 ### Characteristics of target market
 
@@ -99,7 +99,7 @@ The company also aims to capture the US and Australian markets where current ang
 
 Launching to the UK market in January 2014, Sian’s Plan attracted over 5,000 members during beta testing with over 100 paying during different iterations.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/656/eoqb5yays1l2h0hzd1fxb8czo2eslcs/grocery-list-originalNEW.png?w=600&fit=clip&s=426eba7b5df5404e55441baa2bbfec3c)
+![](/img/seedrs/uploads/startup/section_image/image/656/eoqb5yays1l2h0hzd1fxb8czo2eslcs/grocery-list-originalNEW.png?w=600&fit=clip&s=426eba7b5df5404e55441baa2bbfec3c)
 
 ### Marketing strategy
 

@@ -61,7 +61,7 @@ Our technology has been driven by our CTO who has managed an external resource t
 
 Consumers <br>We believe there is an opportunity to engage any e-commerce consumer with an interest in sport or entertainment, which is a broad category.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6422/54q1kgrah48sedhq9z6khyx1a8yr71q/Events.png?rect=3%2C0%2C996%2C400&w=600&fit=clip&s=47108d466d48121af0f6cd144852ee8e)
+![](/img/seedrs/uploads/startup/section_image/image/6422/54q1kgrah48sedhq9z6khyx1a8yr71q/Events.png?rect=3%2C0%2C996%2C400&w=600&fit=clip&s=47108d466d48121af0f6cd144852ee8e)
 
 Within that, there are specific audiences that we know we resonate strongly with, including a female audience who are very much underserved by “risk” brands, which are mainly dominated by betting companies. Young males with a strong correlation with the football fan and gaming audience have been early adopters. Like many discount sites however, we expect to win consumers across multiple demographics.
 
@@ -73,13 +73,13 @@ Finally we are currently restricting ourselves to the UK market, but we are cons
 
 The e-commerce market is well established and is growing at staggering rates in the UK and across Europe. In the UK the market is estimated to grow by over 16% in the 2015 with online sales of over £52bn.
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6423/il7af26063xhdzho37y6iduo5do19ch/UK_Retail_Market.png?rect=32%2C69%2C1702%2C668&w=600&fit=clip&s=8c0485f23310c13700ab8f02104ce9f0)
+![](/img/seedrs/uploads/startup/section_image/image/6423/il7af26063xhdzho37y6iduo5do19ch/UK_Retail_Market.png?rect=32%2C69%2C1702%2C668&w=600&fit=clip&s=8c0485f23310c13700ab8f02104ce9f0)
 
 We believe that at present no portal exists that offers the customer proposition that we’re outlining.
 
 ### Marketing strategy
 
-![](https://seedrs.imgix.net/uploads/startup/section_image/image/6424/6099eakxm2p10ozky0kojcjkey7rvgt/Jessica_Testimonial.png?rect=0%2C0%2C1116%2C596&w=600&fit=clip&s=7e7e12172a3db603b82908c5e4e8e79b)
+![](/img/seedrs/uploads/startup/section_image/image/6424/6099eakxm2p10ozky0kojcjkey7rvgt/Jessica_Testimonial.png?rect=0%2C0%2C1116%2C596&w=600&fit=clip&s=7e7e12172a3db603b82908c5e4e8e79b)
 
 We believe our B2B campaign will bring us the ability to scale in terms of number of transactions, without having to spend top marketing dollar. We hope this will lead to an increase in immediate cash flow without the requirement to increase burn rate or effect customer acquisition costs. <br>We’re onboarding ecommerce partners through trials in Q1 2016 with a focus on sports ecommerce sites in the UK. We are aiming to target ecommerce sites that use platforms such as Magento, that would then enable us to approach other ecommerce sites using this technology. <br>We plan to scale the number of ecommerce sites by Euro 2016, which is a big sporting event starting in June 2016 with a lot of brands seeking to gain exposure and sales. <br>We shall utilise our B2C site as a demo site to test customer behaviour and also marketing channels that can be used by ecommerce partners that we onboard.
 
